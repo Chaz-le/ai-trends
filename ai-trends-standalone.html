@@ -1,0 +1,1556 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GitHub AI 项目增长榜</title>
+    <style>
+:root {
+  color-scheme: light;
+  --page: #eef2f6;
+  --ink: #101828;
+  --muted: #667085;
+  --soft: #f8fafc;
+  --card: #ffffff;
+  --line: #d9e1ea;
+  --line-strong: #c7d2df;
+  --navy: #102033;
+  --navy-2: #152b45;
+  --teal: #0f766e;
+  --cyan: #22d3ee;
+  --blue: #2563eb;
+  --amber: #b7791f;
+  --green-soft: #e6f6f1;
+  --blue-soft: #eaf1ff;
+  --shadow: 0 18px 45px rgba(16, 32, 51, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    linear-gradient(180deg, #dfe8ef 0, #eef2f6 270px, #f7f9fb 100%);
+  color: var(--ink);
+  font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif;
+}
+
+a { color: inherit; text-decoration: none; }
+
+.shell {
+  width: min(1320px, calc(100% - 36px));
+  margin: 0 auto;
+  padding: 24px 0 56px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 18px;
+  min-height: 214px;
+  padding: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 14px;
+  background:
+    radial-gradient(circle at 88% 12%, rgba(34, 211, 238, 0.32), transparent 26%),
+    linear-gradient(135deg, var(--navy), var(--navy-2));
+  color: #fff;
+  box-shadow: var(--shadow);
+}
+
+.hero-kicker {
+  margin: 0 0 10px;
+  color: #93e7de;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 0;
+  max-width: 760px;
+  font-size: clamp(36px, 5vw, 68px);
+  line-height: 0.95;
+  letter-spacing: 0;
+}
+
+.hero-copy {
+  margin: 16px 0 0;
+  max-width: 760px;
+  color: #c9d8e5;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.hero-meta,
+.pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hero-meta { margin-top: 20px; }
+
+.hero-meta span,
+.pill,
+.view-tabs label {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  border-radius: 999px;
+}
+
+.hero-meta span {
+  padding: 0 12px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #dce8f1;
+  font-size: 12px;
+}
+
+.hero-board {
+  display: grid;
+  gap: 10px;
+  align-content: start;
+}
+
+.board-card {
+  padding: 14px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.board-card span {
+  display: block;
+  color: #aebfd0;
+  font-size: 12px;
+}
+
+.board-card strong {
+  display: block;
+  margin-top: 8px;
+  font-size: 28px;
+  line-height: 1;
+}
+
+.board-card b {
+  display: block;
+  margin-top: 8px;
+  color: #93e7de;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.view-switcher { margin-top: 18px; }
+
+.view-radio {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.view-tabs {
+  display: inline-grid;
+  grid-template-columns: repeat(2, minmax(150px, 1fr));
+  gap: 6px;
+  padding: 6px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.74);
+  box-shadow: 0 8px 24px rgba(16, 32, 51, 0.08);
+}
+
+.view-tabs label {
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 18px;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+#view-weekly:checked ~ .view-tabs label[for="view-weekly"],
+#view-monthly:checked ~ .view-tabs label[for="view-monthly"] {
+  background: var(--navy);
+  color: #fff;
+  box-shadow: 0 8px 20px rgba(16, 32, 51, 0.18);
+}
+
+.period-panel {
+  display: none;
+  margin-top: 18px;
+}
+
+#view-weekly:checked ~ .period-panels #weekly,
+#view-monthly:checked ~ .period-panels #monthly { display: block; }
+
+.panel-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 18px;
+  align-items: end;
+  margin-bottom: 14px;
+}
+
+.panel-kicker {
+  display: inline-flex;
+  margin-bottom: 8px;
+  color: var(--teal);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.panel-head h2 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 0;
+}
+
+.panel-head p {
+  margin: 7px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.leader-card {
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--card);
+  box-shadow: 0 10px 26px rgba(16, 32, 51, 0.08);
+}
+
+.leader-card span,
+.leader-card b {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.leader-card strong {
+  display: block;
+  margin: 6px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--ink);
+  font-size: 15px;
+  white-space: nowrap;
+}
+
+.leader-card b {
+  color: var(--teal);
+  font-size: 20px;
+}
+
+.project-list {
+  display: grid;
+  gap: 12px;
+}
+
+.project-row {
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr) 280px;
+  gap: 16px;
+  align-items: stretch;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 8px 22px rgba(16, 32, 51, 0.06);
+}
+
+.rank-block {
+  position: relative;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  min-height: 154px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #f2f6f8;
+}
+
+.rank-block i {
+  position: absolute;
+  inset: auto 0 0;
+  display: block;
+  background: linear-gradient(180deg, rgba(15, 118, 110, 0.18), rgba(15, 118, 110, 0.5));
+}
+
+.rank-block span {
+  position: relative;
+  z-index: 1;
+  color: var(--navy);
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.rank-gold { background: #fff7e8; }
+.rank-gold i { background: linear-gradient(180deg, rgba(183, 121, 31, 0.2), rgba(183, 121, 31, 0.58)); }
+.rank-silver { background: #f4f7fb; }
+.rank-bronze { background: #fff1e8; }
+
+.project-copy {
+  min-width: 0;
+  padding: 2px 0;
+}
+
+.repo-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.repo-line a {
+  color: var(--ink);
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 1.25;
+}
+
+.repo-line a:hover { color: var(--teal); }
+
+.repo-line > span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 25px;
+  padding: 0 9px;
+  border-radius: 999px;
+  background: var(--blue-soft);
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.repo-desc {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.summary-lines {
+  display: grid;
+  gap: 7px;
+  max-width: 920px;
+}
+
+.summary-line {
+  display: grid;
+  grid-template-columns: 82px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  margin: 0;
+  padding: 9px 11px;
+  border-radius: 10px;
+  line-height: 1.65;
+}
+
+.summary-line span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 24px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.summary-feature {
+  border: 1px solid #cce9e3;
+  background: #f0faf7;
+  color: #145c55;
+}
+
+.summary-feature span {
+  background: #d9f2ec;
+  color: #0f766e;
+}
+
+.summary-scenario {
+  border: 1px solid #d8e3f8;
+  background: #f2f6ff;
+  color: #243f68;
+}
+
+.summary-scenario span {
+  background: #dfe9ff;
+  color: #2563eb;
+}
+
+.summary-line b {
+  color: inherit;
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.pill-row {
+  margin-top: 13px;
+}
+
+.pill {
+  min-height: 26px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.pill-strong {
+  border-color: #cce9e3;
+  background: var(--green-soft);
+  color: var(--teal);
+}
+
+.lang {
+  border-color: #d5def2;
+  background: var(--blue-soft);
+  color: var(--blue);
+}
+
+.growth-panel {
+  display: grid;
+  gap: 10px;
+  min-width: 0;
+}
+
+.growth-top,
+.trend-box {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fbfdff;
+}
+
+.growth-top { padding: 14px; }
+
+.growth-top span,
+.growth-meta span,
+.trend-head span,
+.trend-box p {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.growth-top strong {
+  display: block;
+  margin-top: 7px;
+  color: var(--teal);
+  font-size: 30px;
+  line-height: 1;
+}
+
+.growth-meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.growth-meta span {
+  min-height: 32px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  text-align: center;
+}
+
+.trend-box { padding: 12px; }
+
+.trend-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.trend-head b {
+  color: var(--navy);
+  font-size: 13px;
+}
+
+.trend-meter {
+  height: 9px;
+  overflow: hidden;
+  margin: 10px 0 8px;
+  border-radius: 999px;
+  background: #e8eef5;
+}
+
+.trend-meter i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--teal), var(--cyan));
+}
+
+.sparkline {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(10px, 1fr));
+  align-items: end;
+  gap: 5px;
+  height: 62px;
+  margin: 10px 0 8px;
+}
+
+.spark-bar {
+  display: block;
+  min-height: 12px;
+  border-radius: 5px 5px 2px 2px;
+  background: linear-gradient(180deg, var(--cyan), var(--blue));
+}
+
+.spark-bar em {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+.trend-box p {
+  margin: 0;
+  line-height: 1.45;
+}
+
+@media (max-width: 1040px) {
+  .hero,
+  .panel-head,
+  .project-row {
+    grid-template-columns: 1fr;
+  }
+
+  .rank-block { min-height: 46px; }
+
+  .rank-block i {
+    inset: 0 auto 0 0;
+    width: 42%;
+    height: auto !important;
+  }
+
+  .growth-panel { grid-template-columns: minmax(0, 1fr); }
+}
+
+@media (max-width: 680px) {
+  .shell { width: min(100% - 20px, 1320px); padding-top: 12px; }
+  .hero { padding: 18px; border-radius: 12px; }
+  .hero h1 { font-size: 38px; }
+  .view-tabs { width: 100%; grid-template-columns: 1fr 1fr; }
+  .growth-meta { grid-template-columns: 1fr; }
+  .project-row { padding: 12px; }
+  .summary-line { grid-template-columns: 1fr; }
+}
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="hero-kicker">Public GitHub AI Watch</p>
+          <h1>AI 项目增长榜</h1>
+          <p class="hero-copy">追踪 GitHub 上近一周与近一个月增长最快的 AI 使用相关项目，保留增长数据、项目简介、功能说明和适用场景，方便每天快速筛选值得关注的新工具。</p>
+          <div class="hero-meta">
+            <span>更新于 2026-06-11 17:10</span>
+            <span>GitHub Trending + GitHub repo pages</span>
+            <span>每日自动更新的静态榜单</span>
+          </div>
+        </div>
+        <aside class="hero-board" aria-label="榜单概览">
+          <div class="board-card"><span>近一周项目</span><strong>12</strong><b>chopratejas/headroom</b></div>
+          <div class="board-card"><span>近一个月项目</span><strong>14</strong><b>mattpocock/skills</b></div>
+          <div class="board-card"><span>本期最高增长</span><strong>+56,090</strong><b>按新增 Stars 排序</b></div>
+        </aside>
+      </section>
+
+      <section class="view-switcher">
+        <input class="view-radio" id="view-weekly" type="radio" name="period" checked />
+        <input class="view-radio" id="view-monthly" type="radio" name="period" />
+        <nav class="view-tabs" aria-label="时间范围">
+          <label for="view-weekly">近一周</label>
+          <label for="view-monthly">近一个月</label>
+        </nav>
+        <div class="period-panels">
+
+        <section class="period-panel" id="weekly">
+          <div class="panel-head">
+            <div>
+              <span class="panel-kicker">stars / week</span>
+              <h2>近一周增长最快</h2>
+              <p>优先观察短期爆发的新工具、Agent 能力、LLM 工作流和开发者效率项目。</p>
+            </div>
+            <div class="leader-card">
+              <span>本期第一</span>
+              <strong>chopratejas/headroom</strong>
+              <b>+13,062</b>
+            </div>
+          </div>
+          <div class="project-list">
+
+          <article class="project-row">
+            <div class="rank-block rank-gold">
+              <span>#1</span>
+              <i style="height:100%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/chopratejas/headroom" target="_blank" rel="noreferrer">chopratejas/headroom</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Instantly compress tool outputs, logs, RAG chunks, and file contents before sending them to your LLM.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>在工具输出、日志、RAG 片段和文件内容进入 LLM 前做压缩，可作为库、CLI 或 MCP 服务器接入</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 Claude Code、Codex、Cursor 等 Agent 工作流降低 token 成本、减少长上下文噪音，并保留关键信息。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">RAG</span><span class="pill">llm</span><span class="pill">context</span><span class="pill">mcp</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+13,062</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,866 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,866</b></div>
+                <div class="trend-meter"><i style="width:93%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block rank-silver">
+              <span>#2</span>
+              <i style="height:90%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/mvanhorn/last30days-skill" target="_blank" rel="noreferrer">mvanhorn/last30days-skill</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">AI agent skill for researching what happened in the last 30 days across web and social sources.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>给 AI Agent 增加“近 30 天调研”能力，面向 Reddit、X、YouTube、Hacker News、Polymarket 等来源收集近期信号并整理结论</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合做市场动态、竞品变化、热点舆情、产品调研和会议前背景梳理。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Learning</span><span class="pill">ai-agent</span><span class="pill">research</span><span class="pill">skills</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+11,732</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,676 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,676</b></div>
+                <div class="trend-meter"><i style="width:84%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block rank-bronze">
+              <span>#3</span>
+              <i style="height:88%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noreferrer">NousResearch/hermes-agent</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">A self-improving AI agent designed to evolve over time through interaction, memory, and tool use.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>自我改进型 AI Agent，强调通过交互、记忆和工具调用不断积累能力</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合搭建长期运行的个人/团队 AI 助手，让它在多轮任务、资料记忆和工具执行中逐步适应固定工作流。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill">ai-agent</span><span class="pill">memory</span><span class="pill">tool-use</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+11,519</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,646 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,646</b></div>
+                <div class="trend-meter"><i style="width:82%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#4</span>
+              <i style="height:62%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Leonxlnx/taste-skill" target="_blank" rel="noreferrer">Leonxlnx/taste-skill</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">A skill that nudges AI coding agents toward better taste and less generic output.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Learning</span><span class="pill">ai</span><span class="pill">skills</span><span class="pill">design</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+8,077</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,154 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,154</b></div>
+                <div class="trend-meter"><i style="width:58%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#5</span>
+              <i style="height:60%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/affaan-m/ECC" target="_blank" rel="noreferrer">affaan-m/ECC</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Agent harness optimization system with skills, memory, security, and research-first workflows.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>给 Claude Code、Codex、Cursor 等编码 Agent 增加技能、记忆、安全边界和先调研后执行的工作流</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合把 AI 编程从一次性问答变成更稳定的工程流程，例如需求澄清、代码检索、任务拆解和安全检查。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Learning</span><span class="pill">ai-agent</span><span class="pill">claude-code</span><span class="pill">codex</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+7,865</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,124 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,124</b></div>
+                <div class="trend-meter"><i style="width:56%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#6</span>
+              <i style="height:60%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noreferrer">microsoft/markitdown</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Python tool for converting files and office documents to Markdown.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>把 PDF、Office 文档、图片、音频、HTML 等多种格式转换成 Markdown，方便 LLM 和文本分析系统读取</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 RAG 知识库入库、企业文档清洗、资料归档和把复杂文件交给 AI 摘要/问答。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">RAG</span><span class="pill">markdown</span><span class="pill">llm</span><span class="pill">documents</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+7,820</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,117 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,117</b></div>
+                <div class="trend-meter"><i style="width:56%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#7</span>
+              <i style="height:38%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Panniantong/Agent-Reach" target="_blank" rel="noreferrer">Panniantong/Agent-Reach</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Connect AI agents with web and social media search sources including X, Reddit, YouTube, GitHub, Arxiv, Google, Bing, Baidu, Bilibili, and Xiaohongshu.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>为 AI Agent 提供多平台搜索/读取入口，覆盖 X、Reddit、YouTube、GitHub、Arxiv、Google/Bing/Baidu、B站、小红书等来源</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合让 Agent 做社媒情报、跨平台资料检索、趋势监控和研究资料采集。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill">ai-agent</span><span class="pill">search</span><span class="pill">social-media</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+5,021</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +717 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +717</b></div>
+                <div class="trend-meter"><i style="width:36%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#8</span>
+              <i style="height:36%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/lfnovo/open-notebook" target="_blank" rel="noreferrer">lfnovo/open-notebook</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Open source implementation inspired by NotebookLM for organizing sources and asking questions over them.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>开源版 NotebookLM 思路的资料笔记与问答工具，把来源文档整理后用于摘要、检索和对话</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合论文/课程资料、项目文档、会议材料和个人知识库的集中阅读与问答。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">RAG</span><span class="pill pill-strong">LLM</span><span class="pill">notebooklm</span><span class="pill">rag</span><span class="pill">llm</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+4,648</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +664 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +664</b></div>
+                <div class="trend-meter"><i style="width:33%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#9</span>
+              <i style="height:27%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/roboflow/supervision" target="_blank" rel="noreferrer">roboflow/supervision</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Reusable computer vision tools for annotating, filtering, tracking, and evaluating model predictions.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>提供计算机视觉项目常用工具，包括检测框标注、过滤、跟踪、数据可视化和模型评估</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 YOLO/Roboflow 等视觉模型的实验分析、视频目标跟踪、数据集检查和 demo 快速搭建。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">ML Ops</span><span class="pill pill-strong">Multimodal</span><span class="pill">computer-vision</span><span class="pill">object-detection</span><span class="pill">machine-learning</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+3,532</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +505 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +505</b></div>
+                <div class="trend-meter"><i style="width:25%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#10</span>
+              <i style="height:25%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noreferrer">pbakaus/impeccable</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">A design language and harness for prompting AI agents to produce higher-quality visual output.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>把设计语言、约束和示例组织成 AI 可执行的视觉输出规范，帮助模型生成更统一、更像产品级的界面</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合用 AI 做网页/应用原型、品牌页面和设计稿迭代时控制视觉质量。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">GenAI</span><span class="pill">ai</span><span class="pill">design</span><span class="pill">prompting</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+3,212</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +459 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +459</b></div>
+                <div class="trend-meter"><i style="width:23%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#11</span>
+              <i style="height:21%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/CopilotKit/CopilotKit" target="_blank" rel="noreferrer">CopilotKit/CopilotKit</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">React UI and infrastructure for AI copilots, AI chatbots, and in-app AI agents.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>提供 React 组件和后端基础设施，把 AI Copilot、聊天机器人和应用内 Agent 嵌入现有产品</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 SaaS、管理后台和业务系统增加上下文感知助手、自动填表、操作建议和应用内对话。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">Code</span><span class="pill">copilot</span><span class="pill">react</span><span class="pill">ai-agent</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+2,686</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +384 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +384</b></div>
+                <div class="trend-meter"><i style="width:19%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#12</span>
+              <i style="height:16%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" target="_blank" rel="noreferrer">Open-LLM-VTuber/Open-LLM-VTuber</a>
+                <span>stars / week</span>
+              </div>
+              <p class="repo-desc">Talk to any LLM with voice interaction, voice interruption, Live2D character display, and long-term memory.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>把 LLM 做成可语音对话的虚拟角色，支持语音打断、Live2D 形象和长期记忆</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合虚拟主播、陪伴式聊天、语音助手、直播互动和角色扮演型 AI 应用。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">Multimodal</span><span class="pill">llm</span><span class="pill">vtuber</span><span class="pill">voice</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+2,110</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +301 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +301</b></div>
+                <div class="trend-meter"><i style="width:15%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+          </div>
+        </section>
+
+        <section class="period-panel" id="monthly">
+          <div class="panel-head">
+            <div>
+              <span class="panel-kicker">stars / month</span>
+              <h2>近一个月增长最快</h2>
+              <p>更适合判断项目是否有持续热度，并结合每日增长趋势观察增长是否稳定。</p>
+            </div>
+            <div class="leader-card">
+              <span>本期第一</span>
+              <strong>mattpocock/skills</strong>
+              <b>+56,090</b>
+            </div>
+          </div>
+          <div class="project-list">
+
+          <article class="project-row">
+            <div class="rank-block rank-gold">
+              <span>#1</span>
+              <i style="height:100%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/mattpocock/skills" target="_blank" rel="noreferrer">mattpocock/skills</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Skills for improving AI coding agents on real software engineering workflows.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>一组面向真实软件工程流程的 AI Agent skills，覆盖需求澄清、测试驱动开发、代码审查、调试和架构改进</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合把 Claude Code/Codex 从“写一段代码”提升为更可靠的工程协作助手。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Shell</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Learning</span><span class="pill">ai</span><span class="pill">coding-agents</span><span class="pill">skills</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+56,090</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,870 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,870</b></div>
+                <div class="trend-meter"><i style="width:94%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block rank-silver">
+              <span>#2</span>
+              <i style="height:81%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noreferrer">colbymchenry/codegraph</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Build a local code knowledge graph so AI coding agents can understand large repositories faster.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">RAG</span><span class="pill">codegraph</span><span class="pill">ai-agent</span><span class="pill">codebase</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+45,529</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,518 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,518</b></div>
+                <div class="trend-meter"><i style="width:76%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block rank-bronze">
+              <span>#3</span>
+              <i style="height:76%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank" rel="noreferrer">Egonex-AI/Understand-Anything</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Turn any codebase, knowledge base, or document into an interactive, searchable knowledge graph.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>把代码库、知识库或文档转换成可搜索、可探索、可问答的交互式知识图谱</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合快速理解陌生项目、梳理文档体系、做知识库导航和给团队交接复杂资料。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">RAG</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Agent</span><span class="pill">knowledge-graph</span><span class="pill">ai</span><span class="pill">codebase</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+42,791</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,426 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,426</b></div>
+                <div class="trend-meter"><i style="width:71%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#4</span>
+              <i style="height:55%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/tinyhumansai/openhuman" target="_blank" rel="noreferrer">tinyhumansai/openhuman</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Open source personal AI assistant focused on memory, privacy, and everyday workflows.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>开源个人 AI 助理，重点放在个人记忆、隐私和日常工作流衔接</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合构建自己的长期 AI 助手，管理偏好、资料、任务记录和跨应用的个人生产力流程。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill">personal-ai</span><span class="pill">assistant</span><span class="pill">memory</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+30,921</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +1,031 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +1,031</b></div>
+                <div class="trend-meter"><i style="width:52%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#5</span>
+              <i style="height:50%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noreferrer">microsoft/markitdown</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Python tool for converting files and office documents to Markdown.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>把 PDF、Office 文档、图片、音频、HTML 等多种格式转换成 Markdown，方便 LLM 和文本分析系统读取</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 RAG 知识库入库、企业文档清洗、资料归档和把复杂文件交给 AI 摘要/问答。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">RAG</span><span class="pill">markdown</span><span class="pill">llm</span><span class="pill">documents</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+28,171</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +939 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +939</b></div>
+                <div class="trend-meter"><i style="width:47%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#6</span>
+              <i style="height:50%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank" rel="noreferrer">harry0703/MoneyPrinterTurbo</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Use AI large models to generate high-definition short videos with one click.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>基于大模型自动生成高清短视频，覆盖脚本、配音、字幕和视频素材组合等流程</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合短视频矩阵、营销素材、知识号内容生产和批量生成社媒视频草稿。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">GenAI</span><span class="pill pill-strong">Multimodal</span><span class="pill">ai-video</span><span class="pill">short-video</span><span class="pill">content-generation</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+28,070</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +936 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +936</b></div>
+                <div class="trend-meter"><i style="width:47%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#7</span>
+              <i style="height:44%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Imbad0202/academic-research-skills" target="_blank" rel="noreferrer">Imbad0202/academic-research-skills</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Claude Code skills for academic research, literature review, paper writing, review, and revision.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>面向 Claude Code 的学术研究 skills，覆盖文献调研、论文写作、审稿反馈和修订流程</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合研究生、科研人员和写作者做文献综述、论文结构整理、投稿前自查和审稿意见处理。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">Learning</span><span class="pill pill-strong">Agent</span><span class="pill">academic</span><span class="pill">research</span><span class="pill">claude-code</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+24,538</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +818 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +818</b></div>
+                <div class="trend-meter"><i style="width:41%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#8</span>
+              <i style="height:43%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank" rel="noreferrer">rohitg00/ai-engineering-from-scratch</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">A hands-on AI engineering course that builds prompts, skills, agents, and MCP servers from scratch.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>从基础到工程实践的 AI Engineering 课程，围绕 prompt、skill、agent、MCP 和应用落地逐步构建</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合系统学习 AI 工程、训练团队实践能力，或把零散 AI 工具知识整理成完整路线。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">Learning</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill">ai-engineering</span><span class="pill">agents</span><span class="pill">mcp</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+24,277</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +809 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +809</b></div>
+                <div class="trend-meter"><i style="width:40%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#9</span>
+              <i style="height:43%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/Leonxlnx/taste-skill" target="_blank" rel="noreferrer">Leonxlnx/taste-skill</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">A skill that nudges AI coding agents toward better taste and less generic output.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Code</span><span class="pill pill-strong">Learning</span><span class="pill">ai</span><span class="pill">skills</span><span class="pill">design</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+23,936</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +798 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +798</b></div>
+                <div class="trend-meter"><i style="width:40%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#10</span>
+              <i style="height:35%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/chopratejas/headroom" target="_blank" rel="noreferrer">chopratejas/headroom</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Instantly compress tool outputs, logs, RAG chunks, and file contents before sending them to your LLM.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>在工具输出、日志、RAG 片段和文件内容进入 LLM 前做压缩，可作为库、CLI 或 MCP 服务器接入</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合 Claude Code、Codex、Cursor 等 Agent 工作流降低 token 成本、减少长上下文噪音，并保留关键信息。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">RAG</span><span class="pill">llm</span><span class="pill">context</span><span class="pill">mcp</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+19,716</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +657 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +657</b></div>
+                <div class="trend-meter"><i style="width:33%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#11</span>
+              <i style="height:33%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noreferrer">rohitg00/agentmemory</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">A memory layer for AI agents to store, retrieve, and reuse context across sessions.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>为 AI Agent 提供跨会话记忆层，用于保存、检索和复用用户偏好、任务状态和长期上下文</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合个人助理、编码 Agent、客服机器人和需要“记住之前发生过什么”的长期任务系统。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">RAG</span><span class="pill">ai-agent</span><span class="pill">memory</span><span class="pill">llm</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+18,539</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +618 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +618</b></div>
+                <div class="trend-meter"><i style="width:31%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#12</span>
+              <i style="height:18%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/fathah/hermes-desktop" target="_blank" rel="noreferrer">fathah/hermes-desktop</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Desktop interface for running and interacting with Hermes Agent.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>Hermes Agent 的桌面端界面，让用户在本机更方便地运行、配置和观察 Agent</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合想把 Hermes Agent 当作桌面个人助理、任务控制台或本地 Agent 实验环境的用户。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">TypeScript</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">LLM</span><span class="pill">ai-agent</span><span class="pill">desktop</span><span class="pill">hermes</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+10,256</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +342 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +342</b></div>
+                <div class="trend-meter"><i style="width:17%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#13</span>
+              <i style="height:14%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/anthropics/knowledge-work-plugins" target="_blank" rel="noreferrer">anthropics/knowledge-work-plugins</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Plugins and examples for knowledge work workflows with Claude.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>Anthropic 提供的知识工作类插件和示例，围绕 Claude 的资料处理、分析和办公流程扩展</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合学习如何把 Claude 接入研究、写作、文档处理、数据整理等知识工作场景。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill lang">Python</span><span class="pill pill-strong">LLM</span><span class="pill pill-strong">Agent</span><span class="pill pill-strong">Learning</span><span class="pill">claude</span><span class="pill">plugins</span><span class="pill">knowledge-work</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+8,127</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +271 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +271</b></div>
+                <div class="trend-meter"><i style="width:14%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+
+          <article class="project-row">
+            <div class="rank-block">
+              <span>#14</span>
+              <i style="height:11%"></i>
+            </div>
+            <div class="project-copy">
+              <div class="repo-line">
+                <a href="https://github.com/hardikpandya/stop-slop" target="_blank" rel="noreferrer">hardikpandya/stop-slop</a>
+                <span>stars / month</span>
+              </div>
+              <p class="repo-desc">Guidance and tooling to reduce generic AI writing and improve output quality.</p>
+              
+              <div class="summary-lines">
+                <p class="summary-line summary-feature"><span>功能</span><b>针对 AI 生成内容的“味精感”和套话问题，提供写作约束、检查思路和改进方法</b></p>
+                <p class="summary-line summary-scenario"><span>使用场景</span><b>适合改进营销文案、产品说明、博客、邮件和 AI 生成长文的可读性与真实感。</b></p>
+              </div>
+              <div class="pill-row"><span class="pill pill-strong">GenAI</span><span class="pill pill-strong">Learning</span><span class="pill">ai-writing</span><span class="pill">prompting</span><span class="pill">quality</span></div>
+            </div>
+            <aside class="growth-panel">
+              <div class="growth-top">
+                <span>新增 Stars</span>
+                <strong>+6,447</strong>
+              </div>
+              <div class="growth-meta">
+                <span>约 +215 / 天</span>
+                
+              </div>
+              
+              <div class="trend-box">
+                <div class="trend-head"><span>每日趋势</span><b>日均 +215</b></div>
+                <div class="trend-meter"><i style="width:11%"></i></div>
+                <p>暂无连续快照，先用当前周期日均增长作为参考。</p>
+              </div>
+            </aside>
+          </article>
+          </div>
+        </section>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
