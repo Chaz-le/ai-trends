@@ -1,4 +1,95 @@
 {
-  "generatedAt": null,
-  "snapshots": []
+  "generatedAt": "2026-06-16T03:11:53.344Z",
+  "snapshots": [
+    {
+      "date": "2026-06-16",
+      "generatedAt": "2026-06-16T03:11:36.5520783+00:00",
+      "repos": {
+        "addyosmani/agent-skills": {
+          "stars": 60402,
+          "periodGain": 11088
+        },
+        "chopratejas/headroom": {
+          "stars": 28958,
+          "periodGain": 26561
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 42959,
+          "periodGain": 9676
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 44603,
+          "periodGain": 26989
+        },
+        "phuryn/pm-skills": {
+          "stars": 18673,
+          "periodGain": 6117
+        },
+        "microsoft/markitdown": {
+          "stars": 154172,
+          "periodGain": 31148
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 30494,
+          "periodGain": 5873
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 6470,
+          "periodGain": 4633
+        },
+        "RyanCodrai/turbovec": {
+          "stars": 11668,
+          "periodGain": 3651
+        },
+        "refactoringhq/tolaria": {
+          "stars": 16415,
+          "periodGain": 3179
+        },
+        "roboflow/supervision": {
+          "stars": 44362,
+          "periodGain": 2360
+        },
+        "x1xhlol/system-prompts-and-models-of-ai-tools": {
+          "stars": 140587,
+          "periodGain": 1668
+        },
+        "colbymchenry/codegraph": {
+          "stars": 49784,
+          "periodGain": 47946
+        },
+        "mattpocock/skills": {
+          "stars": 130325,
+          "periodGain": 46419
+        },
+        "Egonex-AI/Understand-Anything": {
+          "stars": 60688,
+          "periodGain": 45478
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 88353,
+          "periodGain": 31448
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 33180,
+          "periodGain": 25209
+        },
+        "Imbad0202/academic-research-skills": {
+          "stars": 31792,
+          "periodGain": 24428
+        },
+        "tinyhumansai/openhuman": {
+          "stars": 32285,
+          "periodGain": 24138
+        },
+        "ruvnet/RuView": {
+          "stars": 74056,
+          "periodGain": 17836
+        },
+        "CloakHQ/CloakBrowser": {
+          "stars": 26251,
+          "periodGain": 14818
+        }
+      }
+    }
+  ]
 }
