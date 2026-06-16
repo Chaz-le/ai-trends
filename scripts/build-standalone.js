@@ -242,11 +242,13 @@ function getStructuredInsight(item) {
     : null;
 
   if (insight) {
-    const intro = String(insight.projectIntro || "").trim();
+    const title = String(insight.zhTitle || "").trim();
+    const intro = String(insight.zhIntro || insight.projectIntro || "").trim();
     const featurePoints = asTextList(insight.featurePoints, 3);
     const scenarioPoints = asTextList(insight.scenarioPoints, 2);
-    if (intro || featurePoints.length || scenarioPoints.length) {
+    if (title || intro || featurePoints.length || scenarioPoints.length) {
       return {
+        title,
         intro,
         featurePoints,
         scenarioPoints,
@@ -257,6 +259,7 @@ function getStructuredInsight(item) {
 
   const parts = splitSummary(item);
   return {
+    title: "",
     intro: "",
     featurePoints: [parts.feature].filter(Boolean),
     scenarioPoints: [parts.scenario].filter(Boolean),
@@ -272,15 +275,11 @@ function renderPointList(points) {
 
 function renderSummary(item) {
   const insight = getStructuredInsight(item);
-  const intro = insight.intro
-    ? `<p class="summary-intro"><span>项目简介</span><b>${escapeHtml(insight.intro)}</b></p>`
-    : "";
   const sourceTag = insight.source === "readme"
     ? `<em class="summary-source">README 提炼</em>`
     : `<em class="summary-source">基础信息</em>`;
   return `
               <div class="summary-lines">
-                ${intro}
                 <div class="summary-line summary-feature"><span>核心功能</span><div>${renderPointList(insight.featurePoints)}</div></div>
                 <div class="summary-line summary-scenario"><span>使用场景</span><div>${renderPointList(insight.scenarioPoints)}</div></div>
                 ${sourceTag}
@@ -293,6 +292,9 @@ function renderCard(item, index, periodText, days, maxGrowth) {
   const description = item.description || "暂无 GitHub 简介。";
   const totalStars = Number(item.totalStars || 0);
   const repoName = item.fullName || `${item.owner || ""}/${item.repo || ""}`;
+  const insight = getStructuredInsight(item);
+  const zhTitle = insight.title || "AI 开源项目";
+  const zhIntro = insight.intro || description;
 
   return `
           <article class="project-row">
@@ -305,7 +307,11 @@ function renderCard(item, index, periodText, days, maxGrowth) {
                 <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(repoName)}</a>
                 <span>${escapeHtml(periodText)}</span>
               </div>
-              <p class="repo-desc"><span>GitHub 简介</span>${escapeHtml(description)}</p>
+              <div class="zh-heading">
+                <strong>${escapeHtml(zhTitle)}</strong>
+                <p>${escapeHtml(zhIntro)}</p>
+              </div>
+              <p class="repo-desc"><span>来源简介</span>${escapeHtml(description)}</p>
               ${renderSummary(item)}
               <div class="pill-row">${renderTags(item)}</div>
             </div>
@@ -682,9 +688,9 @@ a { color: inherit; text-decoration: none; }
   flex-wrap: wrap;
   gap: 7px;
   align-items: baseline;
-  margin: 0 0 10px;
+  margin: 0 0 11px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.55;
 }
 
@@ -693,6 +699,29 @@ a { color: inherit; text-decoration: none; }
   color: #344054;
   font-size: 12px;
   font-weight: 900;
+}
+
+.zh-heading {
+  display: grid;
+  gap: 5px;
+  max-width: 860px;
+  margin: 0 0 8px;
+}
+
+.zh-heading strong {
+  color: var(--navy);
+  font-size: 17px;
+  font-weight: 900;
+  line-height: 1.35;
+}
+
+.zh-heading p {
+  margin: 0;
+  color: #344054;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.65;
+  text-wrap: pretty;
 }
 
 .summary-lines {
