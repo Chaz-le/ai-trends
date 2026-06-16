@@ -1,84 +1,84 @@
 {
-  "generatedAt": "2026-06-16T06:31:53.538Z",
+  "generatedAt": "2026-06-16T07:12:07.928Z",
   "snapshots": [
     {
       "date": "2026-06-16",
-      "generatedAt": "2026-06-16T14:30:59.0867241+08:00",
+      "generatedAt": "2026-06-16T07:11:49.0977746+00:00",
       "repos": {
         "addyosmani/agent-skills": {
-          "stars": 60516,
+          "stars": 60552,
           "periodGain": 11088
         },
         "chopratejas/headroom": {
-          "stars": 29106,
+          "stars": 29153,
           "periodGain": 26561
         },
         "mvanhorn/last30days-skill": {
-          "stars": 43039,
+          "stars": 43069,
           "periodGain": 9676
         },
         "Leonxlnx/taste-skill": {
-          "stars": 44730,
+          "stars": 44757,
           "periodGain": 26989
         },
         "phuryn/pm-skills": {
-          "stars": 18747,
+          "stars": 18770,
           "periodGain": 6117
         },
         "microsoft/markitdown": {
-          "stars": 154241,
+          "stars": 154274,
           "periodGain": 31148
         },
         "Panniantong/Agent-Reach": {
-          "stars": 30830,
+          "stars": 30919,
           "periodGain": 5873
         },
         "NVIDIA/SkillSpector": {
-          "stars": 6574,
+          "stars": 6605,
           "periodGain": 4633
         },
         "RyanCodrai/turbovec": {
-          "stars": 11684,
+          "stars": 11692,
           "periodGain": 3651
         },
         "refactoringhq/tolaria": {
-          "stars": 16444,
+          "stars": 16451,
           "periodGain": 3179
         },
         "roboflow/supervision": {
-          "stars": 44386,
+          "stars": 44394,
           "periodGain": 2360
         },
         "x1xhlol/system-prompts-and-models-of-ai-tools": {
-          "stars": 140606,
+          "stars": 140608,
           "periodGain": 1668
         },
         "colbymchenry/codegraph": {
-          "stars": 49889,
+          "stars": 49919,
           "periodGain": 47946
         },
         "Egonex-AI/Understand-Anything": {
-          "stars": 60824,
+          "stars": 60856,
           "periodGain": 45478
         },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 88439,
+          "stars": 88461,
           "periodGain": 31448
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 33311,
+          "stars": 33348,
           "periodGain": 25209
         },
         "Imbad0202/academic-research-skills": {
-          "stars": 31838,
+          "stars": 31856,
           "periodGain": 24428
         },
         "tinyhumansai/openhuman": {
-          "stars": 32310,
+          "stars": 32317,
           "periodGain": 24138
         },
         "ruvnet/RuView": {
-          "stars": 74085,
+          "stars": 74090,
           "periodGain": 17836
         }
       }
