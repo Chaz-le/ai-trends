@@ -3,7 +3,21 @@ const path = require("path");
 
 const root = path.resolve(__dirname, "..");
 const dataDir = path.join(root, "data");
-const data = JSON.parse(fs.readFileSync(path.join(dataDir, "trends.json"), "utf8"));
+function readJson(filePath, fallback) {
+  try {
+    const raw = fs.readFileSync(filePath, "utf8").replace(/^\uFEFF/, "");
+    return JSON.parse(raw);
+  } catch {
+    return fallback;
+  }
+}
+
+const data = readJson(path.join(dataDir, "trends.json"), {
+  source: "GitHub Trending",
+  generatedAt: null,
+  weekly: [],
+  monthly: [],
+});
 const historyPath = path.join(dataDir, "history.json");
 const fmt = new Intl.NumberFormat("zh-CN");
 
@@ -39,7 +53,7 @@ function snapshotDate(value) {
 function readHistory() {
   if (!fs.existsSync(historyPath)) return { generatedAt: null, snapshots: [] };
   try {
-    const parsed = JSON.parse(fs.readFileSync(historyPath, "utf8"));
+    const parsed = readJson(historyPath, { generatedAt: null, snapshots: [] });
     return {
       generatedAt: parsed.generatedAt || null,
       snapshots: Array.isArray(parsed.snapshots) ? parsed.snapshots : [],
@@ -207,12 +221,69 @@ function rankClass(index) {
   return "";
 }
 
-function renderSummary(item) {
+function asTextList(value, limit = 3) {
+  if (!Array.isArray(value)) return [];
+  const seen = new Set();
+  const result = [];
+  for (const item of value) {
+    const text = String(item || "").replace(/\s+/g, " ").trim();
+    const key = text.toLowerCase();
+    if (!text || seen.has(key)) continue;
+    seen.add(key);
+    result.push(text);
+    if (result.length >= limit) break;
+  }
+  return result;
+}
+
+function getStructuredInsight(item) {
+  const insight = item && typeof item === "object" && item.insight && typeof item.insight === "object"
+    ? item.insight
+    : null;
+
+  if (insight) {
+    const intro = String(insight.projectIntro || "").trim();
+    const featurePoints = asTextList(insight.featurePoints, 3);
+    const scenarioPoints = asTextList(insight.scenarioPoints, 2);
+    if (intro || featurePoints.length || scenarioPoints.length) {
+      return {
+        intro,
+        featurePoints,
+        scenarioPoints,
+        source: insight.source || "readme",
+      };
+    }
+  }
+
   const parts = splitSummary(item);
+  return {
+    intro: "",
+    featurePoints: [parts.feature].filter(Boolean),
+    scenarioPoints: [parts.scenario].filter(Boolean),
+    source: "legacy",
+  };
+}
+
+function renderPointList(points) {
+  const items = asTextList(points, 3);
+  if (!items.length) return "<p>README 信息不足，暂不生成具体说明。</p>";
+  return `<ul>${items.map((point) => `<li>${escapeHtml(point)}</li>`).join("")}</ul>`;
+}
+
+function renderSummary(item) {
+  const insight = getStructuredInsight(item);
+  const intro = insight.intro
+    ? `<p class="summary-intro"><span>项目简介</span><b>${escapeHtml(insight.intro)}</b></p>`
+    : "";
+  const sourceTag = insight.source === "readme"
+    ? `<em class="summary-source">README 提炼</em>`
+    : `<em class="summary-source">基础信息</em>`;
   return `
               <div class="summary-lines">
-                <p class="summary-line summary-feature"><span>功能</span><b>${escapeHtml(parts.feature)}</b></p>
-                <p class="summary-line summary-scenario"><span>使用场景</span><b>${escapeHtml(parts.scenario)}</b></p>
+                ${intro}
+                <div class="summary-line summary-feature"><span>核心功能</span><div>${renderPointList(insight.featurePoints)}</div></div>
+                <div class="summary-line summary-scenario"><span>使用场景</span><div>${renderPointList(insight.scenarioPoints)}</div></div>
+                ${sourceTag}
               </div>`;
 }
 
@@ -234,7 +305,7 @@ function renderCard(item, index, periodText, days, maxGrowth) {
                 <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(repoName)}</a>
                 <span>${escapeHtml(periodText)}</span>
               </div>
-              <p class="repo-desc">${escapeHtml(description)}</p>
+              <p class="repo-desc"><span>GitHub 简介</span>${escapeHtml(description)}</p>
               ${renderSummary(item)}
               <div class="pill-row">${renderTags(item)}</div>
             </div>
@@ -607,21 +678,34 @@ a { color: inherit; text-decoration: none; }
 }
 
 .repo-desc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: baseline;
   margin: 0 0 10px;
   color: var(--muted);
   font-size: 14px;
   line-height: 1.55;
 }
 
+.repo-desc span {
+  flex: 0 0 auto;
+  color: #344054;
+  font-size: 12px;
+  font-weight: 900;
+}
+
 .summary-lines {
+  position: relative;
   display: grid;
-  gap: 7px;
+  gap: 8px;
   max-width: 920px;
 }
 
+.summary-intro,
 .summary-line {
   display: grid;
-  grid-template-columns: 82px minmax(0, 1fr);
+  grid-template-columns: 92px minmax(0, 1fr);
   gap: 10px;
   align-items: start;
   margin: 0;
@@ -630,6 +714,13 @@ a { color: inherit; text-decoration: none; }
   line-height: 1.65;
 }
 
+.summary-intro {
+  border: 1px solid #e2e8f0;
+  background: #fbfdff;
+  color: #344054;
+}
+
+.summary-intro span,
 .summary-line span {
   display: inline-flex;
   align-items: center;
@@ -639,6 +730,11 @@ a { color: inherit; text-decoration: none; }
   font-size: 12px;
   font-weight: 900;
   white-space: nowrap;
+}
+
+.summary-intro span {
+  background: #eef2f6;
+  color: #344054;
 }
 
 .summary-feature {
@@ -667,6 +763,54 @@ a { color: inherit; text-decoration: none; }
   color: inherit;
   font-size: 15px;
   font-weight: 650;
+}
+
+.summary-line ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.summary-line li {
+  position: relative;
+  padding-left: 16px;
+  color: inherit;
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.summary-line li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.78em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.72;
+}
+
+.summary-line p {
+  margin: 0;
+  color: inherit;
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.summary-source {
+  justify-self: start;
+  min-height: 22px;
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 800;
 }
 
 .pill-row {
