@@ -123,14 +123,30 @@ function dailyGains(fullName) {
   return gains.slice(-7);
 }
 
-function splitSummary(summary) {
+function fallbackSummary(item) {
+  const repoName = item.fullName || `${item.owner || ""}/${item.repo || ""}`;
+  const description = String(item.description || "").trim();
+  const language = item.language ? `${item.language} ` : "";
+  const tags = Array.isArray(item.tags) ? item.tags : [];
+  const topics = Array.isArray(item.topics) ? item.topics : [];
+  const signals = [...tags, ...topics].filter(Boolean).slice(0, 4).join(" / ");
+  const signalText = signals ? `，关联方向包括 ${signals}` : "";
+
+  return {
+    feature: description
+      ? `基于项目简介，它主要用于：${description}`
+      : `${repoName} 是一个 ${language}GitHub 项目${signalText}，当前可先从项目简介、标签和增长数据判断其关注价值。`,
+    scenario: `适合想了解 ${repoName} 的开发者或 AI 工具使用者，先通过 GitHub README、示例和 issue 进一步判断是否适合接入自己的工作流。`,
+  };
+}
+
+function splitSummary(item) {
+  const summary = item && typeof item === "object" ? item.zhSummary : item;
   const value = String(summary || "").trim();
   const match = value.match(/功能[:：]\s*([\s\S]*?)使用场景[:：]\s*([\s\S]*)/);
   if (!match) {
-    return {
-      feature: value || "待根据仓库 README 补充功能说明。",
-      scenario: "待补充使用场景。",
-    };
+    if (value) return { feature: value, scenario: fallbackSummary(item || {}).scenario };
+    return fallbackSummary(item || {});
   }
   return {
     feature: match[1].trim().replace(/[。；;]\s*$/, ""),
@@ -192,7 +208,7 @@ function rankClass(index) {
 }
 
 function renderSummary(item) {
-  const parts = splitSummary(item.zhSummary);
+  const parts = splitSummary(item);
   return `
               <div class="summary-lines">
                 <p class="summary-line summary-feature"><span>功能</span><b>${escapeHtml(parts.feature)}</b></p>
