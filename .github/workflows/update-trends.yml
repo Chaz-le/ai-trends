@@ -1,4 +1,4 @@
-name: Update AI trends
+name: Update and deploy AI trends
 
 on:
   workflow_dispatch:
@@ -8,10 +8,20 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: windows-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -24,7 +34,7 @@ jobs:
       - name: Build static pages
         run: node scripts/build-standalone.js
 
-      - name: Commit changes
+      - name: Commit updated data
         shell: pwsh
         run: |
           git config user.name "github-actions[bot]"
@@ -33,7 +43,19 @@ jobs:
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) {
             Write-Output "No changes to commit."
-            exit 0
+          } else {
+            git commit -m "Update AI trends"
+            git push
           }
-          git commit -m "Update AI trends"
-          git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
