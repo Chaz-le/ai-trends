@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-17T09:54:11.7978293+00:00",
+  "generatedAt": "2026-06-17T10:01:28.8274084+00:00",
   "weekly": [
     {
       "owner": "addyosmani",
@@ -20,8 +20,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 11431,
-      "totalStars": 61689,
-      "forks": 6689,
+      "totalStars": 61696,
+      "forks": 6690,
       "license": "MIT",
       "pushedAt": "06/16/2026 00:13:14",
       "tags": [
@@ -82,7 +82,7 @@
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
       "starsGained": 9766,
-      "totalStars": 30493,
+      "totalStars": 30498,
       "forks": 2057,
       "license": "Apache-2.0",
       "pushedAt": "06/17/2026 06:14:00",
@@ -143,7 +143,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 7226,
-      "totalStars": 43722,
+      "totalStars": 43727,
       "forks": 3600,
       "license": "MIT",
       "pushedAt": "06/17/2026 07:26:21",
@@ -200,7 +200,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 6427,
-      "totalStars": 32534,
+      "totalStars": 32537,
       "forks": 2619,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
@@ -246,7 +246,7 @@
       "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
       "language": "",
       "starsGained": 5775,
-      "totalStars": 19196,
+      "totalStars": 19199,
       "forks": 1964,
       "license": "MIT",
       "pushedAt": "06/06/2026 14:12:26",
@@ -286,7 +286,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 5190,
-      "totalStars": 7161,
+      "totalStars": 7165,
       "forks": 524,
       "license": "Apache-2.0",
       "pushedAt": "06/16/2026 21:49:11",
@@ -331,7 +331,7 @@
       "homepage": "https://www.open-notebook.ai",
       "language": "TypeScript",
       "starsGained": 2873,
-      "totalStars": 31216,
+      "totalStars": 31217,
       "forks": 3539,
       "license": "MIT",
       "pushedAt": "06/17/2026 01:20:44",
@@ -442,17 +442,17 @@
       "insight": {
         "source": "readme",
         "readmeTitle": "",
-        "category": "prompt-archive",
-        "zhTitle": "AI 产品系统提示词资料库",
-        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "category": "prompt-model-catalog",
+        "zhTitle": "AI 工具提示词与模型配置合集",
+        "zhIntro": "聚合 Augment Code、Claude Code、Cursor、Devin、Lovable、Replit、Windsurf、v0 等大量 AI 编程和产品工具的系统提示词、内部工具与模型线索。",
+        "projectIntro": "聚合 Augment Code、Claude Code、Cursor、Devin、Lovable、Replit、Windsurf、v0 等大量 AI 编程和产品工具的系统提示词、内部工具与模型线索。",
         "featurePoints": [
-          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
-          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
-          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+          "按产品横向收集系统提示词、内部工具定义和模型使用信息，覆盖大量 AI 编程 Agent 与 AI 产品。",
+          "适合快速查找某个 AI 工具背后的角色设定、工具权限、工作流提示和模型配置线索。",
+          "更像全景式资料索引和对比清单，不是自动提取器，也不是可直接运行的 Agent 框架。"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。"
+          "适合做 AI 编程工具竞品拆解、提示词工程参考、Agent 产品机制研究和资料收藏。"
         ]
       }
     },
@@ -488,7 +488,7 @@
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
       "starsGained": 1220,
-      "totalStars": 42963,
+      "totalStars": 42965,
       "forks": 7125,
       "license": "CC0-1.0",
       "pushedAt": "06/17/2026 01:58:39",
@@ -504,17 +504,18 @@
       "insight": {
         "source": "readme",
         "readmeTitle": "System Prompts Leaks",
-        "category": "prompt-archive",
-        "zhTitle": "AI 产品系统提示词资料库",
-        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "category": "prompt-leak-dataset",
+        "zhTitle": "主流模型系统提示词泄露库",
+        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
         "featurePoints": [
-          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
-          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
-          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
+          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
+          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。"
+          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
+          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
         ]
       }
     },
@@ -540,7 +541,7 @@
       "homepage": "https://lmcache.ai/",
       "language": "Python",
       "starsGained": 709,
-      "totalStars": 9222,
+      "totalStars": 9223,
       "forks": 1339,
       "license": "Apache-2.0",
       "pushedAt": "06/17/2026 09:49:07",
@@ -579,7 +580,7 @@
       "homepage": "https://colbymchenry.github.io/codegraph/",
       "language": "TypeScript",
       "starsGained": 48177,
-      "totalStars": 50742,
+      "totalStars": 50747,
       "forks": 3093,
       "license": "MIT",
       "pushedAt": "06/16/2026 17:16:00",
@@ -637,7 +638,7 @@
       "homepage": "https://understand-anything.com",
       "language": "TypeScript",
       "starsGained": 46671,
-      "totalStars": 62250,
+      "totalStars": 62256,
       "forks": 5134,
       "license": "MIT",
       "pushedAt": "06/16/2026 07:51:27",
@@ -687,7 +688,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 31997,
-      "totalStars": 89090,
+      "totalStars": 89091,
       "forks": 12804,
       "license": "MIT",
       "pushedAt": "06/17/2026 03:15:59",
@@ -747,7 +748,7 @@
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
       "starsGained": 27895,
-      "totalStars": 30493,
+      "totalStars": 30498,
       "forks": 2057,
       "license": "Apache-2.0",
       "pushedAt": "06/17/2026 06:14:00",
@@ -1047,10 +1048,10 @@
       "homepage": "https://omp.sh",
       "language": "TypeScript",
       "starsGained": 8324,
-      "totalStars": 12990,
+      "totalStars": 12992,
       "forks": 1105,
       "license": "MIT",
-      "pushedAt": "06/17/2026 09:53:20",
+      "pushedAt": "06/17/2026 09:58:27",
       "tags": [
         "agent",
         "llm",
@@ -1059,8 +1060,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "zsh — add to /.zshrc (or write the output into a file on your $fpath)",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",

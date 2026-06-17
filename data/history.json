@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T09:54:29.723Z",
+  "generatedAt": "2026-06-17T10:01:46.810Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -85,34 +85,34 @@
     },
     {
       "date": "2026-06-17",
-      "generatedAt": "2026-06-17T09:54:11.7978293+00:00",
+      "generatedAt": "2026-06-17T10:01:28.8274084+00:00",
       "repos": {
         "addyosmani/agent-skills": {
-          "stars": 61689,
+          "stars": 61696,
           "periodGain": 11431
         },
         "chopratejas/headroom": {
-          "stars": 30493,
+          "stars": 30498,
           "periodGain": 27895
         },
         "mvanhorn/last30days-skill": {
-          "stars": 43722,
+          "stars": 43727,
           "periodGain": 7226
         },
         "Panniantong/Agent-Reach": {
-          "stars": 32534,
+          "stars": 32537,
           "periodGain": 6427
         },
         "phuryn/pm-skills": {
-          "stars": 19196,
+          "stars": 19199,
           "periodGain": 5775
         },
         "NVIDIA/SkillSpector": {
-          "stars": 7161,
+          "stars": 7165,
           "periodGain": 5190
         },
         "lfnovo/open-notebook": {
-          "stars": 31216,
+          "stars": 31217,
           "periodGain": 2873
         },
         "refactoringhq/tolaria": {
@@ -124,23 +124,23 @@
           "periodGain": 1731
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 42963,
+          "stars": 42965,
           "periodGain": 1220
         },
         "LMCache/LMCache": {
-          "stars": 9222,
+          "stars": 9223,
           "periodGain": 709
         },
         "colbymchenry/codegraph": {
-          "stars": 50742,
+          "stars": 50747,
           "periodGain": 48177
         },
         "Egonex-AI/Understand-Anything": {
-          "stars": 62250,
+          "stars": 62256,
           "periodGain": 46671
         },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 89090,
+          "stars": 89091,
           "periodGain": 31997
         },
         "rohitg00/ai-engineering-from-scratch": {
@@ -148,7 +148,7 @@
           "periodGain": 25965
         },
         "can1357/oh-my-pi": {
-          "stars": 12990,
+          "stars": 12992,
           "periodGain": 8324
         }
       }
