@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:01:46.810Z",
+  "generatedAt": "2026-06-17T10:08:25.339Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -85,46 +85,46 @@
     },
     {
       "date": "2026-06-17",
-      "generatedAt": "2026-06-17T10:01:28.8274084+00:00",
+      "generatedAt": "2026-06-17T10:08:04.1990520+00:00",
       "repos": {
         "addyosmani/agent-skills": {
-          "stars": 61696,
+          "stars": 61704,
           "periodGain": 11431
         },
         "chopratejas/headroom": {
-          "stars": 30498,
+          "stars": 30505,
           "periodGain": 27895
         },
         "mvanhorn/last30days-skill": {
-          "stars": 43727,
+          "stars": 43728,
           "periodGain": 7226
         },
         "Panniantong/Agent-Reach": {
-          "stars": 32537,
+          "stars": 32541,
           "periodGain": 6427
         },
         "phuryn/pm-skills": {
-          "stars": 19199,
+          "stars": 19204,
           "periodGain": 5775
         },
         "NVIDIA/SkillSpector": {
-          "stars": 7165,
+          "stars": 7167,
           "periodGain": 5190
         },
         "lfnovo/open-notebook": {
-          "stars": 31217,
+          "stars": 31218,
           "periodGain": 2873
         },
         "refactoringhq/tolaria": {
-          "stars": 16588,
+          "stars": 16589,
           "periodGain": 2537
         },
         "x1xhlol/system-prompts-and-models-of-ai-tools": {
-          "stars": 140756,
+          "stars": 140758,
           "periodGain": 1731
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 42965,
+          "stars": 42966,
           "periodGain": 1220
         },
         "LMCache/LMCache": {
@@ -132,24 +132,16 @@
           "periodGain": 709
         },
         "colbymchenry/codegraph": {
-          "stars": 50747,
+          "stars": 50750,
           "periodGain": 48177
         },
         "Egonex-AI/Understand-Anything": {
-          "stars": 62256,
+          "stars": 62260,
           "periodGain": 46671
         },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 89091,
+          "stars": 89097,
           "periodGain": 31997
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 33897,
-          "periodGain": 25965
-        },
-        "can1357/oh-my-pi": {
-          "stars": 12992,
-          "periodGain": 8324
         }
       }
     }
