@@ -509,6 +509,25 @@ function New-ProjectProfile {
     Add-UniqueText -List $features -Value "把代码理解从临时扫描变成可复用上下文。"
     Add-UniqueText -List $scenarios -Value "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
   }
+  elseif ($primaryText -match "x1xhlol/system-prompts-and-models-of-ai-tools|full augment code|and other open sourced.*system prompts|internal tools.*ai models") {
+    $category = "prompt-model-catalog"
+    $title = "AI 工具提示词与模型配置合集"
+    $intro = "聚合 Augment Code、Claude Code、Cursor、Devin、Lovable、Replit、Windsurf、v0 等大量 AI 编程和产品工具的系统提示词、内部工具与模型线索。"
+    Add-UniqueText -List $features -Value "按产品横向收集系统提示词、内部工具定义和模型使用信息，覆盖大量 AI 编程 Agent 与 AI 产品。"
+    Add-UniqueText -List $features -Value "适合快速查找某个 AI 工具背后的角色设定、工具权限、工作流提示和模型配置线索。"
+    Add-UniqueText -List $features -Value "更像全景式资料索引和对比清单，不是自动提取器，也不是可直接运行的 Agent 框架。"
+    Add-UniqueText -List $scenarios -Value "适合做 AI 编程工具竞品拆解、提示词工程参考、Agent 产品机制研究和资料收藏。"
+  }
+  elseif ($primaryText -match "asgeirtj/system_prompts_leaks|extracted system prompts from|anthropic.*openai.*google.*xai|updated regularly.*system prompts|claude fable|gpt 5\.5") {
+    $category = "prompt-leak-dataset"
+    $title = "主流模型系统提示词泄露库"
+    $intro = "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。"
+    Add-UniqueText -List $features -Value "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。"
+    Add-UniqueText -List $features -Value "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。"
+    Add-UniqueText -List $features -Value "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
+    Add-UniqueText -List $scenarios -Value "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。"
+    Add-UniqueText -List $scenarios -Value "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
+  }
   elseif ($primaryText -match "system prompt|system prompts|internal tools|prompt collection|prompts") {
     $category = "prompt-archive"
     $title = "AI 产品系统提示词资料库"
