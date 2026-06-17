@@ -11,13 +11,23 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
-  update:
+  update-and-deploy:
     runs-on: windows-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -43,3 +53,15 @@ jobs:
           }
           git commit -m "Update AI trends"
           git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
