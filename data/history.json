@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T07:12:07.928Z",
+  "generatedAt": "2026-06-17T05:06:44.542Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -80,6 +80,100 @@
         "ruvnet/RuView": {
           "stars": 74090,
           "periodGain": 17836
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "generatedAt": "2026-06-17T05:06:19.2466550+00:00",
+      "repos": {
+        "addyosmani/agent-skills": {
+          "stars": 61459,
+          "periodGain": 11431
+        },
+        "chopratejas/headroom": {
+          "stars": 30228,
+          "periodGain": 27895
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 43600,
+          "periodGain": 7226
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 32265,
+          "periodGain": 6427
+        },
+        "phuryn/pm-skills": {
+          "stars": 19097,
+          "periodGain": 5775
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 7052,
+          "periodGain": 5190
+        },
+        "lfnovo/open-notebook": {
+          "stars": 31166,
+          "periodGain": 2873
+        },
+        "refactoringhq/tolaria": {
+          "stars": 16568,
+          "periodGain": 2537
+        },
+        "x1xhlol/system-prompts-and-models-of-ai-tools": {
+          "stars": 140719,
+          "periodGain": 1731
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 42884,
+          "periodGain": 1220
+        },
+        "LMCache/LMCache": {
+          "stars": 9207,
+          "periodGain": 709
+        },
+        "colbymchenry/codegraph": {
+          "stars": 50507,
+          "periodGain": 48177
+        },
+        "Egonex-AI/Understand-Anything": {
+          "stars": 61932,
+          "periodGain": 46671
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 88943,
+          "periodGain": 31997
+        },
+        "microsoft/markitdown": {
+          "stars": 154783,
+          "periodGain": 31754
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 45419,
+          "periodGain": 27670
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 33790,
+          "periodGain": 25965
+        },
+        "Imbad0202/academic-research-skills": {
+          "stars": 32180,
+          "periodGain": 24323
+        },
+        "tinyhumansai/openhuman": {
+          "stars": 32468,
+          "periodGain": 22585
+        },
+        "ruvnet/RuView": {
+          "stars": 74265,
+          "periodGain": 17001
+        },
+        "rohitg00/agentmemory": {
+          "stars": 23181,
+          "periodGain": 13257
+        },
+        "anthropics/knowledge-work-plugins": {
+          "stars": 20951,
+          "periodGain": 8767
         }
       }
     }
