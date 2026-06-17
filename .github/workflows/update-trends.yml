@@ -1,30 +1,23 @@
-name: Update and deploy AI trends
+name: Update AI trends
 
 on:
   workflow_dispatch:
   schedule:
-    # 每天北京时间 08:10 自动更新。GitHub Actions 使用 UTC 时间。
+    # GitHub Actions cron uses UTC. These are Beijing time 08:10, 09:10 and 12:10.
+    # Extra runs are intentional because scheduled workflows can be delayed or skipped.
     - cron: "10 0 * * *"
+    - cron: "10 1 * * *"
+    - cron: "10 4 * * *"
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-  
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
-  update-and-deploy:
+  update:
     runs-on: windows-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -37,7 +30,7 @@ jobs:
       - name: Build static pages
         run: node scripts/build-standalone.js
 
-      - name: Commit updated data
+      - name: Commit changes
         shell: pwsh
         run: |
           git config user.name "github-actions[bot]"
@@ -46,19 +39,7 @@ jobs:
           git diff --cached --quiet
           if ($LASTEXITCODE -eq 0) {
             Write-Output "No changes to commit."
-          } else {
-            git commit -m "Update AI trends"
-            git push
+            exit 0
           }
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload static site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          git commit -m "Update AI trends"
+          git push
