@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T06:31:53.538Z",
+  "generatedAt": "2026-06-17T09:54:29.723Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -80,6 +80,76 @@
         "ruvnet/RuView": {
           "stars": 74085,
           "periodGain": 17836
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "generatedAt": "2026-06-17T09:54:11.7978293+00:00",
+      "repos": {
+        "addyosmani/agent-skills": {
+          "stars": 61689,
+          "periodGain": 11431
+        },
+        "chopratejas/headroom": {
+          "stars": 30493,
+          "periodGain": 27895
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 43722,
+          "periodGain": 7226
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 32534,
+          "periodGain": 6427
+        },
+        "phuryn/pm-skills": {
+          "stars": 19196,
+          "periodGain": 5775
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 7161,
+          "periodGain": 5190
+        },
+        "lfnovo/open-notebook": {
+          "stars": 31216,
+          "periodGain": 2873
+        },
+        "refactoringhq/tolaria": {
+          "stars": 16588,
+          "periodGain": 2537
+        },
+        "x1xhlol/system-prompts-and-models-of-ai-tools": {
+          "stars": 140756,
+          "periodGain": 1731
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 42963,
+          "periodGain": 1220
+        },
+        "LMCache/LMCache": {
+          "stars": 9222,
+          "periodGain": 709
+        },
+        "colbymchenry/codegraph": {
+          "stars": 50742,
+          "periodGain": 48177
+        },
+        "Egonex-AI/Understand-Anything": {
+          "stars": 62250,
+          "periodGain": 46671
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 89090,
+          "periodGain": 31997
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 33897,
+          "periodGain": 25965
+        },
+        "can1357/oh-my-pi": {
+          "stars": 12990,
+          "periodGain": 8324
         }
       }
     }
