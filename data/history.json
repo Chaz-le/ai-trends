@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:55:09.493Z",
+  "generatedAt": "2026-06-19T05:19:39.259Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -232,6 +232,92 @@
         "anthropics/knowledge-work-plugins": {
           "stars": 21094,
           "periodGain": 8843
+        }
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "generatedAt": "2026-06-19T05:19:24.8113823+00:00",
+      "repos": {
+        "chopratejas/headroom": {
+          "stars": 35182,
+          "periodGain": 30943
+        },
+        "addyosmani/agent-skills": {
+          "stars": 63015,
+          "periodGain": 9285
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 34532,
+          "periodGain": 14403
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 7979,
+          "periodGain": 5505
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 44482,
+          "periodGain": 18478
+        },
+        "phuryn/pm-skills": {
+          "stars": 19621,
+          "periodGain": 3663
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 7238,
+          "periodGain": 3244
+        },
+        "freeCodeCamp/freeCodeCamp": {
+          "stars": 449612,
+          "periodGain": 2879
+        },
+        "lfnovo/open-notebook": {
+          "stars": 31648,
+          "periodGain": 2373
+        },
+        "kenn-io/agentsview": {
+          "stars": 2880,
+          "periodGain": 1382
+        },
+        "LMCache/LMCache": {
+          "stars": 9358,
+          "periodGain": 825
+        },
+        "Egonex-AI/Understand-Anything": {
+          "stars": 63629,
+          "periodGain": 48608
+        },
+        "colbymchenry/codegraph": {
+          "stars": 51698,
+          "periodGain": 47770
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 89743,
+          "periodGain": 32867
+        },
+        "microsoft/markitdown": {
+          "stars": 155704,
+          "periodGain": 32454
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 46671,
+          "periodGain": 28697
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 34461,
+          "periodGain": 26488
+        },
+        "Imbad0202/academic-research-skills": {
+          "stars": 32776,
+          "periodGain": 22520
+        },
+        "ruvnet/RuView": {
+          "stars": 74599,
+          "periodGain": 15823
+        },
+        "mukul975/Anthropic-Cybersecurity-Skills": {
+          "stars": 16490,
+          "periodGain": 10037
         }
       }
     }

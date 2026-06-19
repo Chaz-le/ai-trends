@@ -1,55 +1,7 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-18T08:54:50.7702757+00:00",
+  "generatedAt": "2026-06-19T05:19:24.8113823+00:00",
   "weekly": [
-    {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "antigravity-ide",
-        "claude-code",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 11684,
-      "totalStars": 62580,
-      "forks": 6802,
-      "license": "MIT",
-      "pushedAt": "06/16/2026 00:13:14",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Claude Code (recommended)"
-        ]
-      }
-    },
     {
       "owner": "chopratejas",
       "repo": "headroom",
@@ -81,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
-      "starsGained": 9475,
-      "totalStars": 32313,
-      "forks": 2178,
+      "starsGained": 10159,
+      "totalStars": 35182,
+      "forks": 2379,
       "license": "Apache-2.0",
-      "pushedAt": "06/18/2026 07:57:02",
+      "pushedAt": "06/18/2026 23:31:55",
       "tags": [
         "agent",
         "llm",
@@ -108,6 +60,54 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "antigravity-ide",
+        "claude-code",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "",
+      "language": "Shell",
+      "starsGained": 9285,
+      "totalStars": 63015,
+      "forks": 6837,
+      "license": "MIT",
+      "pushedAt": "06/19/2026 03:51:37",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Claude Code (recommended)"
         ]
       }
     },
@@ -139,9 +139,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6855,
-      "totalStars": 33804,
-      "forks": 2706,
+      "starsGained": 7856,
+      "totalStars": 34532,
+      "forks": 2754,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
       "tags": [
@@ -168,54 +168,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "phuryn",
-      "repo": "pm-skills",
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "topics": [
-        "agent-skill-repository",
-        "agent-skills",
-        "agentic-skills",
-        "claude-code-marketplace",
-        "claude-code-plugins",
-        "claude-cowork-plugin",
-        "product-management"
-      ],
-      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
-      "language": "",
-      "starsGained": 5333,
-      "totalStars": 19469,
-      "forks": 1988,
-      "license": "MIT",
-      "pushedAt": "06/06/2026 14:12:26",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "PM Skills Marketplace: The AI Operating System for Better Product Decisions",
-        "category": "pm-skills",
-        "zhTitle": "产品经理 Agent 技能市场",
-        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
-        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
-        "featurePoints": [
-          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
-          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
-          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
-        ],
-        "scenarioPoints": [
-          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
-          "适用线索：mkdir -p .opencode/skills/"
-        ]
-      }
-    },
-    {
       "owner": "NVIDIA",
       "repo": "SkillSpector",
       "fullName": "NVIDIA/SkillSpector",
@@ -225,9 +177,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5257,
-      "totalStars": 7678,
-      "forks": 571,
+      "starsGained": 5505,
+      "totalStars": 7979,
+      "forks": 605,
       "license": "Apache-2.0",
       "pushedAt": "06/16/2026 21:49:11",
       "tags": [
@@ -284,11 +236,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5235,
-      "totalStars": 44174,
-      "forks": 3626,
+      "starsGained": 4827,
+      "totalStars": 44482,
+      "forks": 3654,
       "license": "MIT",
-      "pushedAt": "06/18/2026 06:25:33",
+      "pushedAt": "06/18/2026 17:25:58",
       "tags": [
         "agent",
         "llm",
@@ -310,6 +262,116 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
+        ]
+      }
+    },
+    {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "topics": [
+        "agent-skill-repository",
+        "agent-skills",
+        "agentic-skills",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-cowork-plugin",
+        "product-management"
+      ],
+      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+      "language": "",
+      "starsGained": 3663,
+      "totalStars": 19621,
+      "forks": 2004,
+      "license": "MIT",
+      "pushedAt": "06/06/2026 14:12:26",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "PM Skills Marketplace: The AI Operating System for Better Product Decisions",
+        "category": "pm-skills",
+        "zhTitle": "产品经理 Agent 技能市场",
+        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "featurePoints": [
+          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
+          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
+          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
+        ],
+        "scenarioPoints": [
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
+          "适用线索：mkdir -p .opencode/skills/"
+        ]
+      }
+    },
+    {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "topics": [
+        "aider",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-intelligence",
+        "codex",
+        "cursor",
+        "cypher",
+        "developer-tools",
+        "gemini-cli",
+        "graph-visualization",
+        "kilocode",
+        "knowledge-graph",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "opencode",
+        "sqlite",
+        "tree-sitter",
+        "windsurf"
+      ],
+      "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
+      "language": "C",
+      "starsGained": 3244,
+      "totalStars": 7238,
+      "forks": 574,
+      "license": "MIT",
+      "pushedAt": "06/13/2026 05:43:03",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "coding",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "codebase-memory-mcp",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     },
@@ -339,11 +401,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://contribute.freecodecamp.org",
       "language": "TypeScript",
-      "starsGained": 2534,
-      "totalStars": 449278,
-      "forks": 45102,
+      "starsGained": 2879,
+      "totalStars": 449612,
+      "forks": 45135,
       "license": "BSD-3-Clause",
-      "pushedAt": "06/18/2026 08:53:16",
+      "pushedAt": "06/19/2026 04:38:56",
       "tags": [
         "coding",
         "learning"
@@ -382,11 +444,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.open-notebook.ai",
       "language": "TypeScript",
-      "starsGained": 2501,
-      "totalStars": 31432,
-      "forks": 3565,
+      "starsGained": 2373,
+      "totalStars": 31648,
+      "forks": 3597,
       "license": "MIT",
-      "pushedAt": "06/18/2026 00:06:42",
+      "pushedAt": "06/18/2026 13:26:00",
       "tags": [
         "learning"
       ],
@@ -409,165 +471,42 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "refactoringhq",
-      "repo": "tolaria",
-      "fullName": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/695274?s=40&v=4",
-      "description": "Desktop app to manage markdown knowledge bases",
+      "owner": "kenn-io",
+      "repo": "agentsview",
+      "fullName": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
       "topics": [],
-      "homepage": "https://tolaria.md",
-      "language": "TypeScript",
-      "starsGained": 2046,
-      "totalStars": 16677,
-      "forks": 1154,
-      "license": "AGPL-3.0",
-      "pushedAt": "06/18/2026 06:09:29",
-      "tags": [
-        "rag"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "💧 Tolaria",
-        "category": "rag-search",
-        "zhTitle": "RAG / 语义检索工具",
-        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "featurePoints": [
-          "支持向量、语义搜索、知识库或文档检索相关能力。",
-          "可作为 RAG 管道中的索引、召回或知识组织组件。",
-          "帮助把外部资料转成大模型可查询的上下文。"
-        ],
-        "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：When you open Tolaria for the first time you get the chance of cloning the getting started vault — which gives you a walkthrough of the whole app."
-        ]
-      }
-    },
-    {
-      "owner": "asgeirtj",
-      "repo": "system_prompts_leaks",
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [
-        "ai",
-        "anthropic",
-        "awesome",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "deep-learning",
-        "education",
-        "gemini",
-        "generative-ai",
-        "google",
-        "llm",
-        "machine-learning",
-        "natural-language-processing",
-        "nlp",
-        "open-source",
-        "openai",
-        "prompt-engineering"
-      ],
-      "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
-      "language": "JavaScript",
-      "starsGained": 1506,
-      "totalStars": 43227,
-      "forks": 7165,
-      "license": "CC0-1.0",
-      "pushedAt": "06/18/2026 00:31:15",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
-        "category": "prompt-leak-dataset",
-        "zhTitle": "主流模型系统提示词泄露库",
-        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "featurePoints": [
-          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
-          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
-          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
-        ],
-        "scenarioPoints": [
-          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
-          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
-        ]
-      }
-    },
-    {
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "topics": [
-        "aider",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-intelligence",
-        "codex",
-        "cursor",
-        "cypher",
-        "developer-tools",
-        "gemini-cli",
-        "graph-visualization",
-        "kilocode",
-        "knowledge-graph",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "opencode",
-        "sqlite",
-        "tree-sitter",
-        "windsurf"
-      ],
-      "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
-      "language": "C",
-      "starsGained": 1097,
-      "totalStars": 6165,
-      "forks": 516,
+      "homepage": "https://agentsview.io",
+      "language": "Go",
+      "starsGained": 1382,
+      "totalStars": 2880,
+      "forks": 249,
       "license": "MIT",
-      "pushedAt": "06/13/2026 05:43:03",
+      "pushedAt": "06/19/2026 00:49:21",
       "tags": [
         "agent",
         "llm",
-        "rag",
-        "coding",
-        "ml"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "codebase-memory-mcp",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "readmeTitle": "agentsview",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：On first run, agentsview discovers sessions from every supported agent on your"
         ]
       }
     },
@@ -592,11 +531,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://lmcache.ai/",
       "language": "Python",
-      "starsGained": 765,
-      "totalStars": 9300,
-      "forks": 1344,
+      "starsGained": 825,
+      "totalStars": 9358,
+      "forks": 1347,
       "license": "Apache-2.0",
-      "pushedAt": "06/18/2026 08:07:06",
+      "pushedAt": "06/19/2026 05:15:46",
       "tags": [
         "llm",
         "ml"
@@ -621,46 +560,6 @@ window.GITHUB_AI_TRENDS = {
     }
   ],
   "monthly": [
-    {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "fullName": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "topics": [],
-      "homepage": "https://colbymchenry.github.io/codegraph/",
-      "language": "TypeScript",
-      "starsGained": 48065,
-      "totalStars": 51354,
-      "forks": 3122,
-      "license": "MIT",
-      "pushedAt": "06/18/2026 06:23:00",
-      "tags": [
-        "agent",
-        "llm",
-        "rag"
-      ],
-      "zhSummary": "功能：为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围。使用场景：适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "CodeGraph",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
-        ],
-        "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
-          "适用线索：Ask which agent(s) to configure — auto-detects installed ones from: Claude Code, Cursor, Codex CLI, opencode, Hermes Agent, Gemini CLI, Antigravity IDE, Kiro"
-        ]
-      }
-    },
     {
       "owner": "Egonex-AI",
       "repo": "Understand-Anything",
@@ -689,11 +588,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://understand-anything.com",
       "language": "TypeScript",
-      "starsGained": 47856,
-      "totalStars": 63154,
-      "forks": 5210,
+      "starsGained": 48608,
+      "totalStars": 63629,
+      "forks": 5268,
       "license": "MIT",
-      "pushedAt": "06/18/2026 03:02:13",
+      "pushedAt": "06/19/2026 03:37:55",
       "tags": [
         "agent",
         "llm",
@@ -722,6 +621,46 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "fullName": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "topics": [],
+      "homepage": "https://colbymchenry.github.io/codegraph/",
+      "language": "TypeScript",
+      "starsGained": 47770,
+      "totalStars": 51698,
+      "forks": 3146,
+      "license": "MIT",
+      "pushedAt": "06/19/2026 03:31:42",
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "zhSummary": "功能：为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围。使用场景：适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。",
+      "summarySource": "preserved",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "CodeGraph",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
+          "适用线索：Ask which agent(s) to configure — auto-detects installed ones from: Claude Code, Cursor, Codex CLI, opencode, Hermes Agent, Gemini CLI, Antigravity IDE, Kiro"
+        ]
+      }
+    },
+    {
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
       "fullName": "harry0703/MoneyPrinterTurbo",
@@ -739,11 +678,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 32500,
-      "totalStars": 89527,
-      "forks": 12867,
+      "starsGained": 32867,
+      "totalStars": 89743,
+      "forks": 12904,
       "license": "MIT",
-      "pushedAt": "06/17/2026 23:15:12",
+      "pushedAt": "06/18/2026 12:40:27",
       "tags": [
         "agent",
         "llm",
@@ -786,9 +725,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 32165,
-      "totalStars": 155375,
-      "forks": 10787,
+      "starsGained": 32454,
+      "totalStars": 155704,
+      "forks": 10822,
       "license": "MIT",
       "pushedAt": "05/26/2026 22:41:34",
       "tags": [
@@ -845,11 +784,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
-      "starsGained": 29014,
-      "totalStars": 32313,
-      "forks": 2178,
+      "starsGained": 30943,
+      "totalStars": 35182,
+      "forks": 2379,
       "license": "Apache-2.0",
-      "pushedAt": "06/18/2026 07:57:02",
+      "pushedAt": "06/18/2026 23:31:55",
       "tags": [
         "agent",
         "llm",
@@ -899,9 +838,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 28247,
-      "totalStars": 46266,
-      "forks": 3225,
+      "starsGained": 28697,
+      "totalStars": 46671,
+      "forks": 3246,
       "license": "MIT",
       "pushedAt": "06/17/2026 14:45:14",
       "tags": [
@@ -959,9 +898,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 26243,
-      "totalStars": 34217,
-      "forks": 5568,
+      "starsGained": 26488,
+      "totalStars": 34461,
+      "forks": 5609,
       "license": "MIT",
       "pushedAt": "06/14/2026 16:42:36",
       "tags": [
@@ -1007,11 +946,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://buymeacoffee.com/crucify020v",
       "language": "Python",
-      "starsGained": 23601,
-      "totalStars": 32583,
-      "forks": 2671,
+      "starsGained": 22520,
+      "totalStars": 32776,
+      "forks": 2686,
       "license": "NOASSERTION",
-      "pushedAt": "06/18/2026 07:59:19",
+      "pushedAt": "06/18/2026 10:59:23",
       "tags": [
         "agent",
         "llm",
@@ -1021,8 +960,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "功能：面向 Claude Code 的学术研究 skills，覆盖文献调研、论文写作、审稿反馈和修订流程。使用场景：适合研究生、科研人员和写作者做文献综述、论文结构整理、投稿前自查和审稿意见处理。",
       "summarySource": "preserved",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Academic Research Skills for Claude Code",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -1068,11 +1007,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 18104,
-      "totalStars": 44174,
-      "forks": 3626,
+      "starsGained": 18478,
+      "totalStars": 44482,
+      "forks": 3654,
       "license": "MIT",
-      "pushedAt": "06/18/2026 06:25:33",
+      "pushedAt": "06/18/2026 17:25:58",
       "tags": [
         "agent",
         "llm",
@@ -1128,11 +1067,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://Cognitum.One/RuView",
       "language": "Rust",
-      "starsGained": 16274,
-      "totalStars": 74468,
-      "forks": 9930,
+      "starsGained": 15823,
+      "totalStars": 74599,
+      "forks": 9946,
       "license": "MIT",
-      "pushedAt": "06/18/2026 07:51:18",
+      "pushedAt": "06/19/2026 01:13:07",
       "tags": [
         "llm",
         "learning"
@@ -1158,20 +1097,97 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 14403,
+      "totalStars": 34532,
+      "forks": 2754,
+      "license": "MIT",
+      "pushedAt": "06/16/2026 12:45:59",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "功能：为 AI Agent 提供多平台搜索/读取入口，覆盖 X、Reddit、YouTube、GitHub、Arxiv、Google/Bing/Baidu、B站、小红书等来源。使用场景：适合让 Agent 做社媒情报、跨平台资料检索、趋势监控和研究资料采集。",
+      "summarySource": "preserved",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "只预览，不实际删除",
+        "category": "agent-web-reach",
+        "zhTitle": "Agent 互联网检索工具",
+        "zhIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
+        "projectIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
+        "featurePoints": [
+          "通过一个 CLI 帮 Agent 读取多个网站和社区平台内容。",
+          "面向没有 API 权限或不想接多个平台 API 的信息收集场景。",
+          "适合把网页和社交内容作为 Agent 调研、监控和分析的输入。"
+        ],
+        "scenarioPoints": [
+          "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
+        ]
+      }
+    },
+    {
       "owner": "mukul975",
       "repo": "Anthropic-Cybersecurity-Skills",
       "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42860185?s=40&v=4",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cloud-security",
+        "cybersecurity",
+        "devsecops",
+        "ethical-hacking",
+        "incident-response",
+        "infosec",
+        "llm",
+        "malware-analysis",
+        "mcp",
+        "mitre-attack",
+        "nist-csf",
+        "osint",
+        "penetration-testing",
+        "red-team",
+        "security",
+        "security-automation",
+        "threat-hunting",
+        "threat-intelligence"
+      ],
+      "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 9781,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 10037,
+      "totalStars": 16490,
+      "forks": 1995,
+      "license": "Apache-2.0",
+      "pushedAt": "06/01/2026 10:15:48",
       "tags": [
         "agent",
         "llm",
@@ -1181,8 +1197,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Anthropic Cybersecurity Skills",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1194,41 +1210,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 8843,
-      "totalStars": 21094,
-      "forks": 2483,
-      "license": "Apache-2.0",
-      "pushedAt": "06/18/2026 02:25:43",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Knowledge Work Plugins",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "projectIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "featurePoints": [
-          "核心线索：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
