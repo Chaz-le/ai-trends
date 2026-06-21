@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-20T07:57:21.1973815+00:00",
+  "generatedAt": "2026-06-21T05:11:59.1288466+00:00",
   "weekly": [
     {
       "owner": "chopratejas",
@@ -33,11 +33,11 @@
       ],
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
-      "starsGained": 12793,
-      "totalStars": 39653,
-      "forks": 2717,
+      "starsGained": 14982,
+      "totalStars": 42206,
+      "forks": 2908,
       "license": "Apache-2.0",
-      "pushedAt": "06/20/2026 01:14:44",
+      "pushedAt": "06/21/2026 04:26:29",
       "tags": [
         "agent",
         "llm",
@@ -91,9 +91,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 8324,
-      "totalStars": 35317,
-      "forks": 2811,
+      "starsGained": 8483,
+      "totalStars": 36085,
+      "forks": 2871,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
       "tags": [
@@ -136,11 +136,11 @@
       ],
       "homepage": "",
       "language": "Shell",
-      "starsGained": 7170,
-      "totalStars": 63651,
-      "forks": 6893,
+      "starsGained": 6332,
+      "totalStars": 64299,
+      "forks": 6945,
       "license": "MIT",
-      "pushedAt": "06/19/2026 03:51:37",
+      "pushedAt": "06/21/2026 00:20:14",
       "tags": [
         "agent",
         "llm",
@@ -164,44 +164,6 @@
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
           "适用线索：Claude Code (recommended)"
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "SkillSpector",
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 5026,
-      "totalStars": 8426,
-      "forks": 650,
-      "license": "Apache-2.0",
-      "pushedAt": "06/16/2026 21:49:11",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "SkillSpector",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
         ]
       }
     },
@@ -236,9 +198,9 @@
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 4212,
-      "totalStars": 8595,
-      "forks": 653,
+      "starsGained": 5419,
+      "totalStars": 9519,
+      "forks": 719,
       "license": "MIT",
       "pushedAt": "06/20/2026 05:42:49",
       "tags": [
@@ -268,6 +230,81 @@
       }
     },
     {
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32313895?s=40&v=4",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4631,
+      "totalStars": 8742,
+      "forks": 677,
+      "license": "Apache-2.0",
+      "pushedAt": "06/16/2026 21:49:11",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "SkillSpector",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+        ]
+      }
+    },
+    {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "topics": [],
+      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+      "language": "Python",
+      "starsGained": 3655,
+      "totalStars": 24611,
+      "forks": 2333,
+      "license": "Apache-2.0",
+      "pushedAt": "06/20/2026 10:51:40",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "TimesFM",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
       "owner": "freeCodeCamp",
       "repo": "freeCodeCamp",
       "fullName": "freeCodeCamp/freeCodeCamp",
@@ -293,9 +330,9 @@
       ],
       "homepage": "https://contribute.freecodecamp.org",
       "language": "TypeScript",
-      "starsGained": 3232,
-      "totalStars": 449880,
-      "forks": 45166,
+      "starsGained": 3308,
+      "totalStars": 449982,
+      "forks": 45176,
       "license": "BSD-3-Clause",
       "pushedAt": "06/19/2026 14:53:38",
       "tags": [
@@ -337,9 +374,9 @@
       ],
       "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
       "language": "",
-      "starsGained": 3025,
-      "totalStars": 19904,
-      "forks": 2027,
+      "starsGained": 2605,
+      "totalStars": 20137,
+      "forks": 2044,
       "license": "MIT",
       "pushedAt": "06/06/2026 14:12:26",
       "tags": [
@@ -384,9 +421,9 @@
       ],
       "homepage": "https://www.open-notebook.ai",
       "language": "TypeScript",
-      "starsGained": 2381,
-      "totalStars": 31885,
-      "forks": 3620,
+      "starsGained": 2143,
+      "totalStars": 32086,
+      "forks": 3633,
       "license": "MIT",
       "pushedAt": "06/18/2026 13:26:00",
       "tags": [
@@ -441,11 +478,11 @@
       ],
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
-      "starsGained": 1682,
-      "totalStars": 43694,
-      "forks": 7243,
+      "starsGained": 1866,
+      "totalStars": 43936,
+      "forks": 7278,
       "license": "CC0-1.0",
-      "pushedAt": "06/20/2026 00:26:41",
+      "pushedAt": "06/21/2026 04:30:07",
       "tags": [
         "agent",
         "llm",
@@ -474,42 +511,37 @@
       }
     },
     {
-      "owner": "kenn-io",
-      "repo": "agentsview",
-      "fullName": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
+      "owner": "withastro",
+      "repo": "flue",
+      "fullName": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/622227?s=40&v=4",
+      "description": "The sandbox agent framework.",
       "topics": [],
-      "homepage": "https://agentsview.io",
-      "language": "Go",
-      "starsGained": 955,
-      "totalStars": 2991,
-      "forks": 252,
-      "license": "MIT",
-      "pushedAt": "06/20/2026 01:42:54",
+      "homepage": "https://www.flueframework.com",
+      "language": "TypeScript",
+      "starsGained": 1012,
+      "totalStars": 6139,
+      "forks": 346,
+      "license": "Apache-2.0",
+      "pushedAt": "06/20/2026 19:04:34",
       "tags": [
-        "agent",
-        "llm",
-        "coding"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "agentsview",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "readmeTitle": "Flue — The Agent Harness Framework",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：The sandbox agent framework.",
+        "projectIntro": "该项目的 GitHub 简介是：The sandbox agent framework.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：The sandbox agent framework."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：On first run, agentsview discovers sessions from every supported agent on your"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -534,11 +566,11 @@
       ],
       "homepage": "https://lmcache.ai/",
       "language": "Python",
-      "starsGained": 876,
-      "totalStars": 9433,
-      "forks": 1355,
+      "starsGained": 713,
+      "totalStars": 9487,
+      "forks": 1357,
       "license": "Apache-2.0",
-      "pushedAt": "06/20/2026 02:22:19",
+      "pushedAt": "06/20/2026 10:31:19",
       "tags": [
         "llm",
         "ml"
@@ -591,11 +623,11 @@
       ],
       "homepage": "https://understand-anything.com",
       "language": "TypeScript",
-      "starsGained": 49015,
-      "totalStars": 64216,
-      "forks": 5308,
+      "starsGained": 49332,
+      "totalStars": 64740,
+      "forks": 5361,
       "license": "MIT",
-      "pushedAt": "06/19/2026 03:37:55",
+      "pushedAt": "06/20/2026 11:07:28",
       "tags": [
         "agent",
         "llm",
@@ -633,11 +665,11 @@
       "topics": [],
       "homepage": "https://colbymchenry.github.io/codegraph/",
       "language": "TypeScript",
-      "starsGained": 46315,
-      "totalStars": 52126,
-      "forks": 3173,
+      "starsGained": 44426,
+      "totalStars": 52370,
+      "forks": 3185,
       "license": "MIT",
-      "pushedAt": "06/19/2026 21:43:12",
+      "pushedAt": "06/21/2026 02:33:12",
       "tags": [
         "agent",
         "llm",
@@ -694,11 +726,11 @@
       ],
       "homepage": "https://headroom-docs.vercel.app/docs",
       "language": "Python",
-      "starsGained": 34870,
-      "totalStars": 39653,
-      "forks": 2717,
+      "starsGained": 38927,
+      "totalStars": 42206,
+      "forks": 2908,
       "license": "Apache-2.0",
-      "pushedAt": "06/20/2026 01:14:44",
+      "pushedAt": "06/21/2026 04:26:29",
       "tags": [
         "agent",
         "llm",
@@ -742,9 +774,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 33118,
-      "totalStars": 90170,
-      "forks": 12970,
+      "starsGained": 33448,
+      "totalStars": 90433,
+      "forks": 13008,
       "license": "MIT",
       "pushedAt": "06/18/2026 12:40:27",
       "tags": [
@@ -789,9 +821,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 32693,
-      "totalStars": 156224,
-      "forks": 10867,
+      "starsGained": 33004,
+      "totalStars": 156608,
+      "forks": 10902,
       "license": "MIT",
       "pushedAt": "05/26/2026 22:41:34",
       "tags": [
@@ -841,11 +873,11 @@
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 29001,
-      "totalStars": 47266,
-      "forks": 3285,
+      "starsGained": 29397,
+      "totalStars": 47904,
+      "forks": 3330,
       "license": "MIT",
-      "pushedAt": "06/17/2026 14:45:14",
+      "pushedAt": "06/20/2026 23:05:00",
       "tags": [
         "agent",
         "llm",
@@ -901,9 +933,9 @@
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 26530,
-      "totalStars": 34855,
-      "forks": 5683,
+      "starsGained": 26087,
+      "totalStars": 35131,
+      "forks": 5732,
       "license": "MIT",
       "pushedAt": "06/14/2026 16:42:36",
       "tags": [
@@ -961,11 +993,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 18741,
-      "totalStars": 44865,
-      "forks": 3696,
+      "starsGained": 19041,
+      "totalStars": 45132,
+      "forks": 3727,
       "license": "MIT",
-      "pushedAt": "06/18/2026 17:25:58",
+      "pushedAt": "06/21/2026 04:14:05",
       "tags": [
         "agent",
         "llm",
@@ -1018,9 +1050,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 15107,
-      "totalStars": 35317,
-      "forks": 2811,
+      "starsGained": 15755,
+      "totalStars": 36085,
+      "forks": 2871,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
       "tags": [
@@ -1077,11 +1109,11 @@
       ],
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 10210,
-      "totalStars": 16842,
-      "forks": 2038,
+      "starsGained": 10540,
+      "totalStars": 17123,
+      "forks": 2075,
       "license": "Apache-2.0",
-      "pushedAt": "06/01/2026 10:15:48",
+      "pushedAt": "06/20/2026 14:44:32",
       "tags": [
         "agent",
         "llm",
@@ -1117,11 +1149,11 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 9069,
-      "totalStars": 21421,
-      "forks": 2505,
+      "starsGained": 9203,
+      "totalStars": 21549,
+      "forks": 2518,
       "license": "Apache-2.0",
-      "pushedAt": "06/20/2026 00:22:15",
+      "pushedAt": "06/21/2026 01:38:20",
       "tags": [
         "llm"
       ],
@@ -1143,57 +1175,50 @@
       }
     },
     {
-      "owner": "can1357",
-      "repo": "oh-my-pi",
-      "fullName": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "topics": [
-        "ai-agent",
-        "ai-coding-agent",
-        "anthropic",
-        "bun",
-        "claude",
-        "cli",
-        "coding-assistant",
-        "llm",
-        "mcp",
-        "multi-provider",
-        "openai",
-        "rust",
-        "terminal",
-        "tui",
-        "typescript"
+        "agent-skill-repository",
+        "agent-skills",
+        "agentic-skills",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-cowork-plugin",
+        "product-management"
       ],
-      "homepage": "https://omp.sh",
-      "language": "TypeScript",
-      "starsGained": 8619,
-      "totalStars": 13575,
-      "forks": 1201,
+      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+      "language": "",
+      "starsGained": 8655,
+      "totalStars": 20137,
+      "forks": 2044,
       "license": "MIT",
-      "pushedAt": "06/20/2026 07:55:45",
+      "pushedAt": "06/06/2026 14:12:26",
       "tags": [
         "agent",
         "llm",
-        "coding"
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "zsh — add to /.zshrc (or write the output into a file on your $fpath)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "PM Skills Marketplace: The AI Operating System for Better Product Decisions",
+        "category": "pm-skills",
+        "zhTitle": "产品经理 Agent 技能市场",
+        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
+          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
+          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
+          "适用线索：mkdir -p .opencode/skills/"
         ]
       }
     }
