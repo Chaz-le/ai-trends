@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:40:42.507Z",
+  "generatedAt": "2026-06-22T05:24:40.224Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -498,6 +498,96 @@
         "anthropics/knowledge-work-plugins": {
           "stars": 21566,
           "periodGain": 9203
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "generatedAt": "2026-06-22T05:24:26.9727423+00:00",
+      "repos": {
+        "chopratejas/headroom": {
+          "stars": 45027,
+          "periodGain": 41093
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 37098,
+          "periodGain": 16585
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 10584,
+          "periodGain": 6372
+        },
+        "addyosmani/agent-skills": {
+          "stars": 64909,
+          "periodGain": 5610
+        },
+        "google-research/timesfm": {
+          "stars": 24948,
+          "periodGain": 4114
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 9121,
+          "periodGain": 4055
+        },
+        "freeCodeCamp/freeCodeCamp": {
+          "stars": 450110,
+          "periodGain": 3294
+        },
+        "calesthio/OpenMontage": {
+          "stars": 9345,
+          "periodGain": 2867
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 44604,
+          "periodGain": 1984
+        },
+        "withastro/flue": {
+          "stars": 6326,
+          "periodGain": 1272
+        },
+        "LMCache/LMCache": {
+          "stars": 9562,
+          "periodGain": 506
+        },
+        "Egonex-AI/Understand-Anything": {
+          "stars": 65570,
+          "periodGain": 49339
+        },
+        "colbymchenry/codegraph": {
+          "stars": 52761,
+          "periodGain": 40915
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 90909,
+          "periodGain": 33719
+        },
+        "microsoft/markitdown": {
+          "stars": 157296,
+          "periodGain": 33203
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 48569,
+          "periodGain": 29925
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 35427,
+          "periodGain": 25113
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 45471,
+          "periodGain": 19261
+        },
+        "esengine/DeepSeek-Reasonix": {
+          "stars": 23657,
+          "periodGain": 18527
+        },
+        "mukul975/Anthropic-Cybersecurity-Skills": {
+          "stars": 17871,
+          "periodGain": 10828
+        },
+        "anthropics/knowledge-work-plugins": {
+          "stars": 21669,
+          "periodGain": 9296
         }
       }
     }
