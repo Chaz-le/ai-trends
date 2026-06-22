@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T06:40:53.803Z",
+  "generatedAt": "2026-06-22T10:14:48.155Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -503,74 +503,58 @@
     },
     {
       "date": "2026-06-22",
-      "generatedAt": "2026-06-22T06:40:34.2674835+00:00",
+      "generatedAt": "2026-06-22T10:14:26.1410315+00:00",
       "repos": {
-        "chopratejas/headroom": {
-          "stars": 45240,
-          "periodGain": 41093
-        },
         "Panniantong/Agent-Reach": {
-          "stars": 37171,
+          "stars": 37408,
           "periodGain": 16585
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 10688,
+          "stars": 10902,
           "periodGain": 6372
         },
         "addyosmani/agent-skills": {
-          "stars": 64957,
+          "stars": 65079,
           "periodGain": 5610
         },
         "google-research/timesfm": {
-          "stars": 24964,
+          "stars": 25007,
           "periodGain": 4114
         },
         "NVIDIA/SkillSpector": {
-          "stars": 9140,
+          "stars": 9217,
           "periodGain": 4055
         },
         "freeCodeCamp/freeCodeCamp": {
-          "stars": 450120,
+          "stars": 450151,
           "periodGain": 3294
         },
         "calesthio/OpenMontage": {
-          "stars": 9566,
+          "stars": 10200,
           "periodGain": 2867
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 44673,
+          "stars": 44825,
           "periodGain": 1984
         },
         "withastro/flue": {
-          "stars": 6333,
+          "stars": 6356,
           "periodGain": 1272
         },
         "LMCache/LMCache": {
-          "stars": 9571,
+          "stars": 9586,
           "periodGain": 506
         },
         "Egonex-AI/Understand-Anything": {
-          "stars": 65629,
+          "stars": 65807,
           "periodGain": 49339
         },
-        "colbymchenry/codegraph": {
-          "stars": 52814,
-          "periodGain": 40915
-        },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 90935,
+          "stars": 91057,
           "periodGain": 33719
         },
-        "microsoft/markitdown": {
-          "stars": 157331,
-          "periodGain": 33203
-        },
-        "Leonxlnx/taste-skill": {
-          "stars": 48606,
-          "periodGain": 29925
-        },
         "esengine/DeepSeek-Reasonix": {
-          "stars": 23671,
+          "stars": 23734,
           "periodGain": 18527
         }
       }

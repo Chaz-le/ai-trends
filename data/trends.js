@@ -1,68 +1,7 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-22T06:40:34.2674835+00:00",
+  "generatedAt": "2026-06-22T10:14:26.1410315+00:00",
   "weekly": [
-    {
-      "owner": "chopratejas",
-      "repo": "headroom",
-      "fullName": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "topics": [
-        "agent",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "compression",
-        "context-engineering",
-        "context-window",
-        "cursor",
-        "fastapi",
-        "langchain",
-        "llm",
-        "mcp",
-        "openai",
-        "prompt-engineering",
-        "proxy",
-        "python",
-        "rag",
-        "token-optimization",
-        "tokens",
-        "typescript"
-      ],
-      "homepage": "https://headroom-docs.vercel.app/docs",
-      "language": "Python",
-      "starsGained": 16102,
-      "totalStars": 45240,
-      "forks": 3148,
-      "license": "Apache-2.0",
-      "pushedAt": "06/22/2026 05:57:31",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
-      ],
-      "zhSummary": "功能：在工具输出、日志、RAG 片段和文件内容进入 LLM 前做压缩，可作为库、CLI 或 MCP 服务器接入。使用场景：适合 Claude Code、Codex、Cursor 等 Agent 工作流降低 token 成本、减少长上下文噪音，并保留关键信息。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "or: from headroom import compress inline library",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
     {
       "owner": "Panniantong",
       "repo": "Agent-Reach",
@@ -92,8 +31,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 8233,
-      "totalStars": 37171,
-      "forks": 2960,
+      "totalStars": 37408,
+      "forks": 2973,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
       "tags": [
@@ -151,10 +90,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 6372,
-      "totalStars": 10688,
-      "forks": 804,
+      "totalStars": 10902,
+      "forks": 817,
       "license": "MIT",
-      "pushedAt": "06/21/2026 19:50:33",
+      "pushedAt": "06/22/2026 07:19:51",
       "tags": [
         "agent",
         "llm",
@@ -199,8 +138,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 5610,
-      "totalStars": 64957,
-      "forks": 7012,
+      "totalStars": 65079,
+      "forks": 7025,
       "license": "MIT",
       "pushedAt": "06/21/2026 19:08:49",
       "tags": [
@@ -240,8 +179,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 4114,
-      "totalStars": 24964,
-      "forks": 2375,
+      "totalStars": 25007,
+      "forks": 2381,
       "license": "Apache-2.0",
       "pushedAt": "06/20/2026 10:51:40",
       "tags": [
@@ -277,8 +216,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4055,
-      "totalStars": 9140,
-      "forks": 717,
+      "totalStars": 9217,
+      "forks": 720,
       "license": "Apache-2.0",
       "pushedAt": "06/16/2026 21:49:11",
       "tags": [
@@ -331,10 +270,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://contribute.freecodecamp.org",
       "language": "TypeScript",
       "starsGained": 3294,
-      "totalStars": 450120,
-      "forks": 45195,
+      "totalStars": 450151,
+      "forks": 45199,
       "license": "BSD-3-Clause",
-      "pushedAt": "06/22/2026 04:18:13",
+      "pushedAt": "06/22/2026 09:41:14",
       "tags": [
         "coding",
         "learning"
@@ -387,8 +326,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 2867,
-      "totalStars": 9566,
-      "forks": 1361,
+      "totalStars": 10200,
+      "forks": 1401,
       "license": "AGPL-3.0",
       "pushedAt": "05/07/2026 12:12:36",
       "tags": [
@@ -450,8 +389,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
       "starsGained": 1984,
-      "totalStars": 44673,
-      "forks": 7366,
+      "totalStars": 44825,
+      "forks": 7390,
       "license": "CC0-1.0",
       "pushedAt": "06/22/2026 00:28:36",
       "tags": [
@@ -492,8 +431,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.flueframework.com",
       "language": "TypeScript",
       "starsGained": 1272,
-      "totalStars": 6333,
-      "forks": 355,
+      "totalStars": 6356,
+      "forks": 356,
       "license": "Apache-2.0",
       "pushedAt": "06/22/2026 06:12:49",
       "tags": [
@@ -538,10 +477,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://lmcache.ai/",
       "language": "Python",
       "starsGained": 506,
-      "totalStars": 9571,
-      "forks": 1367,
+      "totalStars": 9586,
+      "forks": 1371,
       "license": "Apache-2.0",
-      "pushedAt": "06/21/2026 11:00:25",
+      "pushedAt": "06/22/2026 10:05:38",
       "tags": [
         "llm",
         "ml"
@@ -595,8 +534,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://understand-anything.com",
       "language": "TypeScript",
       "starsGained": 49339,
-      "totalStars": 65629,
-      "forks": 5447,
+      "totalStars": 65807,
+      "forks": 5455,
       "license": "MIT",
       "pushedAt": "06/20/2026 11:07:28",
       "tags": [
@@ -627,67 +566,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "chopratejas",
-      "repo": "headroom",
-      "fullName": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "topics": [
-        "agent",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "compression",
-        "context-engineering",
-        "context-window",
-        "cursor",
-        "fastapi",
-        "langchain",
-        "llm",
-        "mcp",
-        "openai",
-        "prompt-engineering",
-        "proxy",
-        "python",
-        "rag",
-        "token-optimization",
-        "tokens",
-        "typescript"
-      ],
-      "homepage": "https://headroom-docs.vercel.app/docs",
-      "language": "Python",
-      "starsGained": 41093,
-      "totalStars": 45240,
-      "forks": 3148,
-      "license": "Apache-2.0",
-      "pushedAt": "06/22/2026 05:57:31",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
-      ],
-      "zhSummary": "功能：在工具输出、日志、RAG 片段和文件内容进入 LLM 前做压缩，可作为库、CLI 或 MCP 服务器接入。使用场景：适合 Claude Code、Codex、Cursor 等 Agent 工作流降低 token 成本、减少长上下文噪音，并保留关键信息。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "or: from headroom import compress inline library",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "colbymchenry",
       "repo": "codegraph",
       "fullName": "colbymchenry/codegraph",
@@ -695,13 +573,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "topics": [],
-      "homepage": "https://colbymchenry.github.io/codegraph/",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 40915,
-      "totalStars": 52814,
-      "forks": 3219,
-      "license": "MIT",
-      "pushedAt": "06/21/2026 19:36:23",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -710,8 +588,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "功能：为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围。使用场景：适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。",
       "summarySource": "preserved",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "CodeGraph",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -722,8 +600,7 @@ window.GITHUB_AI_TRENDS = {
           "把代码理解从临时扫描变成可复用上下文。"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
-          "适用线索：Ask which agent(s) to configure — auto-detects installed ones from: Claude Code, Cursor, Codex CLI, opencode, Hermes Agent, Gemini CLI, Antigravity IDE, Kiro"
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     },
@@ -746,8 +623,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 33719,
-      "totalStars": 90935,
-      "forks": 13101,
+      "totalStars": 91057,
+      "forks": 13112,
       "license": "MIT",
       "pushedAt": "06/21/2026 09:27:33",
       "tags": [
@@ -775,84 +652,22 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "fullName": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 33203,
-      "totalStars": 157331,
-      "forks": 10979,
-      "license": "MIT",
-      "pushedAt": "05/26/2026 22:41:34",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "MarkItDown",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：[all] Installs all optional dependencies"
-        ]
-      }
-    },
-    {
       "owner": "Leonxlnx",
       "repo": "taste-skill",
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-      "topics": [
-        "agent",
-        "ai",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "design",
-        "frontend",
-        "lowcode",
-        "nocode",
-        "skill",
-        "skills",
-        "vibecoding"
-      ],
-      "homepage": "https://tasteskill.dev",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 29925,
-      "totalStars": 48606,
-      "forks": 3386,
-      "license": "MIT",
-      "pushedAt": "06/20/2026 23:05:00",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "learning"
+        "agent"
       ],
       "zhSummary": "功能：面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案。使用场景：适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。",
       "summarySource": "preserved",
@@ -974,10 +789,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://reasonix.io/",
       "language": "Go",
       "starsGained": 18527,
-      "totalStars": 23671,
-      "forks": 1437,
+      "totalStars": 23734,
+      "forks": 1440,
       "license": "MIT",
-      "pushedAt": "06/22/2026 06:20:21",
+      "pushedAt": "06/22/2026 09:32:51",
       "tags": [
         "agent",
         "llm",
@@ -987,7 +802,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
@@ -1032,8 +847,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 16585,
-      "totalStars": 37171,
-      "forks": 2960,
+      "totalStars": 37408,
+      "forks": 2973,
       "license": "MIT",
       "pushedAt": "06/16/2026 12:45:59",
       "tags": [
@@ -1131,6 +946,81 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "topics": [],
+      "homepage": "",
+      "language": "",
+      "starsGained": 8866,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "pm-skills",
+        "zhTitle": "产品经理 Agent 技能市场",
+        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "featurePoints": [
+          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
+          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
+          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
+        ],
+        "scenarioPoints": [
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
+        ]
+      }
+    },
+    {
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "fullName": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 8209,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
