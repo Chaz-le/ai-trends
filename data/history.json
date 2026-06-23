@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:16:55.197Z",
+  "generatedAt": "2026-06-23T05:14:11.773Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -561,79 +561,23 @@
     },
     {
       "date": "2026-06-23",
-      "generatedAt": "2026-06-23T04:16:32.2710597+00:00",
+      "generatedAt": "2026-06-23T05:13:56.4610895+00:00",
       "repos": {
         "Panniantong/Agent-Reach": {
-          "stars": 37983,
+          "stars": 38012,
           "periodGain": 17676
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 11820,
-          "periodGain": 7560
+          "stars": 11864,
+          "periodGain": 8616
         },
         "calesthio/OpenMontage": {
-          "stars": 12682,
+          "stars": 12804,
           "periodGain": 6089
         },
-        "addyosmani/agent-skills": {
-          "stars": 65491,
-          "periodGain": 5277
-        },
         "google-research/timesfm": {
-          "stars": 25170,
+          "stars": 25177,
           "periodGain": 4259
-        },
-        "NVIDIA/SkillSpector": {
-          "stars": 9443,
-          "periodGain": 3302
-        },
-        "freeCodeCamp/freeCodeCamp": {
-          "stars": 450249,
-          "periodGain": 2670
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 45093,
-          "periodGain": 2612
-        },
-        "koala73/worldmonitor": {
-          "stars": 58656,
-          "periodGain": 2090
-        },
-        "withastro/flue": {
-          "stars": 6441,
-          "periodGain": 1413
-        },
-        "LMCache/LMCache": {
-          "stars": 9636,
-          "periodGain": 503
-        },
-        "Egonex-AI/Understand-Anything": {
-          "stars": 66265,
-          "periodGain": 48730
-        },
-        "colbymchenry/codegraph": {
-          "stars": 53277,
-          "periodGain": 37636
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 91407,
-          "periodGain": 34221
-        },
-        "microsoft/markitdown": {
-          "stars": 157833,
-          "periodGain": 33664
-        },
-        "Leonxlnx/taste-skill": {
-          "stars": 49165,
-          "periodGain": 30554
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 45854,
-          "periodGain": 19626
-        },
-        "esengine/DeepSeek-Reasonix": {
-          "stars": 23917,
-          "periodGain": 18633
         }
       }
     }
