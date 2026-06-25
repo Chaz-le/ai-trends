@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-25T04:19:31.8390293+00:00",
+  "generatedAt": "2026-06-25T05:15:06.0672584+00:00",
   "weekly": [
     {
       "owner": "calesthio",
@@ -33,8 +33,8 @@
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 12948,
-      "totalStars": 20005,
-      "forks": 2261,
+      "totalStars": 20116,
+      "forks": 2272,
       "license": "AGPL-3.0",
       "pushedAt": "06/24/2026 17:55:36",
       "tags": [
@@ -96,8 +96,8 @@
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 9589,
-      "totalStars": 14246,
-      "forks": 1048,
+      "totalStars": 14267,
+      "forks": 1052,
       "license": "MIT",
       "pushedAt": "06/24/2026 06:35:12",
       "tags": [
@@ -155,8 +155,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 6752,
-      "totalStars": 40026,
-      "forks": 3172,
+      "totalStars": 40078,
+      "forks": 3175,
       "license": "MIT",
       "pushedAt": "06/23/2026 13:04:55",
       "tags": [
@@ -201,8 +201,8 @@
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 5185,
-      "totalStars": 48799,
-      "forks": 43089,
+      "totalStars": 48836,
+      "forks": 43103,
       "license": "MIT",
       "pushedAt": "06/24/2026 15:42:47",
       "tags": [
@@ -258,8 +258,8 @@
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 4304,
-      "totalStars": 20649,
-      "forks": 2398,
+      "totalStars": 20664,
+      "forks": 2400,
       "license": "Apache-2.0",
       "pushedAt": "06/22/2026 17:11:47",
       "tags": [
@@ -298,8 +298,8 @@
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 3915,
-      "totalStars": 25479,
-      "forks": 2423,
+      "totalStars": 25484,
+      "forks": 2424,
       "license": "Apache-2.0",
       "pushedAt": "06/23/2026 18:50:53",
       "tags": [
@@ -344,8 +344,8 @@
       "homepage": "https://voicebox.sh",
       "language": "TypeScript",
       "starsGained": 3583,
-      "totalStars": 33925,
-      "forks": 4085,
+      "totalStars": 33936,
+      "forks": 4086,
       "license": "MIT",
       "pushedAt": "04/26/2026 20:29:17",
       "tags": [
@@ -383,8 +383,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2980,
-      "totalStars": 10424,
-      "forks": 829,
+      "totalStars": 10435,
+      "forks": 831,
       "license": "Apache-2.0",
       "pushedAt": "06/25/2026 00:23:50",
       "tags": [
@@ -431,10 +431,10 @@
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 2899,
-      "totalStars": 59620,
-      "forks": 9324,
+      "totalStars": 59632,
+      "forks": 9325,
       "license": "NOASSERTION",
-      "pushedAt": "06/24/2026 18:19:32",
+      "pushedAt": "06/25/2026 05:04:20",
       "tags": [
         "agent"
       ],
@@ -488,7 +488,7 @@
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
       "starsGained": 2662,
-      "totalStars": 45806,
+      "totalStars": 45819,
       "forks": 7520,
       "license": "CC0-1.0",
       "pushedAt": "06/25/2026 00:27:10",
@@ -530,7 +530,7 @@
       "homepage": "https://www.flueframework.com",
       "language": "TypeScript",
       "starsGained": 1415,
-      "totalStars": 6633,
+      "totalStars": 6636,
       "forks": 371,
       "license": "Apache-2.0",
       "pushedAt": "06/24/2026 05:22:03",
@@ -584,10 +584,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 1397,
-      "totalStars": 6931,
+      "totalStars": 6951,
       "forks": 500,
       "license": "MIT",
-      "pushedAt": "06/25/2026 04:16:06",
+      "pushedAt": "06/25/2026 05:14:47",
       "tags": [
         "agent",
         "llm",
@@ -643,7 +643,7 @@
       "homepage": "https://understand-anything.com",
       "language": "TypeScript",
       "starsGained": 43940,
-      "totalStars": 67570,
+      "totalStars": 67584,
       "forks": 5601,
       "license": "MIT",
       "pushedAt": "06/23/2026 20:29:48",
@@ -693,8 +693,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 35076,
-      "totalStars": 92315,
-      "forks": 13321,
+      "totalStars": 92325,
+      "forks": 13322,
       "license": "MIT",
       "pushedAt": "06/24/2026 11:04:45",
       "tags": [
@@ -740,8 +740,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 34276,
-      "totalStars": 158828,
-      "forks": 11100,
+      "totalStars": 158840,
+      "forks": 11102,
       "license": "MIT",
       "pushedAt": "06/24/2026 15:32:46",
       "tags": [
@@ -778,7 +778,7 @@
       "homepage": "https://colbymchenry.github.io/codegraph/",
       "language": "TypeScript",
       "starsGained": 33428,
-      "totalStars": 54265,
+      "totalStars": 54284,
       "forks": 3325,
       "license": "MIT",
       "pushedAt": "06/24/2026 22:20:10",
@@ -832,7 +832,7 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 31423,
-      "totalStars": 50429,
+      "totalStars": 50449,
       "forks": 3488,
       "license": "MIT",
       "pushedAt": "06/20/2026 23:05:00",
@@ -892,10 +892,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 20137,
-      "totalStars": 46473,
+      "totalStars": 46486,
       "forks": 3852,
       "license": "MIT",
-      "pushedAt": "06/25/2026 04:15:51",
+      "pushedAt": "06/25/2026 05:10:03",
       "tags": [
         "agent",
         "llm",
@@ -949,8 +949,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 19348,
-      "totalStars": 40026,
-      "forks": 3172,
+      "totalStars": 40078,
+      "forks": 3175,
       "license": "MIT",
       "pushedAt": "06/23/2026 13:04:55",
       "tags": [
@@ -1004,8 +1004,8 @@
       "homepage": "http://reasonix.io/",
       "language": "Go",
       "starsGained": 18341,
-      "totalStars": 24467,
-      "forks": 1488,
+      "totalStars": 24474,
+      "forks": 1487,
       "license": "MIT",
       "pushedAt": "06/25/2026 03:55:17",
       "tags": [
@@ -1064,8 +1064,8 @@
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 13960,
-      "totalStars": 20005,
-      "forks": 2261,
+      "totalStars": 20116,
+      "forks": 2272,
       "license": "AGPL-3.0",
       "pushedAt": "06/24/2026 17:55:36",
       "tags": [
@@ -1127,8 +1127,8 @@
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 12570,
-      "totalStars": 20649,
-      "forks": 2398,
+      "totalStars": 20664,
+      "forks": 2400,
       "license": "Apache-2.0",
       "pushedAt": "06/22/2026 17:11:47",
       "tags": [
@@ -1188,8 +1188,8 @@
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 11171,
-      "totalStars": 14246,
-      "forks": 1048,
+      "totalStars": 14267,
+      "forks": 1052,
       "license": "MIT",
       "pushedAt": "06/24/2026 06:35:12",
       "tags": [
@@ -1236,7 +1236,7 @@
       "homepage": "https://www.open-notebook.ai",
       "language": "TypeScript",
       "starsGained": 9484,
-      "totalStars": 33169,
+      "totalStars": 33172,
       "forks": 3739,
       "license": "MIT",
       "pushedAt": "06/23/2026 20:24:42",
@@ -1246,7 +1246,7 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -1256,7 +1256,8 @@
           "核心线索：An Open Source implementation of Notebook LM with more flexibility and features"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Go to Models and choose your provider (OpenAI, Anthropic, Google, etc.)"
         ]
       }
     }
