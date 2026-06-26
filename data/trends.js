@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-26T04:35:59.6227689+00:00",
+  "generatedAt": "2026-06-26T05:20:52.6360991+00:00",
   "weekly": [
     {
       "owner": "calesthio",
@@ -33,8 +33,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 15793,
-      "totalStars": 22400,
-      "forks": 2505,
+      "totalStars": 22443,
+      "forks": 2508,
       "license": "AGPL-3.0",
       "pushedAt": "06/25/2026 23:56:27",
       "tags": [
@@ -75,8 +75,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 11246,
-      "totalStars": 146537,
-      "forks": 12678,
+      "totalStars": 146556,
+      "forks": 12682,
       "license": "MIT",
       "pushedAt": "06/25/2026 11:48:40",
       "tags": [
@@ -135,10 +135,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 8024,
-      "totalStars": 14892,
+      "totalStars": 14908,
       "forks": 1094,
       "license": "MIT",
-      "pushedAt": "06/25/2026 23:49:30",
+      "pushedAt": "06/26/2026 05:01:32",
       "tags": [
         "agent",
         "llm",
@@ -194,8 +194,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6830,
-      "totalStars": 41440,
-      "forks": 3284,
+      "totalStars": 41470,
+      "forks": 3289,
       "license": "MIT",
       "pushedAt": "06/23/2026 13:04:55",
       "tags": [
@@ -240,8 +240,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 6383,
-      "totalStars": 49663,
-      "forks": 43555,
+      "totalStars": 49688,
+      "forks": 43566,
       "license": "MIT",
       "pushedAt": "06/25/2026 14:55:08",
       "tags": [
@@ -297,8 +297,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 4596,
-      "totalStars": 21368,
-      "forks": 2459,
+      "totalStars": 21386,
+      "forks": 2464,
       "license": "Apache-2.0",
       "pushedAt": "06/22/2026 17:11:47",
       "tags": [
@@ -346,8 +346,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicebox.sh",
       "language": "TypeScript",
       "starsGained": 3688,
-      "totalStars": 34254,
-      "forks": 4121,
+      "totalStars": 34269,
+      "forks": 4124,
       "license": "MIT",
       "pushedAt": "04/26/2026 20:29:17",
       "tags": [
@@ -404,7 +404,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deerflow.tech",
       "language": "Python",
       "starsGained": 3242,
-      "totalStars": 74765,
+      "totalStars": 74773,
       "forks": 10082,
       "license": "MIT",
       "pushedAt": "06/26/2026 03:32:48",
@@ -453,8 +453,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 3059,
-      "totalStars": 59882,
-      "forks": 9349,
+      "totalStars": 59899,
+      "forks": 9352,
       "license": "NOASSERTION",
       "pushedAt": "06/26/2026 02:57:17",
       "tags": [
@@ -489,7 +489,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 3040,
-      "totalStars": 25586,
+      "totalStars": 25591,
       "forks": 2431,
       "license": "Apache-2.0",
       "pushedAt": "06/23/2026 18:50:53",
@@ -547,7 +547,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
       "starsGained": 2720,
-      "totalStars": 46106,
+      "totalStars": 46113,
       "forks": 7558,
       "license": "CC0-1.0",
       "pushedAt": "06/26/2026 00:28:13",
@@ -608,10 +608,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 1949,
-      "totalStars": 7575,
+      "totalStars": 7592,
       "forks": 533,
       "license": "MIT",
-      "pushedAt": "06/26/2026 04:27:08",
+      "pushedAt": "06/26/2026 05:18:10",
       "tags": [
         "agent",
         "llm",
@@ -645,25 +645,44 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codebase-analysis",
+        "codex",
+        "codex-skills",
+        "developer-tools-ai-agent",
+        "gemini-cli-skills",
+        "karpathy-llm-wiki",
+        "knowledge-base",
+        "knowledge-graph",
+        "memory",
+        "opencode-skills",
+        "pi-agent",
+        "understandcode",
+        "vibe-coding"
+      ],
+      "homepage": "https://understand-anything.com",
       "language": "TypeScript",
       "starsGained": 38487,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 68049,
+      "forks": 5633,
+      "license": "MIT",
+      "pushedAt": "06/23/2026 20:29:48",
       "tags": [
         "agent",
         "llm",
         "rag",
-        "coding"
+        "coding",
+        "learning"
       ],
       "zhSummary": "功能：把代码库、知识库或文档转换成可搜索、可探索、可问答的交互式知识图谱。使用场景：适合快速理解陌生项目、梳理文档体系、做知识库导航和给团队交接复杂资料。",
       "summarySource": "preserved",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Generate Chinese content (知识图节点描述和 Dashboard UI)",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -674,7 +693,8 @@ window.GITHUB_AI_TRENDS = {
           "把代码理解从临时扫描变成可复用上下文。"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
+          "适用线索：A multi-agent pipeline scans your project, extracts every file, function, class, and dependency, then builds a knowledge graph saved to .understand-anything/knowledge-graph.json."
         ]
       }
     },
@@ -697,8 +717,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 35397,
-      "totalStars": 92688,
-      "forks": 13383,
+      "totalStars": 92704,
+      "forks": 13385,
       "license": "MIT",
       "pushedAt": "06/24/2026 11:04:45",
       "tags": [
@@ -726,28 +746,90 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "fullName": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 34611,
+      "totalStars": 159258,
+      "forks": 11137,
+      "license": "MIT",
+      "pushedAt": "06/24/2026 15:32:46",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "MarkItDown",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "适用线索：[all] Installs all optional dependencies"
+        ]
+      }
+    },
+    {
       "owner": "Leonxlnx",
       "repo": "taste-skill",
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "topics": [],
-      "homepage": "",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "design",
+        "frontend",
+        "lowcode",
+        "nocode",
+        "skill",
+        "skills",
+        "vibecoding"
+      ],
+      "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 31799,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 51106,
+      "forks": 3514,
+      "license": "MIT",
+      "pushedAt": "06/20/2026 23:05:00",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "功能：面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案。使用场景：适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。",
       "summarySource": "preserved",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Taste Skill",
         "category": "taste-skill",
         "zhTitle": "AI 生成质量约束技能",
         "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
@@ -770,13 +852,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://colbymchenry.github.io/codegraph/",
       "language": "TypeScript",
       "starsGained": 30518,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 54688,
+      "forks": 3357,
+      "license": "MIT",
+      "pushedAt": "06/24/2026 22:20:10",
       "tags": [
         "agent",
         "llm",
@@ -785,8 +867,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "功能：为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围。使用场景：适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。",
       "summarySource": "preserved",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "CodeGraph",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -797,7 +879,8 @@ window.GITHUB_AI_TRENDS = {
           "把代码理解从临时扫描变成可复用上下文。"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
+          "适用线索：Ask which agent(s) to configure — auto-detects installed ones from: Claude Code, Cursor, Codex CLI, opencode, Hermes Agent, Gemini CLI, Antigravity IDE, Kiro"
         ]
       }
     },
@@ -830,8 +913,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 20822,
-      "totalStars": 41440,
-      "forks": 3284,
+      "totalStars": 41470,
+      "forks": 3289,
       "license": "MIT",
       "pushedAt": "06/23/2026 13:04:55",
       "tags": [
@@ -889,8 +972,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 20428,
-      "totalStars": 46762,
-      "forks": 3877,
+      "totalStars": 46767,
+      "forks": 3878,
       "license": "MIT",
       "pushedAt": "06/26/2026 04:14:05",
       "tags": [
@@ -948,8 +1031,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 17703,
-      "totalStars": 22400,
-      "forks": 2505,
+      "totalStars": 22443,
+      "forks": 2508,
       "license": "AGPL-3.0",
       "pushedAt": "06/25/2026 23:56:27",
       "tags": [
@@ -986,22 +1069,41 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "homepage": "http://reasonix.io/",
       "language": "Go",
       "starsGained": 16846,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 24757,
+      "forks": 1499,
+      "license": "MIT",
+      "pushedAt": "06/25/2026 19:47:19",
       "tags": [
         "agent",
-        "coding"
+        "llm",
+        "coding",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
@@ -1049,8 +1151,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 12170,
-      "totalStars": 21368,
-      "forks": 2459,
+      "totalStars": 21386,
+      "forks": 2464,
       "license": "Apache-2.0",
       "pushedAt": "06/22/2026 17:11:47",
       "tags": [
@@ -1110,10 +1212,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 11956,
-      "totalStars": 14892,
+      "totalStars": 14908,
       "forks": 1094,
       "license": "MIT",
-      "pushedAt": "06/25/2026 23:49:30",
+      "pushedAt": "06/26/2026 05:01:32",
       "tags": [
         "agent",
         "llm",
@@ -1141,74 +1243,45 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "phuryn",
-      "repo": "pm-skills",
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "topics": [],
-      "homepage": "",
-      "language": "",
-      "starsGained": 9534,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "fullName": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "topics": [
+        "assistant",
+        "learning",
+        "note-taking",
+        "notebook",
+        "notes-app",
+        "self-learning"
+      ],
+      "homepage": "https://www.open-notebook.ai",
+      "language": "TypeScript",
+      "starsGained": 9696,
+      "totalStars": 33372,
+      "forks": 3747,
+      "license": "MIT",
+      "pushedAt": "06/25/2026 11:41:37",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "pm-skills",
-        "zhTitle": "产品经理 Agent 技能市场",
-        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
-        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
-        "featurePoints": [
-          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
-          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
-          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
-        ],
-        "scenarioPoints": [
-          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
-        ]
-      }
-    },
-    {
-      "owner": "hardikpandya",
-      "repo": "stop-slop",
-      "fullName": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/591262?s=40&v=4",
-      "description": "A skill file for removing AI tells from prose",
-      "topics": [],
-      "homepage": "",
-      "language": "",
-      "starsGained": 8227,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A skill file for removing AI tells from prose",
-        "projectIntro": "该项目的 GitHub 简介是：A skill file for removing AI tells from prose",
+        "zhIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
+        "projectIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
         "featurePoints": [
-          "核心线索：A skill file for removing AI tells from prose"
+          "核心线索：An Open Source implementation of Notebook LM with more flexibility and features"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Go to Models and choose your provider (OpenAI, Anthropic, Google, etc.)"
         ]
       }
     }
