@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:26:43.528Z",
+  "generatedAt": "2026-06-28T04:46:25.352Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -974,6 +974,76 @@
         "lfnovo/open-notebook": {
           "stars": 33541,
           "periodGain": 9827
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "generatedAt": "2026-06-28T04:46:00.5905797+00:00",
+      "repos": {
+        "calesthio/OpenMontage": {
+          "stars": 25504,
+          "periodGain": 20575
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 43616,
+          "periodGain": 22848
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 17927,
+          "periodGain": 13731
+        },
+        "ZhuLinsen/daily_stock_analysis": {
+          "stars": 50630,
+          "periodGain": 7137
+        },
+        "google-labs-code/design.md": {
+          "stars": 22440,
+          "periodGain": 6014
+        },
+        "topoteretes/cognee": {
+          "stars": 24103,
+          "periodGain": 5519
+        },
+        "mukul975/Anthropic-Cybersecurity-Skills": {
+          "stars": 22259,
+          "periodGain": 11529
+        },
+        "JCodesMore/ai-website-cloner-template": {
+          "stars": 22233,
+          "periodGain": 4565
+        },
+        "jamiepine/voicebox": {
+          "stars": 34990,
+          "periodGain": 3965
+        },
+        "bytedance/deer-flow": {
+          "stars": 75088,
+          "periodGain": 3258
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 46666,
+          "periodGain": 2775
+        },
+        "koala73/worldmonitor": {
+          "stars": 60442,
+          "periodGain": 2735
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 93636,
+          "periodGain": 33794
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 47215,
+          "periodGain": 20777
+        },
+        "lfnovo/open-notebook": {
+          "stars": 33668,
+          "periodGain": 9933
+        },
+        "phuryn/pm-skills": {
+          "stars": 21394,
+          "periodGain": 9754
         }
       }
     }
