@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T04:46:25.352Z",
+  "generatedAt": "2026-06-28T05:44:16.864Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -979,70 +979,78 @@
     },
     {
       "date": "2026-06-28",
-      "generatedAt": "2026-06-28T04:46:00.5905797+00:00",
+      "generatedAt": "2026-06-28T05:43:47.9475124+00:00",
       "repos": {
         "calesthio/OpenMontage": {
-          "stars": 25504,
+          "stars": 25574,
           "periodGain": 20575
         },
         "Panniantong/Agent-Reach": {
-          "stars": 43616,
+          "stars": 43655,
           "periodGain": 22848
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 17927,
+          "stars": 18013,
           "periodGain": 13731
         },
         "ZhuLinsen/daily_stock_analysis": {
-          "stars": 50630,
+          "stars": 50649,
           "periodGain": 7137
         },
         "google-labs-code/design.md": {
-          "stars": 22440,
+          "stars": 22475,
           "periodGain": 6014
         },
         "topoteretes/cognee": {
-          "stars": 24103,
+          "stars": 24136,
           "periodGain": 5519
         },
         "mukul975/Anthropic-Cybersecurity-Skills": {
-          "stars": 22259,
+          "stars": 22281,
           "periodGain": 11529
         },
         "JCodesMore/ai-website-cloner-template": {
-          "stars": 22233,
+          "stars": 22268,
           "periodGain": 4565
         },
         "jamiepine/voicebox": {
-          "stars": 34990,
+          "stars": 35004,
           "periodGain": 3965
         },
         "bytedance/deer-flow": {
-          "stars": 75088,
+          "stars": 75092,
           "periodGain": 3258
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 46666,
+          "stars": 46677,
           "periodGain": 2775
         },
         "koala73/worldmonitor": {
-          "stars": 60442,
+          "stars": 60452,
           "periodGain": 2735
         },
+        "microsoft/markitdown": {
+          "stars": 160152,
+          "periodGain": 35017
+        },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 93636,
+          "stars": 93643,
           "periodGain": 33794
         },
+        "Leonxlnx/taste-skill": {
+          "stars": 52155,
+          "periodGain": 28908
+        },
         "mvanhorn/last30days-skill": {
-          "stars": 47215,
+          "stars": 47222,
           "periodGain": 20777
         },
         "lfnovo/open-notebook": {
-          "stars": 33668,
+          "stars": 33669,
           "periodGain": 9933
         },
         "phuryn/pm-skills": {
-          "stars": 21394,
+          "stars": 21402,
           "periodGain": 9754
         }
       }
