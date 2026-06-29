@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-28T07:57:16.4853730+00:00",
+  "generatedAt": "2026-06-29T04:54:45.3994260+00:00",
   "weekly": [
     {
       "owner": "calesthio",
@@ -32,9 +32,9 @@
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 18000,
-      "totalStars": 25779,
-      "forks": 2857,
+      "starsGained": 18703,
+      "totalStars": 27360,
+      "forks": 3031,
       "license": "AGPL-3.0",
       "pushedAt": "06/28/2026 00:21:35",
       "tags": [
@@ -61,62 +61,6 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
-        ]
-      }
-    },
-    {
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 7676,
-      "totalStars": 43758,
-      "forks": 3477,
-      "license": "MIT",
-      "pushedAt": "06/23/2026 13:04:55",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "功能：为 AI Agent 提供多平台搜索/读取入口，覆盖 X、Reddit、YouTube、GitHub、Arxiv、Google/Bing/Baidu、B站、小红书等来源。使用场景：适合让 Agent 做社媒情报、跨平台资料检索、趋势监控和研究资料采集。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "只预览，不实际删除",
-        "category": "agent-web-reach",
-        "zhTitle": "Agent 互联网检索工具",
-        "zhIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
-        "projectIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
-        "featurePoints": [
-          "通过一个 CLI 帮 Agent 读取多个网站和社区平台内容。",
-          "面向没有 API 权限或不想接多个平台 API 的信息收集场景。",
-          "适合把网页和社交内容作为 Agent 调研、监控和分析的输入。"
-        ],
-        "scenarioPoints": [
-          "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
         ]
       }
     },
@@ -151,11 +95,11 @@
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 7674,
-      "totalStars": 18207,
-      "forks": 1330,
+      "starsGained": 8926,
+      "totalStars": 20112,
+      "forks": 1450,
       "license": "MIT",
-      "pushedAt": "06/28/2026 07:41:42",
+      "pushedAt": "06/29/2026 00:20:49",
       "tags": [
         "agent",
         "llm",
@@ -183,6 +127,62 @@
       }
     },
     {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 7692,
+      "totalStars": 44743,
+      "forks": 3554,
+      "license": "MIT",
+      "pushedAt": "06/29/2026 03:34:57",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "功能：为 AI Agent 提供多平台搜索/读取入口，覆盖 X、Reddit、YouTube、GitHub、Arxiv、Google/Bing/Baidu、B站、小红书等来源。使用场景：适合让 Agent 做社媒情报、跨平台资料检索、趋势监控和研究资料采集。",
+      "summarySource": "preserved",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "只预览，不实际删除",
+        "category": "agent-web-reach",
+        "zhTitle": "Agent 互联网检索工具",
+        "zhIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
+        "projectIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
+        "featurePoints": [
+          "通过一个 CLI 帮 Agent 读取多个网站和社区平台内容。",
+          "面向没有 API 权限或不想接多个平台 API 的信息收集场景。",
+          "适合把网页和社交内容作为 Agent 调研、监控和分析的输入。"
+        ],
+        "scenarioPoints": [
+          "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
+        ]
+      }
+    },
+    {
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "fullName": "ZhuLinsen/daily_stock_analysis",
@@ -200,11 +200,11 @@
       ],
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
-      "starsGained": 7137,
-      "totalStars": 50716,
-      "forks": 44175,
+      "starsGained": 7045,
+      "totalStars": 51290,
+      "forks": 44557,
       "license": "MIT",
-      "pushedAt": "06/28/2026 07:31:34",
+      "pushedAt": "06/28/2026 14:30:59",
       "tags": [
         "agent",
         "llm"
@@ -236,9 +236,9 @@
       "topics": [],
       "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
       "language": "TypeScript",
-      "starsGained": 6014,
-      "totalStars": 22541,
-      "forks": 1801,
+      "starsGained": 6728,
+      "totalStars": 22947,
+      "forks": 1823,
       "license": "Apache-2.0",
       "pushedAt": "06/15/2026 22:22:46",
       "tags": [
@@ -295,9 +295,9 @@
       ],
       "homepage": "https://www.cognee.ai",
       "language": "Python",
-      "starsGained": 5519,
-      "totalStars": 24237,
-      "forks": 2266,
+      "starsGained": 6064,
+      "totalStars": 25006,
+      "forks": 2317,
       "license": "Apache-2.0",
       "pushedAt": "06/27/2026 14:39:34",
       "tags": [
@@ -321,6 +321,67 @@
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+        ]
+      }
+    },
+    {
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "fullName": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
+      "description": "Clone any website with one command using AI coding agents",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "boilerplate",
+        "claude",
+        "claude-code",
+        "clone",
+        "developer-tools",
+        "nextjs",
+        "react",
+        "reverse-engineering",
+        "shadcn-ui",
+        "skills",
+        "tailwindcss",
+        "template",
+        "typescript",
+        "web-scraping",
+        "website-clone"
+      ],
+      "homepage": "https://dsc.gg/jcodesmore",
+      "language": "TypeScript",
+      "starsGained": 5317,
+      "totalStars": 23062,
+      "forks": 3295,
+      "license": "MIT",
+      "pushedAt": "06/01/2026 04:09:21",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Website Cloner Template",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "可按 README 示例落地：Click the image above to watch the full demo on YouTube."
         ]
       }
     },
@@ -355,9 +416,9 @@
       ],
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 5121,
-      "totalStars": 22320,
-      "forks": 2552,
+      "starsGained": 5212,
+      "totalStars": 22753,
+      "forks": 2590,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -386,63 +447,48 @@
       }
     },
     {
-      "owner": "JCodesMore",
-      "repo": "ai-website-cloner-template",
-      "fullName": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
-      "description": "Clone any website with one command using AI coding agents",
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "fullName": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173961715?s=40&v=4",
+      "description": "macOS video editor built for AI",
       "topics": [
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "automation",
-        "boilerplate",
+        "ai-video",
         "claude",
-        "claude-code",
-        "clone",
-        "developer-tools",
-        "nextjs",
-        "react",
-        "reverse-engineering",
-        "shadcn-ui",
-        "skills",
-        "tailwindcss",
-        "template",
-        "typescript",
-        "web-scraping",
-        "website-clone"
+        "macos",
+        "mcp",
+        "seedance2",
+        "swift",
+        "video-editor"
       ],
-      "homepage": "https://dsc.gg/jcodesmore",
-      "language": "TypeScript",
-      "starsGained": 4565,
-      "totalStars": 22353,
-      "forks": 3198,
-      "license": "MIT",
-      "pushedAt": "06/01/2026 04:09:21",
+      "homepage": "https://palmier.io",
+      "language": "Swift",
+      "starsGained": 5034,
+      "totalStars": 9341,
+      "forks": 659,
+      "license": "GPL-3.0",
+      "pushedAt": "06/29/2026 03:01:35",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "AI Website Cloner Template",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "readmeTitle": "Palmier Pro",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "可按 README 示例落地：Click the image above to watch the full demo on YouTube."
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -465,11 +511,11 @@
       ],
       "homepage": "https://voicebox.sh",
       "language": "TypeScript",
-      "starsGained": 3965,
-      "totalStars": 35054,
-      "forks": 4216,
+      "starsGained": 3883,
+      "totalStars": 35528,
+      "forks": 4265,
       "license": "MIT",
-      "pushedAt": "06/28/2026 00:34:55",
+      "pushedAt": "06/29/2026 04:31:03",
       "tags": [
         "agent",
         "multimodal"
@@ -523,11 +569,11 @@
       ],
       "homepage": "https://deerflow.tech",
       "language": "Python",
-      "starsGained": 3258,
-      "totalStars": 75107,
-      "forks": 10136,
+      "starsGained": 2976,
+      "totalStars": 75311,
+      "forks": 10162,
       "license": "MIT",
-      "pushedAt": "06/28/2026 03:48:56",
+      "pushedAt": "06/28/2026 15:30:40",
       "tags": [
         "agent",
         "llm"
@@ -553,69 +599,6 @@
       }
     },
     {
-      "owner": "asgeirtj",
-      "repo": "system_prompts_leaks",
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "awesome",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "deep-learning",
-        "education",
-        "gemini",
-        "generative-ai",
-        "google",
-        "llm",
-        "machine-learning",
-        "nlp",
-        "open-source",
-        "openai",
-        "prompt-engineering"
-      ],
-      "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
-      "language": "JavaScript",
-      "starsGained": 2775,
-      "totalStars": 46711,
-      "forks": 7648,
-      "license": "CC0-1.0",
-      "pushedAt": "06/28/2026 00:24:32",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
-        "category": "prompt-leak-dataset",
-        "zhTitle": "主流模型系统提示词泄露库",
-        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "featurePoints": [
-          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
-          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
-          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
-        ],
-        "scenarioPoints": [
-          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
-          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
-        ]
-      }
-    },
-    {
       "owner": "koala73",
       "repo": "worldmonitor",
       "fullName": "koala73/worldmonitor",
@@ -635,11 +618,11 @@
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 2735,
-      "totalStars": 60471,
-      "forks": 9441,
+      "starsGained": 2845,
+      "totalStars": 60732,
+      "forks": 9462,
       "license": "NOASSERTION",
-      "pushedAt": "06/28/2026 07:45:32",
+      "pushedAt": "06/28/2026 23:16:13",
       "tags": [
         "agent"
       ],
@@ -681,9 +664,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 35017,
-      "totalStars": 160214,
-      "forks": 11248,
+      "starsGained": 34072,
+      "totalStars": 160757,
+      "forks": 11306,
       "license": "MIT",
       "pushedAt": "06/24/2026 15:32:46",
       "tags": [
@@ -727,11 +710,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 33794,
-      "totalStars": 93684,
-      "forks": 13574,
+      "starsGained": 29272,
+      "totalStars": 93972,
+      "forks": 13623,
       "license": "MIT",
-      "pushedAt": "06/27/2026 12:42:25",
+      "pushedAt": "06/29/2026 02:52:31",
       "tags": [
         "agent",
         "llm",
@@ -753,46 +736,6 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "Egonex-AI",
-      "repo": "Understand-Anything",
-      "fullName": "Egonex-AI/Understand-Anything",
-      "url": "https://github.com/Egonex-AI/Understand-Anything",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87774050?s=40&v=4",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 30783,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "coding"
-      ],
-      "zhSummary": "功能：把代码库、知识库或文档转换成可搜索、可探索、可问答的交互式知识图谱。使用场景：适合快速理解陌生项目、梳理文档体系、做知识库导航和给团队交接复杂资料。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
-        ],
-        "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     },
@@ -820,9 +763,9 @@
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 28908,
-      "totalStars": 52211,
-      "forks": 3600,
+      "starsGained": 27093,
+      "totalStars": 52702,
+      "forks": 3636,
       "license": "MIT",
       "pushedAt": "06/20/2026 23:05:00",
       "tags": [
@@ -846,45 +789,6 @@
         ],
         "scenarioPoints": [
           "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
-        ]
-      }
-    },
-    {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "fullName": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 26455,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm",
-        "rag"
-      ],
-      "zhSummary": "功能：为本地代码库构建代码知识图谱，让 AI 编程 Agent 更快理解模块、调用关系和影响范围。使用场景：适合大型仓库问答、重构前影响分析、新人熟悉项目、减少 Agent 反复 grep/read 带来的 token 浪费。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
-        ],
-        "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     },
@@ -916,11 +820,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 22848,
-      "totalStars": 43758,
-      "forks": 3477,
+      "starsGained": 23835,
+      "totalStars": 44743,
+      "forks": 3554,
       "license": "MIT",
-      "pushedAt": "06/23/2026 13:04:55",
+      "pushedAt": "06/29/2026 03:34:57",
       "tags": [
         "agent",
         "llm"
@@ -941,6 +845,68 @@
         ],
         "scenarioPoints": [
           "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
+        ]
+      }
+    },
+    {
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
+      ],
+      "homepage": "https://github.com/calesthio/OpenMontage",
+      "language": "Python",
+      "starsGained": 22408,
+      "totalStars": 27360,
+      "forks": 3031,
+      "license": "AGPL-3.0",
+      "pushedAt": "06/28/2026 00:21:35",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "multimodal",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": ".env — every key is optional, add what you have",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
         ]
       }
     },
@@ -975,11 +941,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 20777,
-      "totalStars": 47240,
-      "forks": 3920,
+      "starsGained": 20899,
+      "totalStars": 47476,
+      "forks": 3938,
       "license": "MIT",
-      "pushedAt": "06/27/2026 22:05:20",
+      "pushedAt": "06/28/2026 18:42:49",
       "tags": [
         "agent",
         "llm",
@@ -1001,68 +967,6 @@
         ],
         "scenarioPoints": [
           "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
-        ]
-      }
-    },
-    {
-      "owner": "calesthio",
-      "repo": "OpenMontage",
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "claude",
-        "copilot",
-        "cursor",
-        "elevenlabs",
-        "ffmpeg",
-        "flux",
-        "image-generation",
-        "open-source",
-        "openai",
-        "python",
-        "remotion",
-        "stable-diffusion",
-        "text-to-speech",
-        "text-to-video",
-        "video-generation",
-        "video-production"
-      ],
-      "homepage": "https://github.com/calesthio/OpenMontage",
-      "language": "Python",
-      "starsGained": 20575,
-      "totalStars": 25779,
-      "forks": 2857,
-      "license": "AGPL-3.0",
-      "pushedAt": "06/28/2026 00:21:35",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "multimodal",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": ".env — every key is optional, add what you have",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
         ]
       }
     },
@@ -1097,11 +1001,11 @@
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 13731,
-      "totalStars": 18207,
-      "forks": 1330,
+      "starsGained": 16051,
+      "totalStars": 20112,
+      "forks": 1450,
       "license": "MIT",
-      "pushedAt": "06/28/2026 07:41:42",
+      "pushedAt": "06/29/2026 00:20:49",
       "tags": [
         "agent",
         "llm",
@@ -1159,9 +1063,9 @@
       ],
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 11529,
-      "totalStars": 22320,
-      "forks": 2552,
+      "starsGained": 11207,
+      "totalStars": 22753,
+      "forks": 2590,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -1206,9 +1110,9 @@
       ],
       "homepage": "https://www.open-notebook.ai",
       "language": "TypeScript",
-      "starsGained": 9933,
-      "totalStars": 33683,
-      "forks": 3779,
+      "starsGained": 10048,
+      "totalStars": 33829,
+      "forks": 3791,
       "license": "MIT",
       "pushedAt": "06/25/2026 11:41:37",
       "tags": [
@@ -1250,9 +1154,9 @@
       ],
       "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
       "language": "",
-      "starsGained": 9754,
-      "totalStars": 21411,
-      "forks": 2172,
+      "starsGained": 9864,
+      "totalStars": 21574,
+      "forks": 2184,
       "license": "MIT",
       "pushedAt": "06/22/2026 09:34:56",
       "tags": [
@@ -1277,6 +1181,79 @@
         "scenarioPoints": [
           "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
           "适用线索：mkdir -p .opencode/skills/"
+        ]
+      }
+    },
+    {
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "topics": [],
+      "homepage": "https://freellmapi.co",
+      "language": "TypeScript",
+      "starsGained": 7784,
+      "totalStars": 13844,
+      "forks": 2062,
+      "license": "MIT",
+      "pushedAt": "06/28/2026 10:23:35",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "projectIntro": "该项目的 GitHub 简介是：OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "featurePoints": [
+          "核心线索：OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "fullName": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 6959,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
