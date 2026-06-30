@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-30T04:20:52.9992759+00:00",
+  "generatedAt": "2026-06-30T05:16:54.4446572+00:00",
   "weekly": [
     {
       "owner": "calesthio",
@@ -33,8 +33,8 @@
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 17483,
-      "totalStars": 28839,
-      "forks": 3223,
+      "totalStars": 28897,
+      "forks": 3233,
       "license": "AGPL-3.0",
       "pushedAt": "06/29/2026 21:55:03",
       "tags": [
@@ -96,8 +96,8 @@
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 9899,
-      "totalStars": 21660,
-      "forks": 1561,
+      "totalStars": 21715,
+      "forks": 1566,
       "license": "MIT",
       "pushedAt": "06/29/2026 21:45:16",
       "tags": [
@@ -155,8 +155,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 7928,
-      "totalStars": 46030,
-      "forks": 3643,
+      "totalStars": 46076,
+      "forks": 3650,
       "license": "MIT",
       "pushedAt": "06/29/2026 15:22:51",
       "tags": [
@@ -193,8 +193,8 @@
       "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
       "language": "TypeScript",
       "starsGained": 7104,
-      "totalStars": 23268,
-      "forks": 1837,
+      "totalStars": 23285,
+      "forks": 1838,
       "license": "Apache-2.0",
       "pushedAt": "06/15/2026 22:22:46",
       "tags": [
@@ -252,8 +252,8 @@
       "homepage": "https://www.cognee.ai",
       "language": "Python",
       "starsGained": 6335,
-      "totalStars": 25718,
-      "forks": 2367,
+      "totalStars": 25741,
+      "forks": 2370,
       "license": "Apache-2.0",
       "pushedAt": "06/29/2026 20:25:40",
       "tags": [
@@ -299,8 +299,8 @@
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 6297,
-      "totalStars": 51934,
-      "forks": 45075,
+      "totalStars": 51944,
+      "forks": 45094,
       "license": "MIT",
       "pushedAt": "06/29/2026 16:58:12",
       "tags": [
@@ -355,8 +355,8 @@
       "homepage": "https://dsc.gg/jcodesmore",
       "language": "TypeScript",
       "starsGained": 5937,
-      "totalStars": 23585,
-      "forks": 3357,
+      "totalStars": 23599,
+      "forks": 3361,
       "license": "MIT",
       "pushedAt": "06/01/2026 04:09:21",
       "tags": [
@@ -417,8 +417,8 @@
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 4735,
-      "totalStars": 23144,
-      "forks": 2631,
+      "totalStars": 23161,
+      "forks": 2633,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -466,8 +466,8 @@
       "homepage": "https://voicebox.sh",
       "language": "TypeScript",
       "starsGained": 3884,
-      "totalStars": 35978,
-      "forks": 4310,
+      "totalStars": 35997,
+      "forks": 4311,
       "license": "MIT",
       "pushedAt": "06/30/2026 01:09:55",
       "tags": [
@@ -524,10 +524,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 3047,
-      "totalStars": 9184,
+      "totalStars": 9201,
       "forks": 631,
       "license": "MIT",
-      "pushedAt": "06/30/2026 03:55:38",
+      "pushedAt": "06/30/2026 04:57:41",
       "tags": [
         "agent",
         "llm",
@@ -571,10 +571,10 @@
       "homepage": "https://palmier.io",
       "language": "Swift",
       "starsGained": 2797,
-      "totalStars": 9563,
+      "totalStars": 9565,
       "forks": 677,
       "license": "GPL-3.0",
-      "pushedAt": "06/30/2026 04:12:27",
+      "pushedAt": "06/30/2026 05:14:44",
       "tags": [
         "agent",
         "llm"
@@ -619,10 +619,10 @@
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 2397,
-      "totalStars": 60953,
-      "forks": 9488,
+      "totalStars": 60960,
+      "forks": 9490,
       "license": "NOASSERTION",
-      "pushedAt": "06/30/2026 04:17:24",
+      "pushedAt": "06/30/2026 05:05:43",
       "tags": [
         "agent"
       ],
@@ -653,14 +653,22 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "topics": [],
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "moviepy",
+        "python",
+        "shortvideo",
+        "tiktok"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 26117,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 94255,
+      "forks": 13683,
+      "license": "MIT",
+      "pushedAt": "06/29/2026 06:22:23",
       "tags": [
         "agent",
         "llm",
@@ -669,8 +677,8 @@
       "zhSummary": "功能：基于大模型自动生成高清短视频，覆盖脚本、配音、字幕和视频素材组合等流程。使用场景：适合短视频矩阵、营销素材、知识号内容生产和批量生成社媒视频草稿。",
       "summarySource": "preserved",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "请根据你的实际路径设置，注意 Windows 路径分隔符为 \\\\",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -691,23 +699,39 @@
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "topics": [],
-      "homepage": "",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "design",
+        "frontend",
+        "lowcode",
+        "nocode",
+        "skill",
+        "skills",
+        "vibecoding"
+      ],
+      "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 25764,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 53369,
+      "forks": 3677,
+      "license": "MIT",
+      "pushedAt": "06/20/2026 23:05:00",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "功能：面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案。使用场景：适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。",
       "summarySource": "preserved",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Taste Skill",
         "category": "taste-skill",
         "zhTitle": "AI 生成质量约束技能",
         "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
@@ -751,8 +775,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 25059,
-      "totalStars": 46030,
-      "forks": 3643,
+      "totalStars": 46076,
+      "forks": 3650,
       "license": "MIT",
       "pushedAt": "06/29/2026 15:22:51",
       "tags": [
@@ -809,8 +833,8 @@
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 24187,
-      "totalStars": 28839,
-      "forks": 3223,
+      "totalStars": 28897,
+      "forks": 3233,
       "license": "AGPL-3.0",
       "pushedAt": "06/29/2026 21:55:03",
       "tags": [
@@ -872,7 +896,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 21128,
-      "totalStars": 47723,
+      "totalStars": 47731,
       "forks": 3949,
       "license": "MIT",
       "pushedAt": "06/28/2026 18:42:49",
@@ -932,8 +956,8 @@
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 18196,
-      "totalStars": 21660,
-      "forks": 1561,
+      "totalStars": 21715,
+      "forks": 1566,
       "license": "MIT",
       "pushedAt": "06/29/2026 21:45:16",
       "tags": [
@@ -994,8 +1018,8 @@
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
       "starsGained": 11231,
-      "totalStars": 23144,
-      "forks": 2631,
+      "totalStars": 23161,
+      "forks": 2633,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -1024,28 +1048,81 @@
       }
     },
     {
-      "owner": "phuryn",
-      "repo": "pm-skills",
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "topics": [],
-      "homepage": "",
-      "language": "",
-      "starsGained": 10053,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "fullName": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "topics": [
+        "assistant",
+        "learning",
+        "note-taking",
+        "notebook",
+        "notes-app",
+        "self-learning"
+      ],
+      "homepage": "https://www.open-notebook.ai",
+      "language": "TypeScript",
+      "starsGained": 10212,
+      "totalStars": 34022,
+      "forks": 3798,
+      "license": "MIT",
+      "pushedAt": "06/25/2026 11:41:37",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
+        "projectIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
+        "featurePoints": [
+          "核心线索：An Open Source implementation of Notebook LM with more flexibility and features"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Go to Models and choose your provider (OpenAI, Anthropic, Google, etc.)"
+        ]
+      }
+    },
+    {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "topics": [
+        "agent-skill-repository",
+        "agent-skills",
+        "agentic-skills",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-cowork-plugin",
+        "product-management"
+      ],
+      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+      "language": "",
+      "starsGained": 10053,
+      "totalStars": 21744,
+      "forks": 2194,
+      "license": "MIT",
+      "pushedAt": "06/22/2026 09:34:56",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "PM Skills Marketplace: The AI Operating System for Better Product Decisions",
         "category": "pm-skills",
         "zhTitle": "产品经理 Agent 技能市场",
         "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
@@ -1056,7 +1133,8 @@
           "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
         ],
         "scenarioPoints": [
-          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
+          "适用线索：mkdir -p .opencode/skills/"
         ]
       }
     },
@@ -1171,43 +1249,6 @@
         "scenarioPoints": [
           "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
           "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
-        ]
-      }
-    },
-    {
-      "owner": "ogulcancelik",
-      "repo": "herdr",
-      "fullName": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-      "description": "agent multiplexer that lives in your terminal.",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 5416,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
