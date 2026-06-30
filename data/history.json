@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T09:06:27.150Z",
+  "generatedAt": "2026-06-30T04:21:15.239Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1138,6 +1138,64 @@
         "can1357/oh-my-pi": {
           "stars": 15065,
           "periodGain": 6959
+        }
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "generatedAt": "2026-06-30T04:20:52.9992759+00:00",
+      "repos": {
+        "calesthio/OpenMontage": {
+          "stars": 28839,
+          "periodGain": 24187
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 21660,
+          "periodGain": 18196
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 46030,
+          "periodGain": 25059
+        },
+        "google-labs-code/design.md": {
+          "stars": 23268,
+          "periodGain": 7104
+        },
+        "topoteretes/cognee": {
+          "stars": 25718,
+          "periodGain": 6335
+        },
+        "ZhuLinsen/daily_stock_analysis": {
+          "stars": 51934,
+          "periodGain": 6297
+        },
+        "JCodesMore/ai-website-cloner-template": {
+          "stars": 23585,
+          "periodGain": 5937
+        },
+        "mukul975/Anthropic-Cybersecurity-Skills": {
+          "stars": 23144,
+          "periodGain": 11231
+        },
+        "jamiepine/voicebox": {
+          "stars": 35978,
+          "periodGain": 3884
+        },
+        "stablyai/orca": {
+          "stars": 9184,
+          "periodGain": 3047
+        },
+        "palmier-io/palmier-pro": {
+          "stars": 9563,
+          "periodGain": 2797
+        },
+        "koala73/worldmonitor": {
+          "stars": 60953,
+          "periodGain": 2397
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 47723,
+          "periodGain": 21128
         }
       }
     }

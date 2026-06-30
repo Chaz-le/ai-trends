@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-06-29T09:06:09.0335131+00:00",
+  "generatedAt": "2026-06-30T04:20:52.9992759+00:00",
   "weekly": [
     {
       "owner": "calesthio",
@@ -32,11 +32,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 18703,
-      "totalStars": 27756,
-      "forks": 3076,
+      "starsGained": 17483,
+      "totalStars": 28839,
+      "forks": 3223,
       "license": "AGPL-3.0",
-      "pushedAt": "06/28/2026 00:21:35",
+      "pushedAt": "06/29/2026 21:55:03",
       "tags": [
         "agent",
         "llm",
@@ -95,11 +95,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 8926,
-      "totalStars": 20544,
-      "forks": 1470,
+      "starsGained": 9899,
+      "totalStars": 21660,
+      "forks": 1561,
       "license": "MIT",
-      "pushedAt": "06/29/2026 08:55:00",
+      "pushedAt": "06/29/2026 21:45:16",
       "tags": [
         "agent",
         "llm",
@@ -154,11 +154,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 7692,
-      "totalStars": 45039,
-      "forks": 3573,
+      "starsGained": 7928,
+      "totalStars": 46030,
+      "forks": 3643,
       "license": "MIT",
-      "pushedAt": "06/29/2026 03:34:57",
+      "pushedAt": "06/29/2026 15:22:51",
       "tags": [
         "agent",
         "llm"
@@ -183,50 +183,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "ZhuLinsen",
-      "repo": "daily_stock_analysis",
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "llm",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading"
-      ],
-      "homepage": "https://dsa.zhulinsen.tech",
-      "language": "Python",
-      "starsGained": 7045,
-      "totalStars": 51462,
-      "forks": 44698,
-      "license": "MIT",
-      "pushedAt": "06/28/2026 14:30:59",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "📈 股票智能分析系统",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "featurePoints": [
-          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "google-labs-code",
       "repo": "design.md",
       "fullName": "google-labs-code/design.md",
@@ -236,9 +192,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
       "language": "TypeScript",
-      "starsGained": 6728,
-      "totalStars": 23028,
-      "forks": 1824,
+      "starsGained": 7104,
+      "totalStars": 23268,
+      "forks": 1837,
       "license": "Apache-2.0",
       "pushedAt": "06/15/2026 22:22:46",
       "tags": [
@@ -295,11 +251,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.cognee.ai",
       "language": "Python",
-      "starsGained": 6064,
-      "totalStars": 25188,
-      "forks": 2324,
+      "starsGained": 6335,
+      "totalStars": 25718,
+      "forks": 2367,
       "license": "Apache-2.0",
-      "pushedAt": "06/29/2026 08:37:43",
+      "pushedAt": "06/29/2026 20:25:40",
       "tags": [
         "agent",
         "rag",
@@ -321,6 +277,50 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+        ]
+      }
+    },
+    {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "homepage": "https://dsa.zhulinsen.tech",
+      "language": "Python",
+      "starsGained": 6297,
+      "totalStars": 51934,
+      "forks": 45075,
+      "license": "MIT",
+      "pushedAt": "06/29/2026 16:58:12",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "📈 股票智能分析系统",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "featurePoints": [
+          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -354,9 +354,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://dsc.gg/jcodesmore",
       "language": "TypeScript",
-      "starsGained": 5317,
-      "totalStars": 23206,
-      "forks": 3318,
+      "starsGained": 5937,
+      "totalStars": 23585,
+      "forks": 3357,
       "license": "MIT",
       "pushedAt": "06/01/2026 04:09:21",
       "tags": [
@@ -416,9 +416,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 5212,
-      "totalStars": 22835,
-      "forks": 2599,
+      "starsGained": 4735,
+      "totalStars": 23144,
+      "forks": 2631,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -432,6 +432,112 @@ window.GITHUB_AI_TRENDS = {
       "insight": {
         "source": "readme",
         "readmeTitle": "Anthropic Cybersecurity Skills",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "topics": [
+        "ai",
+        "cuda",
+        "mlx",
+        "qwen3-tts",
+        "qwen3-tts-ui",
+        "voice-ai",
+        "voice-clone",
+        "whisper"
+      ],
+      "homepage": "https://voicebox.sh",
+      "language": "TypeScript",
+      "starsGained": 3884,
+      "totalStars": 35978,
+      "forks": 4310,
+      "license": "MIT",
+      "pushedAt": "06/30/2026 01:09:55",
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Generate speech",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：Prerequisites: Bun, Rust, Python 3.11+, Tauri Prerequisites, and Xcode on macOS."
+        ]
+      }
+    },
+    {
+      "owner": "stablyai",
+      "repo": "orca",
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "homepage": "https://onOrca.dev",
+      "language": "TypeScript",
+      "starsGained": 3047,
+      "totalStars": 9184,
+      "forks": 631,
+      "license": "MIT",
+      "pushedAt": "06/30/2026 03:55:38",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "macOS (Homebrew)",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -464,11 +570,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://palmier.io",
       "language": "Swift",
-      "starsGained": 5034,
-      "totalStars": 9409,
-      "forks": 662,
+      "starsGained": 2797,
+      "totalStars": 9563,
+      "forks": 677,
       "license": "GPL-3.0",
-      "pushedAt": "06/29/2026 07:27:10",
+      "pushedAt": "06/30/2026 04:12:27",
       "tags": [
         "agent",
         "llm"
@@ -493,112 +599,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "jamiepine",
-      "repo": "voicebox",
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "topics": [
-        "ai",
-        "cuda",
-        "mlx",
-        "qwen3-tts",
-        "qwen3-tts-ui",
-        "voice-ai",
-        "voice-clone",
-        "whisper"
-      ],
-      "homepage": "https://voicebox.sh",
-      "language": "TypeScript",
-      "starsGained": 3883,
-      "totalStars": 35612,
-      "forks": 4275,
-      "license": "MIT",
-      "pushedAt": "06/29/2026 05:48:42",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Generate speech",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：Prerequisites: Bun, Rust, Python 3.11+, Tauri Prerequisites, and Xcode on macOS."
-        ]
-      }
-    },
-    {
-      "owner": "bytedance",
-      "repo": "deer-flow",
-      "fullName": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "ai-agents",
-        "deep-research",
-        "harness",
-        "langchain",
-        "langgraph",
-        "langmanus",
-        "llm",
-        "multi-agent",
-        "nodejs",
-        "podcast",
-        "python",
-        "superagent",
-        "typescript"
-      ],
-      "homepage": "https://deerflow.tech",
-      "language": "Python",
-      "starsGained": 2976,
-      "totalStars": 75367,
-      "forks": 10166,
-      "license": "MIT",
-      "pushedAt": "06/29/2026 09:01:04",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "🦌 DeerFlow - 2.0",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Clone the DeerFlow repository"
-        ]
-      }
-    },
-    {
       "owner": "koala73",
       "repo": "worldmonitor",
       "fullName": "koala73/worldmonitor",
@@ -618,11 +618,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 2845,
-      "totalStars": 60785,
-      "forks": 9469,
+      "starsGained": 2397,
+      "totalStars": 60953,
+      "forks": 9488,
       "license": "NOASSERTION",
-      "pushedAt": "06/29/2026 09:01:21",
+      "pushedAt": "06/30/2026 04:17:24",
       "tags": [
         "agent"
       ],
@@ -647,74 +647,20 @@ window.GITHUB_AI_TRENDS = {
   ],
   "monthly": [
     {
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "fullName": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 34072,
-      "totalStars": 160914,
-      "forks": 11315,
-      "license": "MIT",
-      "pushedAt": "06/24/2026 15:32:46",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "MarkItDown",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：[all] Installs all optional dependencies"
-        ]
-      }
-    },
-    {
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "topics": [
-        "ai",
-        "automation",
-        "chatgpt",
-        "moviepy",
-        "python",
-        "shortvideo",
-        "tiktok"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 29272,
-      "totalStars": 94053,
-      "forks": 13634,
-      "license": "MIT",
-      "pushedAt": "06/29/2026 06:22:23",
+      "starsGained": 26117,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -723,8 +669,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "功能：基于大模型自动生成高清短视频，覆盖脚本、配音、字幕和视频素材组合等流程。使用场景：适合短视频矩阵、营销素材、知识号内容生产和批量生成社媒视频草稿。",
       "summarySource": "preserved",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "请根据你的实际路径设置，注意 Windows 路径分隔符为 \\\\",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -745,39 +691,23 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-      "topics": [
-        "agent",
-        "ai",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "design",
-        "frontend",
-        "lowcode",
-        "nocode",
-        "skill",
-        "skills",
-        "vibecoding"
-      ],
-      "homepage": "https://tasteskill.dev",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 27093,
-      "totalStars": 52842,
-      "forks": 3641,
-      "license": "MIT",
-      "pushedAt": "06/20/2026 23:05:00",
+      "starsGained": 25764,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "learning"
+        "agent"
       ],
       "zhSummary": "功能：面向 AI 编码/设计 Agent 的审美与输出质量约束，帮助模型避免模板化、空泛或粗糙的界面和文案。使用场景：适合前端原型、产品页、设计系统改稿和 AI 生成 UI 的质量把关。",
       "summarySource": "preserved",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Taste Skill",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "taste-skill",
         "zhTitle": "AI 生成质量约束技能",
         "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
@@ -820,11 +750,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 23835,
-      "totalStars": 45039,
-      "forks": 3573,
+      "starsGained": 25059,
+      "totalStars": 46030,
+      "forks": 3643,
       "license": "MIT",
-      "pushedAt": "06/29/2026 03:34:57",
+      "pushedAt": "06/29/2026 15:22:51",
       "tags": [
         "agent",
         "llm"
@@ -878,11 +808,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 22408,
-      "totalStars": 27756,
-      "forks": 3076,
+      "starsGained": 24187,
+      "totalStars": 28839,
+      "forks": 3223,
       "license": "AGPL-3.0",
-      "pushedAt": "06/28/2026 00:21:35",
+      "pushedAt": "06/29/2026 21:55:03",
       "tags": [
         "agent",
         "llm",
@@ -941,9 +871,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 20899,
-      "totalStars": 47524,
-      "forks": 3938,
+      "starsGained": 21128,
+      "totalStars": 47723,
+      "forks": 3949,
       "license": "MIT",
       "pushedAt": "06/28/2026 18:42:49",
       "tags": [
@@ -1001,11 +931,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 16051,
-      "totalStars": 20544,
-      "forks": 1470,
+      "starsGained": 18196,
+      "totalStars": 21660,
+      "forks": 1561,
       "license": "MIT",
-      "pushedAt": "06/29/2026 08:55:00",
+      "pushedAt": "06/29/2026 21:45:16",
       "tags": [
         "agent",
         "llm",
@@ -1063,9 +993,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
       "language": "Python",
-      "starsGained": 11207,
-      "totalStars": 22835,
-      "forks": 2599,
+      "starsGained": 11231,
+      "totalStars": 23144,
+      "forks": 2631,
       "license": "Apache-2.0",
       "pushedAt": "06/26/2026 14:37:50",
       "tags": [
@@ -1094,81 +1024,28 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "lfnovo",
-      "repo": "open-notebook",
-      "fullName": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "topics": [
-        "assistant",
-        "learning",
-        "note-taking",
-        "notebook",
-        "notes-app",
-        "self-learning"
-      ],
-      "homepage": "https://www.open-notebook.ai",
-      "language": "TypeScript",
-      "starsGained": 10048,
-      "totalStars": 33876,
-      "forks": 3793,
-      "license": "MIT",
-      "pushedAt": "06/25/2026 11:41:37",
-      "tags": [
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
-        "projectIntro": "该项目的 GitHub 简介是：An Open Source implementation of Notebook LM with more flexibility and features",
-        "featurePoints": [
-          "核心线索：An Open Source implementation of Notebook LM with more flexibility and features"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Go to Models and choose your provider (OpenAI, Anthropic, Google, etc.)"
-        ]
-      }
-    },
-    {
       "owner": "phuryn",
       "repo": "pm-skills",
       "fullName": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "topics": [
-        "agent-skill-repository",
-        "agent-skills",
-        "agentic-skills",
-        "claude-code-marketplace",
-        "claude-code-plugins",
-        "claude-cowork-plugin",
-        "product-management"
-      ],
-      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+      "topics": [],
+      "homepage": "",
       "language": "",
-      "starsGained": 9864,
-      "totalStars": 21626,
-      "forks": 2187,
-      "license": "MIT",
-      "pushedAt": "06/22/2026 09:34:56",
+      "starsGained": 10053,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "PM Skills Marketplace: The AI Operating System for Better Product Decisions",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "pm-skills",
         "zhTitle": "产品经理 Agent 技能市场",
         "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
@@ -1179,8 +1056,7 @@ window.GITHUB_AI_TRENDS = {
           "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
         ],
         "scenarioPoints": [
-          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
-          "适用线索：mkdir -p .opencode/skills/"
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
         ]
       }
     },
@@ -1192,21 +1068,21 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
-      "starsGained": 7784,
-      "totalStars": 13898,
-      "forks": 2072,
-      "license": "MIT",
-      "pushedAt": "06/28/2026 10:23:35",
+      "starsGained": 7821,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -1225,41 +1101,102 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "topics": [
-        "ai-agent",
-        "ai-coding-agent",
-        "anthropic",
-        "bun",
-        "claude",
-        "cli",
-        "coding-assistant",
-        "llm",
-        "mcp",
-        "multi-provider",
-        "openai",
-        "rust",
-        "terminal",
-        "tui",
-        "typescript"
-      ],
-      "homepage": "https://omp.sh",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
-      "starsGained": 6959,
-      "totalStars": 15065,
-      "forks": 1342,
-      "license": "MIT",
-      "pushedAt": "06/29/2026 08:56:32",
+      "starsGained": 6867,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "zsh — add to /.zshrc (or write the output into a file on your $fpath)",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 6293,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "prompt-leak-dataset",
+        "zhTitle": "主流模型系统提示词泄露库",
+        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "featurePoints": [
+          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
+          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
+          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
+        ],
+        "scenarioPoints": [
+          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
+          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
+        ]
+      }
+    },
+    {
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "fullName": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
+      "description": "agent multiplexer that lives in your terminal.",
+      "topics": [],
+      "homepage": "",
+      "language": "Rust",
+      "starsGained": 5416,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
