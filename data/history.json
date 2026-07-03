@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:43:22.617Z",
+  "generatedAt": "2026-07-03T04:02:48.816Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1308,6 +1308,80 @@
         "phuryn/pm-skills": {
           "stars": 22110,
           "periodGain": 10309
+        }
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "generatedAt": "2026-07-03T04:02:34.8494204+00:00",
+      "repos": {
+        "calesthio/OpenMontage": {
+          "stars": 31856,
+          "periodGain": 27370
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 24820,
+          "periodGain": 21580
+        },
+        "msitarzewski/agency-agents": {
+          "stars": 125703,
+          "periodGain": 9484
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 49258,
+          "periodGain": 28309
+        },
+        "xbtlin/ai-berkshire": {
+          "stars": 8766,
+          "periodGain": 6989
+        },
+        "google-labs-code/design.md": {
+          "stars": 24435,
+          "periodGain": 6240
+        },
+        "JCodesMore/ai-website-cloner-template": {
+          "stars": 25001,
+          "periodGain": 4843
+        },
+        "usestrix/strix": {
+          "stars": 32565,
+          "periodGain": 4743
+        },
+        "topoteretes/cognee": {
+          "stars": 26659,
+          "periodGain": 4531
+        },
+        "ripienaar/free-for-dev": {
+          "stars": 127870,
+          "periodGain": 4416
+        },
+        "stablyai/orca": {
+          "stars": 11143,
+          "periodGain": 6875
+        },
+        "browser-use/video-use": {
+          "stars": 13905,
+          "periodGain": 3389
+        },
+        "mvanhorn/last30days-skill": {
+          "stars": 48531,
+          "periodGain": 21774
+        },
+        "lfnovo/open-notebook": {
+          "stars": 34544,
+          "periodGain": 10623
+        },
+        "phuryn/pm-skills": {
+          "stars": 22239,
+          "periodGain": 10418
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 47896,
+          "periodGain": 6834
+        },
+        "ogulcancelik/herdr": {
+          "stars": 10245,
+          "periodGain": 6210
         }
       }
     }
