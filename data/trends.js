@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-06T04:23:19.1184302+00:00",
+  "generatedAt": "2026-07-06T05:22:06.8781703+00:00",
   "weekly": [
     {
       "owner": "msitarzewski",
@@ -13,7 +13,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 10637,
-      "totalStars": 127598,
+      "totalStars": 127615,
       "forks": 20719,
       "license": "MIT",
       "pushedAt": "07/05/2026 22:25:10",
@@ -70,8 +70,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 10338,
-      "totalStars": 37315,
-      "forks": 3788,
+      "totalStars": 37352,
+      "forks": 3790,
       "license": "Apache-2.0",
       "pushedAt": "07/03/2026 14:43:32",
       "tags": [
@@ -130,8 +130,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 7945,
-      "totalStars": 26859,
-      "forks": 1994,
+      "totalStars": 26879,
+      "forks": 1996,
       "license": "MIT",
       "pushedAt": "07/06/2026 04:16:12",
       "tags": [
@@ -191,8 +191,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 7353,
-      "totalStars": 33769,
-      "forks": 3868,
+      "totalStars": 33791,
+      "forks": 3869,
       "license": "AGPL-3.0",
       "pushedAt": "07/05/2026 18:04:27",
       "tags": [
@@ -254,8 +254,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
       "language": "Python",
       "starsGained": 5038,
-      "totalStars": 10469,
-      "forks": 1334,
+      "totalStars": 10510,
+      "forks": 1340,
       "license": "MIT",
       "pushedAt": "07/06/2026 02:54:48",
       "tags": [
@@ -313,10 +313,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 4411,
-      "totalStars": 11986,
-      "forks": 1740,
+      "totalStars": 12018,
+      "forks": 1748,
       "license": "MIT",
-      "pushedAt": "07/06/2026 04:19:38",
+      "pushedAt": "07/06/2026 05:09:56",
       "tags": [
         "agent",
         "llm",
@@ -354,8 +354,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4288,
-      "totalStars": 15099,
-      "forks": 1784,
+      "totalStars": 15123,
+      "forks": 1787,
       "license": "MIT",
       "pushedAt": "07/01/2026 00:33:52",
       "tags": [
@@ -411,8 +411,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 3937,
-      "totalStars": 12208,
-      "forks": 717,
+      "totalStars": 12231,
+      "forks": 718,
       "license": "NOASSERTION",
       "pushedAt": "07/06/2026 01:57:50",
       "tags": [
@@ -458,8 +458,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 3806,
-      "totalStars": 54788,
-      "forks": 47403,
+      "totalStars": 54805,
+      "forks": 47407,
       "license": "MIT",
       "pushedAt": "07/05/2026 13:19:38",
       "tags": [
@@ -513,10 +513,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 3783,
-      "totalStars": 12450,
-      "forks": 843,
+      "totalStars": 12471,
+      "forks": 847,
       "license": "MIT",
-      "pushedAt": "07/06/2026 04:23:13",
+      "pushedAt": "07/06/2026 05:17:49",
       "tags": [
         "agent",
         "llm",
@@ -552,8 +552,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 3405,
-      "totalStars": 25653,
-      "forks": 1554,
+      "totalStars": 25696,
+      "forks": 1555,
       "license": "Apache-2.0",
       "pushedAt": "06/23/2026 17:36:38",
       "tags": [
@@ -611,8 +611,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsc.gg/jcodesmore",
       "language": "TypeScript",
       "starsGained": 3246,
-      "totalStars": 25909,
-      "forks": 3643,
+      "totalStars": 25926,
+      "forks": 3645,
       "license": "MIT",
       "pushedAt": "07/04/2026 06:49:18",
       "tags": [
@@ -672,8 +672,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 30017,
-      "totalStars": 51448,
-      "forks": 4129,
+      "totalStars": 51474,
+      "forks": 4132,
       "license": "MIT",
       "pushedAt": "07/03/2026 06:57:59",
       "tags": [
@@ -730,8 +730,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 29179,
-      "totalStars": 33769,
-      "forks": 3868,
+      "totalStars": 33791,
+      "forks": 3869,
       "license": "AGPL-3.0",
       "pushedAt": "07/05/2026 18:04:27",
       "tags": [
@@ -793,8 +793,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 23591,
-      "totalStars": 26859,
-      "forks": 1994,
+      "totalStars": 26879,
+      "forks": 1996,
       "license": "MIT",
       "pushedAt": "07/06/2026 04:16:12",
       "tags": [
@@ -855,7 +855,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 21367,
-      "totalStars": 49217,
+      "totalStars": 49224,
       "forks": 4089,
       "license": "MIT",
       "pushedAt": "07/05/2026 22:13:17",
@@ -915,8 +915,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 10932,
-      "totalStars": 37315,
-      "forks": 3788,
+      "totalStars": 37352,
+      "forks": 3790,
       "license": "Apache-2.0",
       "pushedAt": "07/03/2026 14:43:32",
       "tags": [
@@ -962,7 +962,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
       "language": "",
       "starsGained": 10731,
-      "totalStars": 22654,
+      "totalStars": 22658,
       "forks": 2277,
       "license": "MIT",
       "pushedAt": "07/03/2026 11:34:49",
@@ -1063,8 +1063,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
       "language": "JavaScript",
       "starsGained": 8311,
-      "totalStars": 50224,
-      "forks": 8206,
+      "totalStars": 50269,
+      "forks": 8215,
       "license": "CC0-1.0",
       "pushedAt": "07/06/2026 00:22:59",
       "tags": [
@@ -1124,10 +1124,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 8064,
-      "totalStars": 12450,
-      "forks": 843,
+      "totalStars": 12471,
+      "forks": 847,
       "license": "MIT",
-      "pushedAt": "07/06/2026 04:23:13",
+      "pushedAt": "07/06/2026 05:17:49",
       "tags": [
         "agent",
         "llm",
@@ -1182,8 +1182,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 7360,
-      "totalStars": 12208,
-      "forks": 717,
+      "totalStars": 12231,
+      "forks": 718,
       "license": "NOASSERTION",
       "pushedAt": "07/06/2026 01:57:50",
       "tags": [
@@ -1211,64 +1211,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "roboflow",
-      "repo": "supervision",
-      "fullName": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",
-      "description": "We write your reusable computer vision tools. 💜",
-      "topics": [
-        "classification",
-        "coco",
-        "computer-vision",
-        "deep-learning",
-        "hacktoberfest",
-        "image-processing",
-        "instance-segmentation",
-        "low-code",
-        "machine-learning",
-        "metrics",
-        "object-detection",
-        "oriented-bounding-box",
-        "pascal-voc",
-        "python",
-        "pytorch",
-        "tensorflow",
-        "tracking",
-        "video-processing",
-        "yolo"
-      ],
-      "homepage": "https://supervision.roboflow.com",
-      "language": "Python",
-      "starsGained": 6888,
-      "totalStars": 46827,
-      "forks": 4175,
-      "license": "MIT",
-      "pushedAt": "07/06/2026 00:04:47",
-      "tags": [
-        "ml",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Assuming detections are obtained from a model",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "interviewstreet",
       "repo": "hiring-agent",
       "fullName": "interviewstreet/hiring-agent",
@@ -1279,7 +1221,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3975,
-      "totalStars": 4853,
+      "totalStars": 4859,
       "forks": 921,
       "license": "MIT",
       "pushedAt": "06/22/2026 17:40:27",
@@ -1301,6 +1243,41 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：If development mode is on, the PDF extraction result is cached to cache/resumecache .json."
+        ]
+      }
+    },
+    {
+      "owner": "openai",
+      "repo": "plugins",
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
+      "description": "OpenAI Plugins",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 2651,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：OpenAI Plugins",
+        "projectIntro": "该项目的 GitHub 简介是：OpenAI Plugins",
+        "featurePoints": [
+          "核心线索：OpenAI Plugins"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
