@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:40:03.133Z",
+  "generatedAt": "2026-07-07T04:12:46.410Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1512,6 +1512,64 @@
         "ogulcancelik/herdr": {
           "stars": 12375,
           "periodGain": 7360
+        }
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "generatedAt": "2026-07-07T04:12:30.0888230+00:00",
+      "repos": {
+        "usestrix/strix": {
+          "stars": 38075,
+          "periodGain": 12018
+        },
+        "msitarzewski/agency-agents": {
+          "stars": 128267,
+          "periodGain": 9706
+        },
+        "JuliusBrussee/caveman": {
+          "stars": 85797,
+          "periodGain": 7780
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 27491,
+          "periodGain": 24223
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 19610,
+          "periodGain": 5769
+        },
+        "xbtlin/ai-berkshire": {
+          "stars": 11275,
+          "periodGain": 4616
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 12669,
+          "periodGain": 4594
+        },
+        "ogulcancelik/herdr": {
+          "stars": 12974,
+          "periodGain": 7878
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 26364,
+          "periodGain": 4329
+        },
+        "alibaba/page-agent": {
+          "stars": 24678,
+          "periodGain": 3989
+        },
+        "stablyai/orca": {
+          "stars": 12951,
+          "periodGain": 8457
+        },
+        "browser-use/video-use": {
+          "stars": 15544,
+          "periodGain": 3706
+        },
+        "calesthio/OpenMontage": {
+          "stars": 34477,
+          "periodGain": 29796
         }
       }
     }
