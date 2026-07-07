@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T05:04:58.778Z",
+  "generatedAt": "2026-07-07T07:51:41.962Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1517,86 +1517,86 @@
     },
     {
       "date": "2026-07-07",
-      "generatedAt": "2026-07-07T05:04:43.5913097+00:00",
+      "generatedAt": "2026-07-07T07:51:24.1854706+00:00",
       "repos": {
         "usestrix/strix": {
-          "stars": 38085,
+          "stars": 38163,
           "periodGain": 12018
         },
         "msitarzewski/agency-agents": {
-          "stars": 128287,
+          "stars": 128391,
           "periodGain": 9706
         },
         "JuliusBrussee/caveman": {
-          "stars": 85818,
+          "stars": 85908,
           "periodGain": 7780
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 27508,
+          "stars": 27589,
           "periodGain": 24223
         },
         "Zackriya-Solutions/meetily": {
-          "stars": 19652,
+          "stars": 19839,
           "periodGain": 5769
         },
         "xbtlin/ai-berkshire": {
-          "stars": 11290,
+          "stars": 11388,
           "periodGain": 4616
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 12681,
+          "stars": 12770,
           "periodGain": 4594
         },
         "ogulcancelik/herdr": {
-          "stars": 12998,
+          "stars": 13073,
           "periodGain": 7878
         },
         "openai/codex-plugin-cc": {
-          "stars": 26381,
+          "stars": 26437,
           "periodGain": 4329
         },
         "alibaba/page-agent": {
-          "stars": 24686,
+          "stars": 24734,
           "periodGain": 3989
         },
         "stablyai/orca": {
-          "stars": 12964,
+          "stars": 13039,
           "periodGain": 8457
         },
         "browser-use/video-use": {
-          "stars": 15555,
+          "stars": 15619,
           "periodGain": 3706
         },
         "Panniantong/Agent-Reach": {
-          "stars": 52178,
+          "stars": 52286,
           "periodGain": 30168
         },
         "calesthio/OpenMontage": {
-          "stars": 34498,
+          "stars": 34602,
           "periodGain": 29796
         },
         "mvanhorn/last30days-skill": {
-          "stars": 49913,
+          "stars": 50013,
           "periodGain": 21391
         },
         "NVIDIA/SkillSpector": {
-          "stars": 12179,
+          "stars": 12193,
           "periodGain": 10867
         },
         "phuryn/pm-skills": {
-          "stars": 22812,
+          "stars": 22836,
           "periodGain": 10741
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 51864,
+          "stars": 52095,
           "periodGain": 9636
         },
         "interviewstreet/hiring-agent": {
-          "stars": 4987,
+          "stars": 5002,
           "periodGain": 4089
         },
         "alibaba/zvec": {
-          "stars": 13609,
+          "stars": 13675,
           "periodGain": 3459
         }
       }
