@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:51:41.962Z",
+  "generatedAt": "2026-07-08T03:37:46.095Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1598,6 +1598,80 @@
         "alibaba/zvec": {
           "stars": 13675,
           "periodGain": 3459
+        }
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "generatedAt": "2026-07-08T03:37:31.7354068+00:00",
+      "repos": {
+        "usestrix/strix": {
+          "stars": 38654,
+          "periodGain": 12644
+        },
+        "msitarzewski/agency-agents": {
+          "stars": 128856,
+          "periodGain": 8597
+        },
+        "JuliusBrussee/caveman": {
+          "stars": 86336,
+          "periodGain": 8066
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 20907,
+          "periodGain": 7651
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 28102,
+          "periodGain": 24857
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 11492,
+          "periodGain": 5363
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 53168,
+          "periodGain": 11323
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 13209,
+          "periodGain": 4797
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 26659,
+          "periodGain": 4725
+        },
+        "ogulcancelik/herdr": {
+          "stars": 13663,
+          "periodGain": 8492
+        },
+        "xbtlin/ai-berkshire": {
+          "stars": 11767,
+          "periodGain": 4262
+        },
+        "alibaba/page-agent": {
+          "stars": 24974,
+          "periodGain": 4163
+        },
+        "calesthio/OpenMontage": {
+          "stars": 35143,
+          "periodGain": 30474
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 52778,
+          "periodGain": 29851
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 12342,
+          "periodGain": 10999
+        },
+        "phuryn/pm-skills": {
+          "stars": 22935,
+          "periodGain": 10794
+        },
+        "stablyai/orca": {
+          "stars": 13653,
+          "periodGain": 8947
         }
       }
     }
