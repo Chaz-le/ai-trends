@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T06:37:29.129Z",
+  "generatedAt": "2026-07-09T04:07:52.822Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1672,6 +1672,76 @@
         "stablyai/orca": {
           "stars": 13745,
           "periodGain": 8947
+        }
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "generatedAt": "2026-07-09T04:07:39.1340291+00:00",
+      "repos": {
+        "usestrix/strix": {
+          "stars": 39163,
+          "periodGain": 13169
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 21723,
+          "periodGain": 8898
+        },
+        "JuliusBrussee/caveman": {
+          "stars": 86899,
+          "periodGain": 8080
+        },
+        "msitarzewski/agency-agents": {
+          "stars": 129403,
+          "periodGain": 7364
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 54371,
+          "periodGain": 12446
+        },
+        "facebook/astryx": {
+          "stars": 7228,
+          "periodGain": 4943
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 26967,
+          "periodGain": 4890
+        },
+        "ogulcancelik/herdr": {
+          "stars": 14447,
+          "periodGain": 9114
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 13863,
+          "periodGain": 4424
+        },
+        "alibaba/page-agent": {
+          "stars": 25262,
+          "periodGain": 4295
+        },
+        "xbtlin/ai-berkshire": {
+          "stars": 12094,
+          "periodGain": 3960
+        },
+        "stablyai/orca": {
+          "stars": 14357,
+          "periodGain": 9594
+        },
+        "calesthio/OpenMontage": {
+          "stars": 35755,
+          "periodGain": 31078
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 53360,
+          "periodGain": 29819
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 28710,
+          "periodGain": 25432
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 12522,
+          "periodGain": 11135
         }
       }
     }

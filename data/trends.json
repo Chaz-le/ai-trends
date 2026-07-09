@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-08T06:37:08.1627402+00:00",
+  "generatedAt": "2026-07-09T04:07:39.1340291+00:00",
   "weekly": [
     {
       "owner": "usestrix",
@@ -33,9 +33,9 @@
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 10741,
-      "totalStars": 38720,
-      "forks": 3932,
+      "starsGained": 10274,
+      "totalStars": 39163,
+      "forks": 3977,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 14:24:50",
       "tags": [
@@ -59,92 +59,6 @@
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
           "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
-        ]
-      }
-    },
-    {
-      "owner": "msitarzewski",
-      "repo": "agency-agents",
-      "fullName": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "topics": [],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 8597,
-      "totalStars": 128937,
-      "forks": 20971,
-      "license": "MIT",
-      "pushedAt": "07/07/2026 21:00:37",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "projectIntro": "该项目的 GitHub 简介是：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "featurePoints": [
-          "核心线索：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：→ Download the latest release · agencyagents.app"
-        ]
-      }
-    },
-    {
-      "owner": "JuliusBrussee",
-      "repo": "caveman",
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "topics": [
-        "ai",
-        "anthropic",
-        "caveman",
-        "claude",
-        "claude-code",
-        "llm",
-        "meme",
-        "prompt-engineering",
-        "skill",
-        "tokens"
-      ],
-      "homepage": "https://caveman.so/",
-      "language": "JavaScript",
-      "starsGained": 8066,
-      "totalStars": 86400,
-      "forks": 4819,
-      "license": "MIT",
-      "pushedAt": "07/03/2026 11:10:42",
-      "tags": [
-        "agent",
-        "llm",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS · Linux · WSL · Git Bash",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -179,9 +93,9 @@
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 7349,
-      "totalStars": 21077,
-      "forks": 2097,
+      "starsGained": 8366,
+      "totalStars": 21723,
+      "forks": 2171,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -209,102 +123,88 @@
       }
     },
     {
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "owner": "JuliusBrussee",
+      "repo": "caveman",
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "topics": [
-        "aider",
-        "ast",
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
         "claude-code",
-        "code-analysis",
-        "code-intelligence",
-        "codex",
-        "cursor",
-        "cypher",
-        "developer-tools",
-        "gemini-cli",
-        "graph-visualization",
-        "kilocode",
-        "knowledge-graph",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "opencode",
-        "sqlite",
-        "tree-sitter",
-        "windsurf"
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
       ],
-      "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
-      "language": "C",
-      "starsGained": 5457,
-      "totalStars": 28182,
-      "forks": 2097,
+      "homepage": "https://caveman.so/",
+      "language": "JavaScript",
+      "starsGained": 8080,
+      "totalStars": 86899,
+      "forks": 4864,
       "license": "MIT",
-      "pushedAt": "07/07/2026 22:15:11",
+      "pushedAt": "07/03/2026 11:10:42",
       "tags": [
         "agent",
         "llm",
-        "rag",
-        "coding",
-        "ml"
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "codebase-memory-mcp",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "readmeTitle": "macOS · Linux · WSL · Git Bash",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
     {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "topics": [],
       "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 5363,
-      "totalStars": 12078,
-      "forks": 3914,
+      "language": "Shell",
+      "starsGained": 7364,
+      "totalStars": 129403,
+      "forks": 21031,
       "license": "MIT",
-      "pushedAt": "07/07/2026 17:41:23",
+      "pushedAt": "07/08/2026 12:00:32",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "readmeTitle": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "projectIntro": "该项目的 GitHub 简介是：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+          "核心线索：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：→ Download the latest release · agencyagents.app"
         ]
       }
     },
@@ -337,13 +237,13 @@
         "openai",
         "prompt-engineering"
       ],
-      "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 5337,
-      "totalStars": 53341,
-      "forks": 8693,
+      "starsGained": 6182,
+      "totalStars": 54371,
+      "forks": 8850,
       "license": "CC0-1.0",
-      "pushedAt": "07/08/2026 00:20:27",
+      "pushedAt": "07/08/2026 20:41:15",
       "tags": [
         "agent",
         "llm",
@@ -372,64 +272,37 @@
       }
     },
     {
-      "owner": "diegosouzapw",
-      "repo": "OmniRoute",
-      "fullName": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cline",
-        "codex",
-        "copilot",
-        "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "gemini-cli",
-        "llm-gateway",
-        "mcp",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
-      ],
-      "homepage": "https://omniroute.online",
+      "owner": "facebook",
+      "repo": "astryx",
+      "fullName": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "topics": [],
+      "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
-      "starsGained": 4797,
-      "totalStars": 13278,
-      "forks": 1935,
+      "starsGained": 4943,
+      "totalStars": 7228,
+      "forks": 482,
       "license": "MIT",
-      "pushedAt": "07/08/2026 05:10:50",
+      "pushedAt": "07/09/2026 03:54:59",
       "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "multimodal"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "readmeTitle": "Astryx",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
         "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+          "核心线索：An open source design system that's fully customizable and agent ready"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -443,9 +316,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 4725,
-      "totalStars": 26693,
-      "forks": 1609,
+      "starsGained": 4890,
+      "totalStars": 26967,
+      "forks": 1624,
       "license": "Apache-2.0",
       "pushedAt": "07/08/2026 00:17:31",
       "tags": [
@@ -501,11 +374,11 @@
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 4557,
-      "totalStars": 13767,
-      "forks": 794,
+      "starsGained": 4754,
+      "totalStars": 14447,
+      "forks": 826,
       "license": "NOASSERTION",
-      "pushedAt": "07/07/2026 23:51:27",
+      "pushedAt": "07/09/2026 00:36:39",
       "tags": [
         "agent",
         "llm"
@@ -526,6 +399,113 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "fullName": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "gemini-cli",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "homepage": "https://omniroute.online",
+      "language": "TypeScript",
+      "starsGained": 4424,
+      "totalStars": 13863,
+      "forks": 2016,
+      "license": "MIT",
+      "pushedAt": "07/09/2026 02:30:40",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
+        ]
+      }
+    },
+    {
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "fullName": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "browser-automation",
+        "javascript",
+        "mcp",
+        "typescript",
+        "web"
+      ],
+      "homepage": "https://alibaba.github.io/page-agent/",
+      "language": "TypeScript",
+      "starsGained": 4295,
+      "totalStars": 25262,
+      "forks": 2171,
+      "license": "MIT",
+      "pushedAt": "07/08/2026 09:17:00",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Page Agent",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "projectIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "featurePoints": [
+          "核心线索：JavaScript in-page GUI agent. Control web interfaces with natural language."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
         ]
       }
     },
@@ -560,11 +540,11 @@
       ],
       "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
       "language": "Python",
-      "starsGained": 4262,
-      "totalStars": 11823,
-      "forks": 1536,
+      "starsGained": 3960,
+      "totalStars": 12094,
+      "forks": 1585,
       "license": "MIT",
-      "pushedAt": "07/07/2026 15:57:57",
+      "pushedAt": "07/08/2026 16:45:28",
       "tags": [
         "agent",
         "llm"
@@ -589,47 +569,60 @@
       }
     },
     {
-      "owner": "alibaba",
-      "repo": "page-agent",
-      "fullName": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "owner": "stablyai",
+      "repo": "orca",
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "topics": [
-        "agent",
-        "ai",
+        "ade",
+        "agent-ide",
         "ai-agents",
-        "browser-automation",
-        "javascript",
-        "mcp",
-        "typescript",
-        "web"
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
       ],
-      "homepage": "https://alibaba.github.io/page-agent/",
+      "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 4163,
-      "totalStars": 25012,
-      "forks": 2141,
+      "starsGained": 3953,
+      "totalStars": 14357,
+      "forks": 969,
       "license": "MIT",
-      "pushedAt": "07/07/2026 13:08:36",
+      "pushedAt": "07/09/2026 04:07:20",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Page Agent",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "projectIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：JavaScript in-page GUI agent. Control web interfaces with natural language."
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
@@ -665,11 +658,11 @@
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 30474,
-      "totalStars": 35228,
-      "forks": 4055,
+      "starsGained": 31078,
+      "totalStars": 35755,
+      "forks": 4146,
       "license": "AGPL-3.0",
-      "pushedAt": "07/07/2026 05:49:53",
+      "pushedAt": "07/08/2026 18:01:05",
       "tags": [
         "agent",
         "llm",
@@ -725,9 +718,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 29851,
-      "totalStars": 52850,
-      "forks": 4249,
+      "starsGained": 29819,
+      "totalStars": 53360,
+      "forks": 4279,
       "license": "MIT",
       "pushedAt": "07/03/2026 06:57:59",
       "tags": [
@@ -784,11 +777,11 @@
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 24857,
-      "totalStars": 28182,
-      "forks": 2097,
+      "starsGained": 25432,
+      "totalStars": 28710,
+      "forks": 2133,
       "license": "MIT",
-      "pushedAt": "07/07/2026 22:15:11",
+      "pushedAt": "07/09/2026 01:38:07",
       "tags": [
         "agent",
         "llm",
@@ -816,43 +809,6 @@
       }
     },
     {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 20890,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "功能：给 AI Agent 增加“近 30 天调研”能力，面向 Reddit、X、YouTube、Hacker News、Polymarket 等来源收集近期信号并整理结论。使用场景：适合做市场动态、竞品变化、热点舆情、产品调研和会议前背景梳理。",
-      "summarySource": "preserved",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "trend-research",
-        "zhTitle": "近 30 天热点研究技能",
-        "zhIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "projectIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "featurePoints": [
-          "跨社区和网页搜索近期内容，优先捕捉真实用户讨论、投票、热度和市场信号。",
-          "把过去 30 天的信息汇总成可引用的研究摘要，减少手动翻多个平台的成本。",
-          "以 Agent skill 的形式运行，可接入支持技能机制的 AI 工具。"
-        ],
-        "scenarioPoints": [
-          "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
-        ]
-      }
-    },
-    {
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "fullName": "ZhuLinsen/daily_stock_analysis",
@@ -862,7 +818,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14631,
+      "starsGained": 14822,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -918,9 +874,9 @@
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 12644,
-      "totalStars": 38720,
-      "forks": 3932,
+      "starsGained": 13169,
+      "totalStars": 39163,
+      "forks": 3977,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 14:24:50",
       "tags": [
@@ -976,13 +932,13 @@
         "openai",
         "prompt-engineering"
       ],
-      "homepage": "https://asgeirtj.github.io/system_prompts_leaks/",
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 11323,
-      "totalStars": 53341,
-      "forks": 8693,
+      "starsGained": 12446,
+      "totalStars": 54371,
+      "forks": 8850,
       "license": "CC0-1.0",
-      "pushedAt": "07/08/2026 00:20:27",
+      "pushedAt": "07/08/2026 20:41:15",
       "tags": [
         "agent",
         "llm",
@@ -1020,9 +976,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 10999,
-      "totalStars": 12366,
-      "forks": 1017,
+      "starsGained": 11135,
+      "totalStars": 12522,
+      "forks": 1031,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 00:55:27",
       "tags": [
@@ -1055,25 +1011,15 @@
       "url": "https://github.com/phuryn/pm-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7837354?s=40&v=4",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "topics": [
-        "agent-skill-repository",
-        "agent-skills",
-        "agentic-skills",
-        "claude-code-marketplace",
-        "claude-code-plugins",
-        "claude-cowork-plugin",
-        "product-management"
-      ],
-      "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+      "topics": [],
+      "homepage": "",
       "language": "",
-      "starsGained": 10794,
-      "totalStars": 22954,
-      "forks": 2312,
-      "license": "MIT",
-      "pushedAt": "07/03/2026 11:34:49",
+      "starsGained": 10758,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "learning"
       ],
       "zhSummary": "",
@@ -1092,6 +1038,44 @@
         ],
         "scenarioPoints": [
           "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
+        ]
+      }
+    },
+    {
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "fullName": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182581310?s=40&v=4",
+      "description": "Clone any website with one command using AI coding agents",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 10241,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -1124,11 +1108,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 8947,
-      "totalStars": 13745,
-      "forks": 925,
+      "starsGained": 9594,
+      "totalStars": 14357,
+      "forks": 969,
       "license": "MIT",
-      "pushedAt": "07/08/2026 06:06:26",
+      "pushedAt": "07/09/2026 04:07:20",
       "tags": [
         "agent",
         "llm",
@@ -1182,11 +1166,11 @@
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 8492,
-      "totalStars": 13767,
-      "forks": 794,
+      "starsGained": 9114,
+      "totalStars": 14447,
+      "forks": 826,
       "license": "NOASSERTION",
-      "pushedAt": "07/07/2026 23:51:27",
+      "pushedAt": "07/09/2026 00:36:39",
       "tags": [
         "agent",
         "llm"
@@ -1241,9 +1225,9 @@
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 7651,
-      "totalStars": 21077,
-      "forks": 2097,
+      "starsGained": 8898,
+      "totalStars": 21723,
+      "forks": 2171,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
