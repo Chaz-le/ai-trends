@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-09T05:04:20.0439063+00:00",
+  "generatedAt": "2026-07-09T07:50:59.8778508+00:00",
   "weekly": [
     {
       "owner": "usestrix",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 10274,
-      "totalStars": 39183,
-      "forks": 3980,
+      "totalStars": 39250,
+      "forks": 3990,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 14:24:50",
       "tags": [
@@ -59,6 +59,44 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
           "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+        ]
+      }
+    },
+    {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 9677,
+      "totalStars": 16263,
+      "forks": 4908,
+      "license": "MIT",
+      "pushedAt": "07/09/2026 04:10:18",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -94,8 +132,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 8366,
-      "totalStars": 21738,
-      "forks": 2173,
+      "totalStars": 21837,
+      "forks": 2184,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -144,7 +182,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://caveman.so/",
       "language": "JavaScript",
       "starsGained": 8080,
-      "totalStars": 86914,
+      "totalStars": 86972,
       "forks": 4864,
       "license": "MIT",
       "pushedAt": "07/03/2026 11:10:42",
@@ -183,8 +221,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 7364,
-      "totalStars": 129428,
-      "forks": 21031,
+      "totalStars": 129505,
+      "forks": 21047,
       "license": "MIT",
       "pushedAt": "07/08/2026 12:00:32",
       "tags": [
@@ -240,8 +278,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 6182,
-      "totalStars": 54412,
-      "forks": 8857,
+      "totalStars": 54538,
+      "forks": 8872,
       "license": "CC0-1.0",
       "pushedAt": "07/08/2026 20:41:15",
       "tags": [
@@ -282,10 +320,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 4943,
-      "totalStars": 7241,
-      "forks": 482,
+      "totalStars": 7283,
+      "forks": 484,
       "license": "MIT",
-      "pushedAt": "07/09/2026 04:54:42",
+      "pushedAt": "07/09/2026 07:05:03",
       "tags": [
         "agent"
       ],
@@ -317,8 +355,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 4890,
-      "totalStars": 26977,
-      "forks": 1624,
+      "totalStars": 27010,
+      "forks": 1627,
       "license": "Apache-2.0",
       "pushedAt": "07/08/2026 00:17:31",
       "tags": [
@@ -375,8 +413,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 4754,
-      "totalStars": 14461,
-      "forks": 827,
+      "totalStars": 14527,
+      "forks": 830,
       "license": "NOASSERTION",
       "pushedAt": "07/09/2026 00:36:39",
       "tags": [
@@ -434,10 +472,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 4424,
-      "totalStars": 13882,
-      "forks": 2018,
+      "totalStars": 13949,
+      "forks": 2027,
       "license": "MIT",
-      "pushedAt": "07/09/2026 04:33:41",
+      "pushedAt": "07/09/2026 07:50:50",
       "tags": [
         "agent",
         "llm",
@@ -484,10 +522,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
       "starsGained": 4295,
-      "totalStars": 25271,
-      "forks": 2173,
+      "totalStars": 25313,
+      "forks": 2178,
       "license": "MIT",
-      "pushedAt": "07/08/2026 09:17:00",
+      "pushedAt": "07/09/2026 07:50:26",
       "tags": [
         "agent"
       ],
@@ -541,8 +579,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
       "language": "Python",
       "starsGained": 3960,
-      "totalStars": 12106,
-      "forks": 1586,
+      "totalStars": 12157,
+      "forks": 1599,
       "license": "MIT",
       "pushedAt": "07/08/2026 16:45:28",
       "tags": [
@@ -565,64 +603,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "stablyai",
-      "repo": "orca",
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "cursor-agent",
-        "devtools",
-        "ghostty",
-        "ide",
-        "mobile-app",
-        "opencode",
-        "orchestration",
-        "parallel-agents",
-        "pi",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "homepage": "https://onOrca.dev",
-      "language": "TypeScript",
-      "starsGained": 3953,
-      "totalStars": 14390,
-      "forks": 969,
-      "license": "MIT",
-      "pushedAt": "07/09/2026 05:01:35",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS (Homebrew)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
@@ -659,10 +639,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 31078,
-      "totalStars": 35776,
-      "forks": 4149,
+      "totalStars": 35858,
+      "forks": 4161,
       "license": "AGPL-3.0",
-      "pushedAt": "07/08/2026 18:01:05",
+      "pushedAt": "07/09/2026 06:45:49",
       "tags": [
         "agent",
         "llm",
@@ -719,8 +699,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 29819,
-      "totalStars": 53375,
-      "forks": 4279,
+      "totalStars": 53480,
+      "forks": 4282,
       "license": "MIT",
       "pushedAt": "07/03/2026 06:57:59",
       "tags": [
@@ -778,10 +758,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 25432,
-      "totalStars": 28737,
-      "forks": 2133,
+      "totalStars": 28814,
+      "forks": 2136,
       "license": "MIT",
-      "pushedAt": "07/09/2026 04:55:08",
+      "pushedAt": "07/09/2026 07:35:28",
       "tags": [
         "agent",
         "llm",
@@ -875,8 +855,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 13169,
-      "totalStars": 39183,
-      "forks": 3980,
+      "totalStars": 39250,
+      "forks": 3990,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 14:24:50",
       "tags": [
@@ -935,8 +915,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 12446,
-      "totalStars": 54412,
-      "forks": 8857,
+      "totalStars": 54538,
+      "forks": 8872,
       "license": "CC0-1.0",
       "pushedAt": "07/08/2026 20:41:15",
       "tags": [
@@ -977,7 +957,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 11135,
-      "totalStars": 12526,
+      "totalStars": 12537,
       "forks": 1031,
       "license": "Apache-2.0",
       "pushedAt": "07/07/2026 00:55:27",
@@ -1038,6 +1018,44 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。"
+        ]
+      }
+    },
+    {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 10540,
+      "totalStars": 16263,
+      "forks": 4908,
+      "license": "MIT",
+      "pushedAt": "07/09/2026 04:10:18",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -1109,10 +1127,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 9594,
-      "totalStars": 14390,
-      "forks": 969,
+      "totalStars": 14492,
+      "forks": 976,
       "license": "MIT",
-      "pushedAt": "07/09/2026 05:01:35",
+      "pushedAt": "07/09/2026 07:47:25",
       "tags": [
         "agent",
         "llm",
@@ -1167,8 +1185,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 9114,
-      "totalStars": 14461,
-      "forks": 827,
+      "totalStars": 14527,
+      "forks": 830,
       "license": "NOASSERTION",
       "pushedAt": "07/09/2026 00:36:39",
       "tags": [
@@ -1191,66 +1209,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "Zackriya-Solutions",
-      "repo": "meetily",
-      "fullName": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
-      "topics": [
-        "ai",
-        "ai-meeting-assistant",
-        "llm",
-        "local-ai",
-        "mac",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "ollama",
-        "parakeet",
-        "privacy-focused",
-        "privacy-tools",
-        "rust",
-        "self-hosted",
-        "sortformer",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
-      ],
-      "homepage": "https://meetily.ai",
-      "language": "Rust",
-      "starsGained": 8898,
-      "totalStars": 21738,
-      "forks": 2173,
-      "license": "MIT",
-      "pushedAt": "06/05/2026 13:53:17",
-      "tags": [
-        "agent",
-        "llm",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     }
