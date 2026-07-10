@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:51:21.804Z",
+  "generatedAt": "2026-07-10T04:07:24.332Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1746,6 +1746,44 @@
         "stablyai/orca": {
           "stars": 14492,
           "periodGain": 9594
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "generatedAt": "2026-07-10T04:07:04.8131447+00:00",
+      "repos": {
+        "MadsLorentzen/ai-job-search": {
+          "stars": 19462,
+          "periodGain": 14585
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 22267,
+          "periodGain": 8885
+        },
+        "usestrix/strix": {
+          "stars": 39679,
+          "periodGain": 13697
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 55262,
+          "periodGain": 13616
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 27197,
+          "periodGain": 4792
+        },
+        "ogulcancelik/herdr": {
+          "stars": 14864,
+          "periodGain": 9607
+        },
+        "alibaba/page-agent": {
+          "stars": 25558,
+          "periodGain": 4459
+        },
+        "facebook/astryx": {
+          "stars": 7503,
+          "periodGain": 4087
         }
       }
     }
