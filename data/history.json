@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:50:26.090Z",
+  "generatedAt": "2026-07-11T03:34:36.176Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1812,6 +1812,76 @@
         "DeusData/codebase-memory-mcp": {
           "stars": 29366,
           "periodGain": 26040
+        }
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "generatedAt": "2026-07-11T03:34:22.4011883+00:00",
+      "repos": {
+        "Zackriya-Solutions/meetily": {
+          "stars": 22736,
+          "periodGain": 9968
+        },
+        "addyosmani/agent-skills": {
+          "stars": 76889,
+          "periodGain": 7944
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 55872,
+          "periodGain": 14343
+        },
+        "usestrix/strix": {
+          "stars": 40199,
+          "periodGain": 14196
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 14517,
+          "periodGain": 5789
+        },
+        "JuliusBrussee/caveman": {
+          "stars": 87798,
+          "periodGain": 5348
+        },
+        "ogulcancelik/herdr": {
+          "stars": 15255,
+          "periodGain": 9902
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 27455,
+          "periodGain": 4484
+        },
+        "stablyai/orca": {
+          "stars": 16012,
+          "periodGain": 11236
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 15134,
+          "periodGain": 8867
+        },
+        "bradautomates/claude-video": {
+          "stars": 7238,
+          "periodGain": 4093
+        },
+        "alibaba/page-agent": {
+          "stars": 25858,
+          "periodGain": 7398
+        },
+        "calesthio/OpenMontage": {
+          "stars": 36777,
+          "periodGain": 32095
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 54520,
+          "periodGain": 28774
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 29747,
+          "periodGain": 26480
+        },
+        "NVIDIA/SkillSpector": {
+          "stars": 12785,
+          "periodGain": 10790
         }
       }
     }
