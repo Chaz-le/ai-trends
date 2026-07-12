@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T03:48:26.474Z",
+  "generatedAt": "2026-07-12T04:35:59.399Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -1887,70 +1887,74 @@
     },
     {
       "date": "2026-07-12",
-      "generatedAt": "2026-07-12T03:48:13.7214529+00:00",
+      "generatedAt": "2026-07-12T04:35:21.3212213+00:00",
       "repos": {
         "Zackriya-Solutions/meetily": {
-          "stars": 23234,
+          "stars": 23250,
           "periodGain": 10434
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 56284,
+          "stars": 56291,
           "periodGain": 14671
         },
         "iOfficeAI/OfficeCLI": {
-          "stars": 15124,
+          "stars": 15135,
           "periodGain": 6549
         },
         "usestrix/strix": {
-          "stars": 40590,
+          "stars": 40604,
           "periodGain": 14657
         },
         "JuliusBrussee/caveman": {
-          "stars": 88193,
+          "stars": 88201,
           "periodGain": 4696
         },
         "bradautomates/claude-video": {
-          "stars": 7602,
+          "stars": 7608,
           "periodGain": 4399
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 15755,
+          "stars": 15767,
           "periodGain": 9525
         },
         "stablyai/orca": {
-          "stars": 16423,
+          "stars": 16438,
           "periodGain": 11693
         },
         "ogulcancelik/herdr": {
-          "stars": 15536,
+          "stars": 15545,
           "periodGain": 10125
         },
         "openai/codex-plugin-cc": {
-          "stars": 27683,
+          "stars": 27700,
           "periodGain": 4030
         },
         "ruvnet/RuView": {
-          "stars": 80091,
+          "stars": 80096,
           "periodGain": 3720
         },
         "alibaba/page-agent": {
-          "stars": 26071,
+          "stars": 26078,
           "periodGain": 7630
         },
         "calesthio/OpenMontage": {
-          "stars": 37166,
+          "stars": 37174,
           "periodGain": 32538
         },
         "Panniantong/Agent-Reach": {
-          "stars": 54976,
+          "stars": 54990,
           "periodGain": 28880
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 30202,
+          "stars": 30209,
           "periodGain": 26790
         },
+        "NVIDIA/SkillSpector": {
+          "stars": 12911,
+          "periodGain": 10589
+        },
         "alibaba/zvec": {
-          "stars": 14758,
+          "stars": 14759,
           "periodGain": 5021
         }
       }
