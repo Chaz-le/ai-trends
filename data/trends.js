@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-12T06:44:47.0164290+00:00",
+  "generatedAt": "2026-07-13T03:50:36.0465411+00:00",
   "weekly": [
     {
       "owner": "Zackriya-Solutions",
@@ -33,9 +33,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 8579,
-      "totalStars": 23275,
-      "forks": 2458,
+      "starsGained": 7440,
+      "totalStars": 23663,
+      "forks": 2490,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -93,11 +93,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 7731,
-      "totalStars": 56349,
-      "forks": 9306,
+      "starsGained": 7155,
+      "totalStars": 56796,
+      "forks": 9396,
       "license": "CC0-1.0",
-      "pushedAt": "07/10/2026 23:19:21",
+      "pushedAt": "07/12/2026 23:07:48",
       "tags": [
         "agent",
         "llm",
@@ -150,9 +150,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 6549,
-      "totalStars": 15174,
-      "forks": 1037,
+      "starsGained": 6978,
+      "totalStars": 15534,
+      "forks": 1060,
       "license": "Apache-2.0",
       "pushedAt": "07/11/2026 06:01:11",
       "tags": [
@@ -176,154 +176,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "usestrix",
-      "repo": "strix",
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
-      "language": "Python",
-      "starsGained": 4987,
-      "totalStars": 40634,
-      "forks": 4282,
-      "license": "Apache-2.0",
-      "pushedAt": "07/12/2026 04:20:46",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
-        ]
-      }
-    },
-    {
-      "owner": "JuliusBrussee",
-      "repo": "caveman",
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "topics": [
-        "ai",
-        "anthropic",
-        "caveman",
-        "claude",
-        "claude-code",
-        "llm",
-        "meme",
-        "prompt-engineering",
-        "skill",
-        "tokens"
-      ],
-      "homepage": "https://caveman.so/",
-      "language": "JavaScript",
-      "starsGained": 4696,
-      "totalStars": 88244,
-      "forks": 5071,
-      "license": "MIT",
-      "pushedAt": "07/03/2026 11:10:42",
-      "tags": [
-        "agent",
-        "llm",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS · Linux · WSL · Git Bash",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "bradautomates",
-      "repo": "claude-video",
-      "fullName": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4399,
-      "totalStars": 7628,
-      "forks": 855,
-      "license": "MIT",
-      "pushedAt": "07/01/2026 01:26:49",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "/watch",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
         ]
       }
     },
@@ -358,11 +210,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 4375,
-      "totalStars": 15803,
-      "forks": 2407,
+      "starsGained": 4506,
+      "totalStars": 16303,
+      "forks": 2481,
       "license": "MIT",
-      "pushedAt": "07/12/2026 06:41:50",
+      "pushedAt": "07/13/2026 03:28:14",
       "tags": [
         "agent",
         "llm",
@@ -418,11 +270,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 4368,
-      "totalStars": 16472,
-      "forks": 1292,
+      "starsGained": 4481,
+      "totalStars": 17209,
+      "forks": 1352,
       "license": "MIT",
-      "pushedAt": "07/12/2026 05:50:30",
+      "pushedAt": "07/13/2026 03:34:15",
       "tags": [
         "agent",
         "llm",
@@ -444,6 +296,154 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4353,
+      "totalStars": 7873,
+      "forks": 877,
+      "license": "MIT",
+      "pushedAt": "07/01/2026 01:26:49",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "/watch",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
+        ]
+      }
+    },
+    {
+      "owner": "usestrix",
+      "repo": "strix",
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
+      "language": "Python",
+      "starsGained": 4143,
+      "totalStars": 40903,
+      "forks": 4316,
+      "license": "Apache-2.0",
+      "pushedAt": "07/13/2026 03:44:09",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Strix",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+        ]
+      }
+    },
+    {
+      "owner": "JuliusBrussee",
+      "repo": "caveman",
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "homepage": "https://caveman.so/",
+      "language": "JavaScript",
+      "starsGained": 3992,
+      "totalStars": 88620,
+      "forks": 5091,
+      "license": "MIT",
+      "pushedAt": "07/03/2026 11:10:42",
+      "tags": [
+        "agent",
+        "llm",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "macOS · Linux · WSL · Git Bash",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -476,11 +476,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 4349,
-      "totalStars": 15573,
-      "forks": 1046,
+      "starsGained": 3928,
+      "totalStars": 15840,
+      "forks": 1062,
       "license": "NOASSERTION",
-      "pushedAt": "07/12/2026 01:56:14",
+      "pushedAt": "07/13/2026 01:08:33",
       "tags": [
         "agent",
         "llm"
@@ -501,45 +501,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "openai",
-      "repo": "codex-plugin-cc",
-      "fullName": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 4030,
-      "totalStars": 27743,
-      "forks": 1812,
-      "license": "Apache-2.0",
-      "pushedAt": "07/08/2026 00:17:31",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Codex plugin for Claude Code",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
         ]
       }
     },
@@ -574,11 +535,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://Cognitum.One/RuView",
       "language": "Rust",
-      "starsGained": 3720,
-      "totalStars": 80119,
-      "forks": 10785,
+      "starsGained": 3763,
+      "totalStars": 80284,
+      "forks": 10813,
       "license": "MIT",
-      "pushedAt": "07/12/2026 00:44:24",
+      "pushedAt": "07/13/2026 00:44:04",
       "tags": [
         "llm",
         "learning"
@@ -604,6 +565,45 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "fullName": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 2803,
+      "totalStars": 28118,
+      "forks": 1839,
+      "license": "Apache-2.0",
+      "pushedAt": "07/08/2026 00:17:31",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Codex plugin for Claude Code",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "page-agent",
       "fullName": "alibaba/page-agent",
@@ -622,9 +622,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
-      "starsGained": 3317,
-      "totalStars": 26093,
-      "forks": 2399,
+      "starsGained": 2666,
+      "totalStars": 26262,
+      "forks": 2417,
       "license": "MIT",
       "pushedAt": "07/10/2026 09:42:14",
       "tags": [
@@ -680,11 +680,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 32538,
-      "totalStars": 37213,
-      "forks": 4487,
+      "starsGained": 32911,
+      "totalStars": 37601,
+      "forks": 4541,
       "license": "AGPL-3.0",
-      "pushedAt": "07/11/2026 06:39:50",
+      "pushedAt": "07/12/2026 17:48:37",
       "tags": [
         "agent",
         "llm",
@@ -740,9 +740,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 28880,
-      "totalStars": 55023,
-      "forks": 4531,
+      "starsGained": 28973,
+      "totalStars": 55404,
+      "forks": 4571,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -799,11 +799,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 26790,
-      "totalStars": 30251,
-      "forks": 2421,
+      "starsGained": 27178,
+      "totalStars": 30684,
+      "forks": 2453,
       "license": "MIT",
-      "pushedAt": "07/11/2026 21:54:12",
+      "pushedAt": "07/13/2026 03:21:35",
       "tags": [
         "agent",
         "llm",
@@ -827,69 +827,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
-        ]
-      }
-    },
-    {
-      "owner": "asgeirtj",
-      "repo": "system_prompts_leaks",
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "awesome",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "deep-learning",
-        "education",
-        "gemini",
-        "generative-ai",
-        "google",
-        "llm",
-        "machine-learning",
-        "nlp",
-        "open-source",
-        "openai",
-        "prompt-engineering"
-      ],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 14671,
-      "totalStars": 56349,
-      "forks": 9306,
-      "license": "CC0-1.0",
-      "pushedAt": "07/10/2026 23:19:21",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
-        "category": "prompt-leak-dataset",
-        "zhTitle": "主流模型系统提示词泄露库",
-        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "featurePoints": [
-          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
-          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
-          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
-        ],
-        "scenarioPoints": [
-          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
-          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
         ]
       }
     },
@@ -924,11 +861,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 14657,
-      "totalStars": 40634,
-      "forks": 4282,
+      "starsGained": 14993,
+      "totalStars": 40903,
+      "forks": 4316,
       "license": "Apache-2.0",
-      "pushedAt": "07/12/2026 04:20:46",
+      "pushedAt": "07/13/2026 03:44:09",
       "tags": [
         "agent",
         "llm"
@@ -950,6 +887,69 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
           "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+        ]
+      }
+    },
+    {
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "awesome",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "deep-learning",
+        "education",
+        "gemini",
+        "generative-ai",
+        "google",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "open-source",
+        "openai",
+        "prompt-engineering"
+      ],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 14973,
+      "totalStars": 56796,
+      "forks": 9396,
+      "license": "CC0-1.0",
+      "pushedAt": "07/12/2026 23:07:48",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "System Prompts Leaks",
+        "category": "prompt-leak-dataset",
+        "zhTitle": "主流模型系统提示词泄露库",
+        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "featurePoints": [
+          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
+          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
+          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
+        ],
+        "scenarioPoints": [
+          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
+          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
         ]
       }
     },
@@ -982,11 +982,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 11693,
-      "totalStars": 16472,
-      "forks": 1292,
+      "starsGained": 12079,
+      "totalStars": 17209,
+      "forks": 1352,
       "license": "MIT",
-      "pushedAt": "07/12/2026 05:50:30",
+      "pushedAt": "07/13/2026 03:34:15",
       "tags": [
         "agent",
         "llm",
@@ -1008,44 +1008,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "SkillSpector",
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 10589,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
         ]
       }
     },
@@ -1080,9 +1042,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 10434,
-      "totalStars": 23275,
-      "forks": 2458,
+      "starsGained": 10839,
+      "totalStars": 23663,
+      "forks": 2490,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1138,11 +1100,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 10125,
-      "totalStars": 15573,
-      "forks": 1046,
+      "starsGained": 10286,
+      "totalStars": 15840,
+      "forks": 1062,
       "license": "NOASSERTION",
-      "pushedAt": "07/12/2026 01:56:14",
+      "pushedAt": "07/13/2026 01:08:33",
       "tags": [
         "agent",
         "llm"
@@ -1197,11 +1159,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 9525,
-      "totalStars": 15803,
-      "forks": 2407,
+      "starsGained": 10055,
+      "totalStars": 16303,
+      "forks": 2481,
       "license": "MIT",
-      "pushedAt": "07/12/2026 06:41:50",
+      "pushedAt": "07/13/2026 03:28:14",
       "tags": [
         "agent",
         "llm",
@@ -1229,6 +1191,82 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "fullName": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 9895,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+        ]
+      }
+    },
+    {
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 9876,
+      "totalStars": 13036,
+      "forks": 1059,
+      "license": "Apache-2.0",
+      "pushedAt": "07/10/2026 20:16:23",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "SkillSpector",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "page-agent",
       "fullName": "alibaba/page-agent",
@@ -1247,9 +1285,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
-      "starsGained": 7630,
-      "totalStars": 26093,
-      "forks": 2399,
+      "starsGained": 7797,
+      "totalStars": 26262,
+      "forks": 2417,
       "license": "MIT",
       "pushedAt": "07/10/2026 09:42:14",
       "tags": [
@@ -1270,60 +1308,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
-        ]
-      }
-    },
-    {
-      "owner": "alibaba",
-      "repo": "zvec",
-      "fullName": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "topics": [
-        "agent-skills",
-        "db",
-        "embedded",
-        "faiss",
-        "hnsw",
-        "llm-memory",
-        "local",
-        "rag",
-        "search-engine",
-        "semantic-search",
-        "similarity-search",
-        "vector-database",
-        "vector-db"
-      ],
-      "homepage": "https://zvec.org",
-      "language": "C++",
-      "starsGained": 5021,
-      "totalStars": 14765,
-      "forks": 917,
-      "license": "Apache-2.0",
-      "pushedAt": "07/10/2026 08:11:10",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Define collection schema",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
