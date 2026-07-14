@@ -1,64 +1,58 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-13T07:34:44.3641751+00:00",
+  "generatedAt": "2026-07-14T03:24:25.6585861+00:00",
   "weekly": [
     {
-      "owner": "Zackriya-Solutions",
-      "repo": "meetily",
-      "fullName": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "topics": [
+        "agent",
         "ai",
-        "ai-meeting-assistant",
-        "llm",
-        "local-ai",
-        "mac",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "ollama",
-        "parakeet",
-        "privacy-focused",
-        "privacy-tools",
-        "rust",
-        "self-hosted",
-        "sortformer",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
       ],
-      "homepage": "https://meetily.ai",
-      "language": "Rust",
-      "starsGained": 7440,
-      "totalStars": 23757,
-      "forks": 2495,
-      "license": "MIT",
-      "pushedAt": "06/05/2026 13:53:17",
+      "homepage": "https://officecli.ai",
+      "language": "C#",
+      "starsGained": 7596,
+      "totalStars": 16231,
+      "forks": 1097,
+      "license": "Apache-2.0",
+      "pushedAt": "07/13/2026 20:14:27",
       "tags": [
         "agent",
         "llm",
-        "multimodal"
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
         "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -93,11 +87,11 @@
       ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 7155,
-      "totalStars": 56888,
-      "forks": 9410,
+      "starsGained": 6284,
+      "totalStars": 57363,
+      "forks": 9483,
       "license": "CC0-1.0",
-      "pushedAt": "07/12/2026 23:07:48",
+      "pushedAt": "07/14/2026 01:43:50",
       "tags": [
         "agent",
         "llm",
@@ -126,56 +120,120 @@
       }
     },
     {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "owner": "Zackriya-Solutions",
+      "repo": "meetily",
+      "fullName": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "topics": [
-        "agent",
         "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
+        "ai-meeting-assistant",
+        "llm",
+        "local-ai",
+        "mac",
+        "meeting-minutes",
+        "meeting-notes",
+        "offline-first",
+        "ollama",
+        "parakeet",
+        "privacy-focused",
+        "privacy-tools",
+        "rust",
+        "self-hosted",
+        "sortformer",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
       ],
-      "homepage": "https://officecli.ai",
-      "language": "C#",
-      "starsGained": 6978,
-      "totalStars": 15647,
-      "forks": 1064,
-      "license": "Apache-2.0",
-      "pushedAt": "07/11/2026 06:01:11",
+      "homepage": "https://meetily.ai",
+      "language": "Rust",
+      "starsGained": 5392,
+      "totalStars": 24244,
+      "forks": 2540,
+      "license": "MIT",
+      "pushedAt": "06/05/2026 13:53:17",
       "tags": [
         "agent",
         "llm",
-        "learning"
+        "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "OfficeCLI",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "readmeTitle": "",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
         "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "stablyai",
+      "repo": "orca",
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "homepage": "https://onOrca.dev",
+      "language": "TypeScript",
+      "starsGained": 5263,
+      "totalStars": 18424,
+      "forks": 1450,
+      "license": "MIT",
+      "pushedAt": "07/14/2026 03:22:55",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -210,11 +268,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 4506,
-      "totalStars": 16384,
-      "forks": 2493,
+      "starsGained": 4345,
+      "totalStars": 16916,
+      "forks": 2559,
       "license": "MIT",
-      "pushedAt": "07/13/2026 06:35:41",
+      "pushedAt": "07/14/2026 03:21:10",
       "tags": [
         "agent",
         "llm",
@@ -242,64 +300,6 @@
       }
     },
     {
-      "owner": "stablyai",
-      "repo": "orca",
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "cursor-agent",
-        "devtools",
-        "ghostty",
-        "ide",
-        "mobile-app",
-        "opencode",
-        "orchestration",
-        "parallel-agents",
-        "pi",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "homepage": "https://onOrca.dev",
-      "language": "TypeScript",
-      "starsGained": 4481,
-      "totalStars": 17471,
-      "forks": 1376,
-      "license": "MIT",
-      "pushedAt": "07/13/2026 07:34:22",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS (Homebrew)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "bradautomates",
       "repo": "claude-video",
       "fullName": "bradautomates/claude-video",
@@ -309,9 +309,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4353,
-      "totalStars": 7913,
-      "forks": 880,
+      "starsGained": 4128,
+      "totalStars": 8179,
+      "forks": 899,
       "license": "MIT",
       "pushedAt": "07/01/2026 01:26:49",
       "tags": [
@@ -334,116 +334,6 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
-        ]
-      }
-    },
-    {
-      "owner": "usestrix",
-      "repo": "strix",
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
-      "language": "Python",
-      "starsGained": 4143,
-      "totalStars": 40966,
-      "forks": 4323,
-      "license": "Apache-2.0",
-      "pushedAt": "07/13/2026 03:44:09",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
-        ]
-      }
-    },
-    {
-      "owner": "JuliusBrussee",
-      "repo": "caveman",
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "topics": [
-        "ai",
-        "anthropic",
-        "caveman",
-        "claude",
-        "claude-code",
-        "llm",
-        "meme",
-        "prompt-engineering",
-        "skill",
-        "tokens"
-      ],
-      "homepage": "https://caveman.so/",
-      "language": "JavaScript",
-      "starsGained": 3992,
-      "totalStars": 88707,
-      "forks": 5096,
-      "license": "MIT",
-      "pushedAt": "07/03/2026 11:10:42",
-      "tags": [
-        "agent",
-        "llm",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS · Linux · WSL · Git Bash",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -476,11 +366,11 @@
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 3928,
-      "totalStars": 15909,
-      "forks": 1067,
+      "starsGained": 3449,
+      "totalStars": 16171,
+      "forks": 1095,
       "license": "NOASSERTION",
-      "pushedAt": "07/13/2026 01:08:33",
+      "pushedAt": "07/14/2026 01:18:18",
       "tags": [
         "agent",
         "llm"
@@ -535,11 +425,11 @@
       ],
       "homepage": "https://Cognitum.One/RuView",
       "language": "Rust",
-      "starsGained": 3763,
-      "totalStars": 80321,
-      "forks": 10818,
+      "starsGained": 3403,
+      "totalStars": 80511,
+      "forks": 10837,
       "license": "MIT",
-      "pushedAt": "07/13/2026 07:15:34",
+      "pushedAt": "07/14/2026 00:38:52",
       "tags": [
         "llm",
         "learning"
@@ -565,6 +455,141 @@
       }
     },
     {
+      "owner": "usestrix",
+      "repo": "strix",
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
+      "language": "Python",
+      "starsGained": 3403,
+      "totalStars": 41249,
+      "forks": 4343,
+      "license": "Apache-2.0",
+      "pushedAt": "07/14/2026 00:57:43",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Strix",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+        ]
+      }
+    },
+    {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+      "description": "The design language that makes your AI harness better at design.",
+      "topics": [],
+      "homepage": "https://impeccable.style",
+      "language": "JavaScript",
+      "starsGained": 2450,
+      "totalStars": 46406,
+      "forks": 2806,
+      "license": "Apache-2.0",
+      "pushedAt": "07/13/2026 17:05:48",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Impeccable",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
+        "projectIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
+        "featurePoints": [
+          "核心线索：The design language that makes your AI harness better at design."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "TencentCloud",
+      "repo": "CubeSandbox",
+      "fullName": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "topics": [
+        "agents",
+        "container",
+        "sandbox"
+      ],
+      "homepage": "https://cubesandbox.com",
+      "language": "Rust",
+      "starsGained": 2367,
+      "totalStars": 10015,
+      "forks": 983,
+      "license": "NOASSERTION",
+      "pushedAt": "07/14/2026 03:23:58",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "projectIntro": "该项目的 GitHub 简介是：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "featurePoints": [
+          "核心线索：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Installation & Demo"
+        ]
+      }
+    },
+    {
       "owner": "openai",
       "repo": "codex-plugin-cc",
       "fullName": "openai/codex-plugin-cc",
@@ -574,9 +599,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 2803,
-      "totalStars": 28181,
-      "forks": 1846,
+      "starsGained": 2265,
+      "totalStars": 28439,
+      "forks": 1871,
       "license": "Apache-2.0",
       "pushedAt": "07/08/2026 00:17:31",
       "tags": [
@@ -600,51 +625,6 @@
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
-        ]
-      }
-    },
-    {
-      "owner": "alibaba",
-      "repo": "page-agent",
-      "fullName": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "browser-automation",
-        "javascript",
-        "mcp",
-        "typescript",
-        "web"
-      ],
-      "homepage": "https://alibaba.github.io/page-agent/",
-      "language": "TypeScript",
-      "starsGained": 2666,
-      "totalStars": 26299,
-      "forks": 2418,
-      "license": "MIT",
-      "pushedAt": "07/10/2026 09:42:14",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Page Agent",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "projectIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "featurePoints": [
-          "核心线索：JavaScript in-page GUI agent. Control web interfaces with natural language."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
         ]
       }
     }
@@ -680,9 +660,9 @@
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 32911,
-      "totalStars": 37687,
-      "forks": 4557,
+      "starsGained": 33392,
+      "totalStars": 38098,
+      "forks": 4604,
       "license": "AGPL-3.0",
       "pushedAt": "07/12/2026 17:48:37",
       "tags": [
@@ -740,9 +720,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 28973,
-      "totalStars": 55483,
-      "forks": 4581,
+      "starsGained": 28900,
+      "totalStars": 55843,
+      "forks": 4606,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -799,9 +779,9 @@
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 27178,
-      "totalStars": 30769,
-      "forks": 2457,
+      "starsGained": 27660,
+      "totalStars": 31186,
+      "forks": 2484,
       "license": "MIT",
       "pushedAt": "07/13/2026 03:21:35",
       "tags": [
@@ -827,66 +807,6 @@
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
-        ]
-      }
-    },
-    {
-      "owner": "usestrix",
-      "repo": "strix",
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
-      "language": "Python",
-      "starsGained": 14993,
-      "totalStars": 40966,
-      "forks": 4323,
-      "license": "Apache-2.0",
-      "pushedAt": "07/13/2026 03:44:09",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
         ]
       }
     },
@@ -921,11 +841,11 @@
       ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 14973,
-      "totalStars": 56888,
-      "forks": 9410,
+      "starsGained": 15390,
+      "totalStars": 57363,
+      "forks": 9483,
       "license": "CC0-1.0",
-      "pushedAt": "07/12/2026 23:07:48",
+      "pushedAt": "07/14/2026 01:43:50",
       "tags": [
         "agent",
         "llm",
@@ -950,6 +870,66 @@
         "scenarioPoints": [
           "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
           "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
+        ]
+      }
+    },
+    {
+      "owner": "usestrix",
+      "repo": "strix",
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
+      "language": "Python",
+      "starsGained": 15337,
+      "totalStars": 41249,
+      "forks": 4343,
+      "license": "Apache-2.0",
+      "pushedAt": "07/14/2026 00:57:43",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Strix",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
         ]
       }
     },
@@ -982,11 +962,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 12079,
-      "totalStars": 17471,
-      "forks": 1376,
+      "starsGained": 13222,
+      "totalStars": 18424,
+      "forks": 1450,
       "license": "MIT",
-      "pushedAt": "07/13/2026 07:34:22",
+      "pushedAt": "07/14/2026 03:22:55",
       "tags": [
         "agent",
         "llm",
@@ -1042,9 +1022,9 @@
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 10839,
-      "totalStars": 23757,
-      "forks": 2495,
+      "starsGained": 11340,
+      "totalStars": 24244,
+      "forks": 2540,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1068,63 +1048,6 @@
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
-      "owner": "ogulcancelik",
-      "repo": "herdr",
-      "fullName": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-      "description": "agent multiplexer that lives in your terminal.",
-      "topics": [
-        "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "devtools",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-multiplexer",
-        "terminal-ui",
-        "tmux",
-        "tui",
-        "workspace-manager"
-      ],
-      "homepage": "https://herdr.dev",
-      "language": "Rust",
-      "starsGained": 10286,
-      "totalStars": 15909,
-      "forks": 1067,
-      "license": "NOASSERTION",
-      "pushedAt": "07/13/2026 01:08:33",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "herdr",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -1159,11 +1082,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 10055,
-      "totalStars": 16384,
-      "forks": 2493,
+      "starsGained": 10603,
+      "totalStars": 16916,
+      "forks": 2559,
       "license": "MIT",
-      "pushedAt": "07/13/2026 06:35:41",
+      "pushedAt": "07/14/2026 03:21:10",
       "tags": [
         "agent",
         "llm",
@@ -1191,29 +1114,107 @@
       }
     },
     {
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "fullName": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
+      "description": "agent multiplexer that lives in your terminal.",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "homepage": "https://herdr.dev",
+      "language": "Rust",
+      "starsGained": 10569,
+      "totalStars": 16171,
+      "forks": 1095,
+      "license": "NOASSERTION",
+      "pushedAt": "07/14/2026 01:18:18",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "herdr",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
       "owner": "topoteretes",
       "repo": "cognee",
       "fullName": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "cognitive-architecture",
+        "cognitive-memory",
+        "context-engineering",
+        "contributions-welcome",
+        "good-first-issue",
+        "good-first-pr",
+        "graph-database",
+        "graph-rag",
+        "help-wanted",
+        "knowledge",
+        "knowledge-graph",
+        "memory-management",
+        "open-source",
+        "vector-database"
+      ],
+      "homepage": "https://www.cognee.ai",
       "language": "Python",
-      "starsGained": 9895,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 10013,
+      "totalStars": 27790,
+      "forks": 2751,
+      "license": "Apache-2.0",
+      "pushedAt": "07/13/2026 21:08:07",
       "tags": [
         "agent",
-        "rag"
+        "rag",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Start the API server (http://localhost:8000)",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -1225,44 +1226,6 @@
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "SkillSpector",
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 9876,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
         ]
       }
     },
@@ -1285,11 +1248,11 @@
       ],
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
-      "starsGained": 7797,
-      "totalStars": 26299,
-      "forks": 2418,
+      "starsGained": 8001,
+      "totalStars": 26471,
+      "forks": 2430,
       "license": "MIT",
-      "pushedAt": "07/10/2026 09:42:14",
+      "pushedAt": "07/13/2026 19:06:28",
       "tags": [
         "agent"
       ],
@@ -1308,6 +1271,42 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
+        ]
+      }
+    },
+    {
+      "owner": "interviewstreet",
+      "repo": "hiring-agent",
+      "fullName": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
+      "description": "AI agent to evaluate and score resumes.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4624,
+      "totalStars": 5770,
+      "forks": 1144,
+      "license": "MIT",
+      "pushedAt": "06/22/2026 17:40:27",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Hiring Agent",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
+        "projectIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
+        "featurePoints": [
+          "核心线索：AI agent to evaluate and score resumes."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：If development mode is on, the PDF extraction result is cached to cache/resumecache .json."
         ]
       }
     }

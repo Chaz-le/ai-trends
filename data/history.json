@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T07:35:00.996Z",
+  "generatedAt": "2026-07-14T03:24:38.829Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2018,6 +2018,84 @@
         "DeusData/codebase-memory-mcp": {
           "stars": 30769,
           "periodGain": 27178
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "generatedAt": "2026-07-14T03:24:25.6585861+00:00",
+      "repos": {
+        "iOfficeAI/OfficeCLI": {
+          "stars": 16231,
+          "periodGain": 7596
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 57363,
+          "periodGain": 15390
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 24244,
+          "periodGain": 11340
+        },
+        "stablyai/orca": {
+          "stars": 18424,
+          "periodGain": 13222
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 16916,
+          "periodGain": 10603
+        },
+        "bradautomates/claude-video": {
+          "stars": 8179,
+          "periodGain": 4128
+        },
+        "ogulcancelik/herdr": {
+          "stars": 16171,
+          "periodGain": 10569
+        },
+        "ruvnet/RuView": {
+          "stars": 80511,
+          "periodGain": 3403
+        },
+        "usestrix/strix": {
+          "stars": 41249,
+          "periodGain": 15337
+        },
+        "pbakaus/impeccable": {
+          "stars": 46406,
+          "periodGain": 2450
+        },
+        "TencentCloud/CubeSandbox": {
+          "stars": 10015,
+          "periodGain": 2367
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 28439,
+          "periodGain": 2265
+        },
+        "calesthio/OpenMontage": {
+          "stars": 38098,
+          "periodGain": 33392
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 55843,
+          "periodGain": 28900
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 31186,
+          "periodGain": 27660
+        },
+        "topoteretes/cognee": {
+          "stars": 27790,
+          "periodGain": 10013
+        },
+        "alibaba/page-agent": {
+          "stars": 26471,
+          "periodGain": 8001
+        },
+        "interviewstreet/hiring-agent": {
+          "stars": 5770,
+          "periodGain": 4624
         }
       }
     }
