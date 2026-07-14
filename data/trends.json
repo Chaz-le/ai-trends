@@ -1,7 +1,58 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-14T04:14:44.9470803+00:00",
+  "generatedAt": "2026-07-14T06:22:40.4700333+00:00",
   "weekly": [
+    {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 15420,
+      "totalStars": 22020,
+      "forks": 6758,
+      "license": "MIT",
+      "pushedAt": "07/13/2026 18:45:39",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
     {
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
@@ -28,8 +79,8 @@
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 7596,
-      "totalStars": 16257,
-      "forks": 1100,
+      "totalStars": 16308,
+      "forks": 1101,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 03:46:20",
       "tags": [
@@ -88,10 +139,10 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 6284,
-      "totalStars": 57383,
-      "forks": 9485,
+      "totalStars": 57435,
+      "forks": 9493,
       "license": "CC0-1.0",
-      "pushedAt": "07/14/2026 04:14:42",
+      "pushedAt": "07/14/2026 04:33:23",
       "tags": [
         "agent",
         "llm",
@@ -151,8 +202,8 @@
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 5392,
-      "totalStars": 24266,
-      "forks": 2542,
+      "totalStars": 24312,
+      "forks": 2544,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -209,10 +260,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5263,
-      "totalStars": 18457,
-      "forks": 1452,
+      "totalStars": 18570,
+      "forks": 1457,
       "license": "MIT",
-      "pushedAt": "07/14/2026 04:10:01",
+      "pushedAt": "07/14/2026 06:21:55",
       "tags": [
         "agent",
         "llm",
@@ -269,10 +320,10 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 4345,
-      "totalStars": 16929,
-      "forks": 2565,
+      "totalStars": 16975,
+      "forks": 2573,
       "license": "MIT",
-      "pushedAt": "07/14/2026 03:21:10",
+      "pushedAt": "07/14/2026 05:00:35",
       "tags": [
         "agent",
         "llm",
@@ -310,7 +361,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 4128,
-      "totalStars": 8190,
+      "totalStars": 8214,
       "forks": 900,
       "license": "MIT",
       "pushedAt": "07/01/2026 01:26:49",
@@ -367,8 +418,8 @@
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 3449,
-      "totalStars": 16185,
-      "forks": 1096,
+      "totalStars": 16222,
+      "forks": 1100,
       "license": "NOASSERTION",
       "pushedAt": "07/14/2026 01:18:18",
       "tags": [
@@ -391,66 +442,6 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "topics": [
-        "awesome",
-        "claude",
-        "densepose",
-        "esp32",
-        "firmware",
-        "home-assistant",
-        "home-automation",
-        "iot",
-        "monitoring",
-        "networking",
-        "npm",
-        "pose-estimation",
-        "react",
-        "rf",
-        "self-learning",
-        "skills",
-        "spatial-intelligence",
-        "typescript",
-        "wifi",
-        "wifi-security"
-      ],
-      "homepage": "https://Cognitum.One/RuView",
-      "language": "Rust",
-      "starsGained": 3403,
-      "totalStars": 80523,
-      "forks": 10837,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 00:38:52",
-      "tags": [
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "π RuView",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：Turns any WiFi signal into a 128-number \"fingerprint\" that uniquely describes what's happening in a room"
         ]
       }
     },
@@ -486,10 +477,10 @@
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 3403,
-      "totalStars": 41259,
-      "forks": 4343,
+      "totalStars": 41286,
+      "forks": 4344,
       "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 00:57:43",
+      "pushedAt": "07/14/2026 05:10:16",
       "tags": [
         "agent",
         "llm"
@@ -515,6 +506,66 @@
       }
     },
     {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "topics": [
+        "awesome",
+        "claude",
+        "densepose",
+        "esp32",
+        "firmware",
+        "home-assistant",
+        "home-automation",
+        "iot",
+        "monitoring",
+        "networking",
+        "npm",
+        "pose-estimation",
+        "react",
+        "rf",
+        "self-learning",
+        "skills",
+        "spatial-intelligence",
+        "typescript",
+        "wifi",
+        "wifi-security"
+      ],
+      "homepage": "https://Cognitum.One/RuView",
+      "language": "Rust",
+      "starsGained": 3403,
+      "totalStars": 80544,
+      "forks": 10842,
+      "license": "MIT",
+      "pushedAt": "07/14/2026 00:38:52",
+      "tags": [
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "π RuView",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：Turns any WiFi signal into a 128-number \"fingerprint\" that uniquely describes what's happening in a room"
+        ]
+      }
+    },
+    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -525,7 +576,7 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 2450,
-      "totalStars": 46422,
+      "totalStars": 46450,
       "forks": 2807,
       "license": "Apache-2.0",
       "pushedAt": "07/13/2026 17:05:48",
@@ -564,10 +615,10 @@
       "homepage": "https://cubesandbox.com",
       "language": "Rust",
       "starsGained": 2367,
-      "totalStars": 10021,
+      "totalStars": 10034,
       "forks": 983,
       "license": "NOASSERTION",
-      "pushedAt": "07/14/2026 03:47:01",
+      "pushedAt": "07/14/2026 04:44:21",
       "tags": [
         "agent"
       ],
@@ -586,45 +637,6 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "可按 README 示例落地：Installation & Demo"
-        ]
-      }
-    },
-    {
-      "owner": "openai",
-      "repo": "codex-plugin-cc",
-      "fullName": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 2265,
-      "totalStars": 28453,
-      "forks": 1872,
-      "license": "Apache-2.0",
-      "pushedAt": "07/08/2026 00:17:31",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Codex plugin for Claude Code",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
         ]
       }
     }
@@ -661,8 +673,8 @@
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 33392,
-      "totalStars": 38115,
-      "forks": 4606,
+      "totalStars": 38160,
+      "forks": 4611,
       "license": "AGPL-3.0",
       "pushedAt": "07/12/2026 17:48:37",
       "tags": [
@@ -721,8 +733,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 28900,
-      "totalStars": 55869,
-      "forks": 4606,
+      "totalStars": 55919,
+      "forks": 4609,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -780,8 +792,8 @@
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 27660,
-      "totalStars": 31202,
-      "forks": 2485,
+      "totalStars": 31230,
+      "forks": 2489,
       "license": "MIT",
       "pushedAt": "07/13/2026 03:21:35",
       "tags": [
@@ -807,6 +819,57 @@
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+        ]
+      }
+    },
+    {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 18534,
+      "totalStars": 22020,
+      "forks": 6758,
+      "license": "MIT",
+      "pushedAt": "07/13/2026 18:45:39",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -842,10 +905,10 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15390,
-      "totalStars": 57383,
-      "forks": 9485,
+      "totalStars": 57435,
+      "forks": 9493,
       "license": "CC0-1.0",
-      "pushedAt": "07/14/2026 04:14:42",
+      "pushedAt": "07/14/2026 04:33:23",
       "tags": [
         "agent",
         "llm",
@@ -905,10 +968,10 @@
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 15337,
-      "totalStars": 41259,
-      "forks": 4343,
+      "totalStars": 41286,
+      "forks": 4344,
       "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 00:57:43",
+      "pushedAt": "07/14/2026 05:10:16",
       "tags": [
         "agent",
         "llm"
@@ -963,10 +1026,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 13222,
-      "totalStars": 18457,
-      "forks": 1452,
+      "totalStars": 18570,
+      "forks": 1457,
       "license": "MIT",
-      "pushedAt": "07/14/2026 04:10:01",
+      "pushedAt": "07/14/2026 06:21:55",
       "tags": [
         "agent",
         "llm",
@@ -1023,8 +1086,8 @@
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 11340,
-      "totalStars": 24266,
-      "forks": 2542,
+      "totalStars": 24312,
+      "forks": 2544,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1083,10 +1146,10 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 10603,
-      "totalStars": 16929,
-      "forks": 2565,
+      "totalStars": 16975,
+      "forks": 2573,
       "license": "MIT",
-      "pushedAt": "07/14/2026 03:21:10",
+      "pushedAt": "07/14/2026 05:00:35",
       "tags": [
         "agent",
         "llm",
@@ -1143,8 +1206,8 @@
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 10569,
-      "totalStars": 16185,
-      "forks": 1096,
+      "totalStars": 16222,
+      "forks": 1100,
       "license": "NOASSERTION",
       "pushedAt": "07/14/2026 01:18:18",
       "tags": [
@@ -1177,44 +1240,23 @@
       "url": "https://github.com/topoteretes/cognee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "topics": [
-        "agent-memory",
-        "agent-skills",
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "cognitive-architecture",
-        "cognitive-memory",
-        "context-engineering",
-        "contributions-welcome",
-        "good-first-issue",
-        "good-first-pr",
-        "graph-database",
-        "graph-rag",
-        "help-wanted",
-        "knowledge",
-        "knowledge-graph",
-        "memory-management",
-        "open-source",
-        "vector-database"
-      ],
-      "homepage": "https://www.cognee.ai",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 10013,
-      "totalStars": 27793,
-      "forks": 2751,
-      "license": "Apache-2.0",
-      "pushedAt": "07/13/2026 21:08:07",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "rag",
-        "learning"
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Start the API server (http://localhost:8000)",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -1249,8 +1291,8 @@
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
       "starsGained": 8001,
-      "totalStars": 26481,
-      "forks": 2430,
+      "totalStars": 26503,
+      "forks": 2432,
       "license": "MIT",
       "pushedAt": "07/13/2026 19:06:28",
       "tags": [
@@ -1271,42 +1313,6 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
-        ]
-      }
-    },
-    {
-      "owner": "interviewstreet",
-      "repo": "hiring-agent",
-      "fullName": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
-      "description": "AI agent to evaluate and score resumes.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4624,
-      "totalStars": 5771,
-      "forks": 1145,
-      "license": "MIT",
-      "pushedAt": "06/22/2026 17:40:27",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hiring Agent",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
-        "projectIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
-        "featurePoints": [
-          "核心线索：AI agent to evaluate and score resumes."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：If development mode is on, the PDF extraction result is cached to cache/resumecache .json."
         ]
       }
     }
