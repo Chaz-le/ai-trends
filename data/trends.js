@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-14T06:22:40.4700333+00:00",
+  "generatedAt": "2026-07-15T03:24:31.5634436+00:00",
   "weekly": [
     {
       "owner": "MadsLorentzen",
@@ -25,11 +25,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 15420,
-      "totalStars": 22020,
-      "forks": 6758,
+      "starsGained": 13195,
+      "totalStars": 22558,
+      "forks": 7013,
       "license": "MIT",
-      "pushedAt": "07/13/2026 18:45:39",
+      "pushedAt": "07/14/2026 18:11:12",
       "tags": [
         "agent",
         "llm"
@@ -78,11 +78,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 7596,
-      "totalStars": 16308,
-      "forks": 1101,
+      "starsGained": 7129,
+      "totalStars": 16889,
+      "forks": 1124,
       "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 03:46:20",
+      "pushedAt": "07/14/2026 07:11:38",
       "tags": [
         "agent",
         "llm",
@@ -108,65 +108,60 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "asgeirtj",
-      "repo": "system_prompts_leaks",
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "owner": "stablyai",
+      "repo": "orca",
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "topics": [
-        "ai",
+        "ade",
+        "agent-ide",
         "ai-agents",
-        "anthropic",
-        "awesome",
-        "chatbot",
-        "chatgpt",
-        "claude",
         "claude-code",
+        "cli",
         "codex",
-        "deep-learning",
-        "education",
-        "gemini",
-        "generative-ai",
-        "google",
-        "llm",
-        "machine-learning",
-        "nlp",
-        "open-source",
-        "openai",
-        "prompt-engineering"
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
       ],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 6284,
-      "totalStars": 57435,
-      "forks": 9493,
-      "license": "CC0-1.0",
-      "pushedAt": "07/14/2026 04:33:23",
+      "homepage": "https://onOrca.dev",
+      "language": "TypeScript",
+      "starsGained": 5724,
+      "totalStars": 19254,
+      "forks": 1507,
+      "license": "MIT",
+      "pushedAt": "07/15/2026 03:24:25",
       "tags": [
         "agent",
         "llm",
-        "coding",
-        "generation",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
-        "category": "prompt-leak-dataset",
-        "zhTitle": "主流模型系统提示词泄露库",
-        "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
-        "projectIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "按厂商和产品来源归档 Claude、ChatGPT、Gemini、Grok、Codex、Cursor 等系统提示词。",
-          "强调 extracted leaks 和 regular updates，便于追踪不同模型版本的系统指令变化。",
-          "更偏模型行为和安全边界研究，不是泛 AI 工具清单，也不重点记录模型配置。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合观察各家模型如何约束身份、安全边界、工具调用和回答风格。",
-          "适合做模型行为研究、提示词演化追踪、安全/越狱防护分析。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -201,9 +196,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 5392,
-      "totalStars": 24312,
-      "forks": 2544,
+      "starsGained": 4389,
+      "totalStars": 24697,
+      "forks": 2569,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -227,64 +222,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
-      "owner": "stablyai",
-      "repo": "orca",
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "cursor-agent",
-        "devtools",
-        "ghostty",
-        "ide",
-        "mobile-app",
-        "opencode",
-        "orchestration",
-        "parallel-agents",
-        "pi",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "homepage": "https://onOrca.dev",
-      "language": "TypeScript",
-      "starsGained": 5263,
-      "totalStars": 18570,
-      "forks": 1457,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 06:21:55",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS (Homebrew)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -319,11 +256,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 4345,
-      "totalStars": 16975,
-      "forks": 2573,
+      "starsGained": 4297,
+      "totalStars": 17373,
+      "forks": 2610,
       "license": "MIT",
-      "pushedAt": "07/14/2026 05:00:35",
+      "pushedAt": "07/15/2026 03:17:15",
       "tags": [
         "agent",
         "llm",
@@ -351,6 +288,51 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "homepage": "https://www.theunwindai.com",
+      "language": "Python",
+      "starsGained": 3827,
+      "totalStars": 120999,
+      "forks": 17900,
+      "license": "Apache-2.0",
+      "pushedAt": "07/14/2026 06:23:01",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Awesome LLM Apps",
+        "category": "rag-search",
+        "zhTitle": "RAG / 语义检索工具",
+        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "featurePoints": [
+          "支持向量、语义搜索、知识库或文档检索相关能力。",
+          "可作为 RAG 管道中的索引、召回或知识组织组件。",
+          "帮助把外部资料转成大模型可查询的上下文。"
+        ],
+        "scenarioPoints": [
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+        ]
+      }
+    },
+    {
       "owner": "bradautomates",
       "repo": "claude-video",
       "fullName": "bradautomates/claude-video",
@@ -360,9 +342,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4128,
-      "totalStars": 8214,
-      "forks": 900,
+      "starsGained": 3554,
+      "totalStars": 8509,
+      "forks": 925,
       "license": "MIT",
       "pushedAt": "07/01/2026 01:26:49",
       "tags": [
@@ -417,11 +399,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 3449,
-      "totalStars": 16222,
-      "forks": 1100,
+      "starsGained": 3115,
+      "totalStars": 16521,
+      "forks": 1115,
       "license": "NOASSERTION",
-      "pushedAt": "07/14/2026 01:18:18",
+      "pushedAt": "07/15/2026 01:43:21",
       "tags": [
         "agent",
         "llm"
@@ -446,126 +428,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "usestrix",
-      "repo": "strix",
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
-      "language": "Python",
-      "starsGained": 3403,
-      "totalStars": 41286,
-      "forks": 4344,
-      "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 05:10:16",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
-        ]
-      }
-    },
-    {
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "topics": [
-        "awesome",
-        "claude",
-        "densepose",
-        "esp32",
-        "firmware",
-        "home-assistant",
-        "home-automation",
-        "iot",
-        "monitoring",
-        "networking",
-        "npm",
-        "pose-estimation",
-        "react",
-        "rf",
-        "self-learning",
-        "skills",
-        "spatial-intelligence",
-        "typescript",
-        "wifi",
-        "wifi-security"
-      ],
-      "homepage": "https://Cognitum.One/RuView",
-      "language": "Rust",
-      "starsGained": 3403,
-      "totalStars": 80544,
-      "forks": 10842,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 00:38:52",
-      "tags": [
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "π RuView",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：Turns any WiFi signal into a 128-number \"fingerprint\" that uniquely describes what's happening in a room"
-        ]
-      }
-    },
-    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -575,11 +437,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
-      "starsGained": 2450,
-      "totalStars": 46450,
-      "forks": 2807,
+      "starsGained": 2494,
+      "totalStars": 46756,
+      "forks": 2815,
       "license": "Apache-2.0",
-      "pushedAt": "07/13/2026 17:05:48",
+      "pushedAt": "07/14/2026 19:50:11",
       "tags": [
         "agent"
       ],
@@ -601,24 +463,112 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "TencentCloud",
-      "repo": "CubeSandbox",
-      "fullName": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "topics": [
-        "agents",
-        "container",
-        "sandbox"
+        "ai-agents",
+        "ai-security-tool",
+        "anthropic",
+        "autonomous-agents",
+        "golang",
+        "gpt",
+        "graphql",
+        "multi-agent-system",
+        "offensive-security",
+        "open-source",
+        "openai",
+        "penetration-testing",
+        "penetration-testing-tools",
+        "react",
+        "security-automation",
+        "security-testing",
+        "security-tools",
+        "self-hosted"
       ],
-      "homepage": "https://cubesandbox.com",
-      "language": "Rust",
-      "starsGained": 2367,
-      "totalStars": 10034,
-      "forks": 983,
-      "license": "NOASSERTION",
-      "pushedAt": "07/14/2026 04:44:21",
+      "homepage": "https://pentagi.com",
+      "language": "Go",
+      "starsGained": 2347,
+      "totalStars": 20615,
+      "forks": 2722,
+      "license": "MIT",
+      "pushedAt": "07/14/2026 10:06:41",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "PentAGI",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "projectIntro": "该项目的 GitHub 简介是：Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "featurePoints": [
+          "核心线索：Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Minimum 2 vCPU"
+        ]
+      }
+    },
+    {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "topics": [],
+      "homepage": "https://www.usehallmark.com/",
+      "language": "CSS",
+      "starsGained": 2274,
+      "totalStars": 6269,
+      "forks": 356,
+      "license": "MIT",
+      "pushedAt": "06/26/2026 10:08:58",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Hallmark",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "featurePoints": [
+          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "facebook",
+      "repo": "astryx",
+      "fullName": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "topics": [],
+      "homepage": "http://astryx.atmeta.com",
+      "language": "TypeScript",
+      "starsGained": 2189,
+      "totalStars": 8993,
+      "forks": 745,
+      "license": "MIT",
+      "pushedAt": "07/15/2026 00:49:17",
       "tags": [
         "agent"
       ],
@@ -626,17 +576,16 @@ window.GITHUB_AI_TRENDS = {
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
+        "readmeTitle": "Astryx",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-        "projectIntro": "该项目的 GitHub 简介是：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
         "featurePoints": [
-          "核心线索：Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+          "核心线索：An open source design system that's fully customizable and agent ready"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Installation & Demo"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
@@ -672,9 +621,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 33392,
-      "totalStars": 38160,
-      "forks": 4611,
+      "starsGained": 33860,
+      "totalStars": 38577,
+      "forks": 4679,
       "license": "AGPL-3.0",
       "pushedAt": "07/12/2026 17:48:37",
       "tags": [
@@ -732,9 +681,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 28900,
-      "totalStars": 55919,
-      "forks": 4609,
+      "starsGained": 28179,
+      "totalStars": 56353,
+      "forks": 4638,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -791,11 +740,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 27660,
-      "totalStars": 31230,
-      "forks": 2489,
+      "starsGained": 28030,
+      "totalStars": 31563,
+      "forks": 2511,
       "license": "MIT",
-      "pushedAt": "07/13/2026 03:21:35",
+      "pushedAt": "07/14/2026 23:33:19",
       "tags": [
         "agent",
         "llm",
@@ -845,11 +794,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 18534,
-      "totalStars": 22020,
-      "forks": 6758,
+      "starsGained": 19140,
+      "totalStars": 22558,
+      "forks": 7013,
       "license": "MIT",
-      "pushedAt": "07/13/2026 18:45:39",
+      "pushedAt": "07/14/2026 18:11:12",
       "tags": [
         "agent",
         "llm"
@@ -904,11 +853,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 15390,
-      "totalStars": 57435,
-      "forks": 9493,
+      "starsGained": 15784,
+      "totalStars": 57806,
+      "forks": 9554,
       "license": "CC0-1.0",
-      "pushedAt": "07/14/2026 04:33:23",
+      "pushedAt": "07/14/2026 06:25:25",
       "tags": [
         "agent",
         "llm",
@@ -967,11 +916,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 15337,
-      "totalStars": 41286,
-      "forks": 4344,
+      "starsGained": 15625,
+      "totalStars": 41557,
+      "forks": 4366,
       "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 05:10:16",
+      "pushedAt": "07/15/2026 03:06:06",
       "tags": [
         "agent",
         "llm"
@@ -1025,11 +974,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 13222,
-      "totalStars": 18570,
-      "forks": 1457,
+      "starsGained": 14163,
+      "totalStars": 19254,
+      "forks": 1507,
       "license": "MIT",
-      "pushedAt": "07/14/2026 06:21:55",
+      "pushedAt": "07/15/2026 03:24:25",
       "tags": [
         "agent",
         "llm",
@@ -1085,9 +1034,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 11340,
-      "totalStars": 24312,
-      "forks": 2544,
+      "starsGained": 11875,
+      "totalStars": 24697,
+      "forks": 2569,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1145,11 +1094,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 10603,
-      "totalStars": 16975,
-      "forks": 2573,
+      "starsGained": 11137,
+      "totalStars": 17373,
+      "forks": 2610,
       "license": "MIT",
-      "pushedAt": "07/14/2026 05:00:35",
+      "pushedAt": "07/15/2026 03:17:15",
       "tags": [
         "agent",
         "llm",
@@ -1205,11 +1154,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 10569,
-      "totalStars": 16222,
-      "forks": 1100,
+      "starsGained": 10805,
+      "totalStars": 16521,
+      "forks": 1115,
       "license": "NOASSERTION",
-      "pushedAt": "07/14/2026 01:18:18",
+      "pushedAt": "07/15/2026 01:43:21",
       "tags": [
         "agent",
         "llm"
@@ -1243,7 +1192,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 10013,
+      "starsGained": 10094,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1278,31 +1227,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "browser-automation",
-        "javascript",
-        "mcp",
-        "typescript",
-        "web"
-      ],
-      "homepage": "https://alibaba.github.io/page-agent/",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
-      "starsGained": 8001,
-      "totalStars": 26503,
-      "forks": 2432,
-      "license": "MIT",
-      "pushedAt": "07/13/2026 19:06:28",
+      "starsGained": 8181,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Page Agent",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
@@ -1311,8 +1251,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：JavaScript in-page GUI agent. Control web interfaces with natural language."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }

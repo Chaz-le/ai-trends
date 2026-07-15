@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T06:23:08.020Z",
+  "generatedAt": "2026-07-15T03:24:47.071Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2088,6 +2088,80 @@
         "alibaba/page-agent": {
           "stars": 26503,
           "periodGain": 8001
+        }
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "generatedAt": "2026-07-15T03:24:31.5634436+00:00",
+      "repos": {
+        "MadsLorentzen/ai-job-search": {
+          "stars": 22558,
+          "periodGain": 19140
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 16889,
+          "periodGain": 7129
+        },
+        "stablyai/orca": {
+          "stars": 19254,
+          "periodGain": 14163
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 24697,
+          "periodGain": 11875
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 17373,
+          "periodGain": 11137
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 120999,
+          "periodGain": 3827
+        },
+        "bradautomates/claude-video": {
+          "stars": 8509,
+          "periodGain": 3554
+        },
+        "ogulcancelik/herdr": {
+          "stars": 16521,
+          "periodGain": 10805
+        },
+        "pbakaus/impeccable": {
+          "stars": 46756,
+          "periodGain": 2494
+        },
+        "vxcontrol/pentagi": {
+          "stars": 20615,
+          "periodGain": 2347
+        },
+        "Nutlope/hallmark": {
+          "stars": 6269,
+          "periodGain": 2274
+        },
+        "facebook/astryx": {
+          "stars": 8993,
+          "periodGain": 2189
+        },
+        "calesthio/OpenMontage": {
+          "stars": 38577,
+          "periodGain": 33860
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 56353,
+          "periodGain": 28179
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 31563,
+          "periodGain": 28030
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 57806,
+          "periodGain": 15784
+        },
+        "usestrix/strix": {
+          "stars": 41557,
+          "periodGain": 15625
         }
       }
     }
