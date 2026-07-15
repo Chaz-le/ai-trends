@@ -1,58 +1,7 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-15T04:15:42.0046718+00:00",
+  "generatedAt": "2026-07-15T06:25:51.9051720+00:00",
   "weekly": [
-    {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 13195,
-      "totalStars": 22587,
-      "forks": 7019,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 18:11:12",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
     {
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
@@ -79,8 +28,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 7129,
-      "totalStars": 16923,
-      "forks": 1126,
+      "totalStars": 17033,
+      "forks": 1131,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 07:11:38",
       "tags": [
@@ -137,10 +86,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5724,
-      "totalStars": 19286,
-      "forks": 1508,
+      "totalStars": 19381,
+      "forks": 1514,
       "license": "MIT",
-      "pushedAt": "07/15/2026 04:08:29",
+      "pushedAt": "07/15/2026 06:25:47",
       "tags": [
         "agent",
         "llm",
@@ -197,8 +146,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 4389,
-      "totalStars": 24710,
-      "forks": 2571,
+      "totalStars": 24739,
+      "forks": 2575,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -257,10 +206,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 4297,
-      "totalStars": 17389,
-      "forks": 2612,
+      "totalStars": 17432,
+      "forks": 2615,
       "license": "MIT",
-      "pushedAt": "07/15/2026 04:12:27",
+      "pushedAt": "07/15/2026 05:54:37",
       "tags": [
         "agent",
         "llm",
@@ -303,8 +252,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
       "starsGained": 3827,
-      "totalStars": 121064,
-      "forks": 17906,
+      "totalStars": 121175,
+      "forks": 17921,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 06:23:01",
       "tags": [
@@ -343,8 +292,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3554,
-      "totalStars": 8519,
-      "forks": 926,
+      "totalStars": 8540,
+      "forks": 927,
       "license": "MIT",
       "pushedAt": "07/01/2026 01:26:49",
       "tags": [
@@ -400,8 +349,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 3115,
-      "totalStars": 16534,
-      "forks": 1115,
+      "totalStars": 16570,
+      "forks": 1117,
       "license": "NOASSERTION",
       "pushedAt": "07/15/2026 01:43:21",
       "tags": [
@@ -438,8 +387,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 2494,
-      "totalStars": 46767,
-      "forks": 2815,
+      "totalStars": 46799,
+      "forks": 2817,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 19:50:11",
       "tags": [
@@ -492,8 +441,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://pentagi.com",
       "language": "Go",
       "starsGained": 2347,
-      "totalStars": 20620,
-      "forks": 2722,
+      "totalStars": 20638,
+      "forks": 2724,
       "license": "MIT",
       "pushedAt": "07/14/2026 10:06:41",
       "tags": [
@@ -529,8 +478,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 2274,
-      "totalStars": 6296,
-      "forks": 358,
+      "totalStars": 6380,
+      "forks": 359,
       "license": "MIT",
       "pushedAt": "06/26/2026 10:08:58",
       "tags": [
@@ -565,8 +514,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 2189,
-      "totalStars": 9001,
-      "forks": 745,
+      "totalStars": 9019,
+      "forks": 748,
       "license": "MIT",
       "pushedAt": "07/15/2026 00:49:17",
       "tags": [
@@ -586,6 +535,45 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "fullName": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 2063,
+      "totalStars": 28679,
+      "forks": 1887,
+      "license": "Apache-2.0",
+      "pushedAt": "07/08/2026 00:17:31",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Codex plugin for Claude Code",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
         ]
       }
     }
@@ -622,8 +610,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
       "starsGained": 33860,
-      "totalStars": 38602,
-      "forks": 4679,
+      "totalStars": 38644,
+      "forks": 4682,
       "license": "AGPL-3.0",
       "pushedAt": "07/12/2026 17:48:37",
       "tags": [
@@ -682,8 +670,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 28179,
-      "totalStars": 56370,
-      "forks": 4637,
+      "totalStars": 56431,
+      "forks": 4641,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -741,8 +729,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 28030,
-      "totalStars": 31571,
-      "forks": 2512,
+      "totalStars": 31595,
+      "forks": 2514,
       "license": "MIT",
       "pushedAt": "07/14/2026 23:33:19",
       "tags": [
@@ -768,57 +756,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
-        ]
-      }
-    },
-    {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 19140,
-      "totalStars": 22587,
-      "forks": 7019,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 18:11:12",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -854,8 +791,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15784,
-      "totalStars": 57822,
-      "forks": 9557,
+      "totalStars": 57857,
+      "forks": 9561,
       "license": "CC0-1.0",
       "pushedAt": "07/14/2026 06:25:25",
       "tags": [
@@ -917,8 +854,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 15625,
-      "totalStars": 41578,
-      "forks": 4367,
+      "totalStars": 41613,
+      "forks": 4374,
       "license": "Apache-2.0",
       "pushedAt": "07/15/2026 03:27:06",
       "tags": [
@@ -975,10 +912,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 14163,
-      "totalStars": 19286,
-      "forks": 1508,
+      "totalStars": 19381,
+      "forks": 1514,
       "license": "MIT",
-      "pushedAt": "07/15/2026 04:08:29",
+      "pushedAt": "07/15/2026 06:25:47",
       "tags": [
         "agent",
         "llm",
@@ -1035,8 +972,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 11875,
-      "totalStars": 24710,
-      "forks": 2571,
+      "totalStars": 24739,
+      "forks": 2575,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1095,10 +1032,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 11137,
-      "totalStars": 17389,
-      "forks": 2612,
+      "totalStars": 17432,
+      "forks": 2615,
       "license": "MIT",
-      "pushedAt": "07/15/2026 04:12:27",
+      "pushedAt": "07/15/2026 05:54:37",
       "tags": [
         "agent",
         "llm",
@@ -1155,8 +1092,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 10805,
-      "totalStars": 16534,
-      "forks": 1115,
+      "totalStars": 16570,
+      "forks": 1117,
       "license": "NOASSERTION",
       "pushedAt": "07/15/2026 01:43:21",
       "tags": [
@@ -1227,22 +1164,31 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "browser-automation",
+        "javascript",
+        "mcp",
+        "typescript",
+        "web"
+      ],
+      "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
       "starsGained": 8181,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 26667,
+      "forks": 2447,
+      "license": "MIT",
+      "pushedAt": "07/14/2026 10:59:15",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Page Agent",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：JavaScript in-page GUI agent. Control web interfaces with natural language.",
@@ -1251,7 +1197,45 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：JavaScript in-page GUI agent. Control web interfaces with natural language."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
+        ]
+      }
+    },
+    {
+      "owner": "alibaba",
+      "repo": "zvec",
+      "fullName": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "topics": [],
+      "homepage": "",
+      "language": "C++",
+      "starsGained": 5099,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "rag-search",
+        "zhTitle": "RAG / 语义检索工具",
+        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "featurePoints": [
+          "支持向量、语义搜索、知识库或文档检索相关能力。",
+          "可作为 RAG 管道中的索引、召回或知识组织组件。",
+          "帮助把外部资料转成大模型可查询的上下文。"
+        ],
+        "scenarioPoints": [
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
         ]
       }
     }
