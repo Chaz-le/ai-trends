@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:30:23.161Z",
+  "generatedAt": "2026-07-16T04:22:25.200Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2171,30 +2171,38 @@
     },
     {
       "date": "2026-07-16",
-      "generatedAt": "2026-07-16T03:30:06.9043640+00:00",
+      "generatedAt": "2026-07-16T04:22:09.7332828+00:00",
       "repos": {
         "iOfficeAI/OfficeCLI": {
-          "stars": 17875,
+          "stars": 17898,
           "periodGain": 6374
         },
         "stablyai/orca": {
-          "stars": 20036,
+          "stars": 20065,
           "periodGain": 14890
         },
         "HKUDS/Vibe-Trading": {
-          "stars": 23798,
+          "stars": 23819,
           "periodGain": 4802
         },
+        "diegosouzapw/OmniRoute": {
+          "stars": 17804,
+          "periodGain": 11484
+        },
         "Nutlope/hallmark": {
-          "stars": 8884,
+          "stars": 8994,
           "periodGain": 3551
+        },
+        "ogulcancelik/herdr": {
+          "stars": 16915,
+          "periodGain": 11079
         },
         "wonderwhy-er/DesktopCommanderMCP": {
           "stars": 8350,
           "periodGain": 2199
         },
         "openai/codex-plugin-cc": {
-          "stars": 28845,
+          "stars": 28848,
           "periodGain": 1998
         }
       }

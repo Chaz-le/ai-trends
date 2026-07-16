@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-16T03:30:06.9043640+00:00",
+  "generatedAt": "2026-07-16T04:22:09.7332828+00:00",
   "weekly": [
     {
       "owner": "iOfficeAI",
@@ -28,8 +28,8 @@
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 6374,
-      "totalStars": 17875,
-      "forks": 1181,
+      "totalStars": 17898,
+      "forks": 1184,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 07:11:38",
       "tags": [
@@ -86,10 +86,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5777,
-      "totalStars": 20036,
-      "forks": 1565,
+      "totalStars": 20065,
+      "forks": 1567,
       "license": "MIT",
-      "pushedAt": "07/16/2026 03:28:42",
+      "pushedAt": "07/16/2026 04:12:24",
       "tags": [
         "agent",
         "llm",
@@ -176,8 +176,8 @@
       "homepage": "https://vibetrading.wiki/",
       "language": "Python",
       "starsGained": 4802,
-      "totalStars": 23798,
-      "forks": 4050,
+      "totalStars": 23819,
+      "forks": 4051,
       "license": "MIT",
       "pushedAt": "07/15/2026 13:09:10",
       "tags": [
@@ -208,14 +208,35 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "gemini-cli",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 4149,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 17804,
+      "forks": 2653,
+      "license": "MIT",
+      "pushedAt": "07/16/2026 03:47:08",
       "tags": [
         "agent",
         "llm",
@@ -225,8 +246,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -237,7 +258,8 @@
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
         ]
       }
     },
@@ -252,8 +274,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 3551,
-      "totalStars": 8884,
-      "forks": 454,
+      "totalStars": 8994,
+      "forks": 461,
       "license": "MIT",
       "pushedAt": "06/26/2026 10:08:58",
       "tags": [
@@ -323,22 +345,42 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
       "description": "agent multiplexer that lives in your terminal.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 2636,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 16915,
+      "forks": 1142,
+      "license": "NOASSERTION",
+      "pushedAt": "07/16/2026 00:29:19",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "herdr",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -484,7 +526,7 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 1998,
-      "totalStars": 28845,
+      "totalStars": 28848,
       "forks": 1897,
       "license": "Apache-2.0",
       "pushedAt": "07/08/2026 00:17:31",
@@ -495,8 +537,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Codex plugin for Claude Code",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -507,7 +549,8 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
         ]
       }
     }
@@ -735,10 +778,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 14890,
-      "totalStars": 20036,
-      "forks": 1565,
+      "totalStars": 20065,
+      "forks": 1567,
       "license": "MIT",
-      "pushedAt": "07/16/2026 03:28:42",
+      "pushedAt": "07/16/2026 04:12:24",
       "tags": [
         "agent",
         "llm",
@@ -809,14 +852,35 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "gemini-cli",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 11484,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 17804,
+      "forks": 2653,
+      "license": "MIT",
+      "pushedAt": "07/16/2026 03:47:08",
       "tags": [
         "agent",
         "llm",
@@ -826,8 +890,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -838,7 +902,8 @@
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
         ]
       }
     },
@@ -849,22 +914,42 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
       "description": "agent multiplexer that lives in your terminal.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 11079,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 16915,
+      "forks": 1142,
+      "license": "NOASSERTION",
+      "pushedAt": "07/16/2026 00:29:19",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "herdr",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
