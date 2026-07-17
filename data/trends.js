@@ -1,58 +1,40 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-16T06:29:37.9623096+00:00",
+  "generatedAt": "2026-07-17T03:31:30.6800813+00:00",
   "weekly": [
     {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [
-        "agent",
-        "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
-      ],
-      "homepage": "https://officecli.ai",
-      "language": "C#",
-      "starsGained": 6374,
-      "totalStars": 17965,
-      "forks": 1190,
-      "license": "Apache-2.0",
-      "pushedAt": "07/14/2026 07:11:38",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "topics": [],
+      "homepage": "https://www.usehallmark.com/",
+      "language": "CSS",
+      "starsGained": 6573,
+      "totalStars": 11080,
+      "forks": 550,
+      "license": "MIT",
+      "pushedAt": "06/26/2026 10:08:58",
       "tags": [
         "agent",
-        "llm",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "OfficeCLI",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "readmeTitle": "Hallmark",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -85,11 +67,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 5777,
-      "totalStars": 20144,
-      "forks": 1569,
+      "starsGained": 5736,
+      "totalStars": 20651,
+      "forks": 1494,
       "license": "MIT",
-      "pushedAt": "07/16/2026 06:27:15",
+      "pushedAt": "07/17/2026 03:19:19",
       "tags": [
         "agent",
         "llm",
@@ -129,9 +111,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
-      "starsGained": 4902,
-      "totalStars": 122150,
-      "forks": 18022,
+      "starsGained": 5589,
+      "totalStars": 123018,
+      "forks": 18135,
       "license": "Apache-2.0",
       "pushedAt": "07/14/2026 06:23:01",
       "tags": [
@@ -180,11 +162,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://vibetrading.wiki/",
       "language": "Python",
-      "starsGained": 4802,
-      "totalStars": 23901,
-      "forks": 4060,
+      "starsGained": 5407,
+      "totalStars": 24349,
+      "forks": 4031,
       "license": "MIT",
-      "pushedAt": "07/15/2026 13:09:10",
+      "pushedAt": "07/16/2026 12:16:25",
       "tags": [
         "agent",
         "llm"
@@ -203,6 +185,60 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
+      "language": "C#",
+      "starsGained": 5342,
+      "totalStars": 18475,
+      "forks": 1232,
+      "license": "Apache-2.0",
+      "pushedAt": "07/14/2026 07:11:38",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -237,11 +273,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 4149,
-      "totalStars": 17842,
-      "forks": 2657,
+      "starsGained": 3920,
+      "totalStars": 18083,
+      "forks": 2601,
       "license": "MIT",
-      "pushedAt": "07/16/2026 05:45:25",
+      "pushedAt": "07/17/2026 00:49:33",
       "tags": [
         "agent",
         "llm",
@@ -265,102 +301,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
           "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
-        ]
-      }
-    },
-    {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "topics": [],
-      "homepage": "https://www.usehallmark.com/",
-      "language": "CSS",
-      "starsGained": 3551,
-      "totalStars": 9291,
-      "forks": 473,
-      "license": "MIT",
-      "pushedAt": "06/26/2026 10:08:58",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "featurePoints": [
-          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "Zackriya-Solutions",
-      "repo": "meetily",
-      "fullName": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "topics": [
-        "ai",
-        "ai-meeting-assistant",
-        "llm",
-        "local-ai",
-        "mac",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "ollama",
-        "parakeet",
-        "privacy-focused",
-        "privacy-tools",
-        "rust",
-        "self-hosted",
-        "sortformer",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
-      ],
-      "homepage": "https://meetily.ai",
-      "language": "Rust",
-      "starsGained": 3499,
-      "totalStars": 25046,
-      "forks": 2614,
-      "license": "MIT",
-      "pushedAt": "06/05/2026 13:53:17",
-      "tags": [
-        "agent",
-        "llm",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -393,11 +333,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 2636,
-      "totalStars": 16947,
-      "forks": 1142,
+      "starsGained": 2502,
+      "totalStars": 17235,
+      "forks": 1076,
       "license": "NOASSERTION",
-      "pushedAt": "07/16/2026 00:29:19",
+      "pushedAt": "07/17/2026 00:28:05",
       "tags": [
         "agent",
         "llm"
@@ -431,11 +371,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
-      "starsGained": 2428,
-      "totalStars": 47124,
-      "forks": 2828,
+      "starsGained": 2360,
+      "totalStars": 47369,
+      "forks": 2742,
       "license": "Apache-2.0",
-      "pushedAt": "07/16/2026 00:05:44",
+      "pushedAt": "07/16/2026 20:37:27",
       "tags": [
         "agent"
       ],
@@ -450,42 +390,6 @@ window.GITHUB_AI_TRENDS = {
         "projectIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
         "featurePoints": [
           "核心线索：The design language that makes your AI harness better at design."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "anthropics",
-      "repo": "claude-cookbooks",
-      "fullName": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "topics": [],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 2252,
-      "totalStars": 48991,
-      "forks": 5805,
-      "license": "MIT",
-      "pushedAt": "07/13/2026 17:54:30",
-      "tags": [
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Cookbooks",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "projectIntro": "该项目的 GitHub 简介是：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "featurePoints": [
-          "核心线索：A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -512,9 +416,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://desktopcommander.app/",
       "language": "TypeScript",
-      "starsGained": 2055,
-      "totalStars": 8368,
-      "forks": 1010,
+      "starsGained": 1991,
+      "totalStars": 8402,
+      "forks": 930,
       "license": "MIT",
       "pushedAt": "07/14/2026 09:50:59",
       "tags": [
@@ -551,9 +455,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 1998,
-      "totalStars": 28864,
-      "forks": 1898,
+      "starsGained": 1908,
+      "totalStars": 28962,
+      "forks": 1832,
       "license": "Apache-2.0",
       "pushedAt": "07/08/2026 00:17:31",
       "tags": [
@@ -577,6 +481,99 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：Runs a normal Codex review on your current work. It gives you the same quality of code review as running /review inside Codex directly."
+        ]
+      }
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawdbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "large-language-models",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 1283,
+      "totalStars": 26947,
+      "forks": 3617,
+      "license": "Apache-2.0",
+      "pushedAt": "07/09/2026 15:24:10",
+      "tags": [
+        "agent",
+        "rag",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "DeepTutor: Lifelong Personalized Tutoring",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "homepage": "https://aitmpl.com",
+      "language": "Python",
+      "starsGained": 1101,
+      "totalStars": 29609,
+      "forks": 3149,
+      "license": "MIT",
+      "pushedAt": "07/16/2026 21:55:51",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Install the Bright Data Skills + MCP for Claude Code",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
@@ -612,9 +609,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://github.com/calesthio/OpenMontage",
       "language": "Python",
-      "starsGained": 34298,
-      "totalStars": 39053,
-      "forks": 4729,
+      "starsGained": 34552,
+      "totalStars": 39275,
+      "forks": 4648,
       "license": "AGPL-3.0",
       "pushedAt": "07/12/2026 17:48:37",
       "tags": [
@@ -675,11 +672,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
-      "starsGained": 28343,
-      "totalStars": 31962,
-      "forks": 2552,
+      "starsGained": 28389,
+      "totalStars": 32172,
+      "forks": 2460,
       "license": "MIT",
-      "pushedAt": "07/16/2026 02:56:51",
+      "pushedAt": "07/16/2026 20:29:34",
       "tags": [
         "agent",
         "llm",
@@ -734,9 +731,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 27531,
-      "totalStars": 56931,
-      "forks": 4681,
+      "starsGained": 26023,
+      "totalStars": 57233,
+      "forks": 4587,
       "license": "MIT",
       "pushedAt": "07/10/2026 15:45:18",
       "tags": [
@@ -793,11 +790,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 15974,
-      "totalStars": 41934,
-      "forks": 4404,
+      "starsGained": 16246,
+      "totalStars": 42060,
+      "forks": 4340,
       "license": "Apache-2.0",
-      "pushedAt": "07/16/2026 01:31:07",
+      "pushedAt": "07/17/2026 02:40:56",
       "tags": [
         "agent",
         "llm"
@@ -853,11 +850,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 15928,
-      "totalStars": 58184,
-      "forks": 9620,
+      "starsGained": 15918,
+      "totalStars": 58401,
+      "forks": 9558,
       "license": "CC0-1.0",
-      "pushedAt": "07/16/2026 04:42:39",
+      "pushedAt": "07/16/2026 18:27:47",
       "tags": [
         "agent",
         "llm",
@@ -914,11 +911,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 14890,
-      "totalStars": 20144,
-      "forks": 1569,
+      "starsGained": 15502,
+      "totalStars": 20651,
+      "forks": 1494,
       "license": "MIT",
-      "pushedAt": "07/16/2026 06:27:15",
+      "pushedAt": "07/17/2026 03:19:19",
       "tags": [
         "agent",
         "llm",
@@ -974,9 +971,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 12267,
-      "totalStars": 25046,
-      "forks": 2614,
+      "starsGained": 12507,
+      "totalStars": 25140,
+      "forks": 2523,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -1034,11 +1031,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 11484,
-      "totalStars": 17842,
-      "forks": 2657,
+      "starsGained": 11719,
+      "totalStars": 18083,
+      "forks": 2601,
       "license": "MIT",
-      "pushedAt": "07/16/2026 05:45:25",
+      "pushedAt": "07/17/2026 00:49:33",
       "tags": [
         "agent",
         "llm",
@@ -1094,11 +1091,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://herdr.dev",
       "language": "Rust",
-      "starsGained": 11079,
-      "totalStars": 16947,
-      "forks": 1142,
+      "starsGained": 11259,
+      "totalStars": 17235,
+      "forks": 1076,
       "license": "NOASSERTION",
-      "pushedAt": "07/16/2026 00:29:19",
+      "pushedAt": "07/17/2026 00:28:05",
       "tags": [
         "agent",
         "llm"
@@ -1123,6 +1120,119 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
+      "language": "C#",
+      "starsGained": 11065,
+      "totalStars": 18475,
+      "forks": 1232,
+      "license": "Apache-2.0",
+      "pushedAt": "07/14/2026 07:11:38",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "fullName": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8619304?s=40&v=4",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "cognitive-architecture",
+        "cognitive-memory",
+        "context-engineering",
+        "contributions-welcome",
+        "good-first-issue",
+        "good-first-pr",
+        "graph-database",
+        "graph-rag",
+        "help-wanted",
+        "knowledge",
+        "knowledge-graph",
+        "memory-management",
+        "open-source",
+        "vector-database"
+      ],
+      "homepage": "https://www.cognee.ai",
+      "language": "Python",
+      "starsGained": 10229,
+      "totalStars": 27944,
+      "forks": 2667,
+      "license": "Apache-2.0",
+      "pushedAt": "07/16/2026 23:02:04",
+      "tags": [
+        "agent",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "page-agent",
       "fullName": "alibaba/page-agent",
@@ -1141,11 +1251,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://alibaba.github.io/page-agent/",
       "language": "TypeScript",
-      "starsGained": 8322,
-      "totalStars": 26803,
-      "forks": 2464,
+      "starsGained": 8408,
+      "totalStars": 26822,
+      "forks": 2349,
       "license": "MIT",
-      "pushedAt": "07/16/2026 05:28:26",
+      "pushedAt": "07/16/2026 07:36:46",
       "tags": [
         "agent"
       ],
@@ -1164,91 +1274,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：SaaS AI Copilot — Ship an AI copilot in your product in lines of code. No backend rewrite."
-        ]
-      }
-    },
-    {
-      "owner": "interviewstreet",
-      "repo": "hiring-agent",
-      "fullName": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39041?s=40&v=4",
-      "description": "AI agent to evaluate and score resumes.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4793,
-      "totalStars": 5960,
-      "forks": 1172,
-      "license": "MIT",
-      "pushedAt": "06/22/2026 17:40:27",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hiring Agent",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
-        "projectIntro": "该项目的 GitHub 简介是：AI agent to evaluate and score resumes.",
-        "featurePoints": [
-          "核心线索：AI agent to evaluate and score resumes."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：If development mode is on, the PDF extraction result is cached to cache/resumecache .json."
-        ]
-      }
-    },
-    {
-      "owner": "wonderwhy-er",
-      "repo": "DesktopCommanderMCP",
-      "fullName": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1150639?s=40&v=4",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "topics": [
-        "agent",
-        "ai",
-        "code-analysis",
-        "code-generation",
-        "gemini-cli-extension",
-        "mcp",
-        "terminal-ai",
-        "terminal-automation",
-        "vibe-coding"
-      ],
-      "homepage": "https://desktopcommander.app/",
-      "language": "TypeScript",
-      "starsGained": 2199,
-      "totalStars": 8368,
-      "forks": 1010,
-      "license": "MIT",
-      "pushedAt": "07/14/2026 09:50:59",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Desktop Commander MCP",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：--debug: Enable debugging mode for Node.js inspector"
         ]
       }
     }
