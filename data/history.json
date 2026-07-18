@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:26:13.571Z",
+  "generatedAt": "2026-07-18T03:23:13.158Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2330,6 +2330,68 @@
         "alibaba/page-agent": {
           "stars": 26841,
           "periodGain": 8408
+        }
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "generatedAt": "2026-07-18T03:22:56.2319273+00:00",
+      "repos": {
+        "Nutlope/hallmark": {
+          "stars": 12135,
+          "periodGain": 8075
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 123644,
+          "periodGain": 6252
+        },
+        "HKUDS/Vibe-Trading": {
+          "stars": 24667,
+          "periodGain": 5616
+        },
+        "stablyai/orca": {
+          "stars": 21211,
+          "periodGain": 16048
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 18876,
+          "periodGain": 11556
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 18411,
+          "periodGain": 12026
+        },
+        "ogulcancelik/herdr": {
+          "stars": 17695,
+          "periodGain": 11568
+        },
+        "pbakaus/impeccable": {
+          "stars": 47666,
+          "periodGain": 2331
+        },
+        "openai/codex-plugin-cc": {
+          "stars": 29116,
+          "periodGain": 1801
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 27406,
+          "periodGain": 1801
+        },
+        "wonderwhy-er/DesktopCommanderMCP": {
+          "stars": 8456,
+          "periodGain": 1657
+        },
+        "kangarooking/cangjie-skill": {
+          "stars": 3523,
+          "periodGain": 1158
+        },
+        "calesthio/OpenMontage": {
+          "stars": 39558,
+          "periodGain": 34748
+        },
+        "DeusData/codebase-memory-mcp": {
+          "stars": 32460,
+          "periodGain": 28151
         }
       }
     }
