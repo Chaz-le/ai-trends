@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:26:02.134Z",
+  "generatedAt": "2026-07-21T03:36:23.908Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2580,6 +2580,28 @@
         "asgeirtj/system_prompts_leaks": {
           "stars": 59126,
           "periodGain": 15887
+        }
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "generatedAt": "2026-07-21T03:36:04.2628124+00:00",
+      "repos": {
+        "Nutlope/hallmark": {
+          "stars": 14318,
+          "periodGain": 9173
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 125240,
+          "periodGain": 5857
+        },
+        "HKUDS/Vibe-Trading": {
+          "stars": 25779,
+          "periodGain": 4387
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 28474,
+          "periodGain": 2754
         }
       }
     }
