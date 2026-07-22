@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-22T03:36:13.7531385+00:00",
+  "generatedAt": "2026-07-22T04:29:44.4579826+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 10651,
-      "totalStars": 180759,
-      "forks": 15446,
+      "totalStars": 180834,
+      "forks": 15451,
       "license": "MIT",
       "pushedAt": "07/21/2026 10:29:12",
       "tags": [
@@ -52,8 +52,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 8948,
-      "totalStars": 15037,
-      "forks": 752,
+      "totalStars": 15060,
+      "forks": 753,
       "license": "MIT",
       "pushedAt": "06/26/2026 10:08:58",
       "tags": [
@@ -107,10 +107,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5733,
-      "totalStars": 25166,
-      "forks": 1812,
+      "totalStars": 25209,
+      "forks": 1817,
       "license": "MIT",
-      "pushedAt": "07/22/2026 03:34:56",
+      "pushedAt": "07/22/2026 04:12:00",
       "tags": [
         "agent",
         "llm",
@@ -141,7 +141,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "topics": [
         "agents",
         "llms",
@@ -151,10 +151,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
       "starsGained": 5385,
-      "totalStars": 125853,
-      "forks": 18570,
+      "totalStars": 125879,
+      "forks": 18575,
       "license": "Apache-2.0",
-      "pushedAt": "07/21/2026 18:35:39",
+      "pushedAt": "07/22/2026 04:18:45",
       "tags": [
         "agent",
         "llm",
@@ -166,17 +166,17 @@ window.GITHUB_AI_TRENDS = {
       "insight": {
         "source": "readme",
         "readmeTitle": "Awesome LLM Apps",
-        "category": "rag-search",
-        "zhTitle": "RAG / 语义检索工具",
-        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "支持向量、语义搜索、知识库或文档检索相关能力。",
-          "可作为 RAG 管道中的索引、召回或知识组织组件。",
-          "帮助把外部资料转成大模型可查询的上下文。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -204,8 +204,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code-review-graph.com",
       "language": "Python",
       "starsGained": 4791,
-      "totalStars": 24712,
-      "forks": 2360,
+      "totalStars": 24746,
+      "forks": 2364,
       "license": "MIT",
       "pushedAt": "07/21/2026 04:49:59",
       "tags": [
@@ -259,8 +259,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 4047,
-      "totalStars": 20686,
-      "forks": 1388,
+      "totalStars": 20702,
+      "forks": 1391,
       "license": "Apache-2.0",
       "pushedAt": "07/22/2026 02:00:23",
       "tags": [
@@ -309,8 +309,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://vibetrading.wiki/",
       "language": "Python",
       "starsGained": 3679,
-      "totalStars": 26183,
-      "forks": 4285,
+      "totalStars": 26195,
+      "forks": 4289,
       "license": "MIT",
       "pushedAt": "07/21/2026 06:58:21",
       "tags": [
@@ -345,8 +345,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3569,
-      "totalStars": 74843,
-      "forks": 9207,
+      "totalStars": 74888,
+      "forks": 9209,
       "license": "MIT",
       "pushedAt": "07/21/2026 21:19:22",
       "tags": [
@@ -394,8 +394,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 2908,
-      "totalStars": 28881,
-      "forks": 3804,
+      "totalStars": 28890,
+      "forks": 3808,
       "license": "Apache-2.0",
       "pushedAt": "07/21/2026 12:23:50",
       "tags": [
@@ -434,10 +434,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 2445,
-      "totalStars": 100458,
-      "forks": 15037,
+      "totalStars": 100473,
+      "forks": 15042,
       "license": "Apache-2.0",
-      "pushedAt": "07/22/2026 03:04:10",
+      "pushedAt": "07/22/2026 04:19:22",
       "tags": [
         "agent",
         "llm",
@@ -481,8 +481,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://openinterpreter.com/",
       "language": "Rust",
       "starsGained": 2205,
-      "totalStars": 67076,
-      "forks": 5759,
+      "totalStars": 67079,
+      "forks": 5760,
       "license": "Apache-2.0",
       "pushedAt": "07/18/2026 19:26:26",
       "tags": [
@@ -523,8 +523,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.ui-skills.com/",
       "language": "TypeScript",
       "starsGained": 2094,
-      "totalStars": 5864,
-      "forks": 247,
+      "totalStars": 5874,
+      "forks": 249,
       "license": "MIT",
       "pushedAt": "07/21/2026 13:36:31",
       "tags": [
@@ -580,8 +580,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.openmontage.video/",
       "language": "Python",
       "starsGained": 33415,
-      "totalStars": 40923,
-      "forks": 4836,
+      "totalStars": 40938,
+      "forks": 4838,
       "license": "AGPL-3.0",
       "pushedAt": "07/21/2026 21:57:37",
       "tags": [
@@ -643,8 +643,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "language": "C",
       "starsGained": 23966,
-      "totalStars": 33765,
-      "forks": 2586,
+      "totalStars": 33792,
+      "forks": 2588,
       "license": "MIT",
       "pushedAt": "07/21/2026 13:33:16",
       "tags": [
@@ -734,8 +734,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 21332,
-      "totalStars": 24964,
-      "forks": 8121,
+      "totalStars": 24985,
+      "forks": 8128,
       "license": "MIT",
       "pushedAt": "07/21/2026 06:11:53",
       "tags": [
@@ -791,10 +791,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 18867,
-      "totalStars": 25166,
-      "forks": 1812,
+      "totalStars": 25209,
+      "forks": 1817,
       "license": "MIT",
-      "pushedAt": "07/22/2026 03:34:56",
+      "pushedAt": "07/22/2026 04:12:00",
       "tags": [
         "agent",
         "llm",
@@ -851,10 +851,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 17358,
-      "totalStars": 43224,
-      "forks": 4461,
+      "totalStars": 43232,
+      "forks": 4467,
       "license": "Apache-2.0",
-      "pushedAt": "07/22/2026 03:31:21",
+      "pushedAt": "07/22/2026 03:49:44",
       "tags": [
         "agent",
         "llm"
@@ -911,10 +911,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 16353,
-      "totalStars": 23798,
-      "forks": 3183,
+      "totalStars": 23850,
+      "forks": 3194,
       "license": "MIT",
-      "pushedAt": "07/22/2026 03:27:52",
+      "pushedAt": "07/22/2026 04:22:10",
       "tags": [
         "agent",
         "llm",
@@ -973,8 +973,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15756,
-      "totalStars": 59574,
-      "forks": 9717,
+      "totalStars": 59583,
+      "forks": 9718,
       "license": "CC0-1.0",
       "pushedAt": "07/21/2026 21:52:25",
       "tags": [
@@ -1035,7 +1035,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://meetily.ai",
       "language": "Rust",
       "starsGained": 13297,
-      "totalStars": 25963,
+      "totalStars": 25968,
       "forks": 2613,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
@@ -1089,8 +1089,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 13004,
-      "totalStars": 20686,
-      "forks": 1388,
+      "totalStars": 20702,
+      "forks": 1391,
       "license": "Apache-2.0",
       "pushedAt": "07/22/2026 02:00:23",
       "tags": [
@@ -1147,8 +1147,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://herdr.dev",
       "language": "Rust",
       "starsGained": 12612,
-      "totalStars": 19208,
-      "forks": 1260,
+      "totalStars": 19214,
+      "forks": 1261,
       "license": "NOASSERTION",
       "pushedAt": "07/22/2026 01:00:45",
       "tags": [

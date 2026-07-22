@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T03:36:51.641Z",
+  "generatedAt": "2026-07-22T04:30:09.020Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2671,86 +2671,86 @@
     },
     {
       "date": "2026-07-22",
-      "generatedAt": "2026-07-22T03:36:13.7531385+00:00",
+      "generatedAt": "2026-07-22T04:29:44.4579826+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 180759,
+          "stars": 180834,
           "periodGain": 10651
         },
         "Nutlope/hallmark": {
-          "stars": 15037,
+          "stars": 15060,
           "periodGain": 8948
         },
         "stablyai/orca": {
-          "stars": 25166,
+          "stars": 25209,
           "periodGain": 18867
         },
         "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 125853,
+          "stars": 125879,
           "periodGain": 5385
         },
         "tirth8205/code-review-graph": {
-          "stars": 24712,
+          "stars": 24746,
           "periodGain": 4791
         },
         "iOfficeAI/OfficeCLI": {
-          "stars": 20686,
+          "stars": 20702,
           "periodGain": 13004
         },
         "HKUDS/Vibe-Trading": {
-          "stars": 26183,
+          "stars": 26195,
           "periodGain": 3679
         },
         "earendil-works/pi": {
-          "stars": 74843,
+          "stars": 74888,
           "periodGain": 3569
         },
         "HKUDS/DeepTutor": {
-          "stars": 28881,
+          "stars": 28890,
           "periodGain": 2908
         },
         "openai/codex": {
-          "stars": 100458,
+          "stars": 100473,
           "periodGain": 2445
         },
         "openinterpreter/openinterpreter": {
-          "stars": 67076,
+          "stars": 67079,
           "periodGain": 2205
         },
         "ibelick/ui-skills": {
-          "stars": 5864,
+          "stars": 5874,
           "periodGain": 2094
         },
         "calesthio/OpenMontage": {
-          "stars": 40923,
+          "stars": 40938,
           "periodGain": 33415
         },
         "DeusData/codebase-memory-mcp": {
-          "stars": 33765,
+          "stars": 33792,
           "periodGain": 23966
         },
         "MadsLorentzen/ai-job-search": {
-          "stars": 24964,
+          "stars": 24985,
           "periodGain": 21332
         },
         "usestrix/strix": {
-          "stars": 43224,
+          "stars": 43232,
           "periodGain": 17358
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 23798,
+          "stars": 23850,
           "periodGain": 16353
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 59574,
+          "stars": 59583,
           "periodGain": 15756
         },
         "Zackriya-Solutions/meetily": {
-          "stars": 25963,
+          "stars": 25968,
           "periodGain": 13297
         },
         "ogulcancelik/herdr": {
-          "stars": 19208,
+          "stars": 19214,
           "periodGain": 12612
         }
       }
