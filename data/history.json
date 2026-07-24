@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:39:06.798Z",
+  "generatedAt": "2026-07-24T03:36:08.412Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2838,6 +2838,72 @@
         "ogulcancelik/herdr": {
           "stars": 19654,
           "periodGain": 12842
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "generatedAt": "2026-07-24T03:35:45.5791051+00:00",
+      "repos": {
+        "koala73/worldmonitor": {
+          "stars": 71866,
+          "periodGain": 9054
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 27414,
+          "periodGain": 19755
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 25924,
+          "periodGain": 6257
+        },
+        "Nutlope/hallmark": {
+          "stars": 16340,
+          "periodGain": 5797
+        },
+        "codecrafters-io/build-your-own-x": {
+          "stars": 530915,
+          "periodGain": 4964
+        },
+        "earendil-works/pi": {
+          "stars": 76445,
+          "periodGain": 4495
+        },
+        "Robbyant/lingbot-map": {
+          "stars": 15143,
+          "periodGain": 4435
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 126980,
+          "periodGain": 4390
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 29416,
+          "periodGain": 2661
+        },
+        "1jehuang/jcode": {
+          "stars": 11032,
+          "periodGain": 2586
+        },
+        "ibelick/ui-skills": {
+          "stars": 6186,
+          "periodGain": 2139
+        },
+        "MoonshotAI/kimi-code": {
+          "stars": 4818,
+          "periodGain": 1610
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 25904,
+          "periodGain": 22183
+        },
+        "stablyai/orca": {
+          "stars": 27545,
+          "periodGain": 20972
+        },
+        "usestrix/strix": {
+          "stars": 43768,
+          "periodGain": 17842
         }
       }
     }

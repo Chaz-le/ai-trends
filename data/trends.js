@@ -1,79 +1,53 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-23T06:38:42.5789529+00:00",
+  "generatedAt": "2026-07-24T03:35:45.5791051+00:00",
   "weekly": [
     {
-      "owner": "mattpocock",
-      "repo": "skills",
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "topics": [],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 10282,
-      "totalStars": 183051,
-      "forks": 15653,
-      "license": "MIT",
-      "pushedAt": "07/21/2026 10:29:12",
-      "tags": [
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "topics": [
         "agent",
-        "learning"
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "homepage": "https://worldmonitor.app",
+      "language": "TypeScript",
+      "starsGained": 9054,
+      "totalStars": 71866,
+      "forks": 10821,
+      "license": "NOASSERTION",
+      "pushedAt": "07/23/2026 21:31:47",
+      "tags": [
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Run the skills.sh installer:"
-        ]
-      }
-    },
-    {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "topics": [],
-      "homepage": "https://www.usehallmark.com/",
-      "language": "CSS",
-      "starsGained": 8471,
-      "totalStars": 15802,
-      "forks": 799,
-      "license": "MIT",
-      "pushedAt": "06/26/2026 10:08:58",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
+        "readmeTitle": "World Monitor",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "featurePoints": [
-          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
         ]
       }
     },
@@ -83,7 +57,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "topics": [
         "a2a",
         "ai-agents",
@@ -108,11 +82,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 6989,
-      "totalStars": 25799,
-      "forks": 3398,
+      "starsGained": 8673,
+      "totalStars": 27414,
+      "forks": 3589,
       "license": "MIT",
-      "pushedAt": "07/23/2026 06:34:31",
+      "pushedAt": "07/24/2026 03:30:13",
       "tags": [
         "agent",
         "llm",
@@ -140,55 +114,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [
-        "agent",
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "mcp",
-        "mcp-server",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "homepage": "https://worldmonitor.app",
-      "language": "TypeScript",
-      "starsGained": 5812,
-      "totalStars": 69767,
-      "forks": 10622,
-      "license": "NOASSERTION",
-      "pushedAt": "07/22/2026 22:11:14",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "World Monitor",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "featurePoints": [
-          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
-        ]
-      }
-    },
-    {
       "owner": "tirth8205",
       "repo": "code-review-graph",
       "fullName": "tirth8205/code-review-graph",
@@ -211,11 +136,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://code-review-graph.com",
       "language": "Python",
-      "starsGained": 5639,
-      "totalStars": 25513,
-      "forks": 2404,
+      "starsGained": 6257,
+      "totalStars": 25924,
+      "forks": 2435,
       "license": "MIT",
-      "pushedAt": "07/21/2026 04:49:59",
+      "pushedAt": "07/23/2026 10:34:36",
       "tags": [
         "agent",
         "llm",
@@ -242,6 +167,159 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "topics": [],
+      "homepage": "https://www.usehallmark.com/",
+      "language": "CSS",
+      "starsGained": 5797,
+      "totalStars": 16340,
+      "forks": 821,
+      "license": "MIT",
+      "pushedAt": "06/26/2026 10:08:58",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Hallmark",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "featurePoints": [
+          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "fullName": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1736595?s=40&v=4",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials"
+      ],
+      "homepage": "https://codecrafters.io",
+      "language": "Markdown",
+      "starsGained": 4964,
+      "totalStars": 530915,
+      "forks": 50216,
+      "license": "",
+      "pushedAt": "07/14/2026 19:25:58",
+      "tags": [
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Master programming by recreating your favorite technologies from scratch.",
+        "projectIntro": "该项目的 GitHub 简介是：Master programming by recreating your favorite technologies from scratch.",
+        "featurePoints": [
+          "核心线索：Master programming by recreating your favorite technologies from scratch."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "earendil-works",
+      "repo": "pi",
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 4495,
+      "totalStars": 76445,
+      "forks": 9406,
+      "license": "MIT",
+      "pushedAt": "07/23/2026 21:48:51",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Pi Agent Harness",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "fullName": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4435,
+      "totalStars": 15143,
+      "forks": 1565,
+      "license": "Apache-2.0",
+      "pushedAt": "07/23/2026 18:04:32",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "courthouse scene",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "projectIntro": "该项目的 GitHub 简介是：A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "featurePoints": [
+          "核心线索：A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：See Interactive Demo below for the full set of scenes and flags, or jump to Offline Rendering Pipeline for long-sequence batch rendering."
+        ]
+      }
+    },
+    {
       "owner": "Shubhamsaboo",
       "repo": "awesome-llm-apps",
       "fullName": "Shubhamsaboo/awesome-llm-apps",
@@ -256,11 +334,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
-      "starsGained": 4690,
-      "totalStars": 126537,
-      "forks": 18667,
+      "starsGained": 4390,
+      "totalStars": 126980,
+      "forks": 18722,
       "license": "Apache-2.0",
-      "pushedAt": "07/23/2026 06:01:53",
+      "pushedAt": "07/23/2026 08:12:10",
       "tags": [
         "agent",
         "llm",
@@ -287,135 +365,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Robbyant",
-      "repo": "lingbot-map",
-      "fullName": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32637882?s=40&v=4",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4250,
-      "totalStars": 14952,
-      "forks": 1547,
-      "license": "Apache-2.0",
-      "pushedAt": "07/20/2026 16:06:29",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "courthouse scene",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "projectIntro": "该项目的 GitHub 简介是：A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "featurePoints": [
-          "核心线索：A feed-forward 3D foundation model for reconstructing scenes from streaming data"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：See Interactive Demo below for the full set of scenes and flags, or jump to Offline Rendering Pipeline for long-sequence batch rendering."
-        ]
-      }
-    },
-    {
-      "owner": "earendil-works",
-      "repo": "pi",
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 4060,
-      "totalStars": 75798,
-      "forks": 9321,
-      "license": "MIT",
-      "pushedAt": "07/23/2026 06:31:03",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Pi Agent Harness",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [
-        "agent",
-        "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
-      ],
-      "homepage": "https://officecli.ai",
-      "language": "C#",
-      "starsGained": 3579,
-      "totalStars": 21261,
-      "forks": 1419,
-      "license": "Apache-2.0",
-      "pushedAt": "07/23/2026 02:34:39",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OfficeCLI",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
       "owner": "HKUDS",
       "repo": "DeepTutor",
       "fullName": "HKUDS/DeepTutor",
@@ -435,11 +384,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 3030,
-      "totalStars": 29197,
-      "forks": 3839,
+      "starsGained": 2661,
+      "totalStars": 29416,
+      "forks": 3878,
       "license": "Apache-2.0",
-      "pushedAt": "07/21/2026 12:23:50",
+      "pushedAt": "07/23/2026 19:07:27",
       "tags": [
         "agent",
         "rag",
@@ -488,11 +437,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://jcode.sh",
       "language": "Rust",
-      "starsGained": 2293,
-      "totalStars": 10819,
-      "forks": 1183,
+      "starsGained": 2586,
+      "totalStars": 11032,
+      "forks": 1205,
       "license": "MIT",
-      "pushedAt": "07/22/2026 22:53:51",
+      "pushedAt": "07/24/2026 03:25:31",
       "tags": [
         "agent",
         "llm"
@@ -530,11 +479,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.ui-skills.com/",
       "language": "TypeScript",
-      "starsGained": 2206,
-      "totalStars": 6045,
-      "forks": 262,
+      "starsGained": 2139,
+      "totalStars": 6186,
+      "forks": 269,
       "license": "MIT",
-      "pushedAt": "07/21/2026 13:36:31",
+      "pushedAt": "07/23/2026 17:25:19",
       "tags": [
         "learning"
       ],
@@ -554,6 +503,43 @@ window.GITHUB_AI_TRENDS = {
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
+    },
+    {
+      "owner": "MoonshotAI",
+      "repo": "kimi-code",
+      "fullName": "MoonshotAI/kimi-code",
+      "url": "https://github.com/MoonshotAI/kimi-code",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25167721?s=40&v=4",
+      "description": "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
+      "topics": [],
+      "homepage": "https://moonshotai.github.io/kimi-code/",
+      "language": "TypeScript",
+      "starsGained": 1610,
+      "totalStars": 4818,
+      "forks": 708,
+      "license": "MIT",
+      "pushedAt": "07/23/2026 13:34:14",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Kimi Code CLI",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
     }
   ],
   "monthly": [
@@ -564,45 +550,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "claude",
-        "copilot",
-        "cursor",
-        "elevenlabs",
-        "ffmpeg",
-        "flux",
-        "image-generation",
-        "open-source",
-        "openai",
-        "python",
-        "remotion",
-        "stable-diffusion",
-        "text-to-speech",
-        "text-to-video",
-        "video-generation",
-        "video-production"
-      ],
-      "homepage": "https://www.openmontage.video/",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 30594,
-      "totalStars": 41375,
-      "forks": 4907,
-      "license": "AGPL-3.0",
-      "pushedAt": "07/22/2026 14:17:02",
+      "starsGained": 27748,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "multimodal"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": ".env — every key is optional, add what you have",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -613,8 +576,7 @@ window.GITHUB_AI_TRENDS = {
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -625,47 +587,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?s=40&v=4",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "topics": [
-        "aider",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-intelligence",
-        "codex",
-        "cursor",
-        "cypher",
-        "developer-tools",
-        "gemini-cli",
-        "graph-visualization",
-        "kilocode",
-        "knowledge-graph",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "opencode",
-        "sqlite",
-        "tree-sitter",
-        "windsurf"
-      ],
-      "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
+      "topics": [],
+      "homepage": "",
       "language": "C",
-      "starsGained": 23249,
-      "totalStars": 34307,
-      "forks": 2633,
-      "license": "MIT",
-      "pushedAt": "07/23/2026 06:18:55",
+      "starsGained": 22464,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "rag",
-        "coding",
-        "ml"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "codebase-memory-mcp",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "code-knowledge-graph",
         "zhTitle": "代码知识图谱工具",
         "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
@@ -690,7 +629,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 22480,
+      "starsGained": 22184,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -740,11 +679,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 21766,
-      "totalStars": 25434,
-      "forks": 8315,
+      "starsGained": 22183,
+      "totalStars": 25904,
+      "forks": 8453,
       "license": "MIT",
-      "pushedAt": "07/22/2026 18:53:46",
+      "pushedAt": "07/23/2026 08:32:22",
       "tags": [
         "agent",
         "llm"
@@ -797,11 +736,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 20026,
-      "totalStars": 26570,
-      "forks": 1907,
+      "starsGained": 20972,
+      "totalStars": 27545,
+      "forks": 1959,
       "license": "MIT",
-      "pushedAt": "07/23/2026 06:37:36",
+      "pushedAt": "07/24/2026 03:23:34",
       "tags": [
         "agent",
         "llm",
@@ -810,8 +749,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS (Homebrew)",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -832,7 +771,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "topics": [
         "a2a",
         "ai-agents",
@@ -857,11 +796,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 18052,
-      "totalStars": 25799,
-      "forks": 3398,
+      "starsGained": 19755,
+      "totalStars": 27414,
+      "forks": 3589,
       "license": "MIT",
-      "pushedAt": "07/23/2026 06:34:31",
+      "pushedAt": "07/24/2026 03:30:13",
       "tags": [
         "agent",
         "llm",
@@ -919,11 +858,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 17610,
-      "totalStars": 43505,
-      "forks": 4495,
+      "starsGained": 17842,
+      "totalStars": 43768,
+      "forks": 4519,
       "license": "Apache-2.0",
-      "pushedAt": "07/23/2026 04:06:46",
+      "pushedAt": "07/23/2026 19:22:29",
       "tags": [
         "agent",
         "llm"
@@ -955,35 +894,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-prompts",
-        "anthropic",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "gemini",
-        "generative-ai",
-        "google",
-        "grok",
-        "llm",
-        "openai",
-        "prompt",
-        "prompt-engineering",
-        "system-prompt",
-        "system-prompts"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 15152,
-      "totalStars": 59817,
-      "forks": 9747,
-      "license": "CC0-1.0",
-      "pushedAt": "07/22/2026 22:34:08",
+      "starsGained": 14994,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -993,8 +911,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "prompt-leak-dataset",
         "zhTitle": "主流模型系统提示词泄露库",
         "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
@@ -1020,7 +938,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13554,
+      "starsGained": 13875,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1046,41 +964,57 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [],
+      "homepage": "",
+      "language": "C#",
+      "starsGained": 13655,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
       "owner": "Zackriya-Solutions",
       "repo": "meetily",
       "fullName": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "topics": [
-        "ai",
-        "ai-meeting-assistant",
-        "llm",
-        "local-ai",
-        "mac",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "ollama",
-        "parakeet",
-        "privacy-focused",
-        "privacy-tools",
-        "rust",
-        "self-hosted",
-        "sortformer",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
-      ],
-      "homepage": "https://meetily.ai",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "topics": [],
+      "homepage": "",
       "language": "Rust",
-      "starsGained": 13432,
-      "totalStars": 26152,
-      "forks": 2638,
-      "license": "MIT",
-      "pushedAt": "06/05/2026 13:53:17",
+      "starsGained": 13587,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -1089,7 +1023,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
@@ -1106,102 +1040,28 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [
-        "agent",
-        "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
-      ],
-      "homepage": "https://officecli.ai",
-      "language": "C#",
-      "starsGained": 13285,
-      "totalStars": 21261,
-      "forks": 1419,
-      "license": "Apache-2.0",
-      "pushedAt": "07/23/2026 02:34:39",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OfficeCLI",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
       "owner": "ogulcancelik",
       "repo": "herdr",
       "fullName": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
       "description": "agent multiplexer that lives in your terminal.",
-      "topics": [
-        "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "devtools",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-multiplexer",
-        "terminal-ui",
-        "tmux",
-        "tui",
-        "workspace-manager"
-      ],
-      "homepage": "https://herdr.dev",
+      "topics": [],
+      "homepage": "",
       "language": "Rust",
-      "starsGained": 12842,
-      "totalStars": 19654,
-      "forks": 1285,
-      "license": "Apache-2.0",
-      "pushedAt": "07/23/2026 01:20:31",
+      "starsGained": 13100,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "herdr",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
