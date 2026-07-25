@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:37:51.516Z",
+  "generatedAt": "2026-07-25T03:33:06.857Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -2920,6 +2920,64 @@
         "ogulcancelik/herdr": {
           "stars": 20127,
           "periodGain": 13100
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "generatedAt": "2026-07-25T03:32:36.7615829+00:00",
+      "repos": {
+        "bojieli/ai-agent-book": {
+          "stars": 19258,
+          "periodGain": 17401
+        },
+        "mattpocock/skills": {
+          "stars": 186968,
+          "periodGain": 10969
+        },
+        "koala73/worldmonitor": {
+          "stars": 73408,
+          "periodGain": 13611
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 28989,
+          "periodGain": 21480
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 26250,
+          "periodGain": 6565
+        },
+        "Nutlope/hallmark": {
+          "stars": 17134,
+          "periodGain": 4978
+        },
+        "earendil-works/pi": {
+          "stars": 77125,
+          "periodGain": 4880
+        },
+        "ruvnet/RuView": {
+          "stars": 86002,
+          "periodGain": 4821
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 43209,
+          "periodGain": 4399
+        },
+        "Robbyant/lingbot-map": {
+          "stars": 15293,
+          "periodGain": 3640
+        },
+        "1jehuang/jcode": {
+          "stars": 11241,
+          "periodGain": 2773
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 29581,
+          "periodGain": 2380
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 26366,
+          "periodGain": 22740
         }
       }
     }
