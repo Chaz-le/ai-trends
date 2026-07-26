@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T06:27:42.311Z",
+  "generatedAt": "2026-07-26T03:48:42.973Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3006,6 +3006,36 @@
         "ogulcancelik/herdr": {
           "stars": 20499,
           "periodGain": 13424
+        }
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "generatedAt": "2026-07-26T03:48:18.4956238+00:00",
+      "repos": {
+        "bojieli/ai-agent-book": {
+          "stars": 19866,
+          "periodGain": 16579
+        },
+        "koala73/worldmonitor": {
+          "stars": 74220,
+          "periodGain": 14554
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 30127,
+          "periodGain": 23016
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 26419,
+          "periodGain": 6423
+        },
+        "earendil-works/pi": {
+          "stars": 77601,
+          "periodGain": 5167
+        },
+        "1jehuang/jcode": {
+          "stars": 11474,
+          "periodGain": 2914
         }
       }
     }
