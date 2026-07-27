@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T06:47:45.378Z",
+  "generatedAt": "2026-07-27T03:56:51.823Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3060,6 +3060,68 @@
         "every-app/open-seo": {
           "stars": 8008,
           "periodGain": 3439
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "generatedAt": "2026-07-27T03:56:38.2430476+00:00",
+      "repos": {
+        "bojieli/ai-agent-book": {
+          "stars": 21409,
+          "periodGain": 15909
+        },
+        "koala73/worldmonitor": {
+          "stars": 74894,
+          "periodGain": 14798
+        },
+        "mattpocock/skills": {
+          "stars": 189907,
+          "periodGain": 12238
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 31214,
+          "periodGain": 23805
+        },
+        "stablyai/orca": {
+          "stars": 29930,
+          "periodGain": 21857
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 26686,
+          "periodGain": 6006
+        },
+        "ruvnet/RuView": {
+          "stars": 86690,
+          "periodGain": 5497
+        },
+        "earendil-works/pi": {
+          "stars": 78260,
+          "periodGain": 5389
+        },
+        "Nutlope/hallmark": {
+          "stars": 18342,
+          "periodGain": 14649
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 43847,
+          "periodGain": 4317
+        },
+        "every-app/open-seo": {
+          "stars": 8283,
+          "periodGain": 3639
+        },
+        "1jehuang/jcode": {
+          "stars": 11698,
+          "periodGain": 2909
+        },
+        "usestrix/strix": {
+          "stars": 44611,
+          "periodGain": 18515
+        },
+        "ogulcancelik/herdr": {
+          "stars": 21096,
+          "periodGain": 13743
         }
       }
     }

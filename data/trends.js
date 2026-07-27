@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-07-26T06:47:27.4172899+00:00",
+  "generatedAt": "2026-07-27T03:56:38.2430476+00:00",
   "weekly": [
     {
       "owner": "bojieli",
@@ -26,11 +26,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 16579,
-      "totalStars": 20060,
-      "forks": 2001,
+      "starsGained": 15909,
+      "totalStars": 21409,
+      "forks": 2136,
       "license": "Apache-2.0",
-      "pushedAt": "07/26/2026 04:11:37",
+      "pushedAt": "07/27/2026 01:37:39",
       "tags": [
         "agent",
         "llm",
@@ -81,11 +81,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 12085,
-      "totalStars": 74301,
-      "forks": 11155,
+      "starsGained": 12615,
+      "totalStars": 74894,
+      "forks": 11244,
       "license": "NOASSERTION",
-      "pushedAt": "07/26/2026 06:42:41",
+      "pushedAt": "07/26/2026 22:32:21",
       "tags": [
         "agent"
       ],
@@ -117,9 +117,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Shell",
-      "starsGained": 11790,
-      "totalStars": 188602,
-      "forks": 16203,
+      "starsGained": 12238,
+      "totalStars": 189907,
+      "forks": 16311,
       "license": "MIT",
       "pushedAt": "07/23/2026 14:29:59",
       "tags": [
@@ -177,11 +177,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 11147,
-      "totalStars": 30237,
-      "forks": 3946,
+      "starsGained": 10912,
+      "totalStars": 31214,
+      "forks": 4045,
       "license": "MIT",
-      "pushedAt": "07/26/2026 00:46:43",
+      "pushedAt": "07/27/2026 03:23:43",
       "tags": [
         "agent",
         "llm",
@@ -237,11 +237,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 7327,
-      "totalStars": 29173,
-      "forks": 2072,
+      "starsGained": 7392,
+      "totalStars": 29930,
+      "forks": 2117,
       "license": "MIT",
-      "pushedAt": "07/26/2026 06:44:09",
+      "pushedAt": "07/27/2026 03:51:26",
       "tags": [
         "agent",
         "llm",
@@ -289,11 +289,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://code-review-graph.com",
       "language": "Python",
-      "starsGained": 6423,
-      "totalStars": 26450,
-      "forks": 2471,
+      "starsGained": 6006,
+      "totalStars": 26686,
+      "forks": 2485,
       "license": "MIT",
-      "pushedAt": "07/25/2026 18:53:05",
+      "pushedAt": "07/26/2026 23:15:13",
       "tags": [
         "agent",
         "llm",
@@ -350,11 +350,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://Cognitum.One/RuView",
       "language": "Rust",
-      "starsGained": 5313,
-      "totalStars": 86440,
-      "forks": 11501,
+      "starsGained": 5497,
+      "totalStars": 86690,
+      "forks": 11532,
       "license": "MIT",
-      "pushedAt": "07/26/2026 00:46:48",
+      "pushedAt": "07/27/2026 00:47:18",
       "tags": [
         "llm",
         "learning"
@@ -389,11 +389,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 5167,
-      "totalStars": 77676,
-      "forks": 9566,
+      "starsGained": 5389,
+      "totalStars": 78260,
+      "forks": 9635,
       "license": "MIT",
-      "pushedAt": "07/25/2026 21:02:44",
+      "pushedAt": "07/26/2026 16:29:45",
       "tags": [
         "agent",
         "llm",
@@ -428,9 +428,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 4881,
-      "totalStars": 17823,
-      "forks": 896,
+      "starsGained": 4932,
+      "totalStars": 18342,
+      "forks": 921,
       "license": "MIT",
       "pushedAt": "06/26/2026 10:08:58",
       "tags": [
@@ -485,11 +485,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 4518,
-      "totalStars": 43542,
-      "forks": 7296,
+      "starsGained": 4317,
+      "totalStars": 43847,
+      "forks": 7375,
       "license": "MIT",
-      "pushedAt": "07/26/2026 00:08:59",
+      "pushedAt": "07/26/2026 11:07:40",
       "tags": [
         "agent",
         "llm",
@@ -515,54 +515,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "jamiepine",
-      "repo": "voicebox",
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "topics": [
-        "ai",
-        "cuda",
-        "mlx",
-        "qwen3-tts",
-        "qwen3-tts-ui",
-        "voice-ai",
-        "voice-clone",
-        "whisper"
-      ],
-      "homepage": "https://voicebox.sh",
-      "language": "TypeScript",
-      "starsGained": 4237,
-      "totalStars": 46790,
-      "forks": 5733,
-      "license": "MIT",
-      "pushedAt": "07/21/2026 19:35:46",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Generate speech",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：Prerequisites: Bun, Rust, Python 3.11+, Tauri Prerequisites, and Xcode on macOS."
-        ]
-      }
-    },
-    {
       "owner": "every-app",
       "repo": "open-seo",
       "fullName": "every-app/open-seo",
@@ -580,9 +532,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openseo.so",
       "language": "TypeScript",
-      "starsGained": 3439,
-      "totalStars": 8008,
-      "forks": 878,
+      "starsGained": 3639,
+      "totalStars": 8283,
+      "forks": 899,
       "license": "MIT",
       "pushedAt": "07/23/2026 21:44:55",
       "tags": [
@@ -607,24 +559,35 @@ window.GITHUB_AI_TRENDS = {
           "适用线索：Keyword research"
         ]
       }
-    }
-  ],
-  "monthly": [
+    },
     {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50207393?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 23212,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+      "description": "The most RAM effiecent harness",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding-agent",
+        "claude",
+        "cli",
+        "coding-agent",
+        "llm",
+        "mcp",
+        "openai",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "homepage": "https://jcode.sh",
+      "language": "Rust",
+      "starsGained": 2909,
+      "totalStars": 11698,
+      "forks": 1298,
+      "license": "MIT",
+      "pushedAt": "07/27/2026 03:45:15",
       "tags": [
         "agent",
         "llm"
@@ -632,22 +595,25 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "source": "readme",
+        "readmeTitle": "jcode",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：jcode login --provider openrouter"
         ]
       }
-    },
+    }
+  ],
+  "monthly": [
     {
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
@@ -679,11 +645,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 23016,
-      "totalStars": 30237,
-      "forks": 3946,
+      "starsGained": 23805,
+      "totalStars": 31214,
+      "forks": 4045,
       "license": "MIT",
-      "pushedAt": "07/26/2026 00:46:43",
+      "pushedAt": "07/27/2026 03:23:43",
       "tags": [
         "agent",
         "llm",
@@ -739,11 +705,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 21817,
-      "totalStars": 29173,
-      "forks": 2072,
+      "starsGained": 21857,
+      "totalStars": 29930,
+      "forks": 2117,
       "license": "MIT",
-      "pushedAt": "07/26/2026 06:44:09",
+      "pushedAt": "07/27/2026 03:51:26",
       "tags": [
         "agent",
         "llm",
@@ -778,7 +744,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "C",
-      "starsGained": 20976,
+      "starsGained": 20672,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -808,65 +774,50 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "calesthio",
-      "repo": "OpenMontage",
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 20972,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
-        ]
-      }
-    },
-    {
       "owner": "usestrix",
       "repo": "strix",
       "fullName": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 18324,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 18515,
+      "totalStars": 44611,
+      "forks": 4647,
+      "license": "Apache-2.0",
+      "pushedAt": "07/27/2026 03:37:18",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Strix",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -877,7 +828,57 @@ window.GITHUB_AI_TRENDS = {
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+        ]
+      }
+    },
+    {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "homepage": "https://worldmonitor.app",
+      "language": "TypeScript",
+      "starsGained": 14798,
+      "totalStars": 74894,
+      "forks": 11244,
+      "license": "NOASSERTION",
+      "pushedAt": "07/26/2026 22:32:21",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "World Monitor",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "featurePoints": [
+          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
         ]
       }
     },
@@ -887,11 +888,11 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 14812,
+      "starsGained": 14718,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -923,51 +924,38 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [
-        "agent",
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "mcp",
-        "mcp-server",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "homepage": "https://worldmonitor.app",
-      "language": "TypeScript",
-      "starsGained": 14554,
-      "totalStars": 74301,
-      "forks": 11155,
-      "license": "NOASSERTION",
-      "pushedAt": "07/26/2026 06:42:41",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "topics": [],
+      "homepage": "https://www.usehallmark.com/",
+      "language": "CSS",
+      "starsGained": 14649,
+      "totalStars": 18342,
+      "forks": 921,
+      "license": "MIT",
+      "pushedAt": "06/26/2026 10:08:58",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "World Monitor",
+        "readmeTitle": "Hallmark",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "featurePoints": [
-          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -981,7 +969,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14438,
+      "starsGained": 14550,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1007,42 +995,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "topics": [],
-      "homepage": "https://www.usehallmark.com/",
-      "language": "CSS",
-      "starsGained": 14156,
-      "totalStars": 17823,
-      "forks": 896,
-      "license": "MIT",
-      "pushedAt": "06/26/2026 10:08:58",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "featurePoints": [
-          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
       "fullName": "iOfficeAI/OfficeCLI",
@@ -1052,7 +1004,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "C#",
-      "starsGained": 14153,
+      "starsGained": 14295,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1089,7 +1041,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Rust",
-      "starsGained": 13915,
+      "starsGained": 14057,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1115,6 +1067,101 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "fullName": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
+      "description": "agent multiplexer that lives in your terminal.",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "homepage": "https://herdr.dev",
+      "language": "Rust",
+      "starsGained": 13743,
+      "totalStars": 21096,
+      "forks": 1421,
+      "license": "Apache-2.0",
+      "pushedAt": "07/26/2026 23:25:40",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "fullName": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 11499,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     }
