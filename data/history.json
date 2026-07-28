@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T03:28:12.097Z",
+  "generatedAt": "2026-07-28T04:24:10.325Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3119,51 +3119,63 @@
     },
     {
       "date": "2026-07-28",
-      "generatedAt": "2026-07-28T03:27:51.9090740+00:00",
+      "generatedAt": "2026-07-28T04:23:49.0370088+00:00",
       "repos": {
         "bojieli/ai-agent-book": {
-          "stars": 23100,
+          "stars": 23178,
           "periodGain": 13627
         },
         "koala73/worldmonitor": {
-          "stars": 75433,
+          "stars": 75449,
           "periodGain": 15236
         },
         "mattpocock/skills": {
-          "stars": 191601,
+          "stars": 191673,
           "periodGain": 12682
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 32267,
+          "stars": 32303,
           "periodGain": 24936
         },
+        "stablyai/orca": {
+          "stars": 31008,
+          "periodGain": 22573
+        },
         "ayghri/i-have-adhd": {
-          "stars": 11527,
+          "stars": 11558,
           "periodGain": 6961
         },
         "earendil-works/pi": {
-          "stars": 79108,
+          "stars": 79151,
           "periodGain": 5751
         },
         "ruvnet/RuView": {
-          "stars": 87007,
+          "stars": 87028,
           "periodGain": 5662
         },
         "oblien/openship": {
-          "stars": 9014,
+          "stars": 9023,
           "periodGain": 4911
         },
         "Nutlope/hallmark": {
-          "stars": 18891,
+          "stars": 18916,
           "periodGain": 15231
         },
         "tirth8205/code-review-graph": {
-          "stars": 27034,
+          "stars": 27049,
           "periodGain": 4577
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 44309,
+          "stars": 44322,
           "periodGain": 3961
+        },
+        "usestrix/strix": {
+          "stars": 45047,
+          "periodGain": 18948
+        },
+        "ogulcancelik/herdr": {
+          "stars": 21580,
+          "periodGain": 13835
         }
       }
     }
