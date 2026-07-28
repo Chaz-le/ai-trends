@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:24:10.325Z",
+  "generatedAt": "2026-07-28T06:38:18.633Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3119,62 +3119,62 @@
     },
     {
       "date": "2026-07-28",
-      "generatedAt": "2026-07-28T04:23:49.0370088+00:00",
+      "generatedAt": "2026-07-28T06:38:05.6264195+00:00",
       "repos": {
         "bojieli/ai-agent-book": {
-          "stars": 23178,
+          "stars": 23405,
           "periodGain": 13627
         },
         "koala73/worldmonitor": {
-          "stars": 75449,
+          "stars": 75504,
           "periodGain": 15236
         },
         "mattpocock/skills": {
-          "stars": 191673,
+          "stars": 191827,
           "periodGain": 12682
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 32303,
+          "stars": 32388,
           "periodGain": 24936
         },
         "stablyai/orca": {
-          "stars": 31008,
+          "stars": 31116,
           "periodGain": 22573
         },
         "ayghri/i-have-adhd": {
-          "stars": 11558,
+          "stars": 11686,
           "periodGain": 6961
         },
         "earendil-works/pi": {
-          "stars": 79151,
+          "stars": 79244,
           "periodGain": 5751
         },
         "ruvnet/RuView": {
-          "stars": 87028,
+          "stars": 87044,
           "periodGain": 5662
         },
         "oblien/openship": {
-          "stars": 9023,
+          "stars": 9046,
           "periodGain": 4911
         },
         "Nutlope/hallmark": {
-          "stars": 18916,
+          "stars": 18976,
           "periodGain": 15231
         },
         "tirth8205/code-review-graph": {
-          "stars": 27049,
+          "stars": 27085,
           "periodGain": 4577
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 44322,
+          "stars": 44354,
           "periodGain": 3961
         },
         "usestrix/strix": {
-          "stars": 45047,
+          "stars": 45073,
           "periodGain": 18948
         },
         "ogulcancelik/herdr": {
-          "stars": 21580,
+          "stars": 21630,
           "periodGain": 13835
         }
       }
