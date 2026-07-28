@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T07:47:22.654Z",
+  "generatedAt": "2026-07-28T03:28:12.097Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3114,6 +3114,56 @@
         "1jehuang/jcode": {
           "stars": 11729,
           "periodGain": 2909
+        }
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "generatedAt": "2026-07-28T03:27:51.9090740+00:00",
+      "repos": {
+        "bojieli/ai-agent-book": {
+          "stars": 23100,
+          "periodGain": 13627
+        },
+        "koala73/worldmonitor": {
+          "stars": 75433,
+          "periodGain": 15236
+        },
+        "mattpocock/skills": {
+          "stars": 191601,
+          "periodGain": 12682
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 32267,
+          "periodGain": 24936
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 11527,
+          "periodGain": 6961
+        },
+        "earendil-works/pi": {
+          "stars": 79108,
+          "periodGain": 5751
+        },
+        "ruvnet/RuView": {
+          "stars": 87007,
+          "periodGain": 5662
+        },
+        "oblien/openship": {
+          "stars": 9014,
+          "periodGain": 4911
+        },
+        "Nutlope/hallmark": {
+          "stars": 18891,
+          "periodGain": 15231
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 27034,
+          "periodGain": 4577
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 44309,
+          "periodGain": 3961
         }
       }
     }
