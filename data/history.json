@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:38:18.633Z",
+  "generatedAt": "2026-07-29T03:30:23.778Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3176,6 +3176,48 @@
         "ogulcancelik/herdr": {
           "stars": 21630,
           "periodGain": 13835
+        }
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "generatedAt": "2026-07-29T03:30:06.8257219+00:00",
+      "repos": {
+        "mattpocock/skills": {
+          "stars": 193214,
+          "periodGain": 12794
+        },
+        "koala73/worldmonitor": {
+          "stars": 76021,
+          "periodGain": 15518
+        },
+        "bojieli/ai-agent-book": {
+          "stars": 24868,
+          "periodGain": 10637
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 33278,
+          "periodGain": 25839
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 12891,
+          "periodGain": 6156
+        },
+        "earendil-works/pi": {
+          "stars": 79797,
+          "periodGain": 5244
+        },
+        "ruvnet/RuView": {
+          "stars": 87324,
+          "periodGain": 5026
+        },
+        "oblien/openship": {
+          "stars": 9471,
+          "periodGain": 3628
+        },
+        "agegr/pi-web": {
+          "stars": 3130,
+          "periodGain": 1474
         }
       }
     }
