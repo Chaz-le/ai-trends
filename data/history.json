@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:30:23.778Z",
+  "generatedAt": "2026-07-29T04:26:54.370Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3181,43 +3181,83 @@
     },
     {
       "date": "2026-07-29",
-      "generatedAt": "2026-07-29T03:30:06.8257219+00:00",
+      "generatedAt": "2026-07-29T04:26:38.0676850+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 193214,
+          "stars": 193278,
           "periodGain": 12794
         },
         "koala73/worldmonitor": {
-          "stars": 76021,
+          "stars": 76041,
           "periodGain": 15518
         },
         "bojieli/ai-agent-book": {
-          "stars": 24868,
+          "stars": 24992,
           "periodGain": 10637
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 33278,
+          "stars": 33321,
           "periodGain": 25839
         },
         "ayghri/i-have-adhd": {
-          "stars": 12891,
+          "stars": 12935,
           "periodGain": 6156
         },
         "earendil-works/pi": {
-          "stars": 79797,
+          "stars": 79830,
           "periodGain": 5244
         },
         "ruvnet/RuView": {
-          "stars": 87324,
+          "stars": 87333,
           "periodGain": 5026
         },
         "oblien/openship": {
-          "stars": 9471,
+          "stars": 9484,
           "periodGain": 3628
         },
-        "agegr/pi-web": {
-          "stars": 3130,
-          "periodGain": 1474
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 44665,
+          "periodGain": 3333
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 27400,
+          "periodGain": 3032
+        },
+        "every-app/open-seo": {
+          "stars": 9074,
+          "periodGain": 2596
+        },
+        "shiyu-coder/Kronos": {
+          "stars": 34854,
+          "periodGain": 2521
+        },
+        "stablyai/orca": {
+          "stars": 31958,
+          "periodGain": 23282
+        },
+        "usestrix/strix": {
+          "stars": 45401,
+          "periodGain": 19164
+        },
+        "emilkowalski/skills": {
+          "stars": 22152,
+          "periodGain": 18400
+        },
+        "Nutlope/hallmark": {
+          "stars": 19419,
+          "periodGain": 15858
+        },
+        "asgeirtj/system_prompts_leaks": {
+          "stars": 61195,
+          "periodGain": 14701
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 27253,
+          "periodGain": 14467
+        },
+        "ogulcancelik/herdr": {
+          "stars": 22034,
+          "periodGain": 14176
         }
       }
     }
