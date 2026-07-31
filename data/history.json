@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T06:38:33.853Z",
+  "generatedAt": "2026-07-31T03:44:59.398Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3268,6 +3268,72 @@
         "ayghri/i-have-adhd": {
           "stars": 13697,
           "periodGain": 5544
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "generatedAt": "2026-07-31T03:44:45.5170577+00:00",
+      "repos": {
+        "mattpocock/skills": {
+          "stars": 196545,
+          "periodGain": 12147
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 35272,
+          "periodGain": 27274
+        },
+        "koala73/worldmonitor": {
+          "stars": 77048,
+          "periodGain": 16358
+        },
+        "alibaba/open-code-review": {
+          "stars": 16657,
+          "periodGain": 5322
+        },
+        "citrolabs/ego-lite": {
+          "stars": 6635,
+          "periodGain": 5037
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 14301,
+          "periodGain": 4978
+        },
+        "earendil-works/pi": {
+          "stars": 81017,
+          "periodGain": 4799
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 13803,
+          "periodGain": 4135
+        },
+        "1jehuang/jcode": {
+          "stars": 14248,
+          "periodGain": 3107
+        },
+        "moeru-ai/airi": {
+          "stars": 45936,
+          "periodGain": 2815
+        },
+        "shiyu-coder/Kronos": {
+          "stars": 35134,
+          "periodGain": 2258
+        },
+        "UditAkhourii/adhd": {
+          "stars": 2901,
+          "periodGain": 791
+        },
+        "stablyai/orca": {
+          "stars": 34019,
+          "periodGain": 24858
+        },
+        "usestrix/strix": {
+          "stars": 45950,
+          "periodGain": 19044
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 27554,
+          "periodGain": 14791
         }
       }
     }
