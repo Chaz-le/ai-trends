@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:31:40.284Z",
+  "generatedAt": "2026-08-01T06:39:23.430Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3359,19 +3359,71 @@
     },
     {
       "date": "2026-08-01",
-      "generatedAt": "2026-08-01T04:31:30.5112190+00:00",
+      "generatedAt": "2026-08-01T06:39:02.7385460+00:00",
       "repos": {
+        "mattpocock/skills": {
+          "stars": 198099,
+          "periodGain": 11622
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 36326,
+          "periodGain": 27829
+        },
         "ayghri/i-have-adhd": {
-          "stars": 14827,
+          "stars": 14862,
           "periodGain": 5133
         },
         "alibaba/open-code-review": {
-          "stars": 17072,
+          "stars": 17111,
           "periodGain": 4746
         },
         "citrolabs/ego-lite": {
-          "stars": 7082,
+          "stars": 7125,
           "periodGain": 4741
+        },
+        "koala73/worldmonitor": {
+          "stars": 77528,
+          "periodGain": 16613
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 14393,
+          "periodGain": 4603
+        },
+        "earendil-works/pi": {
+          "stars": 81614,
+          "periodGain": 4571
+        },
+        "1jehuang/jcode": {
+          "stars": 14712,
+          "periodGain": 3351
+        },
+        "moeru-ai/airi": {
+          "stars": 46266,
+          "periodGain": 3125
+        },
+        "shiyu-coder/Kronos": {
+          "stars": 35288,
+          "periodGain": 1939
+        },
+        "earthtojake/text-to-cad": {
+          "stars": 12279,
+          "periodGain": 1901
+        },
+        "stablyai/orca": {
+          "stars": 34794,
+          "periodGain": 25201
+        },
+        "emilkowalski/skills": {
+          "stars": 23427,
+          "periodGain": 19439
+        },
+        "Nutlope/hallmark": {
+          "stars": 20404,
+          "periodGain": 16829
+        },
+        "Zackriya-Solutions/meetily": {
+          "stars": 27723,
+          "periodGain": 14907
         }
       }
     }
