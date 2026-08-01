@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-01T03:43:54.8021322+00:00",
+  "generatedAt": "2026-08-01T04:31:30.5112190+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,10 +13,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 11622,
-      "totalStars": 197968,
-      "forks": 17041,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 17:06:59",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -24,8 +24,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -47,35 +47,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cline",
-        "codex",
-        "copilot",
-        "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "kimi",
-        "llm-gateway",
-        "mcp",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
-      ],
-      "homepage": "https://omniroute.online",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 7701,
-      "totalStars": 36226,
-      "forks": 4654,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 18:53:56",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -85,8 +64,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -97,8 +76,7 @@ window.GITHUB_AI_TRENDS = {
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -120,7 +98,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5133,
-      "totalStars": 14806,
+      "totalStars": 14827,
       "forks": 805,
       "license": "MIT",
       "pushedAt": "07/31/2026 21:12:50",
@@ -133,7 +111,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -167,8 +145,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 4746,
-      "totalStars": 17062,
-      "forks": 1163,
+      "totalStars": 17072,
+      "forks": 1164,
       "license": "Apache-2.0",
       "pushedAt": "08/01/2026 03:29:13",
       "tags": [
@@ -219,8 +197,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
       "starsGained": 4741,
-      "totalStars": 7063,
-      "forks": 336,
+      "totalStars": 7082,
+      "forks": 337,
       "license": "MIT",
       "pushedAt": "07/30/2026 12:32:42",
       "tags": [
@@ -254,35 +232,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [
-        "agent",
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "mcp",
-        "mcp-server",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "homepage": "https://worldmonitor.app",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 4657,
-      "totalStars": 77488,
-      "forks": 11573,
-      "license": "NOASSERTION",
-      "pushedAt": "08/01/2026 01:20:39",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "World Monitor",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -291,8 +256,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -307,10 +271,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4603,
-      "totalStars": 14335,
-      "forks": 1557,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 13:29:49",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm"
@@ -318,8 +282,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Process several files together into a unified skill",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -330,8 +294,7 @@ window.GITHUB_AI_TRENDS = {
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：Supported document formats: PDF, EPUB, DOCX, TXT, Markdown, reStructuredText, AsciiDoc, HTML, RTF, MOBI/AZW/AZW3."
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -346,10 +309,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4571,
-      "totalStars": 81562,
-      "forks": 10068,
-      "license": "MIT",
-      "pushedAt": "08/01/2026 00:20:02",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -358,8 +321,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Pi Agent Harness",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -375,84 +338,20 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "1jehuang",
-      "repo": "jcode",
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-      "description": "The most RAM efficient harness",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-coding-agent",
-        "claude",
-        "cli",
-        "coding-agent",
-        "llm",
-        "mcp",
-        "openai",
-        "rust",
-        "terminal",
-        "tui"
-      ],
-      "homepage": "https://jcode.sh",
-      "language": "Rust",
-      "starsGained": 3351,
-      "totalStars": 14666,
-      "forks": 1617,
-      "license": "MIT",
-      "pushedAt": "08/01/2026 03:08:14",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "jcode",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：jcode login --provider openrouter"
-        ]
-      }
-    },
-    {
       "owner": "moeru-ai",
       "repo": "airi",
       "fullName": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "topics": [
-        "ai-companion",
-        "ai-vtuber",
-        "airi",
-        "digital-life",
-        "grok-companion",
-        "live2d",
-        "neuro-sama",
-        "neurosama",
-        "openclaw",
-        "vrm",
-        "vtuber"
-      ],
-      "homepage": "https://airi.moeru.ai/docs/",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 3125,
-      "totalStars": 46244,
-      "forks": 4556,
-      "license": "MIT",
-      "pushedAt": "08/01/2026 01:41:35",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "multimodal"
@@ -460,8 +359,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Or",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -487,18 +386,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 1939,
-      "totalStars": 35278,
-      "forks": 5879,
-      "license": "MIT",
-      "pushedAt": "04/13/2026 12:38:49",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Load from Hugging Face Hub",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Kronos: A Foundation Model for the Language of Financial Markets",
@@ -507,8 +406,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Kronos: A Foundation Model for the Language of Financial Markets"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：We have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -519,24 +417,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/earthtojake/text-to-cad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
       "description": "A library of agent skills for CAD, CAE and CAM",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "homepage": "https://www.texttocad.dev",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 1901,
-      "totalStars": 12265,
-      "forks": 1307,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 18:19:13",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "multimodal",
@@ -545,8 +433,46 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "CAD Skills",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+        ]
+      }
+    },
+    {
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
+      "description": "Open-Source Frontier Voice AI",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 1222,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -570,35 +496,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cline",
-        "codex",
-        "copilot",
-        "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "kimi",
-        "llm-gateway",
-        "mcp",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
-      ],
-      "homepage": "https://omniroute.online",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 27829,
-      "totalStars": 36226,
-      "forks": 4654,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 18:53:56",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -608,8 +513,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "🚀 OmniRoute — The Free AI Gateway",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -620,8 +525,7 @@ window.GITHUB_AI_TRENDS = {
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Dashboard → Providers → connect Kiro AI (free Claude, 50 credits/month per account) or OpenCode Free (no auth) → done."
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -632,54 +536,34 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "topics": [
-        "ade",
-        "agent-ide",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "cursor-agent",
-        "devtools",
-        "ghostty",
-        "ide",
-        "mobile-app",
-        "opencode",
-        "orchestration",
-        "parallel-agents",
-        "pi",
-        "terminal",
-        "worktrees",
-        "yc-backed"
-      ],
-      "homepage": "https://onOrca.dev",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 25201,
-      "totalStars": 34709,
-      "forks": 2423,
-      "license": "MIT",
-      "pushedAt": "08/01/2026 03:42:05",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS (Homebrew)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -691,21 +575,21 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
       "description": "Skills for Design Engineers.",
       "topics": [],
-      "homepage": "https://emilkowal.ski/skill",
+      "homepage": "",
       "language": "",
       "starsGained": 19439,
-      "totalStars": 23394,
-      "forks": 1274,
-      "license": "MIT",
-      "pushedAt": "07/27/2026 11:31:12",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Design Engineers",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Skills for Design Engineers.",
@@ -725,44 +609,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 18958,
-      "totalStars": 46233,
-      "forks": 4846,
-      "license": "Apache-2.0",
-      "pushedAt": "07/31/2026 14:57:43",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -773,8 +635,7 @@ window.GITHUB_AI_TRENDS = {
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
         ]
       }
     },
@@ -786,13 +647,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "topics": [],
-      "homepage": "https://www.usehallmark.com/",
+      "homepage": "",
       "language": "CSS",
       "starsGained": 16829,
-      "totalStars": 20372,
-      "forks": 1017,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 13:25:27",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm"
@@ -800,8 +661,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -821,35 +682,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [
-        "agent",
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "mcp",
-        "mcp-server",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "homepage": "https://worldmonitor.app",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 16613,
-      "totalStars": 77488,
-      "forks": 11573,
-      "license": "NOASSERTION",
-      "pushedAt": "08/01/2026 01:20:39",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "World Monitor",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -858,8 +706,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -869,51 +716,34 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [
-        "agent",
-        "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
-      ],
-      "homepage": "https://officecli.ai",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [],
+      "homepage": "",
       "language": "C#",
       "starsGained": 15632,
-      "totalStars": 23880,
-      "forks": 1604,
-      "license": "Apache-2.0",
-      "pushedAt": "07/31/2026 13:24:58",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "OfficeCLI",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -923,36 +753,15 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "topics": [
-        "ai",
-        "ai-meeting-assistant",
-        "llm",
-        "local-ai",
-        "mac",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "ollama",
-        "parakeet",
-        "privacy-focused",
-        "privacy-tools",
-        "rust",
-        "self-hosted",
-        "sortformer",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
-      ],
-      "homepage": "https://meetily.ai",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "topics": [],
+      "homepage": "",
       "language": "Rust",
       "starsGained": 14907,
-      "totalStars": 27703,
-      "forks": 2845,
-      "license": "MIT",
-      "pushedAt": "06/05/2026 13:53:17",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -961,7 +770,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
@@ -984,35 +793,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-prompts",
-        "anthropic",
-        "chatbot",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "gemini",
-        "generative-ai",
-        "google",
-        "grok",
-        "llm",
-        "openai",
-        "prompt",
-        "prompt-engineering",
-        "system-prompt",
-        "system-prompts"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 14733,
-      "totalStars": 61714,
-      "forks": 10073,
-      "license": "CC0-1.0",
-      "pushedAt": "07/30/2026 13:18:12",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -1022,8 +810,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "System Prompts Leaks",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "prompt-leak-dataset",
         "zhTitle": "主流模型系统提示词泄露库",
         "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
