@@ -1,45 +1,7 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-01T06:39:02.7385460+00:00",
+  "generatedAt": "2026-08-02T03:44:59.0762432+00:00",
   "weekly": [
-    {
-      "owner": "mattpocock",
-      "repo": "skills",
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "topics": [],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 11622,
-      "totalStars": 198099,
-      "forks": 17056,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 17:06:59",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
     {
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
@@ -71,11 +33,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 7701,
-      "totalStars": 36326,
-      "forks": 4669,
+      "starsGained": 7259,
+      "totalStars": 37156,
+      "forks": 4810,
       "license": "MIT",
-      "pushedAt": "08/01/2026 06:18:15",
+      "pushedAt": "08/02/2026 03:37:45",
       "tags": [
         "agent",
         "llm",
@@ -119,9 +81,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5133,
-      "totalStars": 14862,
-      "forks": 809,
+      "starsGained": 5232,
+      "totalStars": 15299,
+      "forks": 849,
       "license": "MIT",
       "pushedAt": "07/31/2026 21:12:50",
       "tags": [
@@ -150,6 +112,45 @@
       }
     },
     {
+      "owner": "virgiliojr94",
+      "repo": "book-to-skill",
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 5105,
+      "totalStars": 14905,
+      "forks": 1611,
+      "license": "MIT",
+      "pushedAt": "07/31/2026 13:29:49",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Process several files together into a unified skill",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "适用线索：Supported document formats: PDF, EPUB, DOCX, TXT, Markdown, reStructuredText, AsciiDoc, HTML, RTF, MOBI/AZW/AZW3."
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -166,11 +167,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 4746,
-      "totalStars": 17111,
-      "forks": 1165,
+      "starsGained": 4708,
+      "totalStars": 17532,
+      "forks": 1192,
       "license": "Apache-2.0",
-      "pushedAt": "08/01/2026 03:29:13",
+      "pushedAt": "08/01/2026 10:09:51",
       "tags": [
         "agent",
         "llm",
@@ -218,9 +219,9 @@
       ],
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
-      "starsGained": 4741,
-      "totalStars": 7125,
-      "forks": 342,
+      "starsGained": 4090,
+      "totalStars": 7421,
+      "forks": 369,
       "license": "MIT",
       "pushedAt": "07/30/2026 12:32:42",
       "tags": [
@@ -248,133 +249,6 @@
       }
     },
     {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [
-        "agent",
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "mcp",
-        "mcp-server",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "homepage": "https://worldmonitor.app",
-      "language": "TypeScript",
-      "starsGained": 4657,
-      "totalStars": 77528,
-      "forks": 11581,
-      "license": "NOASSERTION",
-      "pushedAt": "08/01/2026 06:38:25",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "World Monitor",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "featurePoints": [
-          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
-        ]
-      }
-    },
-    {
-      "owner": "virgiliojr94",
-      "repo": "book-to-skill",
-      "fullName": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4603,
-      "totalStars": 14393,
-      "forks": 1562,
-      "license": "MIT",
-      "pushedAt": "07/31/2026 13:29:49",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Process several files together into a unified skill",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：Supported document formats: PDF, EPUB, DOCX, TXT, Markdown, reStructuredText, AsciiDoc, HTML, RTF, MOBI/AZW/AZW3."
-        ]
-      }
-    },
-    {
-      "owner": "earendil-works",
-      "repo": "pi",
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 4571,
-      "totalStars": 81614,
-      "forks": 10079,
-      "license": "MIT",
-      "pushedAt": "08/01/2026 06:26:17",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Pi Agent Harness",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "1jehuang",
       "repo": "jcode",
       "fullName": "1jehuang/jcode",
@@ -397,11 +271,11 @@
       ],
       "homepage": "https://jcode.sh",
       "language": "Rust",
-      "starsGained": 3351,
-      "totalStars": 14712,
-      "forks": 1619,
+      "starsGained": 3548,
+      "totalStars": 14981,
+      "forks": 1661,
       "license": "MIT",
-      "pushedAt": "08/01/2026 03:08:14",
+      "pushedAt": "08/02/2026 01:19:09",
       "tags": [
         "agent",
         "llm"
@@ -448,11 +322,11 @@
       ],
       "homepage": "https://airi.moeru.ai/docs/",
       "language": "TypeScript",
-      "starsGained": 3125,
-      "totalStars": 46266,
-      "forks": 4561,
+      "starsGained": 3335,
+      "totalStars": 46405,
+      "forks": 4572,
       "license": "MIT",
-      "pushedAt": "08/01/2026 01:41:35",
+      "pushedAt": "08/02/2026 01:41:05",
       "tags": [
         "agent",
         "multimodal"
@@ -477,6 +351,139 @@
       }
     },
     {
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "fullName": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cnn",
+        "computer-vision",
+        "deep-learning",
+        "gan",
+        "machine-learning",
+        "microsoft-for-beginners",
+        "nlp",
+        "rnn"
+      ],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 3246,
+      "totalStars": 57489,
+      "forks": 11379,
+      "license": "MIT",
+      "pushedAt": "07/21/2026 11:11:48",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Artificial Intelligence for Beginners - A Curriculum",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
+        "projectIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
+        "featurePoints": [
+          "核心线索：12 Weeks, 24 Lessons, AI for All!"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
+        ]
+      }
+    },
+    {
+      "owner": "different-ai",
+      "repo": "openwork",
+      "fullName": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "topics": [],
+      "homepage": "https://openworklabs.com",
+      "language": "TypeScript",
+      "starsGained": 2720,
+      "totalStars": 19974,
+      "forks": 2071,
+      "license": "NOASSERTION",
+      "pushedAt": "08/01/2026 20:41:04",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenWork",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
+        "projectIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
+        "featurePoints": [
+          "核心线索：The open-source alternative to Claude Cowork (powered by opencode)"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "homepage": "https://www.texttocad.dev",
+      "language": "JavaScript",
+      "starsGained": 2009,
+      "totalStars": 12400,
+      "forks": 1317,
+      "license": "MIT",
+      "pushedAt": "08/02/2026 03:28:00",
+      "tags": [
+        "agent",
+        "multimodal",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "CAD Skills",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+        ]
+      }
+    },
+    {
       "owner": "shiyu-coder",
       "repo": "Kronos",
       "fullName": "shiyu-coder/Kronos",
@@ -486,9 +493,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 1939,
-      "totalStars": 35288,
-      "forks": 5882,
+      "starsGained": 1741,
+      "totalStars": 35405,
+      "forks": 5900,
       "license": "MIT",
       "pushedAt": "04/13/2026 12:38:49",
       "tags": [
@@ -513,40 +520,29 @@
       }
     },
     {
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "homepage": "https://www.texttocad.dev",
-      "language": "JavaScript",
-      "starsGained": 1901,
-      "totalStars": 12279,
-      "forks": 1308,
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
+      "description": "Open-Source Frontier Voice AI",
+      "topics": [],
+      "homepage": "https://microsoft.github.io/VibeVoice/",
+      "language": "Python",
+      "starsGained": 1317,
+      "totalStars": 51811,
+      "forks": 5742,
       "license": "MIT",
-      "pushedAt": "07/31/2026 18:19:13",
+      "pushedAt": "07/24/2026 09:24:29",
       "tags": [
         "agent",
-        "multimodal",
-        "learning"
+        "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "CAD Skills",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -595,10 +591,10 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 27829,
-      "totalStars": 36326,
-      "forks": 4669,
+      "totalStars": 37156,
+      "forks": 4810,
       "license": "MIT",
-      "pushedAt": "08/01/2026 06:18:15",
+      "pushedAt": "08/02/2026 03:37:45",
       "tags": [
         "agent",
         "llm",
@@ -654,11 +650,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 25201,
-      "totalStars": 34794,
-      "forks": 2429,
+      "starsGained": 25285,
+      "totalStars": 35240,
+      "forks": 2492,
       "license": "MIT",
-      "pushedAt": "08/01/2026 06:38:26",
+      "pushedAt": "08/02/2026 03:44:59",
       "tags": [
         "agent",
         "llm",
@@ -693,9 +689,9 @@
       "topics": [],
       "homepage": "https://emilkowal.ski/skill",
       "language": "",
-      "starsGained": 19439,
-      "totalStars": 23427,
-      "forks": 1274,
+      "starsGained": 19576,
+      "totalStars": 23691,
+      "forks": 1286,
       "license": "MIT",
       "pushedAt": "07/27/2026 11:31:12",
       "tags": [
@@ -725,22 +721,44 @@
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
       "language": "Python",
-      "starsGained": 18958,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 17847,
+      "totalStars": 46470,
+      "forks": 4886,
+      "license": "Apache-2.0",
+      "pushedAt": "08/02/2026 03:37:44",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Strix",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -751,7 +769,8 @@
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
         ]
       }
     },
@@ -765,9 +784,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 16829,
-      "totalStars": 20404,
-      "forks": 1019,
+      "starsGained": 17116,
+      "totalStars": 20608,
+      "forks": 1034,
       "license": "MIT",
       "pushedAt": "07/31/2026 13:25:27",
       "tags": [
@@ -814,11 +833,11 @@
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 16613,
-      "totalStars": 77528,
-      "forks": 11581,
+      "starsGained": 16936,
+      "totalStars": 77838,
+      "forks": 11632,
       "license": "NOASSERTION",
-      "pushedAt": "08/01/2026 06:38:25",
+      "pushedAt": "08/01/2026 19:37:10",
       "tags": [
         "agent"
       ],
@@ -846,34 +865,51 @@
       "fullName": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [],
-      "homepage": "",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 15632,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 15871,
+      "totalStars": 24105,
+      "forks": 1625,
+      "license": "Apache-2.0",
+      "pushedAt": "07/31/2026 13:24:58",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -908,9 +944,9 @@
       ],
       "homepage": "https://meetily.ai",
       "language": "Rust",
-      "starsGained": 14907,
-      "totalStars": 27723,
-      "forks": 2848,
+      "starsGained": 14946,
+      "totalStars": 27874,
+      "forks": 2877,
       "license": "MIT",
       "pushedAt": "06/05/2026 13:53:17",
       "tags": [
@@ -944,14 +980,35 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "topics": [],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-prompts",
+        "anthropic",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini",
+        "generative-ai",
+        "google",
+        "grok",
+        "llm",
+        "openai",
+        "prompt",
+        "prompt-engineering",
+        "system-prompt",
+        "system-prompts"
+      ],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 14733,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 14616,
+      "totalStars": 61871,
+      "forks": 10110,
+      "license": "CC0-1.0",
+      "pushedAt": "07/30/2026 13:18:12",
       "tags": [
         "agent",
         "llm",
@@ -961,8 +1018,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "System Prompts Leaks",
         "category": "prompt-leak-dataset",
         "zhTitle": "主流模型系统提示词泄露库",
         "zhIntro": "整理从 Anthropic、OpenAI、Google、xAI 以及 Cursor、Copilot、Perplexity 等产品抽取出的系统提示词，侧重按厂商和模型版本持续更新。",
@@ -979,41 +1036,6 @@
       }
     },
     {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 13643,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
-        "projectIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
-        "featurePoints": [
-          "核心线索：\"Vibe-Trading: Your Personal Trading Agent\""
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "Shubhamsaboo",
       "repo": "awesome-llm-apps",
       "fullName": "Shubhamsaboo/awesome-llm-apps",
@@ -1023,7 +1045,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13624,
+      "starsGained": 13797,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1054,6 +1076,41 @@
       }
     },
     {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 13093,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
+        "projectIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
+        "featurePoints": [
+          "核心线索：\"Vibe-Trading: Your Personal Trading Agent\""
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -1063,7 +1120,7 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 11096,
+      "starsGained": 11229,
       "totalStars": 0,
       "forks": 0,
       "license": "",
