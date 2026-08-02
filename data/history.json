@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T03:45:17.007Z",
+  "generatedAt": "2026-08-02T04:34:19.562Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3429,87 +3429,91 @@
     },
     {
       "date": "2026-08-02",
-      "generatedAt": "2026-08-02T03:44:59.0762432+00:00",
+      "generatedAt": "2026-08-02T04:34:06.4174262+00:00",
       "repos": {
         "diegosouzapw/OmniRoute": {
-          "stars": 37156,
+          "stars": 37189,
           "periodGain": 27829
         },
         "ayghri/i-have-adhd": {
-          "stars": 15299,
+          "stars": 15309,
           "periodGain": 5232
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 14905,
+          "stars": 14922,
           "periodGain": 5105
         },
         "alibaba/open-code-review": {
-          "stars": 17532,
+          "stars": 17545,
           "periodGain": 4708
         },
         "citrolabs/ego-lite": {
-          "stars": 7421,
+          "stars": 7429,
           "periodGain": 4090
         },
         "1jehuang/jcode": {
-          "stars": 14981,
+          "stars": 14988,
           "periodGain": 3548
         },
         "moeru-ai/airi": {
-          "stars": 46405,
+          "stars": 46413,
           "periodGain": 3335
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 57489,
+          "stars": 57582,
           "periodGain": 3246
         },
         "different-ai/openwork": {
-          "stars": 19974,
+          "stars": 19980,
           "periodGain": 2720
         },
         "earthtojake/text-to-cad": {
-          "stars": 12400,
+          "stars": 12406,
           "periodGain": 2009
         },
         "shiyu-coder/Kronos": {
-          "stars": 35405,
+          "stars": 35409,
           "periodGain": 1741
         },
         "microsoft/VibeVoice": {
-          "stars": 51811,
+          "stars": 51816,
           "periodGain": 1317
         },
         "stablyai/orca": {
-          "stars": 35240,
+          "stars": 35263,
           "periodGain": 25285
         },
         "emilkowalski/skills": {
-          "stars": 23691,
+          "stars": 23705,
           "periodGain": 19576
         },
         "usestrix/strix": {
-          "stars": 46470,
+          "stars": 46481,
           "periodGain": 17847
         },
         "Nutlope/hallmark": {
-          "stars": 20608,
+          "stars": 20614,
           "periodGain": 17116
         },
         "koala73/worldmonitor": {
-          "stars": 77838,
+          "stars": 77848,
           "periodGain": 16936
         },
         "iOfficeAI/OfficeCLI": {
-          "stars": 24105,
+          "stars": 24112,
           "periodGain": 15871
         },
         "Zackriya-Solutions/meetily": {
-          "stars": 27874,
+          "stars": 27877,
           "periodGain": 14946
         },
         "asgeirtj/system_prompts_leaks": {
-          "stars": 61871,
+          "stars": 61877,
           "periodGain": 14616
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 129634,
+          "periodGain": 13797
         }
       }
     }
