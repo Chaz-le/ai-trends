@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:43:35.820Z",
+  "generatedAt": "2026-08-03T03:47:40.584Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3474,6 +3474,72 @@
         "microsoft/VibeVoice": {
           "stars": 51825,
           "periodGain": 1317
+        }
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "generatedAt": "2026-08-03T03:47:24.7799905+00:00",
+      "repos": {
+        "diegosouzapw/OmniRoute": {
+          "stars": 38006,
+          "periodGain": 27721
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 59449,
+          "periodGain": 5601
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 15775,
+          "periodGain": 5225
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 15472,
+          "periodGain": 5223
+        },
+        "alibaba/open-code-review": {
+          "stars": 18014,
+          "periodGain": 4365
+        },
+        "1jehuang/jcode": {
+          "stars": 15313,
+          "periodGain": 3620
+        },
+        "citrolabs/ego-lite": {
+          "stars": 7729,
+          "periodGain": 3582
+        },
+        "moeru-ai/airi": {
+          "stars": 46583,
+          "periodGain": 3431
+        },
+        "different-ai/openwork": {
+          "stars": 20430,
+          "periodGain": 2925
+        },
+        "earthtojake/text-to-cad": {
+          "stars": 12545,
+          "periodGain": 2063
+        },
+        "andrewyng/aisuite": {
+          "stars": 15911,
+          "periodGain": 576
+        },
+        "stablyai/orca": {
+          "stars": 35942,
+          "periodGain": 25091
+        },
+        "emilkowalski/skills": {
+          "stars": 24036,
+          "periodGain": 19563
+        },
+        "Nutlope/hallmark": {
+          "stars": 20919,
+          "periodGain": 17319
+        },
+        "koala73/worldmonitor": {
+          "stars": 78201,
+          "periodGain": 17164
         }
       }
     }

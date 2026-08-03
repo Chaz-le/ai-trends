@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-02T06:43:21.0792643+00:00",
+  "generatedAt": "2026-08-03T03:47:24.7799905+00:00",
   "weekly": [
     {
       "owner": "diegosouzapw",
@@ -33,11 +33,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 7259,
-      "totalStars": 37232,
-      "forks": 4826,
+      "starsGained": 7141,
+      "totalStars": 38006,
+      "forks": 4958,
       "license": "MIT",
-      "pushedAt": "08/02/2026 06:20:39",
+      "pushedAt": "08/03/2026 00:19:02",
       "tags": [
         "agent",
         "llm",
@@ -65,6 +65,54 @@
       }
     },
     {
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "fullName": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cnn",
+        "computer-vision",
+        "deep-learning",
+        "gan",
+        "machine-learning",
+        "microsoft-for-beginners",
+        "nlp",
+        "rnn"
+      ],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 5601,
+      "totalStars": 59449,
+      "forks": 11667,
+      "license": "MIT",
+      "pushedAt": "07/21/2026 11:11:48",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Artificial Intelligence for Beginners - A Curriculum",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
+        "projectIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
+        "featurePoints": [
+          "核心线索：12 Weeks, 24 Lessons, AI for All!"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
+        ]
+      }
+    },
+    {
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "fullName": "ayghri/i-have-adhd",
@@ -81,9 +129,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5232,
-      "totalStars": 15346,
-      "forks": 854,
+      "starsGained": 5225,
+      "totalStars": 15775,
+      "forks": 882,
       "license": "MIT",
       "pushedAt": "07/31/2026 21:12:50",
       "tags": [
@@ -121,9 +169,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5105,
-      "totalStars": 14988,
-      "forks": 1615,
+      "starsGained": 5223,
+      "totalStars": 15472,
+      "forks": 1667,
       "license": "MIT",
       "pushedAt": "07/31/2026 13:29:49",
       "tags": [
@@ -156,7 +204,7 @@
       "fullName": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "topics": [
         "agent",
         "agent-skills",
@@ -167,11 +215,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 4708,
-      "totalStars": 17599,
-      "forks": 1197,
+      "starsGained": 4365,
+      "totalStars": 18014,
+      "forks": 1212,
       "license": "Apache-2.0",
-      "pushedAt": "08/01/2026 10:09:51",
+      "pushedAt": "08/03/2026 02:19:19",
       "tags": [
         "agent",
         "llm",
@@ -199,56 +247,6 @@
       }
     },
     {
-      "owner": "citrolabs",
-      "repo": "ego-lite",
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "browser",
-        "browser-automation",
-        "claude-code",
-        "codex",
-        "hermes-agent",
-        "skills",
-        "skills-sh"
-      ],
-      "homepage": "https://lite.ego.app",
-      "language": "JavaScript",
-      "starsGained": 4090,
-      "totalStars": 7453,
-      "forks": 371,
-      "license": "MIT",
-      "pushedAt": "07/30/2026 12:32:42",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "1jehuang",
       "repo": "jcode",
       "fullName": "1jehuang/jcode",
@@ -271,11 +269,11 @@
       ],
       "homepage": "https://jcode.sh",
       "language": "Rust",
-      "starsGained": 3548,
-      "totalStars": 15013,
-      "forks": 1665,
+      "starsGained": 3620,
+      "totalStars": 15313,
+      "forks": 1695,
       "license": "MIT",
-      "pushedAt": "08/02/2026 06:23:40",
+      "pushedAt": "08/03/2026 02:36:08",
       "tags": [
         "agent",
         "llm"
@@ -301,6 +299,56 @@
       }
     },
     {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "fullName": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "browser",
+        "browser-automation",
+        "claude-code",
+        "codex",
+        "hermes-agent",
+        "skills",
+        "skills-sh"
+      ],
+      "homepage": "https://lite.ego.app",
+      "language": "JavaScript",
+      "starsGained": 3582,
+      "totalStars": 7729,
+      "forks": 383,
+      "license": "MIT",
+      "pushedAt": "08/02/2026 16:35:12",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "moeru-ai",
       "repo": "airi",
       "fullName": "moeru-ai/airi",
@@ -322,11 +370,11 @@
       ],
       "homepage": "https://airi.moeru.ai/docs/",
       "language": "TypeScript",
-      "starsGained": 3335,
-      "totalStars": 46426,
-      "forks": 4579,
+      "starsGained": 3431,
+      "totalStars": 46583,
+      "forks": 4593,
       "license": "MIT",
-      "pushedAt": "08/02/2026 01:41:05",
+      "pushedAt": "08/03/2026 02:25:00",
       "tags": [
         "agent",
         "multimodal"
@@ -351,54 +399,6 @@
       }
     },
     {
-      "owner": "microsoft",
-      "repo": "AI-For-Beginners",
-      "fullName": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "cnn",
-        "computer-vision",
-        "deep-learning",
-        "gan",
-        "machine-learning",
-        "microsoft-for-beginners",
-        "nlp",
-        "rnn"
-      ],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 3246,
-      "totalStars": 57821,
-      "forks": 11417,
-      "license": "MIT",
-      "pushedAt": "07/21/2026 11:11:48",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Artificial Intelligence for Beginners - A Curriculum",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
-        "projectIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
-        "featurePoints": [
-          "核心线索：12 Weeks, 24 Lessons, AI for All!"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
-        ]
-      }
-    },
-    {
       "owner": "different-ai",
       "repo": "openwork",
       "fullName": "different-ai/openwork",
@@ -406,13 +406,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://openworklabs.com",
       "language": "TypeScript",
-      "starsGained": 2720,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 2925,
+      "totalStars": 20430,
+      "forks": 2095,
+      "license": "NOASSERTION",
+      "pushedAt": "08/02/2026 21:48:27",
       "tags": [
         "agent",
         "llm"
@@ -420,8 +420,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "OpenWork",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
@@ -454,11 +454,11 @@
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "JavaScript",
-      "starsGained": 2009,
-      "totalStars": 12420,
-      "forks": 1318,
+      "starsGained": 2063,
+      "totalStars": 12545,
+      "forks": 1328,
       "license": "MIT",
-      "pushedAt": "08/02/2026 03:28:00",
+      "pushedAt": "08/03/2026 01:34:47",
       "tags": [
         "agent",
         "multimodal",
@@ -484,76 +484,38 @@
       }
     },
     {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "fullName": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
+      "description": "Simple, unified interface to multiple Generative AI providers ",
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 1741,
-      "totalStars": 35434,
-      "forks": 5904,
+      "starsGained": 576,
+      "totalStars": 15911,
+      "forks": 1685,
       "license": "MIT",
-      "pushedAt": "04/13/2026 12:38:49",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Load from Hugging Face Hub",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Kronos: A Foundation Model for the Language of Financial Markets",
-        "projectIntro": "该项目的 GitHub 简介是：Kronos: A Foundation Model for the Language of Financial Markets",
-        "featurePoints": [
-          "核心线索：Kronos: A Foundation Model for the Language of Financial Markets"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：We have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours."
-        ]
-      }
-    },
-    {
-      "owner": "microsoft",
-      "repo": "VibeVoice",
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
-      "description": "Open-Source Frontier Voice AI",
-      "topics": [],
-      "homepage": "https://microsoft.github.io/VibeVoice/",
-      "language": "Python",
-      "starsGained": 1317,
-      "totalStars": 51825,
-      "forks": 5742,
-      "license": "MIT",
-      "pushedAt": "07/24/2026 09:24:29",
+      "pushedAt": "07/25/2026 19:14:07",
       "tags": [
         "agent",
-        "multimodal"
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "readmeTitle": "aisuite",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Simple, unified interface to multiple Generative AI providers ",
+        "projectIntro": "该项目的 GitHub 简介是：Simple, unified interface to multiple Generative AI providers ",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "核心线索：Simple, unified interface to multiple Generative AI providers "
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
@@ -590,11 +552,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 27829,
-      "totalStars": 37232,
-      "forks": 4826,
+      "starsGained": 27721,
+      "totalStars": 38006,
+      "forks": 4958,
       "license": "MIT",
-      "pushedAt": "08/02/2026 06:20:39",
+      "pushedAt": "08/03/2026 00:19:02",
       "tags": [
         "agent",
         "llm",
@@ -628,34 +590,54 @@
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 25285,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 25091,
+      "totalStars": 35942,
+      "forks": 2525,
+      "license": "MIT",
+      "pushedAt": "08/03/2026 03:46:49",
       "tags": [
         "agent",
+        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "readme",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -665,17 +647,101 @@
       "fullName": "emilkowalski/skills",
       "url": "https://github.com/emilkowalski/skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
-      "description": "Skills for Design Engineers.",
+      "description": "Skills for Designers and Engineers.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://emilkowal.ski/skill",
       "language": "",
-      "starsGained": 19576,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 19563,
+      "totalStars": 24036,
+      "forks": 1301,
+      "license": "MIT",
+      "pushedAt": "08/02/2026 17:18:54",
       "tags": [
         "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Skills For Designers and Engineers",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Skills for Designers and Engineers.",
+        "projectIntro": "该项目的 GitHub 简介是：Skills for Designers and Engineers.",
+        "featurePoints": [
+          "核心线索：Skills for Designers and Engineers."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "topics": [],
+      "homepage": "https://www.usehallmark.com/",
+      "language": "CSS",
+      "starsGained": 17319,
+      "totalStars": 20919,
+      "forks": 1051,
+      "license": "MIT",
+      "pushedAt": "07/31/2026 13:25:27",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Hallmark",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "featurePoints": [
+          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "homepage": "https://worldmonitor.app",
+      "language": "TypeScript",
+      "starsGained": 17164,
+      "totalStars": 78201,
+      "forks": 11688,
+      "license": "NOASSERTION",
+      "pushedAt": "08/02/2026 18:40:15",
+      "tags": [
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -684,10 +750,10 @@
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Skills for Design Engineers.",
-        "projectIntro": "该项目的 GitHub 简介是：Skills for Design Engineers.",
+        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "featurePoints": [
-          "核心线索：Skills for Design Engineers."
+          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -704,7 +770,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 17847,
+      "starsGained": 16165,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -732,77 +798,6 @@
       }
     },
     {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "topics": [],
-      "homepage": "",
-      "language": "CSS",
-      "starsGained": 17116,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "featurePoints": [
-          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 16936,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "projectIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "featurePoints": [
-          "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "iOfficeAI",
       "repo": "OfficeCLI",
       "fullName": "iOfficeAI/OfficeCLI",
@@ -812,7 +807,7 @@
       "topics": [],
       "homepage": "",
       "language": "C#",
-      "starsGained": 15871,
+      "starsGained": 16040,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -849,7 +844,7 @@
       "topics": [],
       "homepage": "",
       "language": "Rust",
-      "starsGained": 14946,
+      "starsGained": 14974,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -888,7 +883,7 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 14616,
+      "starsGained": 14554,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -929,7 +924,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13797,
+      "starsGained": 13958,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -960,41 +955,6 @@
       }
     },
     {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 13093,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
-        "projectIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
-        "featurePoints": [
-          "核心线索：\"Vibe-Trading: Your Personal Trading Agent\""
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -1004,7 +964,7 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 11229,
+      "starsGained": 11349,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1026,6 +986,43 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 10606,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     }
