@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T06:38:43.706Z",
+  "generatedAt": "2026-08-05T03:25:53.785Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3642,6 +3642,16 @@
         "bradautomates/claude-video": {
           "stars": 13728,
           "periodGain": 10750
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "generatedAt": "2026-08-05T03:25:37.2174110+00:00",
+      "repos": {
+        "zhaoxuya520/reverse-skill": {
+          "stars": 18120,
+          "periodGain": 8386
         }
       }
     }
