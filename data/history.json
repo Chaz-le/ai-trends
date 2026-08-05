@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T03:25:53.785Z",
+  "generatedAt": "2026-08-05T04:25:48.866Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3647,11 +3647,67 @@
     },
     {
       "date": "2026-08-05",
-      "generatedAt": "2026-08-05T03:25:37.2174110+00:00",
+      "generatedAt": "2026-08-05T04:25:32.4404681+00:00",
       "repos": {
+        "microsoft/AI-For-Beginners": {
+          "stars": 61767,
+          "periodGain": 8582
+        },
         "zhaoxuya520/reverse-skill": {
-          "stars": 18120,
+          "stars": 18188,
           "periodGain": 8386
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 16509,
+          "periodGain": 5420
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 16860,
+          "periodGain": 4389
+        },
+        "lyogavin/airllm": {
+          "stars": 28520,
+          "periodGain": 3911
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 13969,
+          "periodGain": 3659
+        },
+        "different-ai/openwork": {
+          "stars": 20951,
+          "periodGain": 3601
+        },
+        "alibaba/open-code-review": {
+          "stars": 18848,
+          "periodGain": 3361
+        },
+        "1jehuang/jcode": {
+          "stars": 15923,
+          "periodGain": 3294
+        },
+        "pascalorg/editor": {
+          "stars": 21071,
+          "periodGain": 2696
+        },
+        "citrolabs/ego-lite": {
+          "stars": 8402,
+          "periodGain": 2633
+        },
+        "moeru-ai/airi": {
+          "stars": 46901,
+          "periodGain": 2358
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 39809,
+          "periodGain": 28511
+        },
+        "stablyai/orca": {
+          "stars": 37577,
+          "periodGain": 25624
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 29770,
+          "periodGain": 25195
         }
       }
     }
