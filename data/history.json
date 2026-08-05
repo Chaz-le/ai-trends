@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:25:48.866Z",
+  "generatedAt": "2026-08-05T06:40:07.893Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3647,67 +3647,87 @@
     },
     {
       "date": "2026-08-05",
-      "generatedAt": "2026-08-05T04:25:32.4404681+00:00",
+      "generatedAt": "2026-08-05T06:39:39.3688413+00:00",
       "repos": {
         "microsoft/AI-For-Beginners": {
-          "stars": 61767,
+          "stars": 61813,
           "periodGain": 8582
         },
         "zhaoxuya520/reverse-skill": {
-          "stars": 18188,
+          "stars": 18343,
           "periodGain": 8386
         },
+        "bojieli/ai-agent-book": {
+          "stars": 32171,
+          "periodGain": 7076
+        },
         "virgiliojr94/book-to-skill": {
-          "stars": 16509,
+          "stars": 16562,
           "periodGain": 5420
         },
         "ayghri/i-have-adhd": {
-          "stars": 16860,
+          "stars": 16901,
           "periodGain": 4389
         },
         "lyogavin/airllm": {
-          "stars": 28520,
+          "stars": 28590,
           "periodGain": 3911
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 13969,
+          "stars": 14175,
           "periodGain": 3659
         },
         "different-ai/openwork": {
-          "stars": 20951,
+          "stars": 20971,
           "periodGain": 3601
         },
         "alibaba/open-code-review": {
-          "stars": 18848,
+          "stars": 18879,
           "periodGain": 3361
         },
         "1jehuang/jcode": {
-          "stars": 15923,
+          "stars": 15939,
           "periodGain": 3294
         },
         "pascalorg/editor": {
-          "stars": 21071,
+          "stars": 21088,
           "periodGain": 2696
         },
         "citrolabs/ego-lite": {
-          "stars": 8402,
+          "stars": 8442,
           "periodGain": 2633
         },
-        "moeru-ai/airi": {
-          "stars": 46901,
-          "periodGain": 2358
-        },
         "diegosouzapw/OmniRoute": {
-          "stars": 39809,
+          "stars": 39919,
           "periodGain": 28511
         },
         "stablyai/orca": {
-          "stars": 37577,
+          "stars": 37647,
           "periodGain": 25624
         },
         "MadsLorentzen/ai-job-search": {
-          "stars": 29770,
+          "stars": 29794,
           "periodGain": 25195
+        },
+        "emilkowalski/skills": {
+          "stars": 25128,
+          "periodGain": 20079
+        },
+        "Nutlope/hallmark": {
+          "stars": 21800,
+          "periodGain": 18119
+        },
+        "koala73/worldmonitor": {
+          "stars": 78909,
+          "periodGain": 17795
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 25554,
+          "periodGain": 17070
+        },
+        "bradautomates/claude-video": {
+          "stars": 13943,
+          "periodGain": 10848
         }
       }
     }

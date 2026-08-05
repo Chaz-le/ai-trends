@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-05T04:25:32.4404681+00:00",
+  "generatedAt": "2026-08-05T06:39:39.3688413+00:00",
   "weekly": [
     {
       "owner": "microsoft",
@@ -24,8 +24,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 8582,
-      "totalStars": 61767,
-      "forks": 11998,
+      "totalStars": 61813,
+      "forks": 12010,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -61,8 +61,8 @@
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 8386,
-      "totalStars": 18188,
-      "forks": 2490,
+      "totalStars": 18343,
+      "forks": 2513,
       "license": "MIT",
       "pushedAt": "08/04/2026 02:46:28",
       "tags": [
@@ -91,6 +91,62 @@
       }
     },
     {
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent",
+        "context-engineering",
+        "large-language-models",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "multimodal",
+        "rag",
+        "reinforcement-learning"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 7076,
+      "totalStars": 32171,
+      "forks": 3439,
+      "license": "Apache-2.0",
+      "pushedAt": "08/05/2026 04:04:06",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "multimodal",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "深入理解 AI Agent：设计原理与工程实践",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "fullName": "virgiliojr94/book-to-skill",
@@ -101,8 +157,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 5420,
-      "totalStars": 16509,
-      "forks": 1752,
+      "totalStars": 16562,
+      "forks": 1757,
       "license": "MIT",
       "pushedAt": "08/05/2026 02:11:11",
       "tags": [
@@ -147,8 +203,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 4389,
-      "totalStars": 16860,
-      "forks": 952,
+      "totalStars": 16901,
+      "forks": 955,
       "license": "MIT",
       "pushedAt": "08/05/2026 02:46:10",
       "tags": [
@@ -201,8 +257,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 3911,
-      "totalStars": 28520,
-      "forks": 3076,
+      "totalStars": 28590,
+      "forks": 3080,
       "license": "Apache-2.0",
       "pushedAt": "07/29/2026 01:08:32",
       "tags": [
@@ -249,8 +305,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3659,
-      "totalStars": 13969,
-      "forks": 1298,
+      "totalStars": 14175,
+      "forks": 1308,
       "license": "NOASSERTION",
       "pushedAt": "08/03/2026 12:49:18",
       "tags": [
@@ -288,10 +344,10 @@
       "homepage": "https://openworklabs.com",
       "language": "TypeScript",
       "starsGained": 3601,
-      "totalStars": 20951,
+      "totalStars": 20971,
       "forks": 2057,
       "license": "NOASSERTION",
-      "pushedAt": "08/05/2026 01:34:40",
+      "pushedAt": "08/05/2026 06:36:07",
       "tags": [
         "agent",
         "llm"
@@ -331,10 +387,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 3361,
-      "totalStars": 18848,
-      "forks": 1276,
+      "totalStars": 18879,
+      "forks": 1279,
       "license": "Apache-2.0",
-      "pushedAt": "08/05/2026 03:39:25",
+      "pushedAt": "08/05/2026 06:23:31",
       "tags": [
         "agent",
         "llm",
@@ -385,10 +441,10 @@
       "homepage": "https://jcode.sh",
       "language": "Rust",
       "starsGained": 3294,
-      "totalStars": 15923,
-      "forks": 1756,
+      "totalStars": 15939,
+      "forks": 1757,
       "license": "MIT",
-      "pushedAt": "08/04/2026 23:33:40",
+      "pushedAt": "08/05/2026 05:56:38",
       "tags": [
         "agent",
         "llm"
@@ -437,7 +493,7 @@
       "homepage": "https://editor.pascal.app",
       "language": "TypeScript",
       "starsGained": 2696,
-      "totalStars": 21071,
+      "totalStars": 21088,
       "forks": 2689,
       "license": "MIT",
       "pushedAt": "08/05/2026 03:38:42",
@@ -483,10 +539,10 @@
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
       "starsGained": 2633,
-      "totalStars": 8402,
+      "totalStars": 8442,
       "forks": 406,
       "license": "MIT",
-      "pushedAt": "08/03/2026 13:09:46",
+      "pushedAt": "08/05/2026 06:39:03",
       "tags": [
         "agent",
         "llm",
@@ -508,56 +564,6 @@
         ],
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "moeru-ai",
-      "repo": "airi",
-      "fullName": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "topics": [
-        "ai-companion",
-        "ai-vtuber",
-        "airi",
-        "digital-life",
-        "grok-companion",
-        "live2d",
-        "neuro-sama",
-        "neurosama",
-        "openclaw",
-        "vrm",
-        "vtuber"
-      ],
-      "homepage": "https://airi.moeru.ai/docs/",
-      "language": "TypeScript",
-      "starsGained": 2358,
-      "totalStars": 46901,
-      "forks": 4635,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 01:39:17",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Or",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     }
@@ -595,10 +601,10 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 28511,
-      "totalStars": 39809,
-      "forks": 5270,
+      "totalStars": 39919,
+      "forks": 5273,
       "license": "MIT",
-      "pushedAt": "08/05/2026 03:50:34",
+      "pushedAt": "08/05/2026 06:15:15",
       "tags": [
         "agent",
         "llm",
@@ -655,10 +661,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 25624,
-      "totalStars": 37577,
-      "forks": 2654,
+      "totalStars": 37647,
+      "forks": 2661,
       "license": "MIT",
-      "pushedAt": "08/05/2026 04:24:00",
+      "pushedAt": "08/05/2026 06:39:28",
       "tags": [
         "agent",
         "llm",
@@ -707,10 +713,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 25195,
-      "totalStars": 29770,
-      "forks": 10097,
+      "totalStars": 29794,
+      "forks": 10104,
       "license": "MIT",
-      "pushedAt": "08/04/2026 18:36:55",
+      "pushedAt": "08/05/2026 04:34:02",
       "tags": [
         "agent",
         "llm"
@@ -742,21 +748,21 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
       "description": "Skills for Designers and Engineers.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://emilkowal.ski/skill",
       "language": "",
       "starsGained": 20079,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 25128,
+      "forks": 1355,
+      "license": "MIT",
+      "pushedAt": "08/02/2026 17:18:54",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Skills For Designers and Engineers",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Skills for Designers and Engineers.",
@@ -777,13 +783,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 18119,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 21800,
+      "forks": 1104,
+      "license": "MIT",
+      "pushedAt": "08/04/2026 15:23:10",
       "tags": [
         "agent",
         "llm"
@@ -791,8 +797,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Hallmark",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -812,22 +818,35 @@
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 17795,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 78909,
+      "forks": 11792,
+      "license": "NOASSERTION",
+      "pushedAt": "08/05/2026 06:22:51",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "World Monitor",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -836,7 +855,8 @@
           "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
         ]
       }
     },
@@ -846,34 +866,51 @@
       "fullName": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [],
-      "homepage": "",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 17070,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 25554,
+      "forks": 1714,
+      "license": "Apache-2.0",
+      "pushedAt": "08/04/2026 13:15:13",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -1035,18 +1072,18 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 10848,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 13943,
+      "forks": 1347,
+      "license": "MIT",
+      "pushedAt": "07/01/2026 01:26:49",
       "tags": [
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "/watch",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -1057,7 +1094,8 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
         ]
       }
     }
