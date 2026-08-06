@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T06:40:07.893Z",
+  "generatedAt": "2026-08-06T03:29:17.262Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -3728,6 +3728,100 @@
         "bradautomates/claude-video": {
           "stars": 13943,
           "periodGain": 10848
+        }
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "generatedAt": "2026-08-06T03:29:02.8260537+00:00",
+      "repos": {
+        "zhaoxuya520/reverse-skill": {
+          "stars": 19190,
+          "periodGain": 9904
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 62161,
+          "periodGain": 8926
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 15211,
+          "periodGain": 5445
+        },
+        "lyogavin/airllm": {
+          "stars": 29178,
+          "periodGain": 4659
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 17049,
+          "periodGain": 4596
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 17325,
+          "periodGain": 3874
+        },
+        "different-ai/openwork": {
+          "stars": 21129,
+          "periodGain": 3665
+        },
+        "esengine/DeepSeek-Reasonix": {
+          "stars": 31754,
+          "periodGain": 3408
+        },
+        "1jehuang/jcode": {
+          "stars": 16102,
+          "periodGain": 2903
+        },
+        "citrolabs/ego-lite": {
+          "stars": 8804,
+          "periodGain": 2737
+        },
+        "DataExpert-io/data-engineer-handbook": {
+          "stars": 43124,
+          "periodGain": 590
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 40863,
+          "periodGain": 29141
+        },
+        "stablyai/orca": {
+          "stars": 38276,
+          "periodGain": 26073
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 30272,
+          "periodGain": 24972
+        },
+        "emilkowalski/skills": {
+          "stars": 25820,
+          "periodGain": 20625
+        },
+        "Nutlope/hallmark": {
+          "stars": 22068,
+          "periodGain": 18510
+        },
+        "koala73/worldmonitor": {
+          "stars": 79159,
+          "periodGain": 18064
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 25903,
+          "periodGain": 17505
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 130876,
+          "periodGain": 14735
+        },
+        "pbakaus/impeccable": {
+          "stars": 55881,
+          "periodGain": 12331
+        },
+        "HKUDS/Vibe-Trading": {
+          "stars": 29878,
+          "periodGain": 12165
+        },
+        "bradautomates/claude-video": {
+          "stars": 14124,
+          "periodGain": 10693
         }
       }
     }
