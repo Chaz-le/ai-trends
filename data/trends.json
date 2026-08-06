@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-06T04:26:37.7688304+00:00",
+  "generatedAt": "2026-08-06T06:42:57.8693775+00:00",
   "weekly": [
     {
       "owner": "zhaoxuya520",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 9904,
-      "totalStars": 19234,
-      "forks": 2636,
+      "totalStars": 19313,
+      "forks": 2647,
       "license": "MIT",
       "pushedAt": "08/05/2026 10:05:07",
       "tags": [
@@ -64,8 +64,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 8926,
-      "totalStars": 62183,
-      "forks": 12095,
+      "totalStars": 62221,
+      "forks": 12103,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -111,8 +111,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 5445,
-      "totalStars": 15249,
-      "forks": 1388,
+      "totalStars": 15355,
+      "forks": 1393,
       "license": "NOASSERTION",
       "pushedAt": "08/05/2026 08:04:09",
       "tags": [
@@ -164,8 +164,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 4659,
-      "totalStars": 29204,
-      "forks": 3135,
+      "totalStars": 29262,
+      "forks": 3136,
       "license": "Apache-2.0",
       "pushedAt": "08/05/2026 22:50:59",
       "tags": [
@@ -202,8 +202,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 4596,
-      "totalStars": 17070,
-      "forks": 1816,
+      "totalStars": 17132,
+      "forks": 1818,
       "license": "MIT",
       "pushedAt": "08/05/2026 19:24:45",
       "tags": [
@@ -248,7 +248,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3874,
-      "totalStars": 17342,
+      "totalStars": 17370,
       "forks": 996,
       "license": "MIT",
       "pushedAt": "08/05/2026 17:26:14",
@@ -288,8 +288,8 @@
       "homepage": "https://openworklabs.com",
       "language": "TypeScript",
       "starsGained": 3665,
-      "totalStars": 21134,
-      "forks": 2072,
+      "totalStars": 21152,
+      "forks": 2074,
       "license": "NOASSERTION",
       "pushedAt": "08/05/2026 20:23:39",
       "tags": [
@@ -341,10 +341,10 @@
       "homepage": "http://reasonix.io/",
       "language": "Go",
       "starsGained": 3408,
-      "totalStars": 31785,
-      "forks": 2047,
+      "totalStars": 31864,
+      "forks": 2058,
       "license": "MIT",
-      "pushedAt": "08/06/2026 04:20:36",
+      "pushedAt": "08/06/2026 06:39:58",
       "tags": [
         "agent",
         "llm",
@@ -395,8 +395,8 @@
       "homepage": "https://jcode.sh",
       "language": "Rust",
       "starsGained": 2903,
-      "totalStars": 16107,
-      "forks": 1789,
+      "totalStars": 16117,
+      "forks": 1791,
       "license": "MIT",
       "pushedAt": "08/06/2026 04:00:41",
       "tags": [
@@ -445,8 +445,8 @@
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
       "starsGained": 2737,
-      "totalStars": 8821,
-      "forks": 419,
+      "totalStars": 8875,
+      "forks": 421,
       "license": "MIT",
       "pushedAt": "08/05/2026 06:49:27",
       "tags": [
@@ -491,8 +491,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 590,
-      "totalStars": 43127,
-      "forks": 8816,
+      "totalStars": 43143,
+      "forks": 8827,
       "license": "",
       "pushedAt": "08/03/2026 20:29:57",
       "tags": [
@@ -550,10 +550,10 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 29141,
-      "totalStars": 40906,
-      "forks": 5408,
+      "totalStars": 41019,
+      "forks": 5425,
       "license": "MIT",
-      "pushedAt": "08/06/2026 04:22:09",
+      "pushedAt": "08/06/2026 06:16:42",
       "tags": [
         "agent",
         "llm",
@@ -610,10 +610,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 26073,
-      "totalStars": 38309,
-      "forks": 2703,
+      "totalStars": 38387,
+      "forks": 2706,
       "license": "MIT",
-      "pushedAt": "08/06/2026 04:17:48",
+      "pushedAt": "08/06/2026 06:39:54",
       "tags": [
         "agent",
         "llm",
@@ -639,57 +639,6 @@
       }
     },
     {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 24972,
-      "totalStars": 30296,
-      "forks": 10276,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 04:34:02",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "emilkowalski",
       "repo": "skills",
       "fullName": "emilkowalski/skills",
@@ -700,8 +649,8 @@
       "homepage": "https://emilkowal.ski/skill",
       "language": "",
       "starsGained": 20625,
-      "totalStars": 25841,
-      "forks": 1398,
+      "totalStars": 25918,
+      "forks": 1403,
       "license": "MIT",
       "pushedAt": "08/05/2026 12:33:14",
       "tags": [
@@ -735,8 +684,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 18510,
-      "totalStars": 22084,
-      "forks": 1119,
+      "totalStars": 22104,
+      "forks": 1121,
       "license": "MIT",
       "pushedAt": "08/04/2026 15:23:10",
       "tags": [
@@ -784,10 +733,10 @@
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 18064,
-      "totalStars": 79177,
-      "forks": 11828,
+      "totalStars": 79206,
+      "forks": 11834,
       "license": "NOASSERTION",
-      "pushedAt": "08/06/2026 04:07:46",
+      "pushedAt": "08/06/2026 06:38:24",
       "tags": [
         "agent"
       ],
@@ -835,8 +784,8 @@
       "homepage": "https://officecli.ai",
       "language": "C#",
       "starsGained": 17505,
-      "totalStars": 25923,
-      "forks": 1740,
+      "totalStars": 25965,
+      "forks": 1742,
       "license": "Apache-2.0",
       "pushedAt": "08/04/2026 13:15:13",
       "tags": [
@@ -879,8 +828,8 @@
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
       "starsGained": 14735,
-      "totalStars": 130889,
-      "forks": 19308,
+      "totalStars": 130915,
+      "forks": 19311,
       "license": "Apache-2.0",
       "pushedAt": "08/03/2026 03:30:58",
       "tags": [
@@ -915,22 +864,44 @@
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-hacking",
+        "ai-penetration-testing",
+        "ai-pentesting",
+        "ai-security",
+        "artificial-intelligence",
+        "bug-bounty",
+        "code-quality",
+        "ctf-tools",
+        "cybersecurity",
+        "cybersecurity-tools",
+        "ethical-hacking",
+        "hacking",
+        "llm-security",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting-tools",
+        "red-teaming",
+        "security",
+        "security-automation"
+      ],
+      "homepage": "https://strix.ai",
       "language": "Python",
       "starsGained": 12507,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 49096,
+      "forks": 5191,
+      "license": "Apache-2.0",
+      "pushedAt": "08/05/2026 23:20:49",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Strix",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -941,7 +912,8 @@
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
         ]
       }
     },
@@ -956,8 +928,8 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 12331,
-      "totalStars": 55902,
-      "forks": 3386,
+      "totalStars": 55952,
+      "forks": 3388,
       "license": "Apache-2.0",
       "pushedAt": "08/05/2026 22:28:20",
       "tags": [
@@ -1002,8 +974,8 @@
       "homepage": "https://vibetrading.wiki/",
       "language": "Python",
       "starsGained": 12165,
-      "totalStars": 29886,
-      "forks": 4815,
+      "totalStars": 29911,
+      "forks": 4818,
       "license": "MIT",
       "pushedAt": "08/05/2026 09:19:34",
       "tags": [
@@ -1038,7 +1010,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 10693,
-      "totalStars": 14134,
+      "totalStars": 14154,
       "forks": 1356,
       "license": "MIT",
       "pushedAt": "07/01/2026 01:26:49",
@@ -1062,6 +1034,59 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
+        ]
+      }
+    },
+    {
+      "owner": "tirth8205",
+      "repo": "code-review-graph",
+      "fullName": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "topics": [
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "code-review",
+        "graphrag",
+        "incremental",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "python",
+        "static-analysis",
+        "tree-sitter"
+      ],
+      "homepage": "https://code-review-graph.com",
+      "language": "Python",
+      "starsGained": 9581,
+      "totalStars": 28744,
+      "forks": 2666,
+      "license": "MIT",
+      "pushedAt": "08/02/2026 12:45:39",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": ".github/workflows/code-review-graph.yml",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
+          "适用线索：Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly)."
         ]
       }
     }
