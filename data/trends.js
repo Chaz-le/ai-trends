@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-06T06:42:57.8693775+00:00",
+  "generatedAt": "2026-08-07T03:12:29.7434847+00:00",
   "weekly": [
     {
       "owner": "zhaoxuya520",
@@ -12,11 +12,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 9904,
-      "totalStars": 19313,
-      "forks": 2647,
+      "starsGained": 10091,
+      "totalStars": 19931,
+      "forks": 2727,
       "license": "MIT",
-      "pushedAt": "08/05/2026 10:05:07",
+      "pushedAt": "08/06/2026 08:08:15",
       "tags": [
         "agent",
         "llm",
@@ -63,9 +63,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 8926,
-      "totalStars": 62221,
-      "forks": 12103,
+      "starsGained": 9164,
+      "totalStars": 62772,
+      "forks": 12190,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -110,11 +110,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 5445,
-      "totalStars": 15355,
-      "forks": 1393,
+      "starsGained": 6444,
+      "totalStars": 16548,
+      "forks": 1495,
       "license": "NOASSERTION",
-      "pushedAt": "08/05/2026 08:04:09",
+      "pushedAt": "08/06/2026 12:07:09",
       "tags": [
         "agent",
         "llm",
@@ -163,11 +163,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 4659,
-      "totalStars": 29262,
-      "forks": 3136,
+      "starsGained": 5222,
+      "totalStars": 29662,
+      "forks": 3169,
       "license": "Apache-2.0",
-      "pushedAt": "08/05/2026 22:50:59",
+      "pushedAt": "08/06/2026 08:40:04",
       "tags": [
         "agent",
         "llm",
@@ -192,6 +192,64 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "esengine",
+      "repo": "DeepSeek-Reasonix",
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "homepage": "http://reasonix.io/",
+      "language": "Go",
+      "starsGained": 4203,
+      "totalStars": 32516,
+      "forks": 2100,
+      "license": "MIT",
+      "pushedAt": "08/07/2026 01:53:11",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：For advanced CLI usage and configuration, see the CLI reference,"
+        ]
+      }
+    },
+    {
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "fullName": "virgiliojr94/book-to-skill",
@@ -201,9 +259,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4596,
-      "totalStars": 17132,
-      "forks": 1818,
+      "starsGained": 3903,
+      "totalStars": 17697,
+      "forks": 1893,
       "license": "MIT",
       "pushedAt": "08/05/2026 19:24:45",
       "tags": [
@@ -247,11 +305,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3874,
-      "totalStars": 17370,
-      "forks": 996,
+      "starsGained": 3628,
+      "totalStars": 17806,
+      "forks": 1025,
       "license": "MIT",
-      "pushedAt": "08/05/2026 17:26:14",
+      "pushedAt": "08/06/2026 18:19:11",
       "tags": [
         "agent",
         "llm",
@@ -287,11 +345,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://openworklabs.com",
       "language": "TypeScript",
-      "starsGained": 3665,
-      "totalStars": 21152,
-      "forks": 2074,
+      "starsGained": 2939,
+      "totalStars": 21312,
+      "forks": 2085,
       "license": "NOASSERTION",
-      "pushedAt": "08/05/2026 20:23:39",
+      "pushedAt": "08/06/2026 19:13:48",
       "tags": [
         "agent",
         "llm"
@@ -314,162 +372,81 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "esengine",
-      "repo": "DeepSeek-Reasonix",
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "topics": [
-        "agent",
-        "agent-framework",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "coding-agent",
-        "deepseek",
-        "developer-tools",
-        "ink",
-        "llm",
-        "prompt-caching",
-        "r1",
-        "terminal",
-        "tool-use",
-        "tui",
-        "typescript"
-      ],
-      "homepage": "http://reasonix.io/",
-      "language": "Go",
-      "starsGained": 3408,
-      "totalStars": 31864,
-      "forks": 2058,
+      "owner": "antirez",
+      "repo": "ds4",
+      "fullName": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "topics": [],
+      "homepage": "",
+      "language": "C",
+      "starsGained": 1319,
+      "totalStars": 20819,
+      "forks": 1857,
       "license": "MIT",
-      "pushedAt": "08/06/2026 06:39:58",
+      "pushedAt": "08/05/2026 14:37:02",
       "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "generation"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "So, what can I do with this software?",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+        "projectIntro": "该项目的 GitHub 简介是：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "核心线索：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：For advanced CLI usage and configuration, see the CLI reference,"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：sub-README files. Otherwise for normal usage keep reading the"
         ]
       }
     },
     {
-      "owner": "1jehuang",
-      "repo": "jcode",
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-      "description": "The most RAM efficient harness",
+      "owner": "agavra",
+      "repo": "tuicr",
+      "fullName": "agavra/tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3172405?s=40&v=4",
+      "description": "a code review TUI with vim keybindings",
       "topics": [
-        "ai",
-        "ai-agent",
-        "ai-coding-agent",
-        "claude",
-        "cli",
-        "coding-agent",
-        "llm",
-        "mcp",
-        "openai",
+        "ai-tools",
+        "code-review",
         "rust",
-        "terminal",
         "tui"
       ],
-      "homepage": "https://jcode.sh",
+      "homepage": "https://tuicr.dev/",
       "language": "Rust",
-      "starsGained": 2903,
-      "totalStars": 16117,
-      "forks": 1791,
+      "starsGained": 741,
+      "totalStars": 2504,
+      "forks": 188,
       "license": "MIT",
-      "pushedAt": "08/06/2026 04:00:41",
+      "pushedAt": "08/05/2026 23:32:02",
       "tags": [
         "agent",
-        "llm"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "jcode",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "tuicr",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：jcode login --provider openrouter"
-        ]
-      }
-    },
-    {
-      "owner": "citrolabs",
-      "repo": "ego-lite",
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22140958?s=40&v=4",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "browser",
-        "browser-automation",
-        "claude-code",
-        "codex",
-        "hermes-agent",
-        "skills",
-        "skills-sh"
-      ],
-      "homepage": "https://lite.ego.app",
-      "language": "JavaScript",
-      "starsGained": 2737,
-      "totalStars": 8875,
-      "forks": 421,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 06:49:27",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -490,9 +467,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 590,
-      "totalStars": 43143,
-      "forks": 8827,
+      "starsGained": 716,
+      "totalStars": 43270,
+      "forks": 8902,
       "license": "",
       "pushedAt": "08/03/2026 20:29:57",
       "tags": [
@@ -513,6 +490,57 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：introduction"
+        ]
+      }
+    },
+    {
+      "owner": "deepfakes",
+      "repo": "faceswap",
+      "fullName": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36920800?s=40&v=4",
+      "description": "Deepfakes Software For All",
+      "topics": [
+        "deep-face-swap",
+        "deep-learning",
+        "deep-neural-networks",
+        "deepface",
+        "deepfakes",
+        "deeplearning",
+        "face-swap",
+        "faceswap",
+        "fakeapp",
+        "machine-learning",
+        "myfakeapp",
+        "neural-nets",
+        "neural-networks",
+        "openfaceswap"
+      ],
+      "homepage": "https://www.faceswap.dev",
+      "language": "Python",
+      "starsGained": 618,
+      "totalStars": 57319,
+      "forks": 13502,
+      "license": "GPL-3.0",
+      "pushedAt": "08/05/2026 11:39:37",
+      "tags": [
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "deepfakesfaceswap",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Deepfakes Software For All",
+        "projectIntro": "该项目的 GitHub 简介是：Deepfakes Software For All",
+        "featurePoints": [
+          "核心线索：Deepfakes Software For All"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
@@ -549,11 +577,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 29141,
-      "totalStars": 41019,
-      "forks": 5425,
+      "starsGained": 29383,
+      "totalStars": 41777,
+      "forks": 5539,
       "license": "MIT",
-      "pushedAt": "08/06/2026 06:16:42",
+      "pushedAt": "08/07/2026 02:38:30",
       "tags": [
         "agent",
         "llm",
@@ -609,11 +637,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 26073,
-      "totalStars": 38387,
-      "forks": 2706,
+      "starsGained": 26353,
+      "totalStars": 39061,
+      "forks": 2753,
       "license": "MIT",
-      "pushedAt": "08/06/2026 06:39:54",
+      "pushedAt": "08/07/2026 03:07:55",
       "tags": [
         "agent",
         "llm",
@@ -639,6 +667,57 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 23601,
+      "totalStars": 30543,
+      "forks": 10395,
+      "license": "MIT",
+      "pushedAt": "08/06/2026 15:16:55",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
       "owner": "emilkowalski",
       "repo": "skills",
       "fullName": "emilkowalski/skills",
@@ -648,9 +727,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://emilkowal.ski/skill",
       "language": "",
-      "starsGained": 20625,
-      "totalStars": 25918,
-      "forks": 1403,
+      "starsGained": 21162,
+      "totalStars": 26432,
+      "forks": 1428,
       "license": "MIT",
       "pushedAt": "08/05/2026 12:33:14",
       "tags": [
@@ -683,11 +762,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 18510,
-      "totalStars": 22104,
-      "forks": 1121,
+      "starsGained": 18764,
+      "totalStars": 22343,
+      "forks": 1138,
       "license": "MIT",
-      "pushedAt": "08/04/2026 15:23:10",
+      "pushedAt": "08/06/2026 16:19:18",
       "tags": [
         "agent",
         "llm"
@@ -732,11 +811,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 18064,
-      "totalStars": 79206,
-      "forks": 11834,
+      "starsGained": 18274,
+      "totalStars": 79431,
+      "forks": 11874,
       "license": "NOASSERTION",
-      "pushedAt": "08/06/2026 06:38:24",
+      "pushedAt": "08/06/2026 16:15:43",
       "tags": [
         "agent"
       ],
@@ -783,9 +862,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 17505,
-      "totalStars": 25965,
-      "forks": 1742,
+      "starsGained": 17847,
+      "totalStars": 26225,
+      "forks": 1765,
       "license": "Apache-2.0",
       "pushedAt": "08/04/2026 13:15:13",
       "tags": [
@@ -827,9 +906,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
-      "starsGained": 14735,
-      "totalStars": 130915,
-      "forks": 19311,
+      "starsGained": 14892,
+      "totalStars": 131129,
+      "forks": 19333,
       "license": "Apache-2.0",
       "pushedAt": "08/03/2026 03:30:58",
       "tags": [
@@ -858,66 +937,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "usestrix",
-      "repo": "strix",
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "topics": [
-        "agents",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-pentesting",
-        "ai-security",
-        "artificial-intelligence",
-        "bug-bounty",
-        "code-quality",
-        "ctf-tools",
-        "cybersecurity",
-        "cybersecurity-tools",
-        "ethical-hacking",
-        "hacking",
-        "llm-security",
-        "offensive-security",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security",
-        "security-automation"
-      ],
-      "homepage": "https://strix.ai",
-      "language": "Python",
-      "starsGained": 12507,
-      "totalStars": 49096,
-      "forks": 5191,
-      "license": "Apache-2.0",
-      "pushedAt": "08/05/2026 23:20:49",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Strix",
-        "category": "security-scanner",
-        "zhTitle": "AI Agent 技能安全扫描器",
-        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
-        "featurePoints": [
-          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
-          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
-          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
-        ],
-        "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Application Security Testing - Detect and validate critical vulnerabilities in your applications"
-        ]
-      }
-    },
-    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -927,11 +946,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
-      "starsGained": 12331,
-      "totalStars": 55952,
-      "forks": 3388,
+      "starsGained": 12655,
+      "totalStars": 56346,
+      "forks": 3427,
       "license": "Apache-2.0",
-      "pushedAt": "08/05/2026 22:28:20",
+      "pushedAt": "08/07/2026 01:15:41",
       "tags": [
         "agent"
       ],
@@ -953,40 +972,68 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "zhaoxuya520",
+      "repo": "reverse-skill",
+      "fullName": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "topics": [],
+      "homepage": "",
+      "language": "PowerShell",
+      "starsGained": 12319,
+      "totalStars": 19931,
+      "forks": 2727,
+      "license": "MIT",
+      "pushedAt": "08/06/2026 08:08:15",
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Java / JDK — for jadx and apktool"
+        ]
+      }
+    },
+    {
       "owner": "HKUDS",
       "repo": "Vibe-Trading",
       "fullName": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127300695?s=40&v=4",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "topics": [
-        "ai-agent",
-        "algorithmic-trading",
-        "backtesting",
-        "fintech",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "python",
-        "quantitative-finance",
-        "trading"
-      ],
-      "homepage": "https://vibetrading.wiki/",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 12165,
-      "totalStars": 29911,
-      "forks": 4818,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 09:19:34",
+      "starsGained": 12134,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Natural-language research",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：\"Vibe-Trading: Your Personal Trading Agent\"",
@@ -1000,93 +1047,50 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "bradautomates",
-      "repo": "claude-video",
-      "fullName": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 10693,
-      "totalStars": 14154,
-      "forks": 1356,
-      "license": "MIT",
-      "pushedAt": "07/01/2026 01:26:49",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "/watch",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：--max-frames N — lower the frame cap for a tighter token budget."
-        ]
-      }
-    },
-    {
-      "owner": "tirth8205",
-      "repo": "code-review-graph",
-      "fullName": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "fullName": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
       "topics": [
-        "ai-coding",
-        "claude",
-        "claude-code",
-        "code-review",
-        "graphrag",
-        "incremental",
-        "knowledge-graph",
-        "llm",
-        "mcp",
-        "python",
-        "static-analysis",
-        "tree-sitter"
+        "ai",
+        "artificial-intelligence",
+        "cnn",
+        "computer-vision",
+        "deep-learning",
+        "gan",
+        "machine-learning",
+        "microsoft-for-beginners",
+        "nlp",
+        "rnn"
       ],
-      "homepage": "https://code-review-graph.com",
-      "language": "Python",
-      "starsGained": 9581,
-      "totalStars": 28744,
-      "forks": 2666,
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 10946,
+      "totalStars": 62772,
+      "forks": 12190,
       "license": "MIT",
-      "pushedAt": "08/02/2026 12:45:39",
+      "pushedAt": "07/21/2026 11:11:48",
       "tags": [
         "agent",
-        "llm",
-        "coding"
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": ".github/workflows/code-review-graph.yml",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "readmeTitle": "Artificial Intelligence for Beginners - A Curriculum",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
+        "projectIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
         "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
+          "核心线索：12 Weeks, 24 Lessons, AI for All!"
         ],
         "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
-          "适用线索：Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly)."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
         ]
       }
     }
