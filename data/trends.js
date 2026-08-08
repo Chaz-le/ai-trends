@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-07T05:48:34.4620702+00:00",
+  "generatedAt": "2026-08-08T02:12:22.1302532+00:00",
   "weekly": [
     {
       "owner": "zhaoxuya520",
@@ -12,11 +12,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 10091,
-      "totalStars": 20028,
-      "forks": 2743,
+      "starsGained": 10400,
+      "totalStars": 20568,
+      "forks": 2834,
       "license": "MIT",
-      "pushedAt": "08/06/2026 08:08:15",
+      "pushedAt": "08/07/2026 17:59:16",
       "tags": [
         "agent",
         "llm",
@@ -63,9 +63,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 9164,
-      "totalStars": 62821,
-      "forks": 12196,
+      "starsGained": 8224,
+      "totalStars": 63207,
+      "forks": 12252,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -110,9 +110,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 6444,
-      "totalStars": 16702,
-      "forks": 1503,
+      "starsGained": 7501,
+      "totalStars": 17540,
+      "forks": 1570,
       "license": "NOASSERTION",
       "pushedAt": "08/06/2026 12:07:09",
       "tags": [
@@ -163,9 +163,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 5222,
-      "totalStars": 29695,
-      "forks": 3175,
+      "starsGained": 5521,
+      "totalStars": 29920,
+      "forks": 3192,
       "license": "Apache-2.0",
       "pushedAt": "08/06/2026 08:40:04",
       "tags": [
@@ -218,11 +218,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://reasonix.io/",
       "language": "Go",
-      "starsGained": 4203,
-      "totalStars": 32606,
-      "forks": 2104,
+      "starsGained": 4739,
+      "totalStars": 32915,
+      "forks": 2122,
       "license": "MIT",
-      "pushedAt": "08/07/2026 05:41:52",
+      "pushedAt": "08/08/2026 02:09:31",
       "tags": [
         "agent",
         "llm",
@@ -259,11 +259,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3903,
-      "totalStars": 17779,
-      "forks": 1897,
+      "starsGained": 3957,
+      "totalStars": 18346,
+      "forks": 1974,
       "license": "MIT",
-      "pushedAt": "08/05/2026 19:24:45",
+      "pushedAt": "08/07/2026 15:34:15",
       "tags": [
         "agent",
         "llm"
@@ -284,7 +284,7 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "可按 README 示例落地：▶️ All modes and examples → docs/USAGE.md"
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
         ]
       }
     },
@@ -305,9 +305,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3628,
-      "totalStars": 17850,
-      "forks": 1030,
+      "starsGained": 3497,
+      "totalStars": 18175,
+      "forks": 1059,
       "license": "MIT",
       "pushedAt": "08/06/2026 18:19:11",
       "tags": [
@@ -345,11 +345,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://openworklabs.com",
       "language": "TypeScript",
-      "starsGained": 2939,
-      "totalStars": 21338,
-      "forks": 2085,
+      "starsGained": 2367,
+      "totalStars": 21459,
+      "forks": 2100,
       "license": "NOASSERTION",
-      "pushedAt": "08/06/2026 19:13:48",
+      "pushedAt": "08/07/2026 17:52:23",
       "tags": [
         "agent",
         "llm"
@@ -372,6 +372,63 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "paperswithbacktest",
+      "repo": "awesome-systematic-trading",
+      "fullName": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13941363?s=40&v=4",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "topics": [
+        "algorithmic-trading",
+        "algotrading",
+        "alpha",
+        "arbitrage-bot",
+        "awesome",
+        "awesome-list",
+        "book",
+        "finance",
+        "futures",
+        "futures-historical-data",
+        "futures-market",
+        "futuresmarkets",
+        "paper",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading",
+        "trading-algorithms",
+        "trading-bot",
+        "trading-strategies"
+      ],
+      "homepage": "https://paperswithbacktest.com",
+      "language": "Python",
+      "starsGained": 1433,
+      "totalStars": 12952,
+      "forks": 1575,
+      "license": "",
+      "pushedAt": "01/22/2025 07:49:32",
+      "tags": [
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Libraries and packages",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
       "owner": "antirez",
       "repo": "ds4",
       "fullName": "antirez/ds4",
@@ -381,9 +438,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "C",
-      "starsGained": 1319,
-      "totalStars": 20825,
-      "forks": 1857,
+      "starsGained": 1341,
+      "totalStars": 20895,
+      "forks": 1867,
       "license": "MIT",
       "pushedAt": "08/05/2026 14:37:02",
       "tags": [
@@ -408,49 +465,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "agavra",
-      "repo": "tuicr",
-      "fullName": "agavra/tuicr",
-      "url": "https://github.com/agavra/tuicr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3172405?s=40&v=4",
-      "description": "a code review TUI with vim keybindings",
-      "topics": [
-        "ai-tools",
-        "code-review",
-        "rust",
-        "tui"
-      ],
-      "homepage": "https://tuicr.dev/",
-      "language": "Rust",
-      "starsGained": 741,
-      "totalStars": 2511,
-      "forks": 188,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 23:32:02",
-      "tags": [
-        "agent",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "tuicr",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "DataExpert-io",
       "repo": "data-engineer-handbook",
       "fullName": "DataExpert-io/data-engineer-handbook",
@@ -467,9 +481,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 716,
-      "totalStars": 43282,
-      "forks": 8907,
+      "starsGained": 742,
+      "totalStars": 43382,
+      "forks": 8956,
       "license": "",
       "pushedAt": "08/03/2026 20:29:57",
       "tags": [
@@ -494,58 +508,81 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "deepfakes",
-      "repo": "faceswap",
-      "fullName": "deepfakes/faceswap",
-      "url": "https://github.com/deepfakes/faceswap",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36920800?s=40&v=4",
-      "description": "Deepfakes Software For All",
-      "topics": [
-        "deep-face-swap",
-        "deep-learning",
-        "deep-neural-networks",
-        "deepface",
-        "deepfakes",
-        "deeplearning",
-        "face-swap",
-        "faceswap",
-        "fakeapp",
-        "machine-learning",
-        "myfakeapp",
-        "neural-nets",
-        "neural-networks",
-        "openfaceswap"
-      ],
-      "homepage": "https://www.faceswap.dev",
-      "language": "Python",
-      "starsGained": 618,
-      "totalStars": 57337,
-      "forks": 13501,
-      "license": "GPL-3.0",
-      "pushedAt": "08/05/2026 11:39:37",
+      "owner": "unclebob",
+      "repo": "swarm-forge",
+      "fullName": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
+      "description": "A simple tool for coordinating several AI agents.",
+      "topics": [],
+      "homepage": "",
+      "language": "Clojure",
+      "starsGained": 273,
+      "totalStars": 1841,
+      "forks": 202,
+      "license": "",
+      "pushedAt": "08/07/2026 20:22:31",
       "tags": [
-        "ml",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "deepfakesfaceswap",
+        "readmeTitle": "SwarmForge",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Deepfakes Software For All",
-        "projectIntro": "该项目的 GitHub 简介是：Deepfakes Software For All",
+        "zhIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
+        "projectIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
         "featurePoints": [
-          "核心线索：Deepfakes Software For All"
+          "核心线索：A simple tool for coordinating several AI agents."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Do not use main for this command; main is documentary and stores the shared operational scripts, while the runnable branches provide the configurations and prompts intended for projects."
         ]
       }
     }
   ],
   "monthly": [
+    {
+      "owner": "mattpocock",
+      "repo": "skills",
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "topics": [],
+      "homepage": "https://aihero.dev/skills",
+      "language": "Shell",
+      "starsGained": 49783,
+      "totalStars": 208885,
+      "forks": 18033,
+      "license": "MIT",
+      "pushedAt": "08/07/2026 15:50:46",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
     {
       "owner": "diegosouzapw",
       "repo": "OmniRoute",
@@ -577,11 +614,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 29383,
-      "totalStars": 41861,
-      "forks": 5550,
+      "starsGained": 29603,
+      "totalStars": 42582,
+      "forks": 5672,
       "license": "MIT",
-      "pushedAt": "08/07/2026 04:26:48",
+      "pushedAt": "08/08/2026 00:41:48",
       "tags": [
         "agent",
         "llm",
@@ -637,11 +674,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 26353,
-      "totalStars": 39137,
-      "forks": 2755,
+      "starsGained": 26566,
+      "totalStars": 39691,
+      "forks": 2791,
       "license": "MIT",
-      "pushedAt": "08/07/2026 05:29:21",
+      "pushedAt": "08/08/2026 02:06:35",
       "tags": [
         "agent",
         "llm",
@@ -667,57 +704,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 23601,
-      "totalStars": 30584,
-      "forks": 10403,
-      "license": "MIT",
-      "pushedAt": "08/06/2026 15:16:55",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "emilkowalski",
       "repo": "skills",
       "fullName": "emilkowalski/skills",
@@ -727,9 +713,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://emilkowal.ski/skill",
       "language": "",
-      "starsGained": 21162,
-      "totalStars": 26486,
-      "forks": 1431,
+      "starsGained": 21584,
+      "totalStars": 26924,
+      "forks": 1468,
       "license": "MIT",
       "pushedAt": "08/05/2026 12:33:14",
       "tags": [
@@ -762,9 +748,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 18764,
-      "totalStars": 22370,
-      "forks": 1138,
+      "starsGained": 19043,
+      "totalStars": 22584,
+      "forks": 1146,
       "license": "MIT",
       "pushedAt": "08/06/2026 16:19:18",
       "tags": [
@@ -811,11 +797,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 18274,
-      "totalStars": 79457,
-      "forks": 11879,
+      "starsGained": 18482,
+      "totalStars": 79701,
+      "forks": 11905,
       "license": "NOASSERTION",
-      "pushedAt": "08/07/2026 05:14:10",
+      "pushedAt": "08/07/2026 19:48:26",
       "tags": [
         "agent"
       ],
@@ -862,9 +848,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 17847,
-      "totalStars": 26270,
-      "forks": 1770,
+      "starsGained": 17141,
+      "totalStars": 26549,
+      "forks": 1796,
       "license": "Apache-2.0",
       "pushedAt": "08/04/2026 13:15:13",
       "tags": [
@@ -898,14 +884,19 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "homepage": "https://www.theunwindai.com",
       "language": "Python",
-      "starsGained": 14892,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 15067,
+      "totalStars": 131338,
+      "forks": 19358,
+      "license": "Apache-2.0",
+      "pushedAt": "08/03/2026 03:30:58",
       "tags": [
         "agent",
         "llm",
@@ -915,8 +906,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Awesome LLM Apps",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -932,41 +923,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
-      "description": "The design language that makes your AI harness better at design.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 12655,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
-        "projectIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
-        "featurePoints": [
-          "核心线索：The design language that makes your AI harness better at design."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "zhaoxuya520",
       "repo": "reverse-skill",
       "fullName": "zhaoxuya520/reverse-skill",
@@ -976,11 +932,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 12319,
-      "totalStars": 20028,
-      "forks": 2743,
+      "starsGained": 12996,
+      "totalStars": 20568,
+      "forks": 2834,
       "license": "MIT",
-      "pushedAt": "08/06/2026 08:08:15",
+      "pushedAt": "08/07/2026 17:59:16",
       "tags": [
         "agent",
         "llm",
@@ -1007,6 +963,41 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+      "description": "The design language that makes your AI harness better at design.",
+      "topics": [],
+      "homepage": "https://impeccable.style",
+      "language": "JavaScript",
+      "starsGained": 12795,
+      "totalStars": 56738,
+      "forks": 3458,
+      "license": "Apache-2.0",
+      "pushedAt": "08/08/2026 01:52:56",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
+        "projectIntro": "该项目的 GitHub 简介是：The design language that makes your AI harness better at design.",
+        "featurePoints": [
+          "核心线索：The design language that makes your AI harness better at design."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "HKUDS",
       "repo": "Vibe-Trading",
       "fullName": "HKUDS/Vibe-Trading",
@@ -1016,7 +1007,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 12134,
+      "starsGained": 12068,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1062,9 +1053,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 10946,
-      "totalStars": 62821,
-      "forks": 12196,
+      "starsGained": 11438,
+      "totalStars": 63207,
+      "forks": 12252,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
