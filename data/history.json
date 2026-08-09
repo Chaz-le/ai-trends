@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:08:28.079Z",
+  "generatedAt": "2026-08-09T02:23:31.657Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -4002,6 +4002,60 @@
         "HKUDS/Vibe-Trading": {
           "stars": 30271,
           "periodGain": 12068
+        }
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "generatedAt": "2026-08-09T02:23:13.6796353+00:00",
+      "repos": {
+        "zhaoxuya520/reverse-skill": {
+          "stars": 21489,
+          "periodGain": 13560
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 18253,
+          "periodGain": 10732
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 63632,
+          "periodGain": 11788
+        },
+        "lyogavin/airllm": {
+          "stars": 30170,
+          "periodGain": 5711
+        },
+        "esengine/DeepSeek-Reasonix": {
+          "stars": 33179,
+          "periodGain": 4704
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 18942,
+          "periodGain": 4071
+        },
+        "donnemartin/system-design-primer": {
+          "stars": 362490,
+          "periodGain": 2606
+        },
+        "different-ai/openwork": {
+          "stars": 21604,
+          "periodGain": 1834
+        },
+        "Comfy-Org/ComfyUI": {
+          "stars": 124924,
+          "periodGain": 1778
+        },
+        "antirez/ds4": {
+          "stars": 20983,
+          "periodGain": 1254
+        },
+        "google/skills": {
+          "stars": 16763,
+          "periodGain": 1143
+        },
+        "DataExpert-io/data-engineer-handbook": {
+          "stars": 43482,
+          "periodGain": 794
         }
       }
     }
