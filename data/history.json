@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:06:57.873Z",
+  "generatedAt": "2026-08-09T05:16:53.186Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -4007,82 +4007,82 @@
     },
     {
       "date": "2026-08-09",
-      "generatedAt": "2026-08-09T03:06:40.7767564+00:00",
+      "generatedAt": "2026-08-09T05:16:30.2274014+00:00",
       "repos": {
         "zhaoxuya520/reverse-skill": {
-          "stars": 21553,
+          "stars": 21722,
           "periodGain": 13560
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 18272,
+          "stars": 18341,
           "periodGain": 10732
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 63647,
+          "stars": 63691,
           "periodGain": 11788
         },
         "lyogavin/airllm": {
-          "stars": 30174,
+          "stars": 30200,
           "periodGain": 5711
         },
         "esengine/DeepSeek-Reasonix": {
-          "stars": 33189,
+          "stars": 33228,
           "periodGain": 4704
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 18962,
+          "stars": 19014,
           "periodGain": 4071
         },
         "donnemartin/system-design-primer": {
-          "stars": 362495,
+          "stars": 362518,
           "periodGain": 2606
         },
         "different-ai/openwork": {
-          "stars": 21606,
+          "stars": 21625,
           "periodGain": 1834
         },
         "Comfy-Org/ComfyUI": {
-          "stars": 124936,
+          "stars": 124960,
           "periodGain": 1778
         },
         "antirez/ds4": {
-          "stars": 20986,
+          "stars": 20996,
           "periodGain": 1254
         },
         "google/skills": {
-          "stars": 16785,
+          "stars": 16837,
           "periodGain": 1143
         },
         "DataExpert-io/data-engineer-handbook": {
-          "stars": 43484,
+          "stars": 43494,
           "periodGain": 794
         },
         "mattpocock/skills": {
-          "stars": 210132,
+          "stars": 210231,
           "periodGain": 49928
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 43521,
+          "stars": 43588,
           "periodGain": 29953
         },
         "stablyai/orca": {
-          "stars": 40285,
+          "stars": 40331,
           "periodGain": 26442
         },
         "emilkowalski/skills": {
-          "stars": 27320,
+          "stars": 27361,
           "periodGain": 21921
         },
         "Nutlope/hallmark": {
-          "stars": 22785,
+          "stars": 22803,
           "periodGain": 19221
         },
         "koala73/worldmonitor": {
-          "stars": 79978,
+          "stars": 79991,
           "periodGain": 18670
         },
         "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 131552,
+          "stars": 131573,
           "periodGain": 15127
         }
       }
