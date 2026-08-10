@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T05:16:53.186Z",
+  "generatedAt": "2026-08-10T02:28:14.782Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -4084,6 +4084,92 @@
         "Shubhamsaboo/awesome-llm-apps": {
           "stars": 131573,
           "periodGain": 15127
+        }
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "generatedAt": "2026-08-10T02:28:00.4213868+00:00",
+      "repos": {
+        "zhaoxuya520/reverse-skill": {
+          "stars": 22592,
+          "periodGain": 14667
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 18829,
+          "periodGain": 10707
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 64077,
+          "periodGain": 12125
+        },
+        "lyogavin/airllm": {
+          "stars": 30388,
+          "periodGain": 5129
+        },
+        "esengine/DeepSeek-Reasonix": {
+          "stars": 33484,
+          "periodGain": 4709
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 19478,
+          "periodGain": 10969
+        },
+        "donnemartin/system-design-primer": {
+          "stars": 362730,
+          "periodGain": 2724
+        },
+        "Comfy-Org/ComfyUI": {
+          "stars": 125606,
+          "periodGain": 2018
+        },
+        "google/skills": {
+          "stars": 17276,
+          "periodGain": 1626
+        },
+        "livekit/agents": {
+          "stars": 12836,
+          "periodGain": 1138
+        },
+        "unclebob/swarm-forge": {
+          "stars": 2060,
+          "periodGain": 562
+        },
+        "vitali87/code-graph-rag": {
+          "stars": 3063,
+          "periodGain": 236
+        },
+        "mattpocock/skills": {
+          "stars": 211285,
+          "periodGain": 49380
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 44334,
+          "periodGain": 30114
+        },
+        "stablyai/orca": {
+          "stars": 40902,
+          "periodGain": 26197
+        },
+        "Nutlope/hallmark": {
+          "stars": 23088,
+          "periodGain": 19383
+        },
+        "koala73/worldmonitor": {
+          "stars": 80222,
+          "periodGain": 18846
+        },
+        "earendil-works/pi": {
+          "stars": 86069,
+          "periodGain": 17130
+        },
+        "Shubhamsaboo/awesome-llm-apps": {
+          "stars": 131780,
+          "periodGain": 15170
+        },
+        "iOfficeAI/OfficeCLI": {
+          "stars": 27126,
+          "periodGain": 14276
         }
       }
     }

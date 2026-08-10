@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-09T05:16:30.2274014+00:00",
+  "generatedAt": "2026-08-10T02:28:00.4213868+00:00",
   "weekly": [
     {
       "owner": "zhaoxuya520",
@@ -12,11 +12,11 @@
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 9635,
-      "totalStars": 21722,
-      "forks": 2965,
+      "starsGained": 9784,
+      "totalStars": 22592,
+      "forks": 3078,
       "license": "MIT",
-      "pushedAt": "08/09/2026 04:19:22",
+      "pushedAt": "08/09/2026 10:17:17",
       "tags": [
         "agent",
         "llm",
@@ -62,9 +62,9 @@
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 8046,
-      "totalStars": 18341,
-      "forks": 1649,
+      "starsGained": 8003,
+      "totalStars": 18829,
+      "forks": 1696,
       "license": "NOASSERTION",
       "pushedAt": "08/06/2026 12:07:09",
       "tags": [
@@ -112,9 +112,9 @@
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 7469,
-      "totalStars": 63691,
-      "forks": 12337,
+      "starsGained": 5514,
+      "totalStars": 64077,
+      "forks": 12395,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -163,11 +163,11 @@
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 5711,
-      "totalStars": 30200,
-      "forks": 3211,
+      "starsGained": 5129,
+      "totalStars": 30388,
+      "forks": 3235,
       "license": "Apache-2.0",
-      "pushedAt": "08/08/2026 06:54:20",
+      "pushedAt": "08/09/2026 06:59:19",
       "tags": [
         "agent",
         "llm",
@@ -218,11 +218,11 @@
       ],
       "homepage": "http://reasonix.io/",
       "language": "Go",
-      "starsGained": 4704,
-      "totalStars": 33228,
-      "forks": 2146,
+      "starsGained": 4709,
+      "totalStars": 33484,
+      "forks": 2168,
       "license": "MIT",
-      "pushedAt": "08/09/2026 05:16:26",
+      "pushedAt": "08/10/2026 02:24:56",
       "tags": [
         "agent",
         "llm",
@@ -259,9 +259,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4071,
-      "totalStars": 19014,
-      "forks": 2045,
+      "starsGained": 4121,
+      "totalStars": 19478,
+      "forks": 2085,
       "license": "MIT",
       "pushedAt": "08/07/2026 15:34:15",
       "tags": [
@@ -312,9 +312,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2606,
-      "totalStars": 362518,
-      "forks": 57720,
+      "starsGained": 2724,
+      "totalStars": 362730,
+      "forks": 57751,
       "license": "NOASSERTION",
       "pushedAt": "03/20/2026 01:52:19",
       "tags": [
@@ -338,42 +338,6 @@
       }
     },
     {
-      "owner": "different-ai",
-      "repo": "openwork",
-      "fullName": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "topics": [],
-      "homepage": "https://openworklabs.com",
-      "language": "TypeScript",
-      "starsGained": 1834,
-      "totalStars": 21625,
-      "forks": 2119,
-      "license": "NOASSERTION",
-      "pushedAt": "08/08/2026 09:13:52",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenWork",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
-        "projectIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
-        "featurePoints": [
-          "核心线索：The open-source alternative to Claude Cowork (powered by opencode)"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "Comfy-Org",
       "repo": "ComfyUI",
       "fullName": "Comfy-Org/ComfyUI",
@@ -390,11 +354,11 @@
       ],
       "homepage": "https://www.comfy.org/",
       "language": "Python",
-      "starsGained": 1778,
-      "totalStars": 124960,
-      "forks": 14808,
+      "starsGained": 2018,
+      "totalStars": 125606,
+      "forks": 14846,
       "license": "GPL-3.0",
-      "pushedAt": "08/09/2026 03:56:27",
+      "pushedAt": "08/09/2026 22:12:35",
       "tags": [
         "agent",
         "multimodal",
@@ -421,42 +385,6 @@
       }
     },
     {
-      "owner": "antirez",
-      "repo": "ds4",
-      "fullName": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "topics": [],
-      "homepage": "",
-      "language": "C",
-      "starsGained": 1254,
-      "totalStars": 20996,
-      "forks": 1884,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 14:37:02",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "So, what can I do with this software?",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-        "projectIntro": "该项目的 GitHub 简介是：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-        "featurePoints": [
-          "核心线索：DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：sub-README files. Otherwise for normal usage keep reading the"
-        ]
-      }
-    },
-    {
       "owner": "google",
       "repo": "skills",
       "fullName": "google/skills",
@@ -470,9 +398,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 1143,
-      "totalStars": 16837,
-      "forks": 1375,
+      "starsGained": 1626,
+      "totalStars": 17276,
+      "forks": 1394,
       "license": "Apache-2.0",
       "pushedAt": "08/07/2026 22:50:54",
       "tags": [
@@ -499,45 +427,146 @@
       }
     },
     {
-      "owner": "DataExpert-io",
-      "repo": "data-engineer-handbook",
-      "fullName": "DataExpert-io/data-engineer-handbook",
-      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4583288?s=40&v=4",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "owner": "livekit",
+      "repo": "agents",
+      "fullName": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14841632?s=40&v=4",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
       "topics": [
-        "apachespark",
-        "awesome",
-        "bigdata",
-        "data",
-        "dataengineering",
-        "sql"
+        "agents",
+        "ai",
+        "openai",
+        "real-time",
+        "video",
+        "voice"
       ],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 794,
-      "totalStars": 43494,
-      "forks": 9019,
-      "license": "",
-      "pushedAt": "08/03/2026 20:29:57",
+      "homepage": "https://docs.livekit.io/agents",
+      "language": "Python",
+      "starsGained": 1138,
+      "totalStars": 12836,
+      "forks": 3528,
+      "license": "Apache-2.0",
+      "pushedAt": "08/10/2026 02:19:47",
       "tags": [
-        "learning"
+        "agent",
+        "llm",
+        "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "The Data Engineering Handbook",
+        "readmeTitle": "",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "可按 README 示例落地：You'll need the following environment variables for this example:"
+        ]
+      }
+    },
+    {
+      "owner": "unclebob",
+      "repo": "swarm-forge",
+      "fullName": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
+      "description": "A simple tool for coordinating several AI agents.",
+      "topics": [],
+      "homepage": "",
+      "language": "Clojure",
+      "starsGained": 562,
+      "totalStars": 2060,
+      "forks": 218,
+      "license": "",
+      "pushedAt": "08/09/2026 18:01:49",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "SwarmForge",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：This is a repo with links to everything you'd ever want to learn about data engineering",
-        "projectIntro": "该项目的 GitHub 简介是：This is a repo with links to everything you'd ever want to learn about data engineering",
+        "zhIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
+        "projectIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
         "featurePoints": [
-          "核心线索：This is a repo with links to everything you'd ever want to learn about data engineering"
+          "核心线索：A simple tool for coordinating several AI agents."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：introduction"
+          "适用线索：Do not use main for this command; main is documentary and stores the shared operational scripts, while the runnable branches provide the configurations and prompts intended for projects."
+        ]
+      }
+    },
+    {
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "fullName": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "topics": [
+        "ai",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-understanding",
+        "codebase-search",
+        "developer-tools",
+        "graph-database",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "memgraph",
+        "monorepo",
+        "multi-language",
+        "python",
+        "rag",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "tree-sitter"
+      ],
+      "homepage": "https://code-graph-rag.com",
+      "language": "Python",
+      "starsGained": 236,
+      "totalStars": 3063,
+      "forks": 523,
+      "license": "MIT",
+      "pushedAt": "08/10/2026 00:59:12",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Code-Graph-RAG",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "featurePoints": [
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
+        ],
+        "scenarioPoints": [
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     }
@@ -553,9 +582,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 49928,
-      "totalStars": 210231,
-      "forks": 18163,
+      "starsGained": 49380,
+      "totalStars": 211285,
+      "forks": 18269,
       "license": "MIT",
       "pushedAt": "08/07/2026 15:50:46",
       "tags": [
@@ -612,11 +641,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 29953,
-      "totalStars": 43588,
-      "forks": 5833,
+      "starsGained": 30114,
+      "totalStars": 44334,
+      "forks": 5958,
       "license": "MIT",
-      "pushedAt": "08/09/2026 05:16:07",
+      "pushedAt": "08/10/2026 02:05:07",
       "tags": [
         "agent",
         "llm",
@@ -672,11 +701,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 26442,
-      "totalStars": 40331,
-      "forks": 2837,
+      "starsGained": 26197,
+      "totalStars": 40902,
+      "forks": 2868,
       "license": "MIT",
-      "pushedAt": "08/09/2026 04:49:06",
+      "pushedAt": "08/10/2026 02:27:02",
       "tags": [
         "agent",
         "llm",
@@ -702,41 +731,6 @@
       }
     },
     {
-      "owner": "emilkowalski",
-      "repo": "skills",
-      "fullName": "emilkowalski/skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
-      "description": "Skills for Designers and Engineers.",
-      "topics": [],
-      "homepage": "https://emilkowal.ski/skill",
-      "language": "",
-      "starsGained": 21921,
-      "totalStars": 27361,
-      "forks": 1501,
-      "license": "MIT",
-      "pushedAt": "08/05/2026 12:33:14",
-      "tags": [
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Designers and Engineers",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Skills for Designers and Engineers.",
-        "projectIntro": "该项目的 GitHub 简介是：Skills for Designers and Engineers.",
-        "featurePoints": [
-          "核心线索：Skills for Designers and Engineers."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "Nutlope",
       "repo": "hallmark",
       "fullName": "Nutlope/hallmark",
@@ -746,9 +740,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 19221,
-      "totalStars": 22803,
-      "forks": 1162,
+      "starsGained": 19383,
+      "totalStars": 23088,
+      "forks": 1182,
       "license": "MIT",
       "pushedAt": "08/06/2026 16:19:18",
       "tags": [
@@ -795,11 +789,11 @@
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 18670,
-      "totalStars": 79991,
-      "forks": 11957,
+      "starsGained": 18846,
+      "totalStars": 80222,
+      "forks": 11985,
       "license": "NOASSERTION",
-      "pushedAt": "08/09/2026 04:02:47",
+      "pushedAt": "08/09/2026 19:25:54",
       "tags": [
         "agent"
       ],
@@ -831,11 +825,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 17222,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 17130,
+      "totalStars": 86069,
+      "forks": 10695,
+      "license": "MIT",
+      "pushedAt": "08/09/2026 00:11:09",
       "tags": [
         "agent",
         "llm",
@@ -844,45 +838,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [],
-      "homepage": "",
-      "language": "C#",
-      "starsGained": 15700,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Pi Agent Harness",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -912,11 +869,11 @@
       ],
       "homepage": "https://www.theunwindai.com",
       "language": "Python",
-      "starsGained": 15127,
-      "totalStars": 131573,
-      "forks": 19382,
+      "starsGained": 15170,
+      "totalStars": 131780,
+      "forks": 19409,
       "license": "Apache-2.0",
-      "pushedAt": "08/09/2026 04:24:38",
+      "pushedAt": "08/09/2026 11:43:20",
       "tags": [
         "agent",
         "llm",
@@ -952,11 +909,11 @@
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 13560,
-      "totalStars": 21722,
-      "forks": 2965,
+      "starsGained": 14667,
+      "totalStars": 22592,
+      "forks": 3078,
       "license": "MIT",
-      "pushedAt": "08/09/2026 04:19:22",
+      "pushedAt": "08/09/2026 10:17:17",
       "tags": [
         "agent",
         "llm",
@@ -983,6 +940,60 @@
       }
     },
     {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
+      "language": "C#",
+      "starsGained": 14276,
+      "totalStars": 27126,
+      "forks": 1844,
+      "license": "Apache-2.0",
+      "pushedAt": "08/04/2026 13:15:13",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
       "owner": "microsoft",
       "repo": "AI-For-Beginners",
       "fullName": "microsoft/AI-For-Beginners",
@@ -1003,9 +1014,9 @@
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 11788,
-      "totalStars": 63691,
-      "forks": 12337,
+      "starsGained": 12125,
+      "totalStars": 64077,
+      "forks": 12395,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -1031,6 +1042,45 @@
       }
     },
     {
+      "owner": "virgiliojr94",
+      "repo": "book-to-skill",
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 10969,
+      "totalStars": 19478,
+      "forks": 2085,
+      "license": "MIT",
+      "pushedAt": "08/07/2026 15:34:15",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent skill (registers /book-to-skill) — clone into your skills folder:",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
+        ]
+      }
+    },
+    {
       "owner": "TencentCloud",
       "repo": "TencentDB-Agent-Memory",
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -1050,9 +1100,9 @@
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 10732,
-      "totalStars": 18341,
-      "forks": 1649,
+      "starsGained": 10707,
+      "totalStars": 18829,
+      "forks": 1696,
       "license": "NOASSERTION",
       "pushedAt": "08/06/2026 12:07:09",
       "tags": [
