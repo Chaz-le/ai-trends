@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:21:46.241Z",
+  "generatedAt": "2026-08-11T03:09:45.660Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -4131,75 +4131,55 @@
     },
     {
       "date": "2026-08-11",
-      "generatedAt": "2026-08-11T02:21:09.7867951+00:00",
+      "generatedAt": "2026-08-11T03:09:31.0267242+00:00",
       "repos": {
         "zhaoxuya520/reverse-skill": {
-          "stars": 23398,
+          "stars": 23430,
           "periodGain": 15571
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 19463,
+          "stars": 19488,
           "periodGain": 11255
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 20057,
+          "stars": 20077,
           "periodGain": 11470
         },
         "esengine/DeepSeek-Reasonix": {
-          "stars": 33748,
+          "stars": 33766,
           "periodGain": 4109
         },
         "lyogavin/airllm": {
-          "stars": 30595,
+          "stars": 30603,
           "periodGain": 4042
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 64440,
+          "stars": 64450,
           "periodGain": 4028
         },
         "huangruiteng/loopx": {
-          "stars": 3969,
+          "stars": 3980,
           "periodGain": 2947
         },
         "Comfy-Org/ComfyUI": {
-          "stars": 126368,
+          "stars": 126402,
           "periodGain": 2842
         },
         "google/skills": {
-          "stars": 17625,
+          "stars": 17638,
           "periodGain": 2159
         },
         "semantica-agi/semantica": {
-          "stars": 4190,
+          "stars": 4234,
           "periodGain": 2009
         },
         "vitali87/code-graph-rag": {
-          "stars": 3558,
+          "stars": 3570,
           "periodGain": 920
         },
         "DataExpert-io/data-engineer-handbook": {
-          "stars": 43609,
+          "stars": 43616,
           "periodGain": 781
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 45223,
-          "periodGain": 30445
-        },
-        "stablyai/orca": {
-          "stars": 41825,
-          "periodGain": 26074
-        },
-        "Nutlope/hallmark": {
-          "stars": 23536,
-          "periodGain": 19841
-        },
-        "koala73/worldmonitor": {
-          "stars": 80528,
-          "periodGain": 19125
-        },
-        "1jehuang/jcode": {
-          "stars": 16893,
-          "periodGain": 8576
         }
       }
     }
