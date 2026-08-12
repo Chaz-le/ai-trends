@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T05:20:13.789Z",
+  "generatedAt": "2026-08-12T02:37:33.777Z",
   "snapshots": [
     {
       "date": "2026-06-16",
@@ -4204,6 +4204,84 @@
         "1jehuang/jcode": {
           "stars": 16952,
           "periodGain": 8576
+        }
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "generatedAt": "2026-08-12T02:37:17.9025040+00:00",
+      "repos": {
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 19930,
+          "periodGain": 11445
+        },
+        "cloudflare/computer": {
+          "stars": 7609,
+          "periodGain": 6775
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 23992,
+          "periodGain": 15942
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 20546,
+          "periodGain": 11976
+        },
+        "esengine/DeepSeek-Reasonix": {
+          "stars": 33994,
+          "periodGain": 3517
+        },
+        "Comfy-Org/ComfyUI": {
+          "stars": 126843,
+          "periodGain": 3252
+        },
+        "lyogavin/airllm": {
+          "stars": 30779,
+          "periodGain": 2798
+        },
+        "semantica-agi/semantica": {
+          "stars": 4959,
+          "periodGain": 2712
+        },
+        "huangruiteng/loopx": {
+          "stars": 4201,
+          "periodGain": 2687
+        },
+        "google/skills": {
+          "stars": 17799,
+          "periodGain": 2216
+        },
+        "vitali87/code-graph-rag": {
+          "stars": 3864,
+          "periodGain": 1189
+        },
+        "unclebob/swarm-forge": {
+          "stars": 2178,
+          "periodGain": 671
+        },
+        "mattpocock/skills": {
+          "stars": 213921,
+          "periodGain": 49161
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 45969,
+          "periodGain": 30582
+        },
+        "stablyai/orca": {
+          "stars": 42880,
+          "periodGain": 26440
+        },
+        "Nutlope/hallmark": {
+          "stars": 24087,
+          "periodGain": 20034
+        },
+        "koala73/worldmonitor": {
+          "stars": 80847,
+          "periodGain": 19348
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 34791,
+          "periodGain": 9113
         }
       }
     }
