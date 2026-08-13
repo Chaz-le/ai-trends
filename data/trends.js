@@ -1,7 +1,43 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-12T05:44:13.7217541+00:00",
+  "generatedAt": "2026-08-13T02:39:18.9372841+00:00",
   "weekly": [
+    {
+      "owner": "cloudflare",
+      "repo": "computer",
+      "fullName": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
+      "description": "Give your agent a computer 👾",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 6020,
+      "totalStars": 7813,
+      "forks": 428,
+      "license": "MIT",
+      "pushedAt": "08/12/2026 21:48:07",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Cloudflare Computer",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
+        "projectIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
+        "featurePoints": [
+          "核心线索：Give your agent a computer 👾"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：The examples/ directory holds runnable consumers of the"
+        ]
+      }
+    },
     {
       "owner": "TencentCloud",
       "repo": "TencentDB-Agent-Memory",
@@ -22,9 +58,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 7017,
-      "totalStars": 20024,
-      "forks": 1809,
+      "starsGained": 5720,
+      "totalStars": 20642,
+      "forks": 1871,
       "license": "NOASSERTION",
       "pushedAt": "08/11/2026 12:12:06",
       "tags": [
@@ -52,42 +88,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "cloudflare",
-      "repo": "computer",
-      "fullName": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/263346377?s=40&v=4",
-      "description": "Give your agent a computer 👾",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 6775,
-      "totalStars": 7643,
-      "forks": 415,
-      "license": "MIT",
-      "pushedAt": "08/11/2026 17:05:09",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Cloudflare Computer",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
-        "projectIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
-        "featurePoints": [
-          "核心线索：Give your agent a computer 👾"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：The examples/ directory holds runnable consumers of the"
-        ]
-      }
-    },
-    {
       "owner": "zhaoxuya520",
       "repo": "reverse-skill",
       "fullName": "zhaoxuya520/reverse-skill",
@@ -97,11 +97,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 6730,
-      "totalStars": 24074,
-      "forks": 3265,
+      "starsGained": 5573,
+      "totalStars": 24511,
+      "forks": 3325,
       "license": "MIT",
-      "pushedAt": "08/12/2026 04:35:04",
+      "pushedAt": "08/12/2026 16:06:45",
       "tags": [
         "agent",
         "llm",
@@ -128,6 +128,54 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
+      "language": "JavaScript",
+      "starsGained": 4817,
+      "totalStars": 86636,
+      "forks": 9306,
+      "license": "MIT",
+      "pushedAt": "08/11/2026 19:48:56",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+        ]
+      }
+    },
+    {
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "fullName": "virgiliojr94/book-to-skill",
@@ -137,11 +185,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4155,
-      "totalStars": 20615,
-      "forks": 2179,
+      "starsGained": 3983,
+      "totalStars": 20891,
+      "forks": 2204,
       "license": "MIT",
-      "pushedAt": "08/11/2026 21:56:27",
+      "pushedAt": "08/12/2026 14:24:33",
       "tags": [
         "agent",
         "llm"
@@ -163,163 +211,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
           "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
-        ]
-      }
-    },
-    {
-      "owner": "esengine",
-      "repo": "DeepSeek-Reasonix",
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "topics": [
-        "agent",
-        "agent-framework",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "coding-agent",
-        "deepseek",
-        "developer-tools",
-        "ink",
-        "llm",
-        "prompt-caching",
-        "r1",
-        "terminal",
-        "tool-use",
-        "tui",
-        "typescript"
-      ],
-      "homepage": "http://reasonix.io/",
-      "language": "Go",
-      "starsGained": 3517,
-      "totalStars": 34019,
-      "forks": 2223,
-      "license": "MIT",
-      "pushedAt": "08/12/2026 05:20:01",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：For advanced CLI usage and configuration, see the CLI reference,"
-        ]
-      }
-    },
-    {
-      "owner": "Comfy-Org",
-      "repo": "ComfyUI",
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "homepage": "https://www.comfy.org/",
-      "language": "Python",
-      "starsGained": 3252,
-      "totalStars": 126886,
-      "forks": 14944,
-      "license": "GPL-3.0",
-      "pushedAt": "08/12/2026 05:25:09",
-      "tags": [
-        "agent",
-        "multimodal",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "ComfyUI",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "可按 README 示例落地：See what ComfyUI can do with the newer template workflows or old example workflows."
-        ]
-      }
-    },
-    {
-      "owner": "lyogavin",
-      "repo": "airllm",
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "topics": [
-        "chinese-llm",
-        "chinese-nlp",
-        "finetune",
-        "generative-ai",
-        "instruct-gpt",
-        "instruction-set",
-        "llama",
-        "llm",
-        "lora",
-        "open-models",
-        "open-source",
-        "open-source-models",
-        "qlora"
-      ],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 2798,
-      "totalStars": 30797,
-      "forks": 3275,
-      "license": "Apache-2.0",
-      "pushedAt": "08/11/2026 07:09:59",
-      "tags": [
-        "agent",
-        "llm",
-        "ml",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "just pass a hugging face repo id — works with almost any popular model:",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "featurePoints": [
-          "核心线索：AirLLM 70B inference with single 4GB GPU"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -354,11 +245,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://getsemantica.ai",
       "language": "Python",
-      "starsGained": 2712,
-      "totalStars": 5102,
-      "forks": 553,
+      "starsGained": 3585,
+      "totalStars": 5780,
+      "forks": 629,
       "license": "MIT",
-      "pushedAt": "08/11/2026 23:49:54",
+      "pushedAt": "08/12/2026 19:16:58",
       "tags": [
         "agent",
         "llm",
@@ -385,6 +276,111 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "Comfy-Org",
+      "repo": "ComfyUI",
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "homepage": "https://www.comfy.org/",
+      "language": "Python",
+      "starsGained": 3321,
+      "totalStars": 127106,
+      "forks": 14975,
+      "license": "GPL-3.0",
+      "pushedAt": "08/13/2026 02:12:48",
+      "tags": [
+        "agent",
+        "multimodal",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "ComfyUI",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "可按 README 示例落地：See what ComfyUI can do with the newer template workflows or old example workflows."
+        ]
+      }
+    },
+    {
+      "owner": "esengine",
+      "repo": "DeepSeek-Reasonix",
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32437197?s=40&v=4",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "homepage": "http://reasonix.io/",
+      "language": "Go",
+      "starsGained": 2953,
+      "totalStars": 34234,
+      "forks": 2253,
+      "license": "MIT",
+      "pushedAt": "08/13/2026 01:48:30",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：For advanced CLI usage and configuration, see the CLI reference,"
+        ]
+      }
+    },
+    {
       "owner": "huangruiteng",
       "repo": "loopx",
       "fullName": "huangruiteng/loopx",
@@ -403,11 +399,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
       "language": "Python",
-      "starsGained": 2687,
-      "totalStars": 4235,
-      "forks": 352,
+      "starsGained": 2509,
+      "totalStars": 4427,
+      "forks": 377,
       "license": "MIT",
-      "pushedAt": "08/12/2026 04:16:29",
+      "pushedAt": "08/13/2026 00:14:21",
       "tags": [
         "agent",
         "llm",
@@ -446,11 +442,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2216,
-      "totalStars": 17821,
-      "forks": 1419,
+      "starsGained": 2288,
+      "totalStars": 17919,
+      "forks": 1423,
       "license": "Apache-2.0",
-      "pushedAt": "08/11/2026 18:42:41",
+      "pushedAt": "08/12/2026 18:27:18",
       "tags": [
         "agent",
         "learning"
@@ -505,11 +501,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://code-graph-rag.com",
       "language": "Python",
-      "starsGained": 1189,
-      "totalStars": 3905,
-      "forks": 566,
+      "starsGained": 1511,
+      "totalStars": 4098,
+      "forks": 575,
       "license": "MIT",
-      "pushedAt": "08/11/2026 23:32:02",
+      "pushedAt": "08/12/2026 22:45:36",
       "tags": [
         "agent",
         "llm",
@@ -534,42 +530,6 @@ window.GITHUB_AI_TRENDS = {
           "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
-    },
-    {
-      "owner": "unclebob",
-      "repo": "swarm-forge",
-      "fullName": "unclebob/swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
-      "description": "A simple tool for coordinating several AI agents.",
-      "topics": [],
-      "homepage": "",
-      "language": "Clojure",
-      "starsGained": 671,
-      "totalStars": 2182,
-      "forks": 231,
-      "license": "",
-      "pushedAt": "08/11/2026 20:36:00",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "SwarmForge",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
-        "projectIntro": "该项目的 GitHub 简介是：A simple tool for coordinating several AI agents.",
-        "featurePoints": [
-          "核心线索：A simple tool for coordinating several AI agents."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Do not use main for this command; main is documentary and stores the shared operational scripts, while the runnable branches provide the configurations and prompts intended for projects."
-        ]
-      }
     }
   ],
   "monthly": [
@@ -583,9 +543,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 49161,
-      "totalStars": 214122,
-      "forks": 18474,
+      "starsGained": 49357,
+      "totalStars": 215189,
+      "forks": 18568,
       "license": "MIT",
       "pushedAt": "08/07/2026 15:50:46",
       "tags": [
@@ -617,7 +577,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
       "topics": [
         "a2a",
         "ai-agents",
@@ -642,11 +602,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 30582,
-      "totalStars": 46056,
-      "forks": 6196,
+      "starsGained": 30720,
+      "totalStars": 46661,
+      "forks": 6300,
       "license": "MIT",
-      "pushedAt": "08/12/2026 05:36:07",
+      "pushedAt": "08/13/2026 02:27:15",
       "tags": [
         "agent",
         "llm",
@@ -702,11 +662,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 26440,
-      "totalStars": 43031,
-      "forks": 3005,
+      "starsGained": 27261,
+      "totalStars": 44001,
+      "forks": 3064,
       "license": "MIT",
-      "pushedAt": "08/12/2026 05:44:14",
+      "pushedAt": "08/13/2026 02:39:26",
       "tags": [
         "agent",
         "llm",
@@ -741,9 +701,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 20034,
-      "totalStars": 24149,
-      "forks": 1218,
+      "starsGained": 20434,
+      "totalStars": 24408,
+      "forks": 1227,
       "license": "MIT",
       "pushedAt": "08/06/2026 16:19:18",
       "tags": [
@@ -790,11 +750,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
-      "starsGained": 19348,
-      "totalStars": 80924,
-      "forks": 12094,
+      "starsGained": 19780,
+      "totalStars": 81301,
+      "forks": 12149,
       "license": "NOASSERTION",
-      "pushedAt": "08/12/2026 05:41:55",
+      "pushedAt": "08/12/2026 19:59:33",
       "tags": [
         "agent"
       ],
@@ -826,11 +786,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 18096,
-      "totalStars": 87880,
-      "forks": 10919,
+      "starsGained": 18875,
+      "totalStars": 88686,
+      "forks": 11016,
       "license": "MIT",
-      "pushedAt": "08/11/2026 22:19:21",
+      "pushedAt": "08/12/2026 22:53:26",
       "tags": [
         "agent",
         "llm",
@@ -865,11 +825,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 15942,
-      "totalStars": 24074,
-      "forks": 3265,
+      "starsGained": 16418,
+      "totalStars": 24511,
+      "forks": 3325,
       "license": "MIT",
-      "pushedAt": "08/12/2026 04:35:04",
+      "pushedAt": "08/12/2026 16:06:45",
       "tags": [
         "agent",
         "llm",
@@ -901,34 +861,51 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28083037?s=40&v=4",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "topics": [],
-      "homepage": "",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "homepage": "https://officecli.ai",
       "language": "C#",
-      "starsGained": 12907,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 12740,
+      "totalStars": 27964,
+      "forks": 1894,
+      "license": "Apache-2.0",
+      "pushedAt": "08/04/2026 13:15:13",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "source": "readme",
+        "readmeTitle": "OfficeCLI",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -942,11 +919,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 11976,
-      "totalStars": 20615,
-      "forks": 2179,
+      "starsGained": 12345,
+      "totalStars": 20891,
+      "forks": 2204,
       "license": "MIT",
-      "pushedAt": "08/11/2026 21:56:27",
+      "pushedAt": "08/12/2026 14:24:33",
       "tags": [
         "agent",
         "llm"
@@ -991,9 +968,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 11445,
-      "totalStars": 20024,
-      "forks": 1809,
+      "starsGained": 11923,
+      "totalStars": 20642,
+      "forks": 1871,
       "license": "NOASSERTION",
       "pushedAt": "08/11/2026 12:12:06",
       "tags": [
@@ -1043,9 +1020,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://code-review-graph.com",
       "language": "Python",
-      "starsGained": 10514,
-      "totalStars": 29845,
-      "forks": 2733,
+      "starsGained": 10586,
+      "totalStars": 29930,
+      "forks": 2747,
       "license": "MIT",
       "pushedAt": "08/02/2026 12:45:39",
       "tags": [
@@ -1093,11 +1070,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 9113,
-      "totalStars": 34899,
-      "forks": 4435,
+      "starsGained": 9854,
+      "totalStars": 35208,
+      "forks": 4463,
       "license": "Apache-2.0",
-      "pushedAt": "08/11/2026 09:03:08",
+      "pushedAt": "08/12/2026 16:07:10",
       "tags": [
         "agent",
         "rag",
