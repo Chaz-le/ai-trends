@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-16T02:33:15.2588875+00:00",
+  "generatedAt": "2026-08-16T04:47:34.5200678+00:00",
   "weekly": [
     {
       "owner": "cathrynlavery",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "HTML",
       "starsGained": 14735,
-      "totalStars": 18682,
-      "forks": 1128,
+      "totalStars": 18796,
+      "forks": 1136,
       "license": "MIT",
       "pushedAt": "08/14/2026 21:28:44",
       "tags": [
@@ -49,8 +49,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8488,
-      "totalStars": 16301,
-      "forks": 1751,
+      "totalStars": 16343,
+      "forks": 1753,
       "license": "MIT",
       "pushedAt": "08/15/2026 02:41:29",
       "tags": [
@@ -106,8 +106,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 5339,
-      "totalStars": 7947,
-      "forks": 814,
+      "totalStars": 7970,
+      "forks": 816,
       "license": "MIT",
       "pushedAt": "08/15/2026 16:40:05",
       "tags": [
@@ -156,8 +156,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3956,
-      "totalStars": 22003,
-      "forks": 2015,
+      "totalStars": 22021,
+      "forks": 2018,
       "license": "NOASSERTION",
       "pushedAt": "08/15/2026 10:06:58",
       "tags": [
@@ -202,7 +202,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3300,
-      "totalStars": 87515,
+      "totalStars": 87538,
       "forks": 9384,
       "license": "MIT",
       "pushedAt": "08/14/2026 18:51:33",
@@ -249,8 +249,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 2488,
-      "totalStars": 6088,
-      "forks": 407,
+      "totalStars": 6129,
+      "forks": 409,
       "license": "MIT",
       "pushedAt": "08/15/2026 16:03:14",
       "tags": [
@@ -308,10 +308,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://macro.com",
       "language": "Rust",
       "starsGained": 2434,
-      "totalStars": 3277,
+      "totalStars": 3288,
       "forks": 327,
       "license": "AGPL-3.0",
-      "pushedAt": "08/16/2026 02:05:11",
+      "pushedAt": "08/16/2026 04:04:03",
       "tags": [
         "agent"
       ],
@@ -343,10 +343,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 2430,
-      "totalStars": 78325,
+      "totalStars": 78336,
       "forks": 14362,
       "license": "MIT",
-      "pushedAt": "08/16/2026 02:12:48",
+      "pushedAt": "08/16/2026 04:39:30",
       "tags": [
         "agent"
       ],
@@ -381,7 +381,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1966,
-      "totalStars": 8259,
+      "totalStars": 8274,
       "forks": 450,
       "license": "MIT",
       "pushedAt": "08/14/2026 14:18:16",
@@ -421,7 +421,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 1821,
-      "totalStars": 18338,
+      "totalStars": 18352,
       "forks": 1443,
       "license": "Apache-2.0",
       "pushedAt": "08/14/2026 19:19:17",
@@ -480,10 +480,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code-graph-rag.com",
       "language": "Python",
       "starsGained": 1756,
-      "totalStars": 4374,
+      "totalStars": 4379,
       "forks": 595,
       "license": "MIT",
-      "pushedAt": "08/16/2026 02:21:14",
+      "pushedAt": "08/16/2026 03:55:23",
       "tags": [
         "agent",
         "llm",
@@ -520,7 +520,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 1326,
-      "totalStars": 1587,
+      "totalStars": 1597,
       "forks": 144,
       "license": "Apache-2.0",
       "pushedAt": "08/14/2026 22:34:53",
@@ -559,8 +559,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 47580,
-      "totalStars": 218430,
-      "forks": 18817,
+      "totalStars": 218514,
+      "forks": 18827,
       "license": "MIT",
       "pushedAt": "08/15/2026 21:24:36",
       "tags": [
@@ -618,10 +618,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 31196,
-      "totalStars": 48616,
-      "forks": 6613,
+      "totalStars": 48660,
+      "forks": 6619,
       "license": "MIT",
-      "pushedAt": "08/16/2026 01:45:55",
+      "pushedAt": "08/16/2026 03:46:13",
       "tags": [
         "agent",
         "llm",
@@ -678,10 +678,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 26744,
-      "totalStars": 46152,
-      "forks": 3228,
+      "totalStars": 46186,
+      "forks": 3236,
       "license": "MIT",
-      "pushedAt": "08/16/2026 02:30:05",
+      "pushedAt": "08/16/2026 04:46:27",
       "tags": [
         "agent",
         "llm",
@@ -730,10 +730,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 20570,
-      "totalStars": 82158,
-      "forks": 12267,
+      "totalStars": 82187,
+      "forks": 12272,
       "license": "AGPL-3.0",
-      "pushedAt": "08/15/2026 20:18:07",
+      "pushedAt": "08/16/2026 04:47:30",
       "tags": [
         "agent"
       ],
@@ -766,10 +766,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 19831,
-      "totalStars": 90949,
-      "forks": 11280,
-      "license": "MIT",
-      "pushedAt": "08/15/2026 23:55:59",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -778,8 +778,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Pi Agent Harness",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -802,13 +802,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "topics": [],
-      "homepage": "https://www.usehallmark.com/",
+      "homepage": "",
       "language": "CSS",
       "starsGained": 18188,
-      "totalStars": 25128,
-      "forks": 1273,
-      "license": "MIT",
-      "pushedAt": "08/06/2026 16:19:18",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm"
@@ -816,8 +816,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -841,8 +841,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 17376,
-      "totalStars": 25511,
-      "forks": 3452,
+      "totalStars": 25528,
+      "forks": 3455,
       "license": "MIT",
       "pushedAt": "08/15/2026 00:58:40",
       "tags": [
@@ -881,10 +881,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 13193,
-      "totalStars": 21871,
-      "forks": 2306,
-      "license": "MIT",
-      "pushedAt": "08/13/2026 19:44:34",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm"
@@ -892,8 +892,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -904,8 +904,7 @@ window.GITHUB_AI_TRENDS = {
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -930,8 +929,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 13073,
-      "totalStars": 22003,
-      "forks": 2015,
+      "totalStars": 22021,
+      "forks": 2018,
       "license": "NOASSERTION",
       "pushedAt": "08/15/2026 10:06:58",
       "tags": [
@@ -965,88 +964,23 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?s=40&v=4",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "topics": [
-        "ai-coding",
-        "claude",
-        "claude-code",
-        "code-review",
-        "graphrag",
-        "incremental",
-        "knowledge-graph",
-        "llm",
-        "mcp",
-        "python",
-        "static-analysis",
-        "tree-sitter"
-      ],
-      "homepage": "https://code-review-graph.com",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 10869,
-      "totalStars": 30270,
-      "forks": 2770,
-      "license": "MIT",
-      "pushedAt": "08/02/2026 12:45:39",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": ".github/workflows/code-review-graph.yml",
-        "category": "code-knowledge-graph",
-        "zhTitle": "代码知识图谱工具",
-        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
-        "featurePoints": [
-          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
-          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
-          "把代码理解从临时扫描变成可复用上下文。"
-        ],
-        "scenarioPoints": [
-          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。",
-          "适用线索：Requires Python 3.10+. For the best experience, install uv (the MCP config will use uvx if available, otherwise falls back to the code-review-graph command directly)."
-        ]
-      }
-    },
-    {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "clawdbot",
-        "cli-tool",
-        "deepresearch",
-        "interactive-learning",
-        "large-language-models",
-        "multi-agent-systems",
-        "rag"
-      ],
-      "homepage": "http://arxiv.org/abs/2604.26962",
-      "language": "Python",
-      "starsGained": 9896,
-      "totalStars": 35799,
-      "forks": 4526,
-      "license": "Apache-2.0",
-      "pushedAt": "08/13/2026 11:32:51",
-      "tags": [
-        "agent",
-        "rag",
-        "ml",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "DeepTutor: Lifelong Personalized Tutoring",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1085,10 +1019,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://jcode.sh",
       "language": "Rust",
       "starsGained": 9406,
-      "totalStars": 17649,
-      "forks": 1987,
+      "totalStars": 17659,
+      "forks": 1989,
       "license": "MIT",
-      "pushedAt": "08/15/2026 03:29:37",
+      "pushedAt": "08/16/2026 03:33:37",
       "tags": [
         "agent",
         "llm"
@@ -1110,6 +1044,41 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：jcode login --provider openrouter"
+        ]
+      }
+    },
+    {
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "topics": [],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 8681,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "featurePoints": [
+          "核心线索：AirLLM 70B inference with single 4GB GPU"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
