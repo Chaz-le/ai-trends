@@ -1,68 +1,6 @@
 {
-  "generatedAt": "2026-08-15T04:44:48.198Z",
+  "generatedAt": "2026-08-16T01:53:33.185Z",
   "snapshots": [
-    {
-      "date": "2026-06-17",
-      "generatedAt": "2026-06-17T10:08:04.1990520+00:00",
-      "repos": {
-        "addyosmani/agent-skills": {
-          "stars": 61704,
-          "periodGain": 11431
-        },
-        "chopratejas/headroom": {
-          "stars": 30505,
-          "periodGain": 27895
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 43728,
-          "periodGain": 7226
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 32541,
-          "periodGain": 6427
-        },
-        "phuryn/pm-skills": {
-          "stars": 19204,
-          "periodGain": 5775
-        },
-        "NVIDIA/SkillSpector": {
-          "stars": 7167,
-          "periodGain": 5190
-        },
-        "lfnovo/open-notebook": {
-          "stars": 31218,
-          "periodGain": 2873
-        },
-        "refactoringhq/tolaria": {
-          "stars": 16589,
-          "periodGain": 2537
-        },
-        "x1xhlol/system-prompts-and-models-of-ai-tools": {
-          "stars": 140758,
-          "periodGain": 1731
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 42966,
-          "periodGain": 1220
-        },
-        "LMCache/LMCache": {
-          "stars": 9223,
-          "periodGain": 709
-        },
-        "colbymchenry/codegraph": {
-          "stars": 50750,
-          "periodGain": 48177
-        },
-        "Egonex-AI/Understand-Anything": {
-          "stars": 62260,
-          "periodGain": 46671
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 89097,
-          "periodGain": 31997
-        }
-      }
-    },
     {
       "date": "2026-06-18",
       "generatedAt": "2026-06-18T08:54:50.7702757+00:00",
@@ -4474,6 +4412,104 @@
         "1jehuang/jcode": {
           "stars": 17578,
           "periodGain": 9326
+        }
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "generatedAt": "2026-08-16T01:53:17.6686381+00:00",
+      "repos": {
+        "cathrynlavery/diagram-design": {
+          "stars": 18659,
+          "periodGain": 14735
+        },
+        "PrimeIntellect-ai/prime-agent": {
+          "stars": 16298,
+          "periodGain": 8488
+        },
+        "semantica-agi/semantica": {
+          "stars": 7945,
+          "periodGain": 5339
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 21996,
+          "periodGain": 13073
+        },
+        "addyosmani/agent-skills": {
+          "stars": 87508,
+          "periodGain": 3300
+        },
+        "cactus-compute/needle": {
+          "stars": 6079,
+          "periodGain": 2488
+        },
+        "macro-inc/macro": {
+          "stars": 3276,
+          "periodGain": 2434
+        },
+        "paperclipai/paperclip": {
+          "stars": 78319,
+          "periodGain": 2430
+        },
+        "cloudflare/computer": {
+          "stars": 8256,
+          "periodGain": 1966
+        },
+        "google/skills": {
+          "stars": 18335,
+          "periodGain": 1821
+        },
+        "vitali87/code-graph-rag": {
+          "stars": 4373,
+          "periodGain": 1756
+        },
+        "NVIDIA-NeMo/Switchyard": {
+          "stars": 1587,
+          "periodGain": 1326
+        },
+        "mattpocock/skills": {
+          "stars": 218414,
+          "periodGain": 47580
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 48604,
+          "periodGain": 31196
+        },
+        "stablyai/orca": {
+          "stars": 46135,
+          "periodGain": 26744
+        },
+        "koala73/worldmonitor": {
+          "stars": 82149,
+          "periodGain": 20570
+        },
+        "earendil-works/pi": {
+          "stars": 90934,
+          "periodGain": 19831
+        },
+        "Nutlope/hallmark": {
+          "stars": 25118,
+          "periodGain": 18188
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 25507,
+          "periodGain": 17376
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 21859,
+          "periodGain": 13193
+        },
+        "tirth8205/code-review-graph": {
+          "stars": 30269,
+          "periodGain": 10869
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 35792,
+          "periodGain": 9896
+        },
+        "1jehuang/jcode": {
+          "stars": 17647,
+          "periodGain": 9406
         }
       }
     }
