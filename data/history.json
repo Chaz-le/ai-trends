@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:23:11.197Z",
+  "generatedAt": "2026-08-19T04:49:31.970Z",
   "snapshots": [
     {
       "date": "2026-06-21",
@@ -4417,98 +4417,98 @@
     },
     {
       "date": "2026-08-19",
-      "generatedAt": "2026-08-19T02:22:46.9010679+00:00",
+      "generatedAt": "2026-08-19T04:49:12.3326311+00:00",
       "repos": {
         "cathrynlavery/diagram-design": {
-          "stars": 21931,
+          "stars": 22105,
           "periodGain": 15812
         },
         "semantica-agi/semantica": {
-          "stars": 9039,
+          "stars": 9138,
           "periodGain": 4304
         },
         "cactus-compute/needle": {
-          "stars": 7535,
+          "stars": 7575,
           "periodGain": 3772
         },
         "unslothai/unsloth": {
-          "stars": 73614,
+          "stars": 73643,
           "periodGain": 3636
         },
         "PrimeIntellect-ai/prime-agent": {
-          "stars": 17213,
+          "stars": 17237,
           "periodGain": 3475
         },
         "macro-inc/macro": {
-          "stars": 3681,
+          "stars": 3695,
           "periodGain": 2627
         },
         "lightningpixel/modly": {
-          "stars": 6707,
+          "stars": 6737,
           "periodGain": 1600
         },
         "AlexsJones/llmfit": {
-          "stars": 32748,
+          "stars": 32773,
           "periodGain": 1316
         },
         "vitali87/code-graph-rag": {
-          "stars": 4627,
+          "stars": 4637,
           "periodGain": 910
         },
         "Lightricks/LTX-2": {
-          "stars": 9137,
+          "stars": 9142,
           "periodGain": 556
         },
         "superradcompany/microsandbox": {
-          "stars": 7685,
+          "stars": 7698,
           "periodGain": 350
         },
         "mattpocock/skills": {
-          "stars": 221582,
+          "stars": 221887,
           "periodGain": 46007
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 50522,
+          "stars": 50582,
           "periodGain": 32029
         },
         "stablyai/orca": {
-          "stars": 48363,
+          "stars": 48473,
           "periodGain": 26771
         },
         "ayghri/i-have-adhd": {
-          "stars": 21995,
+          "stars": 22037,
           "periodGain": 21447
         },
         "koala73/worldmonitor": {
-          "stars": 82990,
+          "stars": 83022,
           "periodGain": 21286
         },
         "earendil-works/pi": {
-          "stars": 93199,
+          "stars": 93310,
           "periodGain": 20985
         },
         "zhaoxuya520/reverse-skill": {
-          "stars": 26388,
+          "stars": 26430,
           "periodGain": 18059
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 22881,
+          "stars": 22921,
           "periodGain": 14079
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 22997,
+          "stars": 23038,
           "periodGain": 13944
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 65456,
+          "stars": 65483,
           "periodGain": 13156
         },
         "oblien/openship": {
-          "stars": 11037,
+          "stars": 11051,
           "periodGain": 10646
         },
         "1jehuang/jcode": {
-          "stars": 17946,
+          "stars": 17956,
           "periodGain": 9593
         }
       }
