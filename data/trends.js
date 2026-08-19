@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-19T01:47:43.8353059+00:00",
+  "generatedAt": "2026-08-19T02:22:46.9010679+00:00",
   "weekly": [
     {
       "owner": "cathrynlavery",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "HTML",
       "starsGained": 15812,
-      "totalStars": 21880,
-      "forks": 1340,
+      "totalStars": 21931,
+      "forks": 1342,
       "license": "MIT",
       "pushedAt": "08/18/2026 23:49:39",
       "tags": [
@@ -70,7 +70,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 4304,
-      "totalStars": 9030,
+      "totalStars": 9039,
       "forks": 932,
       "license": "MIT",
       "pushedAt": "08/18/2026 17:05:58",
@@ -116,7 +116,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 3772,
-      "totalStars": 7525,
+      "totalStars": 7535,
       "forks": 482,
       "license": "Apache-2.0",
       "pushedAt": "08/19/2026 01:43:37",
@@ -175,10 +175,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://unsloth.ai/docs",
       "language": "Python",
       "starsGained": 3636,
-      "totalStars": 73607,
+      "totalStars": 73614,
       "forks": 6649,
       "license": "Apache-2.0",
-      "pushedAt": "08/19/2026 01:36:26",
+      "pushedAt": "08/19/2026 02:13:50",
       "tags": [
         "agent",
         "llm",
@@ -216,8 +216,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3475,
-      "totalStars": 17203,
-      "forks": 1849,
+      "totalStars": 17213,
+      "forks": 1850,
       "license": "MIT",
       "pushedAt": "08/19/2026 00:43:57",
       "tags": [
@@ -273,7 +273,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://macro.com",
       "language": "Rust",
       "starsGained": 2627,
-      "totalStars": 3678,
+      "totalStars": 3681,
       "forks": 361,
       "license": "AGPL-3.0",
       "pushedAt": "08/19/2026 01:35:04",
@@ -316,8 +316,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://modly3d.app",
       "language": "TypeScript",
       "starsGained": 1600,
-      "totalStars": 6700,
-      "forks": 654,
+      "totalStars": 6707,
+      "forks": 656,
       "license": "NOASSERTION",
       "pushedAt": "08/18/2026 07:48:22",
       "tags": [
@@ -362,7 +362,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 1316,
-      "totalStars": 32740,
+      "totalStars": 32748,
       "forks": 2021,
       "license": "MIT",
       "pushedAt": "08/18/2026 17:33:15",
@@ -420,10 +420,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code-graph-rag.com",
       "language": "Python",
       "starsGained": 910,
-      "totalStars": 4625,
+      "totalStars": 4627,
       "forks": 615,
       "license": "MIT",
-      "pushedAt": "08/19/2026 01:27:08",
+      "pushedAt": "08/19/2026 02:19:24",
       "tags": [
         "agent",
         "llm",
@@ -464,7 +464,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ltx.io",
       "language": "Python",
       "starsGained": 556,
-      "totalStars": 9136,
+      "totalStars": 9137,
       "forks": 1436,
       "license": "NOASSERTION",
       "pushedAt": "08/16/2026 08:58:17",
@@ -522,10 +522,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://docs.microsandbox.dev",
       "language": "Rust",
       "starsGained": 350,
-      "totalStars": 7679,
+      "totalStars": 7685,
       "forks": 408,
       "license": "Apache-2.0",
-      "pushedAt": "08/19/2026 01:41:59",
+      "pushedAt": "08/19/2026 02:07:07",
       "tags": [
         "agent"
       ],
@@ -556,13 +556,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 46007,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 221582,
+      "forks": 19090,
+      "license": "MIT",
+      "pushedAt": "08/17/2026 07:54:42",
       "tags": [
         "agent",
         "learning"
@@ -570,8 +570,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Skills For Real Engineers",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -618,8 +618,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 32029,
-      "totalStars": 50510,
-      "forks": 6879,
+      "totalStars": 50522,
+      "forks": 6882,
       "license": "MIT",
       "pushedAt": "08/19/2026 01:36:39",
       "tags": [
@@ -655,34 +655,54 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 26771,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 48363,
+      "forks": 3347,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 02:15:23",
       "tags": [
         "agent",
+        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "readme",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -704,7 +724,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 21447,
-      "totalStars": 21986,
+      "totalStars": 21995,
       "forks": 1396,
       "license": "MIT",
       "pushedAt": "08/18/2026 03:35:24",
@@ -757,7 +777,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 21286,
-      "totalStars": 82979,
+      "totalStars": 82990,
       "forks": 12379,
       "license": "AGPL-3.0",
       "pushedAt": "08/18/2026 22:53:21",
@@ -793,8 +813,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 20985,
-      "totalStars": 93168,
-      "forks": 11545,
+      "totalStars": 93199,
+      "forks": 11548,
       "license": "MIT",
       "pushedAt": "08/18/2026 18:54:05",
       "tags": [
@@ -832,10 +852,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 18059,
-      "totalStars": 26368,
-      "forks": 3576,
+      "totalStars": 26388,
+      "forks": 3580,
       "license": "MIT",
-      "pushedAt": "08/16/2026 12:41:00",
+      "pushedAt": "08/19/2026 02:10:55",
       "tags": [
         "agent",
         "llm",
@@ -886,7 +906,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 14079,
-      "totalStars": 22872,
+      "totalStars": 22881,
       "forks": 2423,
       "license": "MIT",
       "pushedAt": "08/19/2026 00:57:31",
@@ -937,8 +957,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 13944,
-      "totalStars": 22990,
-      "forks": 2096,
+      "totalStars": 22997,
+      "forks": 2098,
       "license": "NOASSERTION",
       "pushedAt": "08/15/2026 10:06:58",
       "tags": [
@@ -987,8 +1007,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 13156,
-      "totalStars": 65450,
-      "forks": 12696,
+      "totalStars": 65456,
+      "forks": 12698,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -1010,6 +1030,47 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
+        ]
+      }
+    },
+    {
+      "owner": "oblien",
+      "repo": "openship",
+      "fullName": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/162022179?s=40&v=4",
+      "description": "Self-hosted deployment platform",
+      "topics": [
+        "agents",
+        "ai",
+        "deployments",
+        "self-hosted"
+      ],
+      "homepage": "https://openship.io",
+      "language": "TypeScript",
+      "starsGained": 10646,
+      "totalStars": 11037,
+      "forks": 943,
+      "license": "Apache-2.0",
+      "pushedAt": "08/19/2026 02:10:33",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Self-hosted deployment platform",
+        "projectIntro": "该项目的 GitHub 简介是：Self-hosted deployment platform",
+        "featurePoints": [
+          "核心线索：Self-hosted deployment platform"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：From the desktop app you connect a server (SSH) or Openship Cloud and deploy to it — the app itself doesn't host public apps on your laptop."
         ]
       }
     },
@@ -1037,7 +1098,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://jcode.sh",
       "language": "Rust",
       "starsGained": 9593,
-      "totalStars": 17945,
+      "totalStars": 17946,
       "forks": 2015,
       "license": "MIT",
       "pushedAt": "08/18/2026 19:45:34",
@@ -1062,41 +1123,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：jcode login --provider openrouter"
-        ]
-      }
-    },
-    {
-      "owner": "lyogavin",
-      "repo": "airllm",
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "topics": [],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 8531,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "featurePoints": [
-          "核心线索：AirLLM 70B inference with single 4GB GPU"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
