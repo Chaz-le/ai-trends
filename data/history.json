@@ -1,96 +1,6 @@
 {
-  "generatedAt": "2026-08-19T04:49:31.970Z",
+  "generatedAt": "2026-08-20T01:46:46.523Z",
   "snapshots": [
-    {
-      "date": "2026-06-21",
-      "generatedAt": "2026-06-21T08:40:25.4020646+00:00",
-      "repos": {
-        "chopratejas/headroom": {
-          "stars": 42537,
-          "periodGain": 38927
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 36241,
-          "periodGain": 15755
-        },
-        "addyosmani/agent-skills": {
-          "stars": 64400,
-          "periodGain": 6332
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 9669,
-          "periodGain": 5419
-        },
-        "NVIDIA/SkillSpector": {
-          "stars": 8812,
-          "periodGain": 4631
-        },
-        "google-research/timesfm": {
-          "stars": 24677,
-          "periodGain": 3655
-        },
-        "freeCodeCamp/freeCodeCamp": {
-          "stars": 450005,
-          "periodGain": 3308
-        },
-        "phuryn/pm-skills": {
-          "stars": 20180,
-          "periodGain": 2605
-        },
-        "lfnovo/open-notebook": {
-          "stars": 32143,
-          "periodGain": 2143
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 43967,
-          "periodGain": 1866
-        },
-        "withastro/flue": {
-          "stars": 6192,
-          "periodGain": 1012
-        },
-        "LMCache/LMCache": {
-          "stars": 9497,
-          "periodGain": 713
-        },
-        "Egonex-AI/Understand-Anything": {
-          "stars": 64844,
-          "periodGain": 49332
-        },
-        "colbymchenry/codegraph": {
-          "stars": 52419,
-          "periodGain": 44426
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 90496,
-          "periodGain": 33448
-        },
-        "microsoft/markitdown": {
-          "stars": 156725,
-          "periodGain": 33004
-        },
-        "Leonxlnx/taste-skill": {
-          "stars": 48021,
-          "periodGain": 29397
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 35162,
-          "periodGain": 26087
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 45176,
-          "periodGain": 19041
-        },
-        "esengine/DeepSeek-Reasonix": {
-          "stars": 23419,
-          "periodGain": 18518
-        },
-        "anthropics/knowledge-work-plugins": {
-          "stars": 21566,
-          "periodGain": 9203
-        }
-      }
-    },
     {
       "date": "2026-06-22",
       "generatedAt": "2026-06-22T10:14:26.1410315+00:00",
@@ -4510,6 +4420,68 @@
         "1jehuang/jcode": {
           "stars": 17956,
           "periodGain": 9593
+        }
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "generatedAt": "2026-08-20T01:46:23.6289940+00:00",
+      "repos": {
+        "cathrynlavery/diagram-design": {
+          "stars": 23407,
+          "periodGain": 14397
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 110808,
+          "periodGain": 7380
+        },
+        "semantica-agi/semantica": {
+          "stars": 9539,
+          "periodGain": 4005
+        },
+        "cactus-compute/needle": {
+          "stars": 7834,
+          "periodGain": 3838
+        },
+        "unslothai/unsloth": {
+          "stars": 73876,
+          "periodGain": 3338
+        },
+        "macro-inc/macro": {
+          "stars": 3781,
+          "periodGain": 2557
+        },
+        "lightningpixel/modly": {
+          "stars": 6914,
+          "periodGain": 1797
+        },
+        "volcengine/OpenViking": {
+          "stars": 30237,
+          "periodGain": 1659
+        },
+        "AlexsJones/llmfit": {
+          "stars": 33065,
+          "periodGain": 1545
+        },
+        "jundot/omlx": {
+          "stars": 19851,
+          "periodGain": 1102
+        },
+        "CodebuffAI/freebuff": {
+          "stars": 10110,
+          "periodGain": 1037
+        },
+        "superradcompany/microsandbox": {
+          "stars": 7781,
+          "periodGain": 460
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 51268,
+          "periodGain": 31584
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 22336,
+          "periodGain": 20624
         }
       }
     }
