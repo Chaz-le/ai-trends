@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-20T01:46:23.6289940+00:00",
+  "generatedAt": "2026-08-20T02:21:31.9310126+00:00",
   "weekly": [
     {
       "owner": "cathrynlavery",
@@ -22,7 +22,7 @@
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 14397,
-      "totalStars": 23407,
+      "totalStars": 23444,
       "forks": 1438,
       "license": "MIT",
       "pushedAt": "08/20/2026 00:49:35",
@@ -76,10 +76,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 7380,
-      "totalStars": 110808,
-      "forks": 16797,
+      "totalStars": 110912,
+      "forks": 16809,
       "license": "MIT",
-      "pushedAt": "08/19/2026 08:30:15",
+      "pushedAt": "08/20/2026 02:15:10",
       "tags": [
         "agent",
         "llm",
@@ -137,8 +137,8 @@
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 4005,
-      "totalStars": 9539,
-      "forks": 1003,
+      "totalStars": 9552,
+      "forks": 1005,
       "license": "MIT",
       "pushedAt": "08/19/2026 14:21:07",
       "tags": [
@@ -183,8 +183,8 @@
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 3838,
-      "totalStars": 7834,
-      "forks": 507,
+      "totalStars": 7841,
+      "forks": 508,
       "license": "Apache-2.0",
       "pushedAt": "08/19/2026 16:06:08",
       "tags": [
@@ -242,7 +242,7 @@
       "homepage": "https://unsloth.ai/docs",
       "language": "Python",
       "starsGained": 3338,
-      "totalStars": 73876,
+      "totalStars": 73880,
       "forks": 6672,
       "license": "Apache-2.0",
       "pushedAt": "08/20/2026 01:00:24",
@@ -304,10 +304,10 @@
       "homepage": "https://macro.com",
       "language": "Rust",
       "starsGained": 2557,
-      "totalStars": 3781,
+      "totalStars": 3782,
       "forks": 367,
       "license": "AGPL-3.0",
-      "pushedAt": "08/20/2026 01:43:04",
+      "pushedAt": "08/20/2026 02:10:23",
       "tags": [
         "agent"
       ],
@@ -347,7 +347,7 @@
       "homepage": "https://modly3d.app",
       "language": "TypeScript",
       "starsGained": 1797,
-      "totalStars": 6914,
+      "totalStars": 6918,
       "forks": 666,
       "license": "NOASSERTION",
       "pushedAt": "08/18/2026 07:48:22",
@@ -393,8 +393,8 @@
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 1659,
-      "totalStars": 30237,
-      "forks": 2337,
+      "totalStars": 30277,
+      "forks": 2339,
       "license": "AGPL-3.0",
       "pushedAt": "08/19/2026 15:59:33",
       "tags": [
@@ -440,8 +440,8 @@
       "homepage": "",
       "language": "Rust",
       "starsGained": 1545,
-      "totalStars": 33065,
-      "forks": 2048,
+      "totalStars": 33074,
+      "forks": 2049,
       "license": "MIT",
       "pushedAt": "08/19/2026 13:43:10",
       "tags": [
@@ -484,8 +484,8 @@
       "homepage": "https://omlx.ai",
       "language": "Python",
       "starsGained": 1102,
-      "totalStars": 19851,
-      "forks": 1692,
+      "totalStars": 19861,
+      "forks": 1693,
       "license": "Apache-2.0",
       "pushedAt": "08/19/2026 17:51:32",
       "tags": [
@@ -521,10 +521,10 @@
       "homepage": "https://freebuff.com",
       "language": "TypeScript",
       "starsGained": 1037,
-      "totalStars": 10110,
-      "forks": 1122,
+      "totalStars": 10117,
+      "forks": 1123,
       "license": "Apache-2.0",
-      "pushedAt": "08/20/2026 01:42:27",
+      "pushedAt": "08/20/2026 02:00:22",
       "tags": [
         "agent",
         "coding"
@@ -577,7 +577,7 @@
       "homepage": "https://docs.microsandbox.dev",
       "language": "Rust",
       "starsGained": 460,
-      "totalStars": 7781,
+      "totalStars": 7785,
       "forks": 410,
       "license": "Apache-2.0",
       "pushedAt": "08/20/2026 01:30:36",
@@ -611,13 +611,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 46905,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 223927,
+      "forks": 19260,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 13:09:36",
       "tags": [
         "agent",
         "learning"
@@ -625,8 +625,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Skills For Real Engineers",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -673,8 +673,8 @@
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 31584,
-      "totalStars": 51268,
-      "forks": 6972,
+      "totalStars": 51283,
+      "forks": 6974,
       "license": "MIT",
       "pushedAt": "08/20/2026 00:27:44",
       "tags": [
@@ -710,34 +710,54 @@
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor-agent",
+        "devtools",
+        "ghostty",
+        "ide",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "pi",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 27071,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 49172,
+      "forks": 3393,
+      "license": "MIT",
+      "pushedAt": "08/20/2026 02:10:27",
       "tags": [
         "agent",
+        "llm",
         "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "readme",
+        "readmeTitle": "macOS (Homebrew)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -748,22 +768,35 @@
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996596?s=40&v=4",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "homepage": "https://worldmonitor.app",
       "language": "TypeScript",
       "starsGained": 21531,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 83245,
+      "forks": 12420,
+      "license": "AGPL-3.0",
+      "pushedAt": "08/19/2026 22:01:32",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "World Monitor",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
@@ -772,7 +805,8 @@
           "核心线索：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Feature-specific data sources may require credentials. See .env.example for the full list."
         ]
       }
     },
@@ -787,10 +821,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 21424,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 93843,
+      "forks": 11615,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 22:29:09",
       "tags": [
         "agent",
         "llm",
@@ -799,8 +833,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Pi Agent Harness",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -833,7 +867,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 20624,
-      "totalStars": 22336,
+      "totalStars": 22340,
       "forks": 1414,
       "license": "MIT",
       "pushedAt": "08/19/2026 02:32:58",
@@ -868,15 +902,15 @@
       "fullName": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 18446,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 26772,
+      "forks": 3647,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 09:35:00",
       "tags": [
         "agent",
         "llm",
@@ -885,8 +919,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Routing regression — 163 (hint → expected PRIMARY) cases, fails CI on any mismatch",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -897,7 +931,8 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Java / JDK — for jadx and apktool"
         ]
       }
     },
@@ -908,23 +943,39 @@
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 14356,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 23150,
+      "forks": 2450,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 20:59:45",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -935,7 +986,8 @@
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
         ]
       }
     },
@@ -946,23 +998,34 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "topics": [],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "embedding",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "memory",
+        "openclaw-plugin",
+        "vector-search"
+      ],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 14200,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 23248,
+      "forks": 2131,
+      "license": "NOASSERTION",
+      "pushedAt": "08/15/2026 10:06:58",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "What is TencentDB Agent Memory?",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -984,22 +1047,34 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
       "description": "12 Weeks, 24 Lessons, AI for All!",
-      "topics": [],
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "cnn",
+        "computer-vision",
+        "deep-learning",
+        "gan",
+        "machine-learning",
+        "microsoft-for-beginners",
+        "nlp",
+        "rnn"
+      ],
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 13404,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 65698,
+      "forks": 12733,
+      "license": "MIT",
+      "pushedAt": "07/21/2026 11:11:48",
       "tags": [
-        "agent"
+        "agent",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Artificial Intelligence for Beginners - A Curriculum",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：12 Weeks, 24 Lessons, AI for All!",
@@ -1008,60 +1083,39 @@
           "核心线索：12 Weeks, 24 Lessons, AI for All!"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：If you're completely new to AI and want quick, hands-on examples, check out our Beginner-Friendly Examples! These include:"
         ]
       }
     },
     {
-      "owner": "lyogavin",
-      "repo": "airllm",
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "topics": [],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 8268,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "ml"
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+      "description": "The most RAM efficient harness",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding-agent",
+        "claude",
+        "cli",
+        "coding-agent",
+        "llm",
+        "mcp",
+        "openai",
+        "rust",
+        "terminal",
+        "tui"
       ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "featurePoints": [
-          "核心线索：AirLLM 70B inference with single 4GB GPU"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "different-ai",
-      "repo": "openwork",
-      "fullName": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 5910,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "homepage": "https://jcode.sh",
+      "language": "Rust",
+      "starsGained": 9437,
+      "totalStars": 18023,
+      "forks": 2028,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 06:30:28",
       "tags": [
         "agent",
         "llm"
@@ -1069,17 +1123,70 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
-        "projectIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
+        "source": "readme",
+        "readmeTitle": "jcode",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：The open-source alternative to Claude Cowork (powered by opencode)"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：jcode login --provider openrouter"
+        ]
+      }
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawdbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "large-language-models",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 8834,
+      "totalStars": 36533,
+      "forks": 4591,
+      "license": "Apache-2.0",
+      "pushedAt": "08/19/2026 18:17:02",
+      "tags": [
+        "agent",
+        "rag",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "DeepTutor: Lifelong Personalized Tutoring",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
