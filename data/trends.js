@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-22T01:45:01.5074301+00:00",
+  "generatedAt": "2026-08-22T02:19:37.8101130+00:00",
   "weekly": [
     {
       "owner": "harry0703",
@@ -28,8 +28,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 10470,
-      "totalStars": 113954,
-      "forks": 17289,
+      "totalStars": 113976,
+      "forks": 17293,
       "license": "MIT",
       "pushedAt": "08/22/2026 00:58:57",
       "tags": [
@@ -77,8 +77,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 8457,
-      "totalStars": 25023,
-      "forks": 1526,
+      "totalStars": 25036,
+      "forks": 1528,
       "license": "MIT",
       "pushedAt": "08/21/2026 22:26:23",
       "tags": [
@@ -123,8 +123,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 3033,
-      "totalStars": 31674,
-      "forks": 2424,
+      "totalStars": 31690,
+      "forks": 2425,
       "license": "AGPL-3.0",
       "pushedAt": "08/22/2026 01:37:44",
       "tags": [
@@ -184,10 +184,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://unsloth.ai/docs",
       "language": "Python",
       "starsGained": 2987,
-      "totalStars": 74278,
+      "totalStars": 74282,
       "forks": 6713,
       "license": "Apache-2.0",
-      "pushedAt": "08/22/2026 01:00:04",
+      "pushedAt": "08/22/2026 02:10:17",
       "tags": [
         "agent",
         "llm",
@@ -231,8 +231,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 2985,
-      "totalStars": 8345,
-      "forks": 537,
+      "totalStars": 8352,
+      "forks": 538,
       "license": "Apache-2.0",
       "pushedAt": "08/21/2026 16:06:23",
       "tags": [
@@ -290,7 +290,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 2755,
-      "totalStars": 10086,
+      "totalStars": 10096,
       "forks": 1079,
       "license": "MIT",
       "pushedAt": "08/21/2026 14:08:25",
@@ -330,8 +330,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 2404,
-      "totalStars": 3949,
-      "forks": 297,
+      "totalStars": 3951,
+      "forks": 298,
       "license": "MIT",
       "pushedAt": "08/21/2026 20:07:18",
       "tags": [
@@ -375,8 +375,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 1991,
-      "totalStars": 33451,
-      "forks": 2080,
+      "totalStars": 33455,
+      "forks": 2081,
       "license": "MIT",
       "pushedAt": "08/21/2026 15:06:40",
       "tags": [
@@ -420,7 +420,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://docs.modular.com/",
       "language": "Mojo",
       "starsGained": 1643,
-      "totalStars": 28694,
+      "totalStars": 28698,
       "forks": 3054,
       "license": "NOASSERTION",
       "pushedAt": "08/21/2026 06:34:12",
@@ -456,7 +456,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1582,
-      "totalStars": 4415,
+      "totalStars": 4422,
       "forks": 367,
       "license": "",
       "pushedAt": "08/21/2026 03:10:06",
@@ -499,7 +499,7 @@ window.GITHUB_AI_TRENDS = {
       "language": "Python",
       "starsGained": 1536,
       "totalStars": 20227,
-      "forks": 1716,
+      "forks": 1717,
       "license": "Apache-2.0",
       "pushedAt": "08/21/2026 15:41:01",
       "tags": [
@@ -535,7 +535,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 642,
-      "totalStars": 2066,
+      "totalStars": 2070,
       "forks": 185,
       "license": "Apache-2.0",
       "pushedAt": "08/21/2026 22:27:42",
@@ -571,13 +571,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 49607,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 229638,
+      "forks": 19630,
+      "license": "MIT",
+      "pushedAt": "08/21/2026 10:56:48",
       "tags": [
         "agent",
         "learning"
@@ -585,8 +585,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Skills For Real Engineers",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -633,8 +633,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 29957,
-      "totalStars": 52720,
-      "forks": 7183,
+      "totalStars": 52730,
+      "forks": 7184,
       "license": "MIT",
       "pushedAt": "08/22/2026 01:32:20",
       "tags": [
@@ -664,6 +664,62 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1421793?s=40&v=4",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent",
+        "context-engineering",
+        "large-language-models",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "multimodal",
+        "rag",
+        "reinforcement-learning"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 27568,
+      "totalStars": 40710,
+      "forks": 4481,
+      "license": "Apache-2.0",
+      "pushedAt": "08/21/2026 15:06:47",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "multimodal",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "深入理解 AI Agent：设计原理与工程实践",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
       "owner": "earendil-works",
       "repo": "pi",
       "fullName": "earendil-works/pi",
@@ -674,10 +730,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 20935,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 95081,
+      "forks": 11766,
+      "license": "MIT",
+      "pushedAt": "08/21/2026 23:19:36",
       "tags": [
         "agent",
         "llm",
@@ -686,8 +742,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Pi Agent Harness",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -713,7 +769,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 18751,
-      "totalStars": 27226,
+      "totalStars": 27233,
       "forks": 3711,
       "license": "MIT",
       "pushedAt": "08/22/2026 01:11:01",
@@ -760,7 +816,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 16937,
-      "totalStars": 22994,
+      "totalStars": 22996,
       "forks": 1474,
       "license": "MIT",
       "pushedAt": "08/21/2026 15:25:27",
@@ -810,7 +866,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 14568,
-      "totalStars": 23672,
+      "totalStars": 23676,
       "forks": 2186,
       "license": "NOASSERTION",
       "pushedAt": "08/15/2026 10:06:58",
@@ -845,23 +901,39 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 14523,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 23686,
+      "forks": 2500,
+      "license": "MIT",
+      "pushedAt": "08/19/2026 20:59:45",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -872,7 +944,8 @@ window.GITHUB_AI_TRENDS = {
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
         ]
       }
     },
@@ -898,7 +971,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 13793,
-      "totalStars": 66138,
+      "totalStars": 66143,
       "forks": 12812,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
@@ -946,7 +1019,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
       "starsGained": 11791,
-      "totalStars": 12537,
+      "totalStars": 12544,
       "forks": 654,
       "license": "MIT",
       "pushedAt": "08/21/2026 14:46:43",
@@ -981,22 +1054,39 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/lyogavin/airllm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "topics": [],
+      "topics": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set",
+        "llama",
+        "llm",
+        "lora",
+        "open-models",
+        "open-source",
+        "open-source-models",
+        "qlora"
+      ],
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 8352,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 32109,
+      "forks": 3397,
+      "license": "Apache-2.0",
+      "pushedAt": "08/21/2026 06:47:59",
       "tags": [
-        "ml"
+        "agent",
+        "llm",
+        "ml",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "just pass a hugging face repo id — works with almost any popular model:",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
@@ -1010,20 +1100,33 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "different-ai",
-      "repo": "openwork",
-      "fullName": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11430621?s=40&v=4",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 6084,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
+      "description": "The most RAM efficient harness",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding-agent",
+        "claude",
+        "cli",
+        "coding-agent",
+        "llm",
+        "mcp",
+        "openai",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "homepage": "https://jcode.sh",
+      "language": "Rust",
+      "starsGained": 8256,
+      "totalStars": 18179,
+      "forks": 2040,
+      "license": "MIT",
+      "pushedAt": "08/21/2026 10:37:26",
       "tags": [
         "agent",
         "llm"
@@ -1031,61 +1134,20 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
-        "projectIntro": "该项目的 GitHub 简介是：The open-source alternative to Claude Cowork (powered by opencode)",
-        "featurePoints": [
-          "核心线索：The open-source alternative to Claude Cowork (powered by opencode)"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "cactus-compute",
-      "repo": "needle",
-      "fullName": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "homepage": "https://cactuscompute.com",
-      "language": "Python",
-      "starsGained": 5043,
-      "totalStars": 8345,
-      "forks": 537,
-      "license": "Apache-2.0",
-      "pushedAt": "08/21/2026 16:06:23",
-      "tags": [
-        "agent",
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
         "source": "readme",
-        "readmeTitle": "Needle 2",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "projectIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "readmeTitle": "jcode",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：jcode login --provider openrouter"
         ]
       }
     }
