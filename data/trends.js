@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-23T04:49:36.0159237+00:00",
+  "generatedAt": "2026-08-24T01:52:50.6808835+00:00",
   "weekly": [
     {
       "owner": "harry0703",
@@ -27,11 +27,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 10953,
-      "totalStars": 114751,
-      "forks": 17422,
+      "starsGained": 11167,
+      "totalStars": 115339,
+      "forks": 17522,
       "license": "MIT",
-      "pushedAt": "08/22/2026 14:29:05",
+      "pushedAt": "08/23/2026 10:12:05",
       "tags": [
         "agent",
         "llm",
@@ -58,54 +58,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "homepage": "https://cathrynlavery.github.io/diagram-design/",
-      "language": "HTML",
-      "starsGained": 7368,
-      "totalStars": 25531,
-      "forks": 1569,
-      "license": "MIT",
-      "pushedAt": "08/21/2026 22:26:23",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Diagram Design",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -122,11 +74,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 3447,
-      "totalStars": 32143,
-      "forks": 2453,
+      "starsGained": 3799,
+      "totalStars": 32507,
+      "forks": 2483,
       "license": "AGPL-3.0",
-      "pushedAt": "08/22/2026 09:44:23",
+      "pushedAt": "08/23/2026 15:02:23",
       "tags": [
         "agent",
         "rag",
@@ -153,105 +105,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 2575,
-      "totalStars": 4116,
-      "forks": 301,
-      "license": "MIT",
-      "pushedAt": "08/22/2026 17:29:30",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Quit Claude Code, then continue the same workstream in Codex.",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
-        ],
-        "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：\"Quit Claude Code and continue the same work in Codex.\" Use the optional"
-        ]
-      }
-    },
-    {
-      "owner": "semantica-agi",
-      "repo": "semantica",
-      "fullName": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "topics": [
-        "agent-memory",
-        "ai",
-        "ai-governance",
-        "ai-infrastructure",
-        "artificial-intelligence",
-        "context-engineering",
-        "context-graphs",
-        "data-engineering",
-        "decision-intelligence",
-        "developer-tools",
-        "explainable-ai",
-        "generative-ai",
-        "graph-rag",
-        "knowledge-graph",
-        "llm",
-        "ontology",
-        "provenance",
-        "python",
-        "reasoning",
-        "semantic-search"
-      ],
-      "homepage": "https://getsemantica.ai",
-      "language": "Python",
-      "starsGained": 2450,
-      "totalStars": 10303,
-      "forks": 1109,
-      "license": "MIT",
-      "pushedAt": "08/22/2026 17:31:32",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "modular",
       "repo": "modular",
       "fullName": "modular/modular",
@@ -269,11 +122,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://docs.modular.com/",
       "language": "Mojo",
-      "starsGained": 2017,
-      "totalStars": 28875,
-      "forks": 3067,
+      "starsGained": 2176,
+      "totalStars": 28984,
+      "forks": 3077,
       "license": "NOASSERTION",
-      "pushedAt": "08/22/2026 20:19:58",
+      "pushedAt": "08/23/2026 06:28:26",
       "tags": [
         "agent",
         "learning"
@@ -296,50 +149,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "AlexsJones",
-      "repo": "llmfit",
-      "fullName": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1235925?s=40&v=4",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "topics": [
-        "gguf",
-        "llm",
-        "localai",
-        "mlx",
-        "skill",
-        "unsloth"
-      ],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 1949,
-      "totalStars": 33598,
-      "forks": 2101,
-      "license": "MIT",
-      "pushedAt": "08/22/2026 07:49:13",
-      "tags": [
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "llmfit",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Hundreds of models & providers. One command to find what runs on your hardware.",
-        "projectIntro": "该项目的 GitHub 简介是：Hundreds of models & providers. One command to find what runs on your hardware.",
-        "featurePoints": [
-          "核心线索：Hundreds of models & providers. One command to find what runs on your hardware."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：For scripts, agents, and classic terminal output:"
-        ]
-      }
-    },
-    {
       "owner": "cursor",
       "repo": "plugins",
       "fullName": "cursor/plugins",
@@ -349,9 +158,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1693,
-      "totalStars": 4696,
-      "forks": 382,
+      "starsGained": 1761,
+      "totalStars": 4827,
+      "forks": 396,
       "license": "",
       "pushedAt": "08/21/2026 03:10:06",
       "tags": [
@@ -391,11 +200,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omlx.ai",
       "language": "Python",
-      "starsGained": 1597,
-      "totalStars": 20366,
-      "forks": 1724,
+      "starsGained": 1671,
+      "totalStars": 20452,
+      "forks": 1732,
       "license": "Apache-2.0",
-      "pushedAt": "08/23/2026 02:23:34",
+      "pushedAt": "08/23/2026 11:41:06",
       "tags": [
         "llm",
         "ml"
@@ -419,21 +228,37 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "NVIDIA-NeMo",
-      "repo": "Switchyard",
-      "fullName": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197974741?s=40&v=4",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "topics": [],
+      "owner": "apache",
+      "repo": "maka",
+      "fullName": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "topics": [
+        "agent-runtime",
+        "ai",
+        "ai-agent",
+        "apache",
+        "cli",
+        "desktop",
+        "electron",
+        "event-sourcing",
+        "incubator",
+        "llm",
+        "local-first",
+        "maka",
+        "tool-use",
+        "typescript"
+      ],
       "homepage": "",
-      "language": "Rust",
-      "starsGained": 635,
-      "totalStars": 2242,
-      "forks": 193,
+      "language": "TypeScript",
+      "starsGained": 859,
+      "totalStars": 2369,
+      "forks": 270,
       "license": "Apache-2.0",
-      "pushedAt": "08/21/2026 22:27:42",
+      "pushedAt": "08/24/2026 01:47:51",
       "tags": [
+        "agent",
         "llm",
         "ml"
       ],
@@ -441,77 +266,55 @@ window.GITHUB_AI_TRENDS = {
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Switchyard",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-        "projectIntro": "该项目的 GitHub 简介是：Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
         "featurePoints": [
-          "核心线索：Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization."
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Getting Started guide, then validate it"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Node.js 22.19 or newer (CI uses Node.js 24);"
         ]
       }
     },
     {
-      "owner": "eneskirca",
-      "repo": "nodeterm",
-      "fullName": "eneskirca/nodeterm",
-      "url": "https://github.com/eneskirca/nodeterm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39504888?s=40&v=4",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "topics": [
-        "adhd",
-        "agent-orchestration",
-        "ai-agents",
-        "canvas",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "electron",
-        "gemini",
-        "linux",
-        "macos",
-        "multiplexer",
-        "opencode",
-        "parallel-agents",
-        "terminal",
-        "terminal-emulator",
-        "terminal-multiplexer",
-        "tmux",
-        "workspace-manager"
-      ],
-      "homepage": "https://nodeterm.dev",
-      "language": "TypeScript",
-      "starsGained": 424,
-      "totalStars": 1064,
-      "forks": 112,
-      "license": "NOASSERTION",
-      "pushedAt": "08/20/2026 16:56:04",
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "fullName": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 406,
+      "totalStars": 983,
+      "forks": 127,
+      "license": "Apache-2.0",
+      "pushedAt": "08/23/2026 07:43:20",
       "tags": [
         "agent",
-        "llm",
-        "coding"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "nodeterm",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "Claude Plugins — Community",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "projectIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "核心线索：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
@@ -525,13 +328,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "topics": [],
-      "homepage": "https://aihero.dev/skills",
+      "homepage": "",
       "language": "Shell",
-      "starsGained": 50486,
-      "totalStars": 232416,
-      "forks": 19829,
-      "license": "MIT",
-      "pushedAt": "08/21/2026 10:56:48",
+      "starsGained": 50629,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -539,8 +342,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -561,7 +364,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "topics": [
         "a2a",
         "ai-agents",
@@ -586,11 +389,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 29023,
-      "totalStars": 53328,
-      "forks": 7284,
+      "starsGained": 27573,
+      "totalStars": 53889,
+      "forks": 7373,
       "license": "MIT",
-      "pushedAt": "08/23/2026 04:42:35",
+      "pushedAt": "08/24/2026 01:38:25",
       "tags": [
         "agent",
         "llm",
@@ -641,9 +444,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 24229,
-      "totalStars": 40988,
-      "forks": 4525,
+      "starsGained": 23452,
+      "totalStars": 41225,
+      "forks": 4554,
       "license": "Apache-2.0",
       "pushedAt": "08/23/2026 03:19:19",
       "tags": [
@@ -683,11 +486,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 20460,
-      "totalStars": 95573,
-      "forks": 11820,
-      "license": "MIT",
-      "pushedAt": "08/22/2026 22:25:46",
+      "starsGained": 20046,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -722,11 +525,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 18829,
-      "totalStars": 27443,
-      "forks": 3741,
+      "starsGained": 19063,
+      "totalStars": 27928,
+      "forks": 3800,
       "license": "MIT",
-      "pushedAt": "08/22/2026 06:10:10",
+      "pushedAt": "08/23/2026 15:16:52",
       "tags": [
         "agent",
         "llm",
@@ -749,53 +552,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：Java / JDK — for jadx and apktool"
-        ]
-      }
-    },
-    {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 15557,
-      "totalStars": 23274,
-      "forks": 1487,
-      "license": "MIT",
-      "pushedAt": "08/21/2026 15:25:27",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -823,11 +579,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14737,
-      "totalStars": 24231,
-      "forks": 2556,
+      "starsGained": 15086,
+      "totalStars": 24696,
+      "forks": 2584,
       "license": "MIT",
-      "pushedAt": "08/19/2026 20:59:45",
+      "pushedAt": "08/23/2026 23:06:28",
       "tags": [
         "agent",
         "llm",
@@ -874,9 +630,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 14702,
-      "totalStars": 23873,
-      "forks": 2204,
+      "starsGained": 14878,
+      "totalStars": 24039,
+      "forks": 2215,
       "license": "NOASSERTION",
       "pushedAt": "08/15/2026 10:06:58",
       "tags": [
@@ -904,6 +660,53 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "fullName": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 14450,
+      "totalStars": 23494,
+      "forks": 1503,
+      "license": "MIT",
+      "pushedAt": "08/21/2026 15:25:27",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
       "owner": "microsoft",
       "repo": "AI-For-Beginners",
       "fullName": "microsoft/AI-For-Beginners",
@@ -924,9 +727,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 13881,
-      "totalStars": 66374,
-      "forks": 12840,
+      "starsGained": 13993,
+      "totalStars": 66549,
+      "forks": 12862,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -972,9 +775,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
-      "starsGained": 11724,
-      "totalStars": 12784,
-      "forks": 670,
+      "starsGained": 11598,
+      "totalStars": 12986,
+      "forks": 676,
       "license": "MIT",
       "pushedAt": "08/22/2026 11:36:35",
       "tags": [
@@ -1002,54 +805,37 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "1jehuang",
-      "repo": "jcode",
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
-      "description": "The most RAM efficient harness",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-coding-agent",
-        "claude",
-        "cli",
-        "coding-agent",
-        "llm",
-        "mcp",
-        "openai",
-        "rust",
-        "terminal",
-        "tui"
-      ],
-      "homepage": "https://jcode.sh",
-      "language": "Rust",
-      "starsGained": 7782,
-      "totalStars": 18259,
-      "forks": 2053,
-      "license": "MIT",
-      "pushedAt": "08/23/2026 03:35:53",
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "topics": [],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 8428,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "jcode",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "核心线索：AirLLM 70B inference with single 4GB GPU"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：jcode login --provider openrouter"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1060,30 +846,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "homepage": "https://cactuscompute.com",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 5263,
-      "totalStars": 8614,
-      "forks": 557,
-      "license": "Apache-2.0",
-      "pushedAt": "08/21/2026 16:06:23",
+      "starsGained": 5464,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Needle 2",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -1092,8 +870,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
