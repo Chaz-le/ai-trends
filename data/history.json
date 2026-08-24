@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:53:06.392Z",
+  "generatedAt": "2026-08-24T04:58:54.179Z",
   "snapshots": [
     {
       "date": "2026-06-26",
@@ -4489,66 +4489,62 @@
     },
     {
       "date": "2026-08-24",
-      "generatedAt": "2026-08-24T01:52:50.6808835+00:00",
+      "generatedAt": "2026-08-24T04:58:41.1619212+00:00",
       "repos": {
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 115339,
+          "stars": 115459,
           "periodGain": 11167
         },
         "volcengine/OpenViking": {
-          "stars": 32507,
+          "stars": 32595,
           "periodGain": 3799
         },
         "modular/modular": {
-          "stars": 28984,
+          "stars": 29003,
           "periodGain": 2176
         },
         "cursor/plugins": {
-          "stars": 4827,
+          "stars": 4841,
           "periodGain": 1761
         },
         "jundot/omlx": {
-          "stars": 20452,
+          "stars": 20460,
           "periodGain": 1671
         },
         "apache/maka": {
-          "stars": 2369,
+          "stars": 2427,
           "periodGain": 859
         },
         "anthropics/claude-plugins-community": {
-          "stars": 983,
+          "stars": 1049,
           "periodGain": 406
         },
         "diegosouzapw/OmniRoute": {
-          "stars": 53889,
+          "stars": 53969,
           "periodGain": 27573
         },
-        "bojieli/ai-agent-book": {
-          "stars": 41225,
-          "periodGain": 23452
-        },
         "zhaoxuya520/reverse-skill": {
-          "stars": 27928,
+          "stars": 28090,
           "periodGain": 19063
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 24696,
+          "stars": 24798,
           "periodGain": 15086
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 24039,
+          "stars": 24082,
           "periodGain": 14878
         },
         "ayghri/i-have-adhd": {
-          "stars": 23494,
+          "stars": 23530,
           "periodGain": 14450
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 66549,
+          "stars": 66582,
           "periodGain": 13993
         },
         "citrolabs/ego-lite": {
-          "stars": 12986,
+          "stars": 13026,
           "periodGain": 11598
         }
       }
