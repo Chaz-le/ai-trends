@@ -1,7 +1,47 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-25T04:50:54.4765082+00:00",
+  "generatedAt": "2026-08-26T01:52:17.6293673+00:00",
   "weekly": [
+    {
+      "owner": "openai",
+      "repo": "codex",
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "topics": [],
+      "homepage": "",
+      "language": "Rust",
+      "starsGained": 11424,
+      "totalStars": 118153,
+      "forks": 18003,
+      "license": "Apache-2.0",
+      "pushedAt": "08/26/2026 01:23:02",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Install using npm",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Run the following on Mac or Linux to install Codex CLI:"
+        ]
+      }
+    },
     {
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
@@ -27,11 +67,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 10647,
-      "totalStars": 116066,
-      "forks": 17640,
+      "starsGained": 9019,
+      "totalStars": 116485,
+      "forks": 17716,
       "license": "MIT",
-      "pushedAt": "08/25/2026 03:16:19",
+      "pushedAt": "08/25/2026 10:01:45",
       "tags": [
         "agent",
         "llm",
@@ -58,6 +98,58 @@
       }
     },
     {
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "homepage": "https://gpt-image2.canghe.ai",
+      "language": "JavaScript",
+      "starsGained": 5329,
+      "totalStars": 18087,
+      "forks": 1865,
+      "license": "MIT",
+      "pushedAt": "08/25/2026 07:16:50",
+      "tags": [
+        "agent",
+        "llm",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "prompt-archive",
+        "zhTitle": "AI 产品系统提示词资料库",
+        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "featurePoints": [
+          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
+          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
+          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+        ],
+        "scenarioPoints": [
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
+        ]
+      }
+    },
+    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -74,11 +166,11 @@
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 4048,
-      "totalStars": 33045,
-      "forks": 2517,
+      "starsGained": 4211,
+      "totalStars": 33305,
+      "forks": 2539,
       "license": "AGPL-3.0",
-      "pushedAt": "08/25/2026 04:33:23",
+      "pushedAt": "08/25/2026 16:34:30",
       "tags": [
         "agent",
         "rag",
@@ -105,44 +197,6 @@
       }
     },
     {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 2520,
-      "totalStars": 4437,
-      "forks": 321,
-      "license": "MIT",
-      "pushedAt": "08/24/2026 19:48:04",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Quit Claude Code, then continue the same workstream in Codex.",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
-        ],
-        "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：\"Quit Claude Code and continue the same work in Codex.\" Use the optional"
-        ]
-      }
-    },
-    {
       "owner": "modular",
       "repo": "modular",
       "fullName": "modular/modular",
@@ -160,11 +214,11 @@
       ],
       "homepage": "https://docs.modular.com/",
       "language": "Mojo",
-      "starsGained": 2285,
-      "totalStars": 29082,
-      "forks": 3097,
+      "starsGained": 2354,
+      "totalStars": 29159,
+      "forks": 3106,
       "license": "NOASSERTION",
-      "pushedAt": "08/24/2026 13:58:32",
+      "pushedAt": "08/25/2026 09:53:13",
       "tags": [
         "agent",
         "learning"
@@ -187,20 +241,20 @@
       }
     },
     {
-      "owner": "cursor",
-      "repo": "plugins",
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
-      "description": "Cursor plugin specification and official plugins",
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "topics": [],
       "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 1832,
-      "totalStars": 5017,
-      "forks": 410,
-      "license": "",
-      "pushedAt": "08/25/2026 04:25:19",
+      "language": "Rust",
+      "starsGained": 2073,
+      "totalStars": 4659,
+      "forks": 331,
+      "license": "MIT",
+      "pushedAt": "08/25/2026 21:19:10",
       "tags": [
         "agent"
       ],
@@ -208,60 +262,19 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Cursor plugins",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "readmeTitle": "Quit Claude Code, then continue the same workstream in Codex.",
+        "category": "agent-memory",
+        "zhTitle": "AI Agent 长期记忆工具",
+        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
+        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
         "featurePoints": [
-          "核心线索：Cursor plugin specification and official plugins"
+          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
+          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
+          "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "jundot",
-      "repo": "omlx",
-      "fullName": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "topics": [
-        "apple-silicon",
-        "inference-server",
-        "llm",
-        "macos",
-        "mlx",
-        "openai-api"
-      ],
-      "homepage": "https://omlx.ai",
-      "language": "Python",
-      "starsGained": 1689,
-      "totalStars": 20566,
-      "forks": 1738,
-      "license": "Apache-2.0",
-      "pushedAt": "08/24/2026 18:27:49",
-      "tags": [
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Upgrade to the latest version",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "projectIntro": "该项目的 GitHub 简介是：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "featurePoints": [
-          "核心线索：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：To connect OpenClaw, OpenCode, Codex, Hermes Agent, or Copilot, see Integrations."
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：\"Quit Claude Code and continue the same work in Codex.\" Use the optional"
         ]
       }
     },
@@ -290,11 +303,11 @@
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1313,
-      "totalStars": 3008,
-      "forks": 309,
+      "starsGained": 1769,
+      "totalStars": 3362,
+      "forks": 331,
       "license": "Apache-2.0",
-      "pushedAt": "08/25/2026 03:58:38",
+      "pushedAt": "08/26/2026 01:41:40",
       "tags": [
         "agent",
         "llm",
@@ -317,6 +330,102 @@
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
           "适用线索：Node.js 22.19 or newer (CI uses Node.js 24);"
+        ]
+      }
+    },
+    {
+      "owner": "jundot",
+      "repo": "omlx",
+      "fullName": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64250138?s=40&v=4",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "topics": [
+        "apple-silicon",
+        "inference-server",
+        "llm",
+        "macos",
+        "mlx",
+        "openai-api"
+      ],
+      "homepage": "https://omlx.ai",
+      "language": "Python",
+      "starsGained": 1432,
+      "totalStars": 20655,
+      "forks": 1742,
+      "license": "Apache-2.0",
+      "pushedAt": "08/25/2026 23:07:58",
+      "tags": [
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Upgrade to the latest version",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "projectIntro": "该项目的 GitHub 简介是：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "featurePoints": [
+          "核心线索：LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：To connect OpenClaw, OpenCode, Codex, Hermes Agent, or Copilot, see Integrations."
+        ]
+      }
+    },
+    {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "fullName": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "topics": [
+        "ab-testing",
+        "ai-analytics",
+        "analytics",
+        "cdp",
+        "data-warehouse",
+        "experiments",
+        "feature-flags",
+        "javascript",
+        "product-analytics",
+        "python",
+        "react",
+        "session-replay",
+        "surveys",
+        "typescript",
+        "web-analytics"
+      ],
+      "homepage": "https://posthog.com",
+      "language": "Python",
+      "starsGained": 1426,
+      "totalStars": 39166,
+      "forks": 3287,
+      "license": "NOASSERTION",
+      "pushedAt": "08/26/2026 01:44:51",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "projectIntro": "该项目的 GitHub 简介是：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "featurePoints": [
+          "核心线索：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：If you want to self-host PostHog, you can deploy a hobby instance in one line on Linux with Docker (recommended 4GB memory):"
         ]
       }
     },
@@ -350,9 +459,9 @@
       ],
       "homepage": "https://tencent.github.io/AI-Infra-Guard/",
       "language": "Python",
-      "starsGained": 1212,
-      "totalStars": 5794,
-      "forks": 539,
+      "starsGained": 1247,
+      "totalStars": 5896,
+      "forks": 542,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 04:16:15",
       "tags": [
@@ -390,11 +499,11 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 877,
-      "totalStars": 1437,
-      "forks": 159,
+      "starsGained": 1199,
+      "totalStars": 1781,
+      "forks": 178,
       "license": "Apache-2.0",
-      "pushedAt": "08/24/2026 17:07:15",
+      "pushedAt": "08/25/2026 20:01:46",
       "tags": [
         "agent",
         "llm"
@@ -413,68 +522,6 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "liustack",
-      "repo": "modlens",
-      "fullName": "liustack/modlens",
-      "url": "https://github.com/liustack/modlens",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83945823?s=40&v=4",
-      "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cordis",
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "glm",
-        "harness",
-        "harness-engineering",
-        "hermes-agent",
-        "image-to-text",
-        "multimodal",
-        "ocr",
-        "openclaw",
-        "pi-agent",
-        "text-only-llm",
-        "vision",
-        "vision-transformer"
-      ],
-      "homepage": "https://liustack.dev",
-      "language": "TypeScript",
-      "starsGained": 809,
-      "totalStars": 3622,
-      "forks": 105,
-      "license": "MIT",
-      "pushedAt": "08/24/2026 14:44:37",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "multimodal",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -509,11 +556,11 @@
       ],
       "homepage": "https://nodeterm.dev",
       "language": "TypeScript",
-      "starsGained": 529,
-      "totalStars": 1199,
-      "forks": 124,
+      "starsGained": 375,
+      "totalStars": 1269,
+      "forks": 126,
       "license": "NOASSERTION",
-      "pushedAt": "08/24/2026 17:23:20",
+      "pushedAt": "08/25/2026 22:47:32",
       "tags": [
         "agent",
         "llm",
@@ -550,9 +597,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 50069,
-      "totalStars": 235645,
-      "forks": 20080,
+      "starsGained": 49777,
+      "totalStars": 236781,
+      "forks": 20153,
       "license": "MIT",
       "pushedAt": "08/24/2026 14:20:17",
       "tags": [
@@ -609,11 +656,11 @@
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 26484,
-      "totalStars": 54549,
-      "forks": 7463,
+      "starsGained": 25758,
+      "totalStars": 55221,
+      "forks": 7585,
       "license": "MIT",
-      "pushedAt": "08/25/2026 04:44:25",
+      "pushedAt": "08/26/2026 01:05:02",
       "tags": [
         "agent",
         "llm",
@@ -664,11 +711,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 23084,
-      "totalStars": 41889,
-      "forks": 4625,
+      "starsGained": 22917,
+      "totalStars": 42210,
+      "forks": 4670,
       "license": "Apache-2.0",
-      "pushedAt": "08/25/2026 04:26:49",
+      "pushedAt": "08/26/2026 01:40:53",
       "tags": [
         "agent",
         "llm",
@@ -697,45 +744,6 @@
       }
     },
     {
-      "owner": "earendil-works",
-      "repo": "pi",
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 19957,
-      "totalStars": 96778,
-      "forks": 11958,
-      "license": "MIT",
-      "pushedAt": "08/24/2026 22:53:19",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Pi Agent Harness",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "zhaoxuya520",
       "repo": "reverse-skill",
       "fullName": "zhaoxuya520/reverse-skill",
@@ -745,9 +753,9 @@
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 19889,
-      "totalStars": 28859,
-      "forks": 3932,
+      "starsGained": 20443,
+      "totalStars": 29258,
+      "forks": 3993,
       "license": "MIT",
       "pushedAt": "08/24/2026 06:17:39",
       "tags": [
@@ -776,6 +784,45 @@
       }
     },
     {
+      "owner": "earendil-works",
+      "repo": "pi",
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 20131,
+      "totalStars": 97263,
+      "forks": 12027,
+      "license": "MIT",
+      "pushedAt": "08/26/2026 00:08:04",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Pi Agent Harness",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "fullName": "virgiliojr94/book-to-skill",
@@ -799,11 +846,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 15714,
-      "totalStars": 25298,
-      "forks": 2625,
+      "starsGained": 15982,
+      "totalStars": 25550,
+      "forks": 2641,
       "license": "MIT",
-      "pushedAt": "08/24/2026 16:45:57",
+      "pushedAt": "08/26/2026 00:08:14",
       "tags": [
         "agent",
         "llm",
@@ -850,11 +897,11 @@
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 15093,
-      "totalStars": 24295,
-      "forks": 2236,
+      "starsGained": 15253,
+      "totalStars": 24451,
+      "forks": 2254,
       "license": "NOASSERTION",
-      "pushedAt": "08/15/2026 10:06:58",
+      "pushedAt": "08/25/2026 12:08:51",
       "tags": [
         "agent",
         "llm",
@@ -896,9 +943,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14346,
-      "totalStars": 23896,
-      "forks": 1532,
+      "starsGained": 14431,
+      "totalStars": 24291,
+      "forks": 1549,
       "license": "MIT",
       "pushedAt": "08/21/2026 15:25:27",
       "tags": [
@@ -947,9 +994,9 @@
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 14152,
-      "totalStars": 66803,
-      "forks": 12904,
+      "starsGained": 14291,
+      "totalStars": 66971,
+      "forks": 12931,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -995,11 +1042,11 @@
       ],
       "homepage": "https://lite.ego.app",
       "language": "JavaScript",
-      "starsGained": 11039,
-      "totalStars": 13299,
-      "forks": 693,
+      "starsGained": 10370,
+      "totalStars": 13527,
+      "forks": 700,
       "license": "MIT",
-      "pushedAt": "08/25/2026 04:30:52",
+      "pushedAt": "08/25/2026 13:08:49",
       "tags": [
         "agent",
         "llm",
@@ -1047,11 +1094,11 @@
       ],
       "homepage": "https://jcode.sh",
       "language": "Rust",
-      "starsGained": 7469,
-      "totalStars": 18478,
-      "forks": 2080,
+      "starsGained": 7363,
+      "totalStars": 18572,
+      "forks": 2092,
       "license": "MIT",
-      "pushedAt": "08/25/2026 04:28:22",
+      "pushedAt": "08/25/2026 23:54:09",
       "tags": [
         "agent",
         "llm"
@@ -1093,11 +1140,11 @@
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 5784,
-      "totalStars": 33045,
-      "forks": 2517,
+      "starsGained": 6107,
+      "totalStars": 33305,
+      "forks": 2539,
       "license": "AGPL-3.0",
-      "pushedAt": "08/25/2026 04:33:23",
+      "pushedAt": "08/25/2026 16:34:30",
       "tags": [
         "agent",
         "rag",
