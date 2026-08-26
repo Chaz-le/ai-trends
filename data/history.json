@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:38:23.541Z",
+  "generatedAt": "2026-08-26T04:53:43.818Z",
   "snapshots": [
     {
       "date": "2026-06-28",
@@ -4481,94 +4481,98 @@
     },
     {
       "date": "2026-08-26",
-      "generatedAt": "2026-08-26T02:38:05.8331935+00:00",
+      "generatedAt": "2026-08-26T04:53:24.2024267+00:00",
       "repos": {
         "openai/codex": {
-          "stars": 118195,
+          "stars": 118318,
           "periodGain": 11424
         },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 116506,
+          "stars": 116557,
           "periodGain": 9019
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 18333,
+          "stars": 18824,
           "periodGain": 5329
         },
         "volcengine/OpenViking": {
-          "stars": 33318,
+          "stars": 33352,
           "periodGain": 6107
         },
         "modular/modular": {
-          "stars": 29161,
+          "stars": 29169,
           "periodGain": 2354
         },
         "akitaonrails/ai-memory": {
-          "stars": 4665,
+          "stars": 4685,
           "periodGain": 2073
         },
         "apache/maka": {
-          "stars": 3386,
+          "stars": 3433,
           "periodGain": 1769
         },
         "jundot/omlx": {
-          "stars": 20658,
+          "stars": 20676,
           "periodGain": 1432
         },
         "PostHog/posthog": {
-          "stars": 39168,
+          "stars": 39176,
           "periodGain": 1426
         },
         "Tencent/AI-Infra-Guard": {
-          "stars": 5905,
+          "stars": 5921,
           "periodGain": 1247
         },
         "anthropics/claude-plugins-community": {
-          "stars": 1806,
+          "stars": 1862,
           "periodGain": 1199
         },
         "eneskirca/nodeterm": {
-          "stars": 1275,
+          "stars": 1287,
           "periodGain": 375
         },
+        "mattpocock/skills": {
+          "stars": 236941,
+          "periodGain": 49777
+        },
         "diegosouzapw/OmniRoute": {
-          "stars": 55258,
+          "stars": 55366,
           "periodGain": 25758
         },
         "bojieli/ai-agent-book": {
-          "stars": 42234,
+          "stars": 42272,
           "periodGain": 22917
         },
         "zhaoxuya520/reverse-skill": {
-          "stars": 29284,
+          "stars": 29347,
           "periodGain": 20443
         },
         "earendil-works/pi": {
-          "stars": 97288,
+          "stars": 97360,
           "periodGain": 20131
         },
         "virgiliojr94/book-to-skill": {
-          "stars": 25567,
+          "stars": 25590,
           "periodGain": 15982
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 24467,
+          "stars": 24489,
           "periodGain": 15253
         },
         "ayghri/i-have-adhd": {
-          "stars": 24305,
+          "stars": 24343,
           "periodGain": 14431
         },
         "microsoft/AI-For-Beginners": {
-          "stars": 66978,
+          "stars": 66991,
           "periodGain": 14291
         },
         "citrolabs/ego-lite": {
-          "stars": 13541,
+          "stars": 13558,
           "periodGain": 10370
         },
         "1jehuang/jcode": {
-          "stars": 18577,
+          "stars": 18580,
           "periodGain": 7363
         }
       }
