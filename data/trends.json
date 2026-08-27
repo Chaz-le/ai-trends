@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-27T09:29:12.4627418+00:00",
+  "generatedAt": "2026-08-27T11:09:56.5470189+00:00",
   "weekly": [
     {
       "owner": "openai",
@@ -13,10 +13,10 @@
       "homepage": "",
       "language": "Rust",
       "starsGained": 12120,
-      "totalStars": 119041,
-      "forks": 18162,
+      "totalStars": 119072,
+      "forks": 18167,
       "license": "Apache-2.0",
-      "pushedAt": "08/27/2026 08:46:44",
+      "pushedAt": "08/27/2026 10:21:33",
       "tags": [
         "agent",
         "llm",
@@ -64,8 +64,8 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 9477,
-      "totalStars": 22324,
-      "forks": 2219,
+      "totalStars": 22425,
+      "forks": 2237,
       "license": "MIT",
       "pushedAt": "08/26/2026 08:54:32",
       "tags": [
@@ -120,8 +120,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 7232,
-      "totalStars": 117070,
-      "forks": 17808,
+      "totalStars": 117100,
+      "forks": 17811,
       "license": "MIT",
       "pushedAt": "08/26/2026 09:37:30",
       "tags": [
@@ -150,6 +150,46 @@
       }
     },
     {
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4235,
+      "totalStars": 50703,
+      "forks": 8197,
+      "license": "MIT",
+      "pushedAt": "08/27/2026 10:20:24",
+      "tags": [
+        "agent",
+        "llm",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Re-run the same command to update. When prompted, choose at least one coding agent and optionally RTK. You can review the installers before running them: install.sh and install.ps1."
+        ]
+      }
+    },
+    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -167,10 +207,10 @@
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 3691,
-      "totalStars": 33729,
+      "totalStars": 33756,
       "forks": 2565,
       "license": "AGPL-3.0",
-      "pushedAt": "08/27/2026 09:17:22",
+      "pushedAt": "08/27/2026 10:33:20",
       "tags": [
         "agent",
         "rag",
@@ -193,6 +233,66 @@
         "scenarioPoints": [
           "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
           "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
+        ]
+      }
+    },
+    {
+      "owner": "santifer",
+      "repo": "career-ops",
+      "fullName": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/256850418?s=40&v=4",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "ats",
+        "automation",
+        "beginner-friendly",
+        "career",
+        "careerops",
+        "claude",
+        "claude-code",
+        "cli",
+        "first-timers-only",
+        "golang",
+        "good-first-issue",
+        "interview-prep",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "open-source",
+        "resume"
+      ],
+      "homepage": "https://career-ops.org",
+      "language": "JavaScript",
+      "starsGained": 3061,
+      "totalStars": 68755,
+      "forks": 13015,
+      "license": "MIT",
+      "pushedAt": "08/27/2026 09:25:08",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Check setup",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：(Already using a Claude Code / Gemini / Codex CLI? Then you already have it.)"
         ]
       }
     },
@@ -222,10 +322,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 2217,
-      "totalStars": 3684,
+      "totalStars": 3700,
       "forks": 353,
       "license": "Apache-2.0",
-      "pushedAt": "08/27/2026 09:27:48",
+      "pushedAt": "08/27/2026 11:07:34",
       "tags": [
         "agent",
         "llm",
@@ -269,8 +369,8 @@
       "homepage": "https://munderdiffl.in",
       "language": "JavaScript",
       "starsGained": 2192,
-      "totalStars": 4924,
-      "forks": 590,
+      "totalStars": 4944,
+      "forks": 596,
       "license": "NOASSERTION",
       "pushedAt": "08/27/2026 02:51:50",
       "tags": [
@@ -352,8 +452,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1859,
-      "totalStars": 5541,
-      "forks": 451,
+      "totalStars": 5560,
+      "forks": 453,
       "license": "",
       "pushedAt": "08/27/2026 01:42:41",
       "tags": [
@@ -377,6 +477,44 @@
       }
     },
     {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "fullName": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31011319?s=40&v=4",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "topics": [],
+      "homepage": "https://tinyhumans.ai/openhuman",
+      "language": "Rust",
+      "starsGained": 1818,
+      "totalStars": 38436,
+      "forks": 3776,
+      "license": "GPL-3.0",
+      "pushedAt": "08/27/2026 06:30:11",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "What is OpenHuman?",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "可按 README 示例落地：The agent proposes the workflow; you review it on a canvas and save it."
+        ]
+      }
+    },
+    {
       "owner": "anthropics",
       "repo": "claude-plugins-community",
       "fullName": "anthropics/claude-plugins-community",
@@ -387,8 +525,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1759,
-      "totalStars": 2318,
-      "forks": 198,
+      "totalStars": 2347,
+      "forks": 201,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
@@ -411,133 +549,6 @@
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
-    },
-    {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 1714,
-      "totalStars": 4891,
-      "forks": 346,
-      "license": "MIT",
-      "pushedAt": "08/26/2026 23:16:41",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Quit Claude Code, then continue the same workstream in Codex.",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
-        ],
-        "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：\"Quit Claude Code and continue the same work in Codex.\" Use the optional"
-        ]
-      }
-    },
-    {
-      "owner": "tashfeenahmed",
-      "repo": "freellmapi",
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "topics": [],
-      "homepage": "https://freellmapi.co",
-      "language": "TypeScript",
-      "starsGained": 1700,
-      "totalStars": 20838,
-      "forks": 2992,
-      "license": "MIT",
-      "pushedAt": "08/26/2026 09:06:41",
-      "tags": [
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "projectIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "featurePoints": [
-          "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/install.md."
-        ]
-      }
-    },
-    {
-      "owner": "PostHog",
-      "repo": "posthog",
-      "fullName": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "topics": [
-        "ab-testing",
-        "ai-analytics",
-        "analytics",
-        "cdp",
-        "data-warehouse",
-        "experiments",
-        "feature-flags",
-        "javascript",
-        "product-analytics",
-        "python",
-        "react",
-        "session-replay",
-        "surveys",
-        "typescript",
-        "web-analytics"
-      ],
-      "homepage": "https://posthog.com",
-      "language": "Python",
-      "starsGained": 1485,
-      "totalStars": 39289,
-      "forks": 3290,
-      "license": "NOASSERTION",
-      "pushedAt": "08/27/2026 09:29:16",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-        "projectIntro": "该项目的 GitHub 简介是：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-        "featurePoints": [
-          "核心线索：:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：If you want to self-host PostHog, you can deploy a hobby instance in one line on Linux with Docker (recommended 4GB memory):"
-        ]
-      }
     }
   ],
   "monthly": [
@@ -548,14 +559,35 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "kimi",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "homepage": "https://omniroute.online",
       "language": "TypeScript",
       "starsGained": 25766,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 56564,
+      "forks": 7776,
+      "license": "MIT",
+      "pushedAt": "08/27/2026 07:23:38",
       "tags": [
         "agent",
         "llm",
@@ -592,8 +624,8 @@
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 20811,
-      "totalStars": 29720,
-      "forks": 4060,
+      "totalStars": 29737,
+      "forks": 4063,
       "license": "MIT",
       "pushedAt": "08/26/2026 16:10:43",
       "tags": [
@@ -622,68 +654,45 @@
       }
     },
     {
-      "owner": "earendil-works",
-      "repo": "pi",
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 20153,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "virgiliojr94",
       "repo": "book-to-skill",
       "fullName": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 15929,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 26038,
+      "forks": 2697,
+      "license": "MIT",
+      "pushedAt": "08/26/2026 00:08:14",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -694,7 +703,8 @@
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
         ]
       }
     },
@@ -719,8 +729,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15471,
-      "totalStars": 24789,
-      "forks": 2282,
+      "totalStars": 24803,
+      "forks": 2284,
       "license": "NOASSERTION",
       "pushedAt": "08/27/2026 06:49:32",
       "tags": [
@@ -769,8 +779,8 @@
       "homepage": "",
       "language": "Jupyter Notebook",
       "starsGained": 14458,
-      "totalStars": 67266,
-      "forks": 12971,
+      "totalStars": 67281,
+      "forks": 12974,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -813,8 +823,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 14348,
-      "totalStars": 24791,
-      "forks": 1571,
+      "totalStars": 24812,
+      "forks": 1572,
       "license": "MIT",
       "pushedAt": "08/26/2026 13:24:45",
       "tags": [
@@ -864,8 +874,8 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 12123,
-      "totalStars": 22324,
-      "forks": 2219,
+      "totalStars": 22425,
+      "forks": 2237,
       "license": "MIT",
       "pushedAt": "08/26/2026 08:54:32",
       "tags": [
@@ -933,6 +943,41 @@
       }
     },
     {
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "topics": [],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 8651,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "featurePoints": [
+          "核心线索：AirLLM 70B inference with single 4GB GPU"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -950,10 +995,10 @@
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 6387,
-      "totalStars": 33729,
+      "totalStars": 33756,
       "forks": 2565,
       "license": "AGPL-3.0",
-      "pushedAt": "08/27/2026 09:17:22",
+      "pushedAt": "08/27/2026 10:33:20",
       "tags": [
         "agent",
         "rag",
@@ -996,8 +1041,8 @@
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 6029,
-      "totalStars": 9371,
-      "forks": 603,
+      "totalStars": 9376,
+      "forks": 604,
       "license": "Apache-2.0",
       "pushedAt": "08/24/2026 16:09:36",
       "tags": [
@@ -1034,18 +1079,18 @@
       "homepage": "",
       "language": "Rust",
       "starsGained": 3583,
-      "totalStars": 4891,
-      "forks": 346,
-      "license": "MIT",
-      "pushedAt": "08/26/2026 23:16:41",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Quit Claude Code, then continue the same workstream in Codex.",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -1056,8 +1101,7 @@
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：\"Quit Claude Code and continue the same work in Codex.\" Use the optional"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
         ]
       }
     }
