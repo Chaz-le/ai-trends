@@ -1,84 +1,6 @@
 {
-  "generatedAt": "2026-08-26T04:53:43.818Z",
+  "generatedAt": "2026-08-27T09:29:24.989Z",
   "snapshots": [
-    {
-      "date": "2026-06-28",
-      "generatedAt": "2026-06-28T07:57:16.4853730+00:00",
-      "repos": {
-        "calesthio/OpenMontage": {
-          "stars": 25779,
-          "periodGain": 20575
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 43758,
-          "periodGain": 22848
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 18207,
-          "periodGain": 13731
-        },
-        "ZhuLinsen/daily_stock_analysis": {
-          "stars": 50716,
-          "periodGain": 7137
-        },
-        "google-labs-code/design.md": {
-          "stars": 22541,
-          "periodGain": 6014
-        },
-        "topoteretes/cognee": {
-          "stars": 24237,
-          "periodGain": 5519
-        },
-        "mukul975/Anthropic-Cybersecurity-Skills": {
-          "stars": 22320,
-          "periodGain": 11529
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 22353,
-          "periodGain": 4565
-        },
-        "jamiepine/voicebox": {
-          "stars": 35054,
-          "periodGain": 3965
-        },
-        "bytedance/deer-flow": {
-          "stars": 75107,
-          "periodGain": 3258
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 46711,
-          "periodGain": 2775
-        },
-        "koala73/worldmonitor": {
-          "stars": 60471,
-          "periodGain": 2735
-        },
-        "microsoft/markitdown": {
-          "stars": 160214,
-          "periodGain": 35017
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 93684,
-          "periodGain": 33794
-        },
-        "Leonxlnx/taste-skill": {
-          "stars": 52211,
-          "periodGain": 28908
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 47240,
-          "periodGain": 20777
-        },
-        "lfnovo/open-notebook": {
-          "stars": 33683,
-          "periodGain": 9933
-        },
-        "phuryn/pm-skills": {
-          "stars": 21411,
-          "periodGain": 9754
-        }
-      }
-    },
     {
       "date": "2026-06-29",
       "generatedAt": "2026-06-29T09:06:09.0335131+00:00",
@@ -4574,6 +4496,80 @@
         "1jehuang/jcode": {
           "stars": 18580,
           "periodGain": 7363
+        }
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "generatedAt": "2026-08-27T09:29:12.4627418+00:00",
+      "repos": {
+        "openai/codex": {
+          "stars": 119041,
+          "periodGain": 12120
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 22324,
+          "periodGain": 12123
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 117070,
+          "periodGain": 7232
+        },
+        "volcengine/OpenViking": {
+          "stars": 33729,
+          "periodGain": 6387
+        },
+        "apache/maka": {
+          "stars": 3684,
+          "periodGain": 2217
+        },
+        "chaitanyagiri/munder-difflin": {
+          "stars": 4924,
+          "periodGain": 2192
+        },
+        "modular/modular": {
+          "stars": 29236,
+          "periodGain": 1984
+        },
+        "cursor/plugins": {
+          "stars": 5541,
+          "periodGain": 1859
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 2318,
+          "periodGain": 1759
+        },
+        "akitaonrails/ai-memory": {
+          "stars": 4891,
+          "periodGain": 3583
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 20838,
+          "periodGain": 1700
+        },
+        "PostHog/posthog": {
+          "stars": 39289,
+          "periodGain": 1485
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 29720,
+          "periodGain": 20811
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 24789,
+          "periodGain": 15471
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 67266,
+          "periodGain": 14458
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 24791,
+          "periodGain": 14348
+        },
+        "cactus-compute/needle": {
+          "stars": 9371,
+          "periodGain": 6029
         }
       }
     }
