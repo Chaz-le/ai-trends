@@ -1,92 +1,6 @@
 {
-  "generatedAt": "2026-08-27T15:12:50.434Z",
+  "generatedAt": "2026-08-28T11:15:12.304Z",
   "snapshots": [
-    {
-      "date": "2026-06-29",
-      "generatedAt": "2026-06-29T09:06:09.0335131+00:00",
-      "repos": {
-        "calesthio/OpenMontage": {
-          "stars": 27756,
-          "periodGain": 22408
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 20544,
-          "periodGain": 16051
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 45039,
-          "periodGain": 23835
-        },
-        "ZhuLinsen/daily_stock_analysis": {
-          "stars": 51462,
-          "periodGain": 7045
-        },
-        "google-labs-code/design.md": {
-          "stars": 23028,
-          "periodGain": 6728
-        },
-        "topoteretes/cognee": {
-          "stars": 25188,
-          "periodGain": 6064
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 23206,
-          "periodGain": 5317
-        },
-        "mukul975/Anthropic-Cybersecurity-Skills": {
-          "stars": 22835,
-          "periodGain": 11207
-        },
-        "palmier-io/palmier-pro": {
-          "stars": 9409,
-          "periodGain": 5034
-        },
-        "jamiepine/voicebox": {
-          "stars": 35612,
-          "periodGain": 3883
-        },
-        "bytedance/deer-flow": {
-          "stars": 75367,
-          "periodGain": 2976
-        },
-        "koala73/worldmonitor": {
-          "stars": 60785,
-          "periodGain": 2845
-        },
-        "microsoft/markitdown": {
-          "stars": 160914,
-          "periodGain": 34072
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 94053,
-          "periodGain": 29272
-        },
-        "Leonxlnx/taste-skill": {
-          "stars": 52842,
-          "periodGain": 27093
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 47524,
-          "periodGain": 20899
-        },
-        "lfnovo/open-notebook": {
-          "stars": 33876,
-          "periodGain": 10048
-        },
-        "phuryn/pm-skills": {
-          "stars": 21626,
-          "periodGain": 9864
-        },
-        "tashfeenahmed/freellmapi": {
-          "stars": 13898,
-          "periodGain": 7784
-        },
-        "can1357/oh-my-pi": {
-          "stars": 15065,
-          "periodGain": 6959
-        }
-      }
-    },
     {
       "date": "2026-06-30",
       "generatedAt": "2026-06-30T08:00:28.6348779+00:00",
@@ -4558,6 +4472,104 @@
         "TencentCloud/TencentDB-Agent-Memory": {
           "stars": 24834,
           "periodGain": 15471
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "generatedAt": "2026-08-28T11:14:34.8184481+00:00",
+      "repos": {
+        "openai/codex": {
+          "stars": 119437,
+          "periodGain": 12358
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 23935,
+          "periodGain": 13870
+        },
+        "tt-a1i/archify": {
+          "stars": 25265,
+          "periodGain": 8530
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 37421,
+          "periodGain": 4706
+        },
+        "Alishahryar1/free-claude-code": {
+          "stars": 50988,
+          "periodGain": 4657
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 50433,
+          "periodGain": 2853
+        },
+        "VoltAgent/awesome-agent-skills": {
+          "stars": 32962,
+          "periodGain": 2324
+        },
+        "tinyhumansai/openhuman": {
+          "stars": 38645,
+          "periodGain": 2178
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 2480,
+          "periodGain": 2069
+        },
+        "chaitanyagiri/munder-difflin": {
+          "stars": 5125,
+          "periodGain": 2017
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 21277,
+          "periodGain": 2014
+        },
+        "apache/maka": {
+          "stars": 3833,
+          "periodGain": 1978
+        },
+        "diegosouzapw/OmniRoute": {
+          "stars": 57230,
+          "periodGain": 25459
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 30024,
+          "periodGain": 20994
+        },
+        "earendil-works/pi": {
+          "stars": 98589,
+          "periodGain": 19801
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 26484,
+          "periodGain": 15876
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 24962,
+          "periodGain": 15653
+        },
+        "microsoft/AI-For-Beginners": {
+          "stars": 67481,
+          "periodGain": 14605
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 25195,
+          "periodGain": 13950
+        },
+        "citrolabs/ego-lite": {
+          "stars": 14096,
+          "periodGain": 8742
+        },
+        "lyogavin/airllm": {
+          "stars": 32903,
+          "periodGain": 8654
+        },
+        "volcengine/OpenViking": {
+          "stars": 34043,
+          "periodGain": 6530
+        },
+        "cactus-compute/needle": {
+          "stars": 9506,
+          "periodGain": 6142
         }
       }
     }
