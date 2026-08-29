@@ -1,47 +1,7 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-28T16:35:35.1155047+00:00",
+  "generatedAt": "2026-08-29T06:57:47.0677137+00:00",
   "weekly": [
-    {
-      "owner": "openai",
-      "repo": "codex",
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 12358,
-      "totalStars": 119504,
-      "forks": 18228,
-      "license": "Apache-2.0",
-      "pushedAt": "08/28/2026 16:20:48",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Install using npm",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Run the following on Mac or Linux to install Codex CLI:"
-        ]
-      }
-    },
     {
       "owner": "freestylefly",
       "repo": "awesome-gpt-image-2",
@@ -63,9 +23,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
-      "starsGained": 11300,
-      "totalStars": 24102,
-      "forks": 2388,
+      "starsGained": 12877,
+      "totalStars": 24480,
+      "forks": 2418,
       "license": "MIT",
       "pushedAt": "08/28/2026 10:25:04",
       "tags": [
@@ -125,11 +85,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 8530,
-      "totalStars": 26366,
-      "forks": 1677,
+      "starsGained": 11099,
+      "totalStars": 28432,
+      "forks": 1788,
       "license": "MIT",
-      "pushedAt": "08/28/2026 06:02:22",
+      "pushedAt": "08/28/2026 18:45:36",
       "tags": [
         "agent",
         "llm",
@@ -156,6 +116,46 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "openai",
+      "repo": "codex",
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "topics": [],
+      "homepage": "",
+      "language": "Rust",
+      "starsGained": 9109,
+      "totalStars": 119649,
+      "forks": 18276,
+      "license": "Apache-2.0",
+      "pushedAt": "08/29/2026 06:06:43",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Install using npm",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Run the following on Mac or Linux to install Codex CLI:"
+        ]
+      }
+    },
+    {
       "owner": "MadsLorentzen",
       "repo": "ai-job-search",
       "fullName": "MadsLorentzen/ai-job-search",
@@ -178,9 +178,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4706,
-      "totalStars": 37526,
-      "forks": 12692,
+      "starsGained": 4828,
+      "totalStars": 37830,
+      "forks": 12806,
       "license": "MIT",
       "pushedAt": "08/27/2026 17:05:00",
       "tags": [
@@ -217,11 +217,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4657,
-      "totalStars": 51101,
-      "forks": 8237,
+      "starsGained": 4769,
+      "totalStars": 51243,
+      "forks": 8253,
       "license": "MIT",
-      "pushedAt": "08/28/2026 10:46:37",
+      "pushedAt": "08/29/2026 05:45:51",
       "tags": [
         "agent",
         "llm",
@@ -278,9 +278,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 2853,
-      "totalStars": 50527,
-      "forks": 8775,
+      "starsGained": 3263,
+      "totalStars": 50711,
+      "forks": 8789,
       "license": "MIT",
       "pushedAt": "08/23/2026 20:29:51",
       "tags": [
@@ -330,9 +330,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://officialskills.sh/",
       "language": "",
-      "starsGained": 2324,
-      "totalStars": 33008,
-      "forks": 3482,
+      "starsGained": 2372,
+      "totalStars": 33109,
+      "forks": 3495,
       "license": "MIT",
       "pushedAt": "08/26/2026 12:15:01",
       "tags": [
@@ -369,9 +369,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://tinyhumans.ai/openhuman",
       "language": "Rust",
-      "starsGained": 2178,
-      "totalStars": 38686,
-      "forks": 3797,
+      "starsGained": 2353,
+      "totalStars": 38758,
+      "forks": 3805,
       "license": "GPL-3.0",
       "pushedAt": "08/27/2026 22:59:17",
       "tags": [
@@ -407,9 +407,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2069,
-      "totalStars": 2514,
-      "forks": 212,
+      "starsGained": 2207,
+      "totalStars": 2631,
+      "forks": 217,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
@@ -434,52 +434,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "chaitanyagiri",
-      "repo": "munder-difflin",
-      "fullName": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
-      "description": "local multi-agent harness",
-      "topics": [
-        "agents",
-        "claude-code",
-        "free",
-        "harness",
-        "harness-engineering",
-        "memory"
-      ],
-      "homepage": "https://munderdiffl.in",
-      "language": "JavaScript",
-      "starsGained": 2017,
-      "totalStars": 5178,
-      "forks": 622,
-      "license": "NOASSERTION",
-      "pushedAt": "08/28/2026 12:45:30",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Munder Difflin",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：macOS, Windows, or Linux."
-        ]
-      }
-    },
-    {
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "fullName": "tashfeenahmed/freellmapi",
@@ -489,9 +443,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 2014,
-      "totalStars": 21430,
-      "forks": 3041,
+      "starsGained": 2162,
+      "totalStars": 21748,
+      "forks": 3075,
       "license": "MIT",
       "pushedAt": "08/28/2026 00:05:52",
       "tags": [
@@ -541,11 +495,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1978,
-      "totalStars": 3863,
-      "forks": 360,
+      "starsGained": 1918,
+      "totalStars": 3930,
+      "forks": 366,
       "license": "Apache-2.0",
-      "pushedAt": "08/28/2026 16:34:50",
+      "pushedAt": "08/29/2026 06:57:48",
       "tags": [
         "agent",
         "llm",
@@ -568,6 +522,52 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
           "适用线索：Node.js 22.19 or newer (CI uses Node.js 24);"
+        ]
+      }
+    },
+    {
+      "owner": "chaitanyagiri",
+      "repo": "munder-difflin",
+      "fullName": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
+      "description": "local multi-agent harness",
+      "topics": [
+        "agents",
+        "claude-code",
+        "free",
+        "harness",
+        "harness-engineering",
+        "memory"
+      ],
+      "homepage": "https://munderdiffl.in",
+      "language": "JavaScript",
+      "starsGained": 1853,
+      "totalStars": 5241,
+      "forks": 632,
+      "license": "NOASSERTION",
+      "pushedAt": "08/29/2026 06:53:59",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Munder Difflin",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：macOS, Windows, or Linux."
         ]
       }
     }
@@ -604,11 +604,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://omniroute.online",
       "language": "TypeScript",
-      "starsGained": 25459,
-      "totalStars": 57398,
-      "forks": 7894,
+      "starsGained": 25061,
+      "totalStars": 57671,
+      "forks": 7943,
       "license": "MIT",
-      "pushedAt": "08/28/2026 16:34:44",
+      "pushedAt": "08/29/2026 06:15:48",
       "tags": [
         "agent",
         "llm",
@@ -645,9 +645,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
-      "starsGained": 20994,
-      "totalStars": 30090,
-      "forks": 4114,
+      "starsGained": 21291,
+      "totalStars": 30195,
+      "forks": 4132,
       "license": "MIT",
       "pushedAt": "08/26/2026 16:10:43",
       "tags": [
@@ -685,7 +685,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 19801,
+      "starsGained": 19558,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -715,61 +715,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "virgiliojr94",
-      "repo": "book-to-skill",
-      "fullName": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "book-to-skill",
-        "context-engineering",
-        "document-processing",
-        "edtech",
-        "knowledge-base",
-        "knowledge-management",
-        "llm",
-        "pdf-to-markdown",
-        "rag",
-        "self-study",
-        "study-tools"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 15876,
-      "totalStars": 26591,
-      "forks": 2756,
-      "license": "MIT",
-      "pushedAt": "08/28/2026 16:11:52",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
-        ]
-      }
-    },
-    {
       "owner": "TencentCloud",
       "repo": "TencentDB-Agent-Memory",
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -789,9 +734,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 15653,
-      "totalStars": 25006,
-      "forks": 2321,
+      "starsGained": 15798,
+      "totalStars": 25071,
+      "forks": 2327,
       "license": "NOASSERTION",
       "pushedAt": "08/27/2026 06:49:32",
       "tags": [
@@ -819,6 +764,113 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "virgiliojr94",
+      "repo": "book-to-skill",
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 15782,
+      "totalStars": 26778,
+      "forks": 2771,
+      "license": "MIT",
+      "pushedAt": "08/28/2026 19:12:33",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
+        "category": "document-markdown",
+        "zhTitle": "文档转 Markdown 工具",
+        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "featurePoints": [
+          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
+          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
+          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+        ],
+        "scenarioPoints": [
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
+          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
+        ]
+      }
+    },
+    {
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "homepage": "https://gpt-image2.canghe.ai",
+      "language": "JavaScript",
+      "starsGained": 15580,
+      "totalStars": 24480,
+      "forks": 2418,
+      "license": "MIT",
+      "pushedAt": "08/28/2026 10:25:04",
+      "tags": [
+        "agent",
+        "llm",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "prompt-archive",
+        "zhTitle": "AI 产品系统提示词资料库",
+        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "featurePoints": [
+          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
+          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
+          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+        ],
+        "scenarioPoints": [
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
+        ]
+      }
+    },
+    {
       "owner": "microsoft",
       "repo": "AI-For-Beginners",
       "fullName": "microsoft/AI-For-Beginners",
@@ -839,9 +891,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Jupyter Notebook",
-      "starsGained": 14605,
-      "totalStars": 67519,
-      "forks": 13012,
+      "starsGained": 14701,
+      "totalStars": 67588,
+      "forks": 13025,
       "license": "MIT",
       "pushedAt": "07/21/2026 11:11:48",
       "tags": [
@@ -873,31 +925,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13950,
-      "totalStars": 25268,
-      "forks": 1595,
-      "license": "MIT",
-      "pushedAt": "08/26/2026 13:24:45",
+      "starsGained": 13080,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -914,54 +957,37 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "freestylefly",
-      "repo": "awesome-gpt-image-2",
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "topics": [
-        "agents",
-        "ai-image-generation",
-        "chatgpt",
-        "dsh-plugin",
-        "gpt-image-2",
-        "image-prompts",
-        "prompt-as-code",
-        "prompt-engineering",
-        "skills",
-        "workflow-automation"
-      ],
-      "homepage": "https://gpt-image2.canghe.ai",
-      "language": "JavaScript",
-      "starsGained": 13870,
-      "totalStars": 24102,
-      "forks": 2388,
-      "license": "MIT",
-      "pushedAt": "08/28/2026 10:25:04",
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "topics": [],
+      "homepage": "",
+      "language": "Jupyter Notebook",
+      "starsGained": 8902,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "prompt-archive",
-        "zhTitle": "AI 产品系统提示词资料库",
-        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
+        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
         "featurePoints": [
-          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
-          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
-          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+          "核心线索：AirLLM 70B inference with single 4GB GPU"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
-          "适用线索：Start from the featured cases and decide what output type you want to imitate."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -975,7 +1001,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 8742,
+      "starsGained": 8592,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1004,58 +1030,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "lyogavin",
-      "repo": "airllm",
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "topics": [
-        "chinese-llm",
-        "chinese-nlp",
-        "finetune",
-        "generative-ai",
-        "instruct-gpt",
-        "instruction-set",
-        "llama",
-        "llm",
-        "lora",
-        "open-models",
-        "open-source",
-        "open-source-models",
-        "qlora"
-      ],
-      "homepage": "",
-      "language": "Jupyter Notebook",
-      "starsGained": 8654,
-      "totalStars": 32929,
-      "forks": 3469,
-      "license": "Apache-2.0",
-      "pushedAt": "08/28/2026 09:16:07",
-      "tags": [
-        "agent",
-        "llm",
-        "ml",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "projectIntro": "该项目的 GitHub 简介是：AirLLM 70B inference with single 4GB GPU",
-        "featurePoints": [
-          "核心线索：AirLLM 70B inference with single 4GB GPU"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -1072,11 +1046,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 6530,
-      "totalStars": 34088,
-      "forks": 2591,
+      "starsGained": 6661,
+      "totalStars": 34185,
+      "forks": 2599,
       "license": "AGPL-3.0",
-      "pushedAt": "08/28/2026 16:12:00",
+      "pushedAt": "08/29/2026 06:30:39",
       "tags": [
         "agent",
         "rag",
@@ -1118,9 +1092,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://cactuscompute.com",
       "language": "Python",
-      "starsGained": 6142,
-      "totalStars": 9539,
-      "forks": 610,
+      "starsGained": 6279,
+      "totalStars": 9597,
+      "forks": 614,
       "license": "Apache-2.0",
       "pushedAt": "08/28/2026 13:50:22",
       "tags": [
