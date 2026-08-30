@@ -1,76 +1,6 @@
 {
-  "generatedAt": "2026-08-29T11:01:52.374Z",
+  "generatedAt": "2026-08-30T05:14:52.634Z",
   "snapshots": [
-    {
-      "date": "2026-07-01",
-      "generatedAt": "2026-07-01T08:20:45.8971352+00:00",
-      "repos": {
-        "calesthio/OpenMontage": {
-          "stars": 30297,
-          "periodGain": 25466
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 23187,
-          "periodGain": 19612
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 47568,
-          "periodGain": 26239
-        },
-        "google-labs-code/design.md": {
-          "stars": 23847,
-          "periodGain": 7524
-        },
-        "topoteretes/cognee": {
-          "stars": 26203,
-          "periodGain": 6417
-        },
-        "ZhuLinsen/daily_stock_analysis": {
-          "stars": 52765,
-          "periodGain": 5806
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 24156,
-          "periodGain": 5624
-        },
-        "mukul975/Anthropic-Cybersecurity-Skills": {
-          "stars": 23580,
-          "periodGain": 10688
-        },
-        "jamiepine/voicebox": {
-          "stars": 36442,
-          "periodGain": 3336
-        },
-        "stablyai/orca": {
-          "stars": 9890,
-          "periodGain": 3311
-        },
-        "interviewstreet/hiring-agent": {
-          "stars": 4036,
-          "periodGain": 2266
-        },
-        "alibaba/page-agent": {
-          "stars": 20854,
-          "periodGain": 1591
-        },
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 94683,
-          "periodGain": 21864
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 47998,
-          "periodGain": 21268
-        },
-        "lfnovo/open-notebook": {
-          "stars": 34211,
-          "periodGain": 10333
-        },
-        "phuryn/pm-skills": {
-          "stars": 21962,
-          "periodGain": 10208
-        }
-      }
-    },
     {
       "date": "2026-07-02",
       "generatedAt": "2026-07-02T07:43:06.6942767+00:00",
@@ -4618,6 +4548,76 @@
         "cactus-compute/needle": {
           "stars": 9621,
           "periodGain": 6279
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "generatedAt": "2026-08-30T05:14:37.1443308+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 31631,
+          "periodGain": 22882
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 25208,
+          "periodGain": 16345
+        },
+        "openai/codex": {
+          "stars": 119877,
+          "periodGain": 7775
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 38172,
+          "periodGain": 5145
+        },
+        "Alishahryar1/free-claude-code": {
+          "stars": 51552,
+          "periodGain": 4942
+        },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 38080,
+          "periodGain": 3642
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 51017,
+          "periodGain": 3488
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 22283,
+          "periodGain": 2691
+        },
+        "tinyhumansai/openhuman": {
+          "stars": 38882,
+          "periodGain": 2434
+        },
+        "VoltAgent/awesome-agent-skills": {
+          "stars": 33296,
+          "periodGain": 2341
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 2763,
+          "periodGain": 2234
+        },
+        "apache/maka": {
+          "stars": 4075,
+          "periodGain": 1876
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 30798,
+          "periodGain": 21491
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 25190,
+          "periodGain": 15923
+        },
+        "volcengine/OpenViking": {
+          "stars": 34333,
+          "periodGain": 6764
+        },
+        "cactus-compute/needle": {
+          "stars": 9687,
+          "periodGain": 6376
         }
       }
     }
