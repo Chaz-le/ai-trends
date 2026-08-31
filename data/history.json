@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-08-30T09:55:16.930Z",
+  "generatedAt": "2026-08-31T05:22:42.704Z",
   "snapshots": [
-    {
-      "date": "2026-07-02",
-      "generatedAt": "2026-07-02T07:43:06.6942767+00:00",
-      "repos": {
-        "calesthio/OpenMontage": {
-          "stars": 31198,
-          "periodGain": 26509
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 24118,
-          "periodGain": 20690
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 48617,
-          "periodGain": 27497
-        },
-        "google-labs-code/design.md": {
-          "stars": 24174,
-          "periodGain": 7186
-        },
-        "xbtlin/ai-berkshire": {
-          "stars": 8369,
-          "periodGain": 6758
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 24600,
-          "periodGain": 5359
-        },
-        "topoteretes/cognee": {
-          "stars": 26465,
-          "periodGain": 5171
-        },
-        "ZhuLinsen/daily_stock_analysis": {
-          "stars": 53268,
-          "periodGain": 4994
-        },
-        "ripienaar/free-for-dev": {
-          "stars": 127681,
-          "periodGain": 4268
-        },
-        "stablyai/orca": {
-          "stars": 10545,
-          "periodGain": 6221
-        },
-        "mukul975/Anthropic-Cybersecurity-Skills": {
-          "stars": 23867,
-          "periodGain": 10648
-        },
-        "jamiepine/voicebox": {
-          "stars": 36821,
-          "periodGain": 2960
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 48344,
-          "periodGain": 21484
-        },
-        "lfnovo/open-notebook": {
-          "stars": 34401,
-          "periodGain": 10482
-        },
-        "phuryn/pm-skills": {
-          "stars": 22110,
-          "periodGain": 10309
-        }
-      }
-    },
     {
       "date": "2026-07-03",
       "generatedAt": "2026-07-03T07:34:21.9602067+00:00",
@@ -4638,6 +4572,84 @@
         "usekaneo/kaneo": {
           "stars": 8777,
           "periodGain": 4650
+        }
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "generatedAt": "2026-08-31T05:22:20.8375985+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 35583,
+          "periodGain": 25275
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 25868,
+          "periodGain": 16908
+        },
+        "openai/codex": {
+          "stars": 120189,
+          "periodGain": 5510
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 38637,
+          "periodGain": 5348
+        },
+        "Alishahryar1/free-claude-code": {
+          "stars": 52013,
+          "periodGain": 4324
+        },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 39657,
+          "periodGain": 4309
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 51362,
+          "periodGain": 3720
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 22958,
+          "periodGain": 3037
+        },
+        "tinyhumansai/openhuman": {
+          "stars": 39050,
+          "periodGain": 2526
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 2929,
+          "periodGain": 2162
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 24721,
+          "periodGain": 2085
+        },
+        "apache/maka": {
+          "stars": 4234,
+          "periodGain": 1973
+        },
+        "zhaoxuya520/reverse-skill": {
+          "stars": 32247,
+          "periodGain": 21984
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 25306,
+          "periodGain": 15913
+        },
+        "virgiliojr94/book-to-skill": {
+          "stars": 27379,
+          "periodGain": 13879
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 25827,
+          "periodGain": 11902
+        },
+        "volcengine/OpenViking": {
+          "stars": 34533,
+          "periodGain": 6903
+        },
+        "cactus-compute/needle": {
+          "stars": 9801,
+          "periodGain": 6450
         }
       }
     }
