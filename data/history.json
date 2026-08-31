@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:22:42.704Z",
+  "generatedAt": "2026-08-31T07:00:39.260Z",
   "snapshots": [
     {
       "date": "2026-07-03",
@@ -4577,79 +4577,63 @@
     },
     {
       "date": "2026-08-31",
-      "generatedAt": "2026-08-31T05:22:20.8375985+00:00",
+      "generatedAt": "2026-08-31T07:00:27.5453082+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 35583,
+          "stars": 35935,
           "periodGain": 25275
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 25868,
+          "stars": 25931,
           "periodGain": 16908
         },
         "openai/codex": {
-          "stars": 120189,
+          "stars": 120228,
           "periodGain": 5510
         },
         "MadsLorentzen/ai-job-search": {
-          "stars": 38637,
+          "stars": 38682,
           "periodGain": 5348
         },
         "Alishahryar1/free-claude-code": {
-          "stars": 52013,
+          "stars": 52031,
           "periodGain": 4324
         },
         "K-Dense-AI/scientific-agent-skills": {
-          "stars": 39657,
+          "stars": 39852,
           "periodGain": 4309
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 51362,
+          "stars": 51385,
           "periodGain": 3720
         },
         "tashfeenahmed/freellmapi": {
-          "stars": 22958,
+          "stars": 23021,
           "periodGain": 3037
         },
         "tinyhumansai/openhuman": {
-          "stars": 39050,
+          "stars": 39066,
           "periodGain": 2526
         },
         "anthropics/claude-plugins-community": {
-          "stars": 2929,
+          "stars": 2949,
           "periodGain": 2162
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 24721,
+          "stars": 24967,
           "periodGain": 2085
         },
         "apache/maka": {
-          "stars": 4234,
+          "stars": 4244,
           "periodGain": 1973
         },
         "zhaoxuya520/reverse-skill": {
-          "stars": 32247,
+          "stars": 32370,
           "periodGain": 21984
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 25306,
+          "stars": 25319,
           "periodGain": 15913
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 27379,
-          "periodGain": 13879
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 25827,
-          "periodGain": 11902
-        },
-        "volcengine/OpenViking": {
-          "stars": 34533,
-          "periodGain": 6903
-        },
-        "cactus-compute/needle": {
-          "stars": 9801,
-          "periodGain": 6450
         }
       }
     }

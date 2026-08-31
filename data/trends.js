@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-08-31T05:22:20.8375985+00:00",
+  "generatedAt": "2026-08-31T07:00:27.5453082+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 18103,
-      "totalStars": 35583,
-      "forks": 2280,
+      "totalStars": 35935,
+      "forks": 2306,
       "license": "MIT",
       "pushedAt": "08/31/2026 04:41:21",
       "tags": [
@@ -86,8 +86,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 13413,
-      "totalStars": 25868,
-      "forks": 2542,
+      "totalStars": 25931,
+      "forks": 2547,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -127,8 +127,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 5510,
-      "totalStars": 120189,
-      "forks": 18362,
+      "totalStars": 120228,
+      "forks": 18370,
       "license": "Apache-2.0",
       "pushedAt": "08/31/2026 02:20:34",
       "tags": [
@@ -180,8 +180,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5348,
-      "totalStars": 38637,
-      "forks": 13111,
+      "totalStars": 38682,
+      "forks": 13122,
       "license": "MIT",
       "pushedAt": "08/30/2026 18:27:51",
       "tags": [
@@ -219,10 +219,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4324,
-      "totalStars": 52013,
-      "forks": 8377,
+      "totalStars": 52031,
+      "forks": 8379,
       "license": "MIT",
-      "pushedAt": "08/31/2026 05:18:45",
+      "pushedAt": "08/31/2026 05:58:09",
       "tags": [
         "agent",
         "llm",
@@ -277,8 +277,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://k-dense.ai",
       "language": "Python",
       "starsGained": 4309,
-      "totalStars": 39657,
-      "forks": 3688,
+      "totalStars": 39852,
+      "forks": 3706,
       "license": "MIT",
       "pushedAt": "08/29/2026 22:55:14",
       "tags": [
@@ -338,8 +338,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 3720,
-      "totalStars": 51362,
-      "forks": 8895,
+      "totalStars": 51385,
+      "forks": 8899,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:25:48",
       "tags": [
@@ -377,8 +377,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 3037,
-      "totalStars": 22958,
-      "forks": 3166,
+      "totalStars": 23021,
+      "forks": 3170,
       "license": "MIT",
       "pushedAt": "08/30/2026 18:17:31",
       "tags": [
@@ -414,8 +414,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tinyhumans.ai/openhuman",
       "language": "Rust",
       "starsGained": 2526,
-      "totalStars": 39050,
-      "forks": 3836,
+      "totalStars": 39066,
+      "forks": 3837,
       "license": "GPL-3.0",
       "pushedAt": "08/30/2026 22:35:51",
       "tags": [
@@ -452,7 +452,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 2162,
-      "totalStars": 2929,
+      "totalStars": 2949,
       "forks": 237,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
@@ -488,8 +488,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 2085,
-      "totalStars": 24721,
-      "forks": 4534,
+      "totalStars": 24967,
+      "forks": 4576,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:16:58",
       "tags": [
@@ -542,10 +542,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1973,
-      "totalStars": 4234,
-      "forks": 390,
+      "totalStars": 4244,
+      "forks": 392,
       "license": "Apache-2.0",
-      "pushedAt": "08/31/2026 05:06:58",
+      "pushedAt": "08/31/2026 06:50:29",
       "tags": [
         "agent",
         "llm",
@@ -605,8 +605,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 25275,
-      "totalStars": 35583,
-      "forks": 2280,
+      "totalStars": 35935,
+      "forks": 2306,
       "license": "MIT",
       "pushedAt": "08/31/2026 04:41:21",
       "tags": [
@@ -686,8 +686,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 21984,
-      "totalStars": 32247,
-      "forks": 4343,
+      "totalStars": 32370,
+      "forks": 4364,
       "license": "MIT",
       "pushedAt": "08/30/2026 21:05:35",
       "tags": [
@@ -698,8 +698,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Routing regression — 173 (hint → expected PRIMARY) cases, fails CI on any mismatch",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -710,8 +710,7 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Java / JDK — for jadx and apktool"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -776,8 +775,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 16908,
-      "totalStars": 25868,
-      "forks": 2542,
+      "totalStars": 25931,
+      "forks": 2547,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -827,8 +826,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15913,
-      "totalStars": 25306,
-      "forks": 2359,
+      "totalStars": 25319,
+      "forks": 2360,
       "license": "NOASSERTION",
       "pushedAt": "08/27/2026 06:49:32",
       "tags": [
@@ -862,39 +861,23 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23645449?s=40&v=4",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "book-to-skill",
-        "context-engineering",
-        "document-processing",
-        "edtech",
-        "knowledge-base",
-        "knowledge-management",
-        "llm",
-        "pdf-to-markdown",
-        "rag",
-        "self-study",
-        "study-tools"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 13879,
-      "totalStars": 27379,
-      "forks": 2837,
-      "license": "MIT",
-      "pushedAt": "08/28/2026 19:12:33",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "rag",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "One command, any host — via the cross-agent skills CLI:",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -905,8 +888,7 @@ window.GITHUB_AI_TRENDS = {
           "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "可按 README 示例落地：▶️ All modes and examples → docs/usage.md"
+          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     },
@@ -917,31 +899,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 11902,
-      "totalStars": 25827,
-      "forks": 1623,
-      "license": "MIT",
-      "pushedAt": "08/26/2026 13:24:45",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -999,21 +972,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [
-        "agent-memory",
-        "agent-plugins",
-        "agentic-rag",
-        "context-database",
-        "dsh-plugin",
-        "self-evolving"
-      ],
-      "homepage": "https://openviking.ai/",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 6903,
-      "totalStars": 34533,
-      "forks": 2636,
-      "license": "AGPL-3.0",
-      "pushedAt": "08/31/2026 04:47:15",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "rag",
@@ -1022,8 +988,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "wait some time for semantic processing if not --wait",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -1034,8 +1000,7 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
         ]
       }
     },
@@ -1046,30 +1011,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "homepage": "https://cactuscompute.com",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 6450,
-      "totalStars": 9801,
-      "forks": 630,
-      "license": "Apache-2.0",
-      "pushedAt": "08/29/2026 16:01:58",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Needle 2",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -1078,8 +1035,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
