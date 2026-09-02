@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-02T04:19:54.8261644+00:00",
+  "generatedAt": "2026-09-02T05:46:09.4082090+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 25469,
-      "totalStars": 42305,
-      "forks": 2698,
+      "totalStars": 42421,
+      "forks": 2711,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -86,8 +86,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 10669,
-      "totalStars": 27053,
-      "forks": 2628,
+      "totalStars": 27078,
+      "forks": 2632,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -127,8 +127,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8014,
-      "totalStars": 29739,
-      "forks": 4999,
+      "totalStars": 29805,
+      "forks": 5002,
       "license": "MIT",
       "pushedAt": "09/02/2026 03:15:14",
       "tags": [
@@ -184,8 +184,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://k-dense.ai",
       "language": "Python",
       "starsGained": 6962,
-      "totalStars": 41668,
-      "forks": 3831,
+      "totalStars": 41721,
+      "forks": 3837,
       "license": "MIT",
       "pushedAt": "08/31/2026 17:14:03",
       "tags": [
@@ -237,8 +237,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4841,
-      "totalStars": 39899,
-      "forks": 13532,
+      "totalStars": 39922,
+      "forks": 13543,
       "license": "MIT",
       "pushedAt": "09/01/2026 19:35:59",
       "tags": [
@@ -276,8 +276,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 3452,
-      "totalStars": 23647,
-      "forks": 3235,
+      "totalStars": 23665,
+      "forks": 3237,
       "license": "MIT",
       "pushedAt": "09/01/2026 22:09:49",
       "tags": [
@@ -334,8 +334,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 3427,
-      "totalStars": 51872,
-      "forks": 8986,
+      "totalStars": 51883,
+      "forks": 8988,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:25:48",
       "tags": [
@@ -381,8 +381,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 2625,
-      "totalStars": 16178,
-      "forks": 1964,
+      "totalStars": 16189,
+      "forks": 1966,
       "license": "MIT",
       "pushedAt": "09/02/2026 00:41:23",
       "tags": [
@@ -423,8 +423,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://heretic-project.org",
       "language": "Python",
       "starsGained": 1874,
-      "totalStars": 30038,
-      "forks": 3305,
+      "totalStars": 30048,
+      "forks": 3307,
       "license": "AGPL-3.0",
       "pushedAt": "09/02/2026 01:44:18",
       "tags": [
@@ -460,7 +460,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 1634,
-      "totalStars": 3187,
+      "totalStars": 3195,
       "forks": 249,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
@@ -496,10 +496,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1377,
-      "totalStars": 6546,
-      "forks": 539,
+      "totalStars": 6558,
+      "forks": 540,
       "license": "",
-      "pushedAt": "09/02/2026 01:41:49",
+      "pushedAt": "09/02/2026 04:38:25",
       "tags": [
         "agent"
       ],
@@ -538,7 +538,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.com/ConardLi/garden-skills",
       "language": "CSS",
       "starsGained": 1340,
-      "totalStars": 12026,
+      "totalStars": 12033,
       "forks": 1470,
       "license": "MIT",
       "pushedAt": "07/12/2026 14:36:31",
@@ -602,8 +602,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 33153,
-      "totalStars": 42305,
-      "forks": 2698,
+      "totalStars": 42421,
+      "forks": 2711,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -638,15 +638,15 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 22512,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 33857,
+      "forks": 4586,
+      "license": "MIT",
+      "pushedAt": "08/31/2026 07:23:08",
       "tags": [
         "agent",
         "llm",
@@ -655,8 +655,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Routing regression — 173 (hint → expected PRIMARY) cases, fails CI on any mismatch",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -667,7 +667,8 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Java / JDK — for jadx and apktool"
         ]
       }
     },
@@ -693,8 +694,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 18278,
-      "totalStars": 27053,
-      "forks": 2628,
+      "totalStars": 27078,
+      "forks": 2632,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -730,23 +731,34 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "topics": [],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "embedding",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "memory",
+        "openclaw-plugin",
+        "vector-search"
+      ],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15686,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 25615,
+      "forks": 2394,
+      "license": "NOASSERTION",
+      "pushedAt": "08/31/2026 07:35:24",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "What is TencentDB Agent Memory?",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -768,22 +780,31 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [],
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 11429,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 26468,
+      "forks": 1662,
+      "license": "MIT",
+      "pushedAt": "09/01/2026 20:49:17",
       "tags": [
         "agent",
-        "coding"
+        "llm",
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -810,8 +831,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8755,
-      "totalStars": 29739,
-      "forks": 4999,
+      "totalStars": 29805,
+      "forks": 5002,
       "license": "MIT",
       "pushedAt": "09/02/2026 03:15:14",
       "tags": [
@@ -844,29 +865,43 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "topics": [],
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "topics": [
+        "design",
+        "design-patterns",
+        "design-system",
+        "development",
+        "interview",
+        "interview-practice",
+        "interview-questions",
+        "programming",
+        "python",
+        "system",
+        "web",
+        "web-application",
+        "webapp"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 7979,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 367575,
+      "forks": 58181,
+      "license": "NOASSERTION",
+      "pushedAt": "03/20/2026 01:52:19",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "The System Design Primer",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-        "projectIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "zhIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+        "projectIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
         "featurePoints": [
-          "核心线索：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+          "核心线索：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -880,14 +915,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "self-evolving"
+      ],
+      "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 7321,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 35011,
+      "forks": 2679,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/02/2026 05:34:30",
       "tags": [
         "agent",
         "rag",
@@ -896,8 +938,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "wait some time for semantic processing if not --wait",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -908,7 +950,8 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
         ]
       }
     },
@@ -919,22 +962,30 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "cactus",
+        "gemini",
+        "gemma",
+        "llm",
+        "on-device-ai"
+      ],
+      "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 6669,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 10010,
+      "forks": 651,
+      "license": "Apache-2.0",
+      "pushedAt": "08/29/2026 16:01:58",
       "tags": [
+        "agent",
+        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Needle 2",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -943,7 +994,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：agent = needle.Needle(tools=[getweather])"
         ]
       }
     },
@@ -954,14 +1006,26 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/huangruiteng/loopx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
       "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-control-plane",
+        "agent-harness",
+        "agent-ops",
+        "ai-agents",
+        "codex",
+        "dsh-plugin",
+        "long-horizon",
+        "long-horizon-agents",
+        "loop-engineering",
+        "loopx",
+        "workflow-automation"
+      ],
+      "homepage": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
       "language": "Python",
       "starsGained": 5248,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 5404,
+      "forks": 481,
+      "license": "Apache-2.0",
+      "pushedAt": "09/02/2026 05:08:22",
       "tags": [
         "agent",
         "llm"
@@ -969,7 +1033,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -994,10 +1058,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4020,
-      "totalStars": 6546,
-      "forks": 539,
+      "totalStars": 6558,
+      "forks": 540,
       "license": "",
-      "pushedAt": "09/02/2026 01:41:49",
+      "pushedAt": "09/02/2026 04:38:25",
       "tags": [
         "agent"
       ],
