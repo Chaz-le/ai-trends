@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-02T05:46:09.4082090+00:00",
+  "generatedAt": "2026-09-02T08:45:06.1119929+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 25469,
-      "totalStars": 42421,
-      "forks": 2711,
+      "totalStars": 42803,
+      "forks": 2738,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -86,8 +86,8 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 10669,
-      "totalStars": 27078,
-      "forks": 2632,
+      "totalStars": 27179,
+      "forks": 2636,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -127,10 +127,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8014,
-      "totalStars": 29805,
-      "forks": 5002,
+      "totalStars": 30018,
+      "forks": 5021,
       "license": "MIT",
-      "pushedAt": "09/02/2026 03:15:14",
+      "pushedAt": "09/02/2026 08:29:52",
       "tags": [
         "agent",
         "learning"
@@ -151,7 +151,7 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Node.js = 20"
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -184,8 +184,8 @@
       "homepage": "https://k-dense.ai",
       "language": "Python",
       "starsGained": 6962,
-      "totalStars": 41721,
-      "forks": 3837,
+      "totalStars": 41881,
+      "forks": 3850,
       "license": "MIT",
       "pushedAt": "08/31/2026 17:14:03",
       "tags": [
@@ -237,8 +237,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 4841,
-      "totalStars": 39922,
-      "forks": 13543,
+      "totalStars": 40006,
+      "forks": 13573,
       "license": "MIT",
       "pushedAt": "09/01/2026 19:35:59",
       "tags": [
@@ -276,8 +276,8 @@
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 3452,
-      "totalStars": 23665,
-      "forks": 3237,
+      "totalStars": 23713,
+      "forks": 3244,
       "license": "MIT",
       "pushedAt": "09/01/2026 22:09:49",
       "tags": [
@@ -334,8 +334,8 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 3427,
-      "totalStars": 51883,
-      "forks": 8988,
+      "totalStars": 51935,
+      "forks": 8993,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:25:48",
       "tags": [
@@ -381,8 +381,8 @@
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 2625,
-      "totalStars": 16189,
-      "forks": 1966,
+      "totalStars": 16227,
+      "forks": 1977,
       "license": "MIT",
       "pushedAt": "09/02/2026 00:41:23",
       "tags": [
@@ -423,8 +423,8 @@
       "homepage": "https://heretic-project.org",
       "language": "Python",
       "starsGained": 1874,
-      "totalStars": 30048,
-      "forks": 3307,
+      "totalStars": 30075,
+      "forks": 3308,
       "license": "AGPL-3.0",
       "pushedAt": "09/02/2026 01:44:18",
       "tags": [
@@ -460,8 +460,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1634,
-      "totalStars": 3195,
-      "forks": 249,
+      "totalStars": 3219,
+      "forks": 250,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
@@ -496,8 +496,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1377,
-      "totalStars": 6558,
-      "forks": 540,
+      "totalStars": 6585,
+      "forks": 543,
       "license": "",
       "pushedAt": "09/02/2026 04:38:25",
       "tags": [
@@ -538,7 +538,7 @@
       "homepage": "https://github.com/ConardLi/garden-skills",
       "language": "CSS",
       "starsGained": 1340,
-      "totalStars": 12033,
+      "totalStars": 12046,
       "forks": 1470,
       "license": "MIT",
       "pushedAt": "07/12/2026 14:36:31",
@@ -602,8 +602,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 33153,
-      "totalStars": 42421,
-      "forks": 2711,
+      "totalStars": 42803,
+      "forks": 2738,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -638,15 +638,15 @@
       "fullName": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147215175?s=40&v=4",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "topics": [],
       "homepage": "",
       "language": "PowerShell",
       "starsGained": 22512,
-      "totalStars": 33857,
-      "forks": 4586,
-      "license": "MIT",
-      "pushedAt": "08/31/2026 07:23:08",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -655,8 +655,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Routing regression — 173 (hint → expected PRIMARY) cases, fails CI on any mismatch",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -667,8 +667,7 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Java / JDK — for jadx and apktool"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -694,8 +693,8 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 18278,
-      "totalStars": 27078,
-      "forks": 2632,
+      "totalStars": 27179,
+      "forks": 2636,
       "license": "MIT",
       "pushedAt": "08/30/2026 10:46:30",
       "tags": [
@@ -745,8 +744,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15686,
-      "totalStars": 25615,
-      "forks": 2394,
+      "totalStars": 25649,
+      "forks": 2398,
       "license": "NOASSERTION",
       "pushedAt": "08/31/2026 07:35:24",
       "tags": [
@@ -791,8 +790,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 11429,
-      "totalStars": 26468,
-      "forks": 1662,
+      "totalStars": 26513,
+      "forks": 1664,
       "license": "MIT",
       "pushedAt": "09/01/2026 20:49:17",
       "tags": [
@@ -804,7 +803,7 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -831,10 +830,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8755,
-      "totalStars": 29805,
-      "forks": 5002,
+      "totalStars": 30018,
+      "forks": 5021,
       "license": "MIT",
-      "pushedAt": "09/02/2026 03:15:14",
+      "pushedAt": "09/02/2026 08:29:52",
       "tags": [
         "agent",
         "learning"
@@ -855,7 +854,7 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Node.js = 20"
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -865,43 +864,29 @@
       "fullName": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-      "topics": [
-        "design",
-        "design-patterns",
-        "design-system",
-        "development",
-        "interview",
-        "interview-practice",
-        "interview-questions",
-        "programming",
-        "python",
-        "system",
-        "web",
-        "web-application",
-        "webapp"
-      ],
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 7979,
-      "totalStars": 367575,
-      "forks": 58181,
-      "license": "NOASSERTION",
-      "pushedAt": "03/20/2026 01:52:19",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "The System Design Primer",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-        "projectIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+        "zhIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "projectIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
         "featurePoints": [
-          "核心线索：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+          "核心线索：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -926,10 +911,10 @@
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 7321,
-      "totalStars": 35011,
-      "forks": 2679,
+      "totalStars": 35051,
+      "forks": 2683,
       "license": "AGPL-3.0",
-      "pushedAt": "09/02/2026 05:34:30",
+      "pushedAt": "09/02/2026 08:27:16",
       "tags": [
         "agent",
         "rag",
@@ -962,30 +947,22 @@
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "homepage": "https://cactuscompute.com",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 6669,
-      "totalStars": 10010,
-      "forks": 651,
-      "license": "Apache-2.0",
-      "pushedAt": "08/29/2026 16:01:58",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Needle 2",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -994,8 +971,7 @@
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1022,10 +998,10 @@
       "homepage": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
       "language": "Python",
       "starsGained": 5248,
-      "totalStars": 5404,
-      "forks": 481,
+      "totalStars": 5410,
+      "forks": 480,
       "license": "Apache-2.0",
-      "pushedAt": "09/02/2026 05:08:22",
+      "pushedAt": "09/02/2026 07:03:24",
       "tags": [
         "agent",
         "llm"
@@ -1058,8 +1034,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4020,
-      "totalStars": 6558,
-      "forks": 540,
+      "totalStars": 6585,
+      "forks": 543,
       "license": "",
       "pushedAt": "09/02/2026 04:38:25",
       "tags": [
