@@ -1,44 +1,6 @@
 {
-  "generatedAt": "2026-09-01T09:22:54.084Z",
+  "generatedAt": "2026-09-02T04:20:21.859Z",
   "snapshots": [
-    {
-      "date": "2026-07-04",
-      "generatedAt": "2026-07-04T07:12:58.1975808+00:00",
-      "repos": {
-        "DeusData/codebase-memory-mcp": {
-          "stars": 25720,
-          "periodGain": 22440
-        },
-        "usestrix/strix": {
-          "stars": 35069,
-          "periodGain": 7567
-        },
-        "xbtlin/ai-berkshire": {
-          "stars": 9285,
-          "periodGain": 6230
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 25364,
-          "periodGain": 4205
-        },
-        "browser-use/video-use": {
-          "stars": 14485,
-          "periodGain": 4056
-        },
-        "topoteretes/cognee": {
-          "stars": 26855,
-          "periodGain": 4001
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 10984,
-          "periodGain": 3631
-        },
-        "ogulcancelik/herdr": {
-          "stars": 10950,
-          "periodGain": 6481
-        }
-      }
-    },
     {
       "date": "2026-07-05",
       "generatedAt": "2026-07-05T07:36:26.4276985+00:00",
@@ -4666,6 +4628,60 @@
         "akitaonrails/ai-memory": {
           "stars": 5391,
           "periodGain": 4001
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "generatedAt": "2026-09-02T04:19:54.8261644+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 42305,
+          "periodGain": 33153
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 27053,
+          "periodGain": 18278
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 29739,
+          "periodGain": 8755
+        },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 41668,
+          "periodGain": 6962
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 39899,
+          "periodGain": 4841
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 23647,
+          "periodGain": 3452
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 51872,
+          "periodGain": 3427
+        },
+        "every-app/open-seo": {
+          "stars": 16178,
+          "periodGain": 2625
+        },
+        "p-e-w/heretic": {
+          "stars": 30038,
+          "periodGain": 1874
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 3187,
+          "periodGain": 1634
+        },
+        "cursor/plugins": {
+          "stars": 6546,
+          "periodGain": 4020
+        },
+        "ConardLi/garden-skills": {
+          "stars": 12026,
+          "periodGain": 1340
         }
       }
     }
