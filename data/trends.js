@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-03T04:13:45.0520857+00:00",
+  "generatedAt": "2026-09-03T05:44:26.9122256+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 26626,
-      "totalStars": 44213,
-      "forks": 2834,
+      "totalStars": 44306,
+      "forks": 2840,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -75,8 +75,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 9426,
-      "totalStars": 30643,
-      "forks": 5089,
+      "totalStars": 30681,
+      "forks": 5093,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:35:31",
       "tags": [
@@ -110,14 +110,32 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "homepage": "https://arxiv.org/abs/2609.00065",
       "language": "Python",
       "starsGained": 7558,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 42168,
+      "forks": 3873,
+      "license": "MIT",
+      "pushedAt": "09/02/2026 16:25:37",
       "tags": [
         "agent",
         "llm",
@@ -126,8 +144,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Scientific Agent Skills",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -138,7 +156,8 @@ window.GITHUB_AI_TRENDS = {
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Confirm installation paths and optional metadata behavior in your host's current documentation."
         ]
       }
     },
@@ -164,8 +183,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 7006,
-      "totalStars": 27468,
-      "forks": 2659,
+      "totalStars": 27496,
+      "forks": 2660,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -201,22 +220,45 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
+      ],
+      "homepage": "https://www.openmontage.video/",
       "language": "Python",
       "starsGained": 5078,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 55765,
+      "forks": 6966,
+      "license": "AGPL-3.0",
+      "pushedAt": "08/22/2026 18:22:24",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "coding",
+        "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": ".env — every key is optional, add what you have",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -227,7 +269,8 @@ window.GITHUB_AI_TRENDS = {
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
         ]
       }
     },
@@ -238,14 +281,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 4172,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 40373,
+      "forks": 13707,
+      "license": "MIT",
+      "pushedAt": "09/02/2026 19:35:11",
       "tags": [
         "agent",
         "llm"
@@ -253,8 +309,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "AI Job Search",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -265,7 +321,8 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "可按 README 示例落地：and every update workflow works identically. Fork only to contribute."
         ]
       }
     },
@@ -277,13 +334,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 3366,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 23947,
+      "forks": 3268,
+      "license": "MIT",
+      "pushedAt": "09/02/2026 13:42:29",
       "tags": [
         "llm",
         "ml"
@@ -291,8 +348,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -301,7 +358,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/install.md."
         ]
       }
     },
@@ -312,22 +370,45 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
       "description": "Learn it. Build it. Ship it for others.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 2843,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 52122,
+      "forks": 9028,
+      "license": "MIT",
+      "pushedAt": "08/30/2026 09:25:48",
       "tags": [
         "agent",
+        "llm",
+        "generation",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -337,7 +418,54 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：compatible agent and let the course drive itself:"
+        ]
+      }
+    },
+    {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-tools",
+        "site-audit"
+      ],
+      "homepage": "https://openseo.so",
+      "language": "TypeScript",
+      "starsGained": 2767,
+      "totalStars": 16454,
+      "forks": 2016,
+      "license": "MIT",
+      "pushedAt": "09/02/2026 00:41:23",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenSEO",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Keyword research"
         ]
       }
     },
@@ -348,23 +476,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/jingyaogong/minimind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
       "starsGained": 2669,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 57937,
+      "forks": 7533,
+      "license": "Apache-2.0",
+      "pushedAt": "08/31/2026 10:08:14",
       "tags": [
         "llm",
+        "ml",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "📌 项目介绍",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
@@ -373,7 +505,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：cd scripts && streamlit run webdemo.py"
         ]
       }
     },
@@ -384,22 +517,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/p-e-w/heretic",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
       "description": "Fully automatic censorship removal for language models",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "abliteration",
+        "llm",
+        "transformer"
+      ],
+      "homepage": "https://heretic-project.org",
       "language": "Python",
       "starsGained": 2045,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 30210,
+      "forks": 3336,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/03/2026 05:20:57",
       "tags": [
+        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Heretic: Fully automatic censorship removal for language models",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Fully automatic censorship removal for language models",
@@ -408,7 +546,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Fully automatic censorship removal for language models"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：later versions. For example, loading MXFP4-quantized models like gpt-oss"
         ]
       }
     },
@@ -423,60 +562,24 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1333,
-      "totalStars": 0,
-      "forks": 0,
+      "totalStars": 6687,
+      "forks": 548,
       "license": "",
-      "pushedAt": "",
+      "pushedAt": "09/03/2026 04:37:13",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Cursor plugins",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
         "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
         "featurePoints": [
           "核心线索：Cursor plugin specification and official plugins"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "anthropics",
-      "repo": "claude-plugins-community",
-      "fullName": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 1212,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "projectIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "featurePoints": [
-          "核心线索：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -517,8 +620,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 35312,
-      "totalStars": 44213,
-      "forks": 2834,
+      "totalStars": 44306,
+      "forks": 2840,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -569,8 +672,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 18715,
-      "totalStars": 27468,
-      "forks": 2659,
+      "totalStars": 27496,
+      "forks": 2660,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -606,23 +709,34 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "topics": [],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "embedding",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "memory",
+        "openclaw-plugin",
+        "vector-search"
+      ],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15189,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 25744,
+      "forks": 2402,
+      "license": "NOASSERTION",
+      "pushedAt": "09/03/2026 02:31:45",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "What is TencentDB Agent Memory?",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -644,22 +758,31 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [],
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 11252,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 26764,
+      "forks": 1675,
+      "license": "MIT",
+      "pushedAt": "09/01/2026 20:49:17",
       "tags": [
         "agent",
-        "coding"
+        "llm",
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -686,8 +809,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 10080,
-      "totalStars": 30643,
-      "forks": 5089,
+      "totalStars": 30681,
+      "forks": 5093,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:35:31",
       "tags": [
@@ -721,31 +844,57 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/semantica-agi/semantica",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "ai",
+        "ai-governance",
+        "ai-infrastructure",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "data-engineering",
+        "decision-intelligence",
+        "developer-tools",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "provenance",
+        "python",
+        "reasoning",
+        "semantic-search"
+      ],
+      "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 9973,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 11761,
+      "forks": 1321,
+      "license": "MIT",
+      "pushedAt": "09/03/2026 05:35:55",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "rag",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "projectIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "source": "readme",
+        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
         "featurePoints": [
-          "核心线索：Graph-Native Infrastructure for Context and Accountable AI Systems"
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -760,18 +909,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 8868,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 8923,
+      "forks": 499,
+      "license": "MIT",
+      "pushedAt": "09/02/2026 21:29:40",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Cloudflare Computer",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
@@ -780,7 +929,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Give your agent a computer 👾"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：The examples/ directory holds runnable consumers of the"
         ]
       }
     },
@@ -826,14 +976,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "self-evolving"
+      ],
+      "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 7539,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 35226,
+      "forks": 2700,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/03/2026 05:39:56",
       "tags": [
         "agent",
         "rag",
@@ -842,8 +999,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "wait some time for semantic processing if not --wait",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -854,7 +1011,8 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
         ]
       }
     },
@@ -865,22 +1023,30 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "cactus",
+        "gemini",
+        "gemma",
+        "llm",
+        "on-device-ai"
+      ],
+      "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 6771,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 10125,
+      "forks": 655,
+      "license": "Apache-2.0",
+      "pushedAt": "09/02/2026 19:21:34",
       "tags": [
+        "agent",
+        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Needle 2",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -889,7 +1055,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：agent = needle.Needle(tools=[getweather])"
         ]
       }
     },
@@ -900,14 +1067,26 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/huangruiteng/loopx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
       "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-control-plane",
+        "agent-harness",
+        "agent-ops",
+        "ai-agents",
+        "codex",
+        "dsh-plugin",
+        "long-horizon",
+        "long-horizon-agents",
+        "loop-engineering",
+        "loopx",
+        "workflow-automation"
+      ],
+      "homepage": "https://my.feishu.cn/wiki/DPdLwMajaiEmWHky7jhcPOtEnEf",
       "language": "Python",
       "starsGained": 5297,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 5476,
+      "forks": 484,
+      "license": "Apache-2.0",
+      "pushedAt": "09/03/2026 05:43:18",
       "tags": [
         "agent",
         "llm"
@@ -915,7 +1094,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",

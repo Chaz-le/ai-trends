@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:13:55.189Z",
+  "generatedAt": "2026-09-03T05:44:40.862Z",
   "snapshots": [
     {
       "date": "2026-07-06",
@@ -4629,19 +4629,83 @@
     },
     {
       "date": "2026-09-03",
-      "generatedAt": "2026-09-03T04:13:45.0520857+00:00",
+      "generatedAt": "2026-09-03T05:44:26.9122256+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 44213,
+          "stars": 44306,
           "periodGain": 35312
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 30643,
+          "stars": 30681,
           "periodGain": 10080
         },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 42168,
+          "periodGain": 7558
+        },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 27468,
+          "stars": 27496,
           "periodGain": 18715
+        },
+        "calesthio/OpenMontage": {
+          "stars": 55765,
+          "periodGain": 5078
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 40373,
+          "periodGain": 4172
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 23947,
+          "periodGain": 3366
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 52122,
+          "periodGain": 2843
+        },
+        "every-app/open-seo": {
+          "stars": 16454,
+          "periodGain": 2767
+        },
+        "jingyaogong/minimind": {
+          "stars": 57937,
+          "periodGain": 2669
+        },
+        "p-e-w/heretic": {
+          "stars": 30210,
+          "periodGain": 2045
+        },
+        "cursor/plugins": {
+          "stars": 6687,
+          "periodGain": 1333
+        },
+        "TencentCloud/TencentDB-Agent-Memory": {
+          "stars": 25744,
+          "periodGain": 15189
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 26764,
+          "periodGain": 11252
+        },
+        "semantica-agi/semantica": {
+          "stars": 11761,
+          "periodGain": 9973
+        },
+        "cloudflare/computer": {
+          "stars": 8923,
+          "periodGain": 8868
+        },
+        "volcengine/OpenViking": {
+          "stars": 35226,
+          "periodGain": 7539
+        },
+        "cactus-compute/needle": {
+          "stars": 10125,
+          "periodGain": 6771
+        },
+        "huangruiteng/loopx": {
+          "stars": 5476,
+          "periodGain": 5297
         }
       }
     }
