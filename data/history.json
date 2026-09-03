@@ -1,80 +1,6 @@
 {
-  "generatedAt": "2026-09-02T08:45:18.813Z",
+  "generatedAt": "2026-09-03T04:13:55.189Z",
   "snapshots": [
-    {
-      "date": "2026-07-05",
-      "generatedAt": "2026-07-05T07:36:26.4276985+00:00",
-      "repos": {
-        "msitarzewski/agency-agents": {
-          "stars": 127160,
-          "periodGain": 10976
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 26335,
-          "periodGain": 23024
-        },
-        "usestrix/strix": {
-          "stars": 36365,
-          "periodGain": 9853
-        },
-        "calesthio/OpenMontage": {
-          "stars": 33258,
-          "periodGain": 28653
-        },
-        "xbtlin/ai-berkshire": {
-          "stars": 9817,
-          "periodGain": 5984
-        },
-        "browser-use/video-use": {
-          "stars": 14806,
-          "periodGain": 4174
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 11417,
-          "periodGain": 4133
-        },
-        "ZhuLinsen/daily_stock_analysis": {
-          "stars": 54424,
-          "periodGain": 3842
-        },
-        "stablyai/orca": {
-          "stars": 12122,
-          "periodGain": 7802
-        },
-        "JCodesMore/ai-website-cloner-template": {
-          "stars": 25643,
-          "periodGain": 3730
-        },
-        "ogulcancelik/herdr": {
-          "stars": 11612,
-          "periodGain": 6930
-        },
-        "topoteretes/cognee": {
-          "stars": 27007,
-          "periodGain": 3388
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 50825,
-          "periodGain": 29397
-        },
-        "mvanhorn/last30days-skill": {
-          "stars": 48989,
-          "periodGain": 21849
-        },
-        "phuryn/pm-skills": {
-          "stars": 22527,
-          "periodGain": 10626
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 49156,
-          "periodGain": 7399
-        },
-        "roboflow/supervision": {
-          "stars": 46730,
-          "periodGain": 6762
-        }
-      }
-    },
     {
       "date": "2026-07-06",
       "generatedAt": "2026-07-06T08:39:49.6390511+00:00",
@@ -4698,6 +4624,24 @@
         "huangruiteng/loopx": {
           "stars": 5410,
           "periodGain": 5248
+        }
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "generatedAt": "2026-09-03T04:13:45.0520857+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 44213,
+          "periodGain": 35312
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 30643,
+          "periodGain": 10080
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 27468,
+          "periodGain": 18715
         }
       }
     }
