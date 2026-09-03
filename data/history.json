@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T05:44:40.862Z",
+  "generatedAt": "2026-09-03T08:54:20.494Z",
   "snapshots": [
     {
       "date": "2026-07-06",
@@ -4629,82 +4629,82 @@
     },
     {
       "date": "2026-09-03",
-      "generatedAt": "2026-09-03T05:44:26.9122256+00:00",
+      "generatedAt": "2026-09-03T08:54:02.3771417+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 44306,
+          "stars": 44661,
           "periodGain": 35312
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 30681,
+          "stars": 30783,
           "periodGain": 10080
         },
         "K-Dense-AI/scientific-agent-skills": {
-          "stars": 42168,
+          "stars": 42220,
           "periodGain": 7558
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 27496,
+          "stars": 27591,
           "periodGain": 18715
         },
         "calesthio/OpenMontage": {
-          "stars": 55765,
+          "stars": 55830,
           "periodGain": 5078
         },
         "MadsLorentzen/ai-job-search": {
-          "stars": 40373,
+          "stars": 40428,
           "periodGain": 4172
         },
         "tashfeenahmed/freellmapi": {
-          "stars": 23947,
+          "stars": 23984,
           "periodGain": 3366
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 52122,
+          "stars": 52150,
           "periodGain": 2843
         },
         "every-app/open-seo": {
-          "stars": 16454,
+          "stars": 16492,
           "periodGain": 2767
         },
         "jingyaogong/minimind": {
-          "stars": 57937,
+          "stars": 58033,
           "periodGain": 2669
         },
         "p-e-w/heretic": {
-          "stars": 30210,
+          "stars": 30232,
           "periodGain": 2045
         },
         "cursor/plugins": {
-          "stars": 6687,
+          "stars": 6697,
           "periodGain": 1333
         },
         "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 25744,
+          "stars": 25770,
           "periodGain": 15189
         },
         "ayghri/i-have-adhd": {
-          "stars": 26764,
+          "stars": 26820,
           "periodGain": 11252
         },
         "semantica-agi/semantica": {
-          "stars": 11761,
+          "stars": 11788,
           "periodGain": 9973
         },
         "cloudflare/computer": {
-          "stars": 8923,
+          "stars": 8936,
           "periodGain": 8868
         },
         "volcengine/OpenViking": {
-          "stars": 35226,
+          "stars": 35264,
           "periodGain": 7539
         },
         "cactus-compute/needle": {
-          "stars": 10125,
+          "stars": 10136,
           "periodGain": 6771
         },
         "huangruiteng/loopx": {
-          "stars": 5476,
+          "stars": 5500,
           "periodGain": 5297
         }
       }
