@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-03T08:54:02.3771417+00:00",
+  "generatedAt": "2026-09-04T04:20:47.6039974+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -33,9 +33,9 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 26626,
-      "totalStars": 44661,
-      "forks": 2863,
+      "starsGained": 24227,
+      "totalStars": 46238,
+      "forks": 2967,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -74,11 +74,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 9426,
-      "totalStars": 30783,
-      "forks": 5104,
+      "starsGained": 10023,
+      "totalStars": 31136,
+      "forks": 5147,
       "license": "MIT",
-      "pushedAt": "09/03/2026 08:50:41",
+      "pushedAt": "09/04/2026 03:24:27",
       "tags": [
         "agent",
         "learning"
@@ -131,9 +131,9 @@
       ],
       "homepage": "https://arxiv.org/abs/2609.00065",
       "language": "Python",
-      "starsGained": 7558,
-      "totalStars": 42220,
-      "forks": 3878,
+      "starsGained": 7370,
+      "totalStars": 42436,
+      "forks": 3889,
       "license": "MIT",
       "pushedAt": "09/02/2026 16:25:37",
       "tags": [
@@ -182,9 +182,9 @@
       ],
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
-      "starsGained": 7006,
-      "totalStars": 27591,
-      "forks": 2666,
+      "starsGained": 5425,
+      "totalStars": 27802,
+      "forks": 2683,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -214,51 +214,51 @@
       }
     },
     {
-      "owner": "calesthio",
-      "repo": "OpenMontage",
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "topics": [
-        "agent",
-        "agentic-ai",
         "ai",
-        "claude",
-        "copilot",
-        "cursor",
-        "elevenlabs",
-        "ffmpeg",
-        "flux",
-        "image-generation",
-        "open-source",
-        "openai",
-        "python",
-        "remotion",
-        "stable-diffusion",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
         "text-to-speech",
-        "text-to-video",
-        "video-generation",
-        "video-production"
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
       ],
-      "homepage": "https://www.openmontage.video/",
+      "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 5078,
-      "totalStars": 55830,
-      "forks": 6971,
+      "starsGained": 3902,
+      "totalStars": 16477,
+      "forks": 2224,
       "license": "AGPL-3.0",
-      "pushedAt": "08/22/2026 18:22:24",
+      "pushedAt": "09/03/2026 21:56:54",
       "tags": [
         "agent",
         "llm",
-        "coding",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": ".env — every key is optional, add what you have",
+        "readmeTitle": "Quick test via cURL",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -269,60 +269,7 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：FFmpeg — brew install ffmpeg / sudo apt install ffmpeg / ffmpeg.org"
-        ]
-      }
-    },
-    {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4172,
-      "totalStars": 40428,
-      "forks": 13722,
-      "license": "MIT",
-      "pushedAt": "09/03/2026 06:19:08",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "AI Job Search",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "可按 README 示例落地：and every update workflow works identically. Fork only to contribute."
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -336,11 +283,11 @@
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 3366,
-      "totalStars": 23984,
-      "forks": 3269,
+      "starsGained": 3194,
+      "totalStars": 24152,
+      "forks": 3286,
       "license": "MIT",
-      "pushedAt": "09/02/2026 13:42:29",
+      "pushedAt": "09/03/2026 11:26:28",
       "tags": [
         "llm",
         "ml"
@@ -360,6 +307,93 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/install.md."
+        ]
+      }
+    },
+    {
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "fullName": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "homepage": "https://jingyaogong.github.io/minimind",
+      "language": "Python",
+      "starsGained": 3122,
+      "totalStars": 58297,
+      "forks": 7573,
+      "license": "Apache-2.0",
+      "pushedAt": "08/31/2026 10:08:14",
+      "tags": [
+        "llm",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "📌 项目介绍",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "projectIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "featurePoints": [
+          "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：cd scripts && streamlit run webdemo.py"
+        ]
+      }
+    },
+    {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-tools",
+        "site-audit"
+      ],
+      "homepage": "https://openseo.so",
+      "language": "TypeScript",
+      "starsGained": 2941,
+      "totalStars": 16711,
+      "forks": 2064,
+      "license": "MIT",
+      "pushedAt": "09/03/2026 15:54:34",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenSEO",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Keyword research"
         ]
       }
     },
@@ -394,9 +428,9 @@
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 2843,
-      "totalStars": 52150,
-      "forks": 9039,
+      "starsGained": 2525,
+      "totalStars": 52318,
+      "forks": 9059,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:25:48",
       "tags": [
@@ -424,36 +458,28 @@
       }
     },
     {
-      "owner": "every-app",
-      "repo": "open-seo",
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-tools",
-        "site-audit"
-      ],
-      "homepage": "https://openseo.so",
-      "language": "TypeScript",
-      "starsGained": 2767,
-      "totalStars": 16492,
-      "forks": 2022,
-      "license": "MIT",
-      "pushedAt": "09/02/2026 00:41:23",
+      "owner": "google-research",
+      "repo": "timesfm",
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "topics": [],
+      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+      "language": "Python",
+      "starsGained": 2324,
+      "totalStars": 30759,
+      "forks": 2938,
+      "license": "Apache-2.0",
+      "pushedAt": "09/02/2026 21:37:52",
       "tags": [
-        "agent"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "OpenSEO",
+        "readmeTitle": "TimesFM",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -464,49 +490,7 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Keyword research"
-        ]
-      }
-    },
-    {
-      "owner": "jingyaogong",
-      "repo": "minimind",
-      "fullName": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "topics": [
-        "artificial-intelligence",
-        "large-language-model"
-      ],
-      "homepage": "https://jingyaogong.github.io/minimind",
-      "language": "Python",
-      "starsGained": 2669,
-      "totalStars": 58033,
-      "forks": 7545,
-      "license": "Apache-2.0",
-      "pushedAt": "08/31/2026 10:08:14",
-      "tags": [
-        "llm",
-        "ml",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "📌 项目介绍",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "projectIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "featurePoints": [
-          "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：cd scripts && streamlit run webdemo.py"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -524,11 +508,11 @@
       ],
       "homepage": "https://heretic-project.org",
       "language": "Python",
-      "starsGained": 2045,
-      "totalStars": 30232,
-      "forks": 3338,
+      "starsGained": 2146,
+      "totalStars": 30338,
+      "forks": 3356,
       "license": "AGPL-3.0",
-      "pushedAt": "09/03/2026 05:20:57",
+      "pushedAt": "09/03/2026 12:19:46",
       "tags": [
         "llm",
         "ml"
@@ -552,37 +536,47 @@
       }
     },
     {
-      "owner": "cursor",
-      "repo": "plugins",
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-      "description": "Cursor plugin specification and official plugins",
-      "topics": [],
-      "homepage": "",
+      "owner": "Gitlawb",
+      "repo": "openclaude",
+      "fullName": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
+      "description": "runs anywhere. uses anything",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "cli",
+        "coding"
+      ],
+      "homepage": "https://openclaude.gitlawb.com",
       "language": "TypeScript",
-      "starsGained": 1333,
-      "totalStars": 6697,
-      "forks": 549,
-      "license": "",
-      "pushedAt": "09/03/2026 04:37:13",
+      "starsGained": 1389,
+      "totalStars": 32395,
+      "forks": 9019,
+      "license": "NOASSERTION",
+      "pushedAt": "09/03/2026 23:35:39",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Cursor plugins",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：Cursor plugin specification and official plugins"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：run /provider for guided provider setup and saved profiles"
         ]
       }
     }
@@ -619,9 +613,9 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 35312,
-      "totalStars": 44661,
-      "forks": 2863,
+      "starsGained": 36689,
+      "totalStars": 46238,
+      "forks": 2967,
       "license": "MIT",
       "pushedAt": "09/02/2026 01:24:50",
       "tags": [
@@ -671,9 +665,9 @@
       ],
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
-      "starsGained": 18715,
-      "totalStars": 27591,
-      "forks": 2666,
+      "starsGained": 19065,
+      "totalStars": 27802,
+      "forks": 2683,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -709,34 +703,23 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "embedding",
-        "llm",
-        "local-first",
-        "long-term-memory",
-        "memory",
-        "openclaw-plugin",
-        "vector-search"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 15189,
-      "totalStars": 25770,
-      "forks": 2405,
-      "license": "NOASSERTION",
-      "pushedAt": "09/03/2026 02:31:45",
+      "starsGained": 14291,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "rag"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "What is TencentDB Agent Memory?",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -752,53 +735,6 @@
       }
     },
     {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 11252,
-      "totalStars": 26820,
-      "forks": 1677,
-      "license": "MIT",
-      "pushedAt": "09/01/2026 20:49:17",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "fullName": "THU-MAIC/OpenMAIC",
@@ -808,11 +744,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 10080,
-      "totalStars": 30783,
-      "forks": 5104,
+      "starsGained": 10599,
+      "totalStars": 31136,
+      "forks": 5147,
       "license": "MIT",
-      "pushedAt": "09/03/2026 08:50:41",
+      "pushedAt": "09/04/2026 03:24:27",
       "tags": [
         "agent",
         "learning"
@@ -868,11 +804,11 @@
       ],
       "homepage": "https://getsemantica.ai",
       "language": "Python",
-      "starsGained": 9973,
-      "totalStars": 11788,
-      "forks": 1323,
+      "starsGained": 10058,
+      "totalStars": 11888,
+      "forks": 1341,
       "license": "MIT",
-      "pushedAt": "09/03/2026 07:48:04",
+      "pushedAt": "09/03/2026 20:11:06",
       "tags": [
         "agent",
         "llm",
@@ -900,6 +836,42 @@
     },
     {
       "owner": "cloudflare",
+      "repo": "cloudflare-os",
+      "fullName": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4001805?s=40&v=4",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "topics": [],
+      "homepage": "https://os.cloudflare.app",
+      "language": "TypeScript",
+      "starsGained": 9562,
+      "totalStars": 9583,
+      "forks": 1126,
+      "license": "Apache-2.0",
+      "pushedAt": "09/04/2026 03:13:59",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Cloudflare OS: An AI productivity environment",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+        "projectIntro": "该项目的 GitHub 简介是：Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+        "featurePoints": [
+          "核心线索：Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：This runs the whole stack locally on wrangler and workerd. This is not meant for production use, but is a quick way to see what the product does."
+        ]
+      }
+    },
+    {
+      "owner": "cloudflare",
       "repo": "computer",
       "fullName": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
@@ -908,49 +880,13 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 8868,
-      "totalStars": 8936,
-      "forks": 499,
-      "license": "MIT",
-      "pushedAt": "09/02/2026 21:29:40",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Cloudflare Computer",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
-        "projectIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
-        "featurePoints": [
-          "核心线索：Give your agent a computer 👾"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：The examples/ directory holds runnable consumers of the"
-        ]
-      }
-    },
-    {
-      "owner": "donnemartin",
-      "repo": "system-design-primer",
-      "fullName": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 8361,
+      "starsGained": 8938,
       "totalStars": 0,
       "forks": 0,
       "license": "",
       "pushedAt": "",
       "tags": [
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -959,10 +895,10 @@
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-        "projectIntro": "该项目的 GitHub 简介是：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "zhIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
+        "projectIntro": "该项目的 GitHub 简介是：Give your agent a computer 👾",
         "featurePoints": [
-          "核心线索：Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+          "核心线索：Give your agent a computer 👾"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -986,11 +922,11 @@
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 7539,
-      "totalStars": 35264,
-      "forks": 2702,
+      "starsGained": 7659,
+      "totalStars": 35387,
+      "forks": 2708,
       "license": "AGPL-3.0",
-      "pushedAt": "09/03/2026 08:53:35",
+      "pushedAt": "09/04/2026 04:11:34",
       "tags": [
         "agent",
         "rag",
@@ -1023,30 +959,22 @@
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "homepage": "https://cactuscompute.com",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 6771,
-      "totalStars": 10136,
-      "forks": 655,
-      "license": "Apache-2.0",
-      "pushedAt": "09/02/2026 19:21:34",
+      "starsGained": 6855,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Needle 2",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -1055,8 +983,7 @@
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1067,26 +994,14 @@
       "url": "https://github.com/huangruiteng/loopx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14976749?s=40&v=4",
       "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
-      "topics": [
-        "agent-control-plane",
-        "agent-harness",
-        "agent-ops",
-        "ai-agents",
-        "codex",
-        "dsh-plugin",
-        "long-horizon",
-        "long-horizon-agents",
-        "loop-engineering",
-        "loopx",
-        "workflow-automation"
-      ],
-      "homepage": "https://my.feishu.cn/wiki/DPdLwMajaiEmWHky7jhcPOtEnEf",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 5297,
-      "totalStars": 5500,
-      "forks": 486,
-      "license": "Apache-2.0",
-      "pushedAt": "09/03/2026 08:08:25",
+      "starsGained": 4713,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm"
@@ -1094,7 +1009,7 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -1102,6 +1017,41 @@
         "projectIntro": "该项目的 GitHub 简介是：Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
         "featurePoints": [
           "核心线索：Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "cursor",
+      "repo": "plugins",
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+      "description": "Cursor plugin specification and official plugins",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 4258,
+      "totalStars": 6793,
+      "forks": 558,
+      "license": "",
+      "pushedAt": "09/03/2026 04:37:13",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Cursor plugins",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "featurePoints": [
+          "核心线索：Cursor plugin specification and official plugins"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -1118,7 +1068,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3900,
+      "starsGained": 4004,
       "totalStars": 0,
       "forks": 0,
       "license": "",
