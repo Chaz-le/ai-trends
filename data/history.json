@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:16:37.625Z",
+  "generatedAt": "2026-09-05T05:42:07.393Z",
   "snapshots": [
     {
       "date": "2026-07-08",
@@ -4681,79 +4681,83 @@
     },
     {
       "date": "2026-09-05",
-      "generatedAt": "2026-09-05T04:16:13.6625231+00:00",
+      "generatedAt": "2026-09-05T05:41:50.7365154+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 48285,
+          "stars": 48377,
           "periodGain": 38699
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 31564,
+          "stars": 31595,
           "periodGain": 11020
         },
         "K-Dense-AI/scientific-agent-skills": {
-          "stars": 42677,
+          "stars": 42691,
           "periodGain": 6898
         },
         "debpalash/VoiceStudio": {
-          "stars": 18175,
+          "stars": 18239,
           "periodGain": 5150
         },
         "jingyaogong/minimind": {
-          "stars": 58572,
+          "stars": 58583,
           "periodGain": 3390
         },
         "every-app/open-seo": {
-          "stars": 17056,
+          "stars": 17073,
           "periodGain": 2950
         },
         "google-research/timesfm": {
-          "stars": 31100,
+          "stars": 31117,
           "periodGain": 2653
         },
         "p-e-w/heretic": {
-          "stars": 30476,
+          "stars": 30483,
           "periodGain": 2065
         },
         "MakazhanAlpamys/Soup": {
-          "stars": 5313,
+          "stars": 5317,
           "periodGain": 1808
         },
         "Gitlawb/openclaude": {
-          "stars": 32595,
+          "stars": 32605,
           "periodGain": 1679
         },
         "punkpeye/awesome-mcp-servers": {
-          "stars": 94172,
+          "stars": 94179,
           "periodGain": 1198
         },
         "ChromeDevTools/chrome-devtools-mcp": {
-          "stars": 50944,
+          "stars": 50952,
           "periodGain": 1067
         },
         "cathrynlavery/diagram-design": {
-          "stars": 31053,
+          "stars": 31103,
           "periodGain": 27843
         },
         "PrimeIntellect-ai/prime-agent": {
-          "stars": 19879,
+          "stars": 19882,
           "periodGain": 19927
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 28057,
+          "stars": 28061,
           "periodGain": 19360
         },
         "semantica-agi/semantica": {
-          "stars": 12015,
+          "stars": 12020,
           "periodGain": 10154
         },
         "cloudflare/cloudflare-os": {
-          "stars": 9652,
+          "stars": 9655,
           "periodGain": 9642
         },
         "volcengine/OpenViking": {
-          "stars": 35544,
+          "stars": 35549,
           "periodGain": 7710
+        },
+        "cactus-compute/needle": {
+          "stars": 10276,
+          "periodGain": 6940
         }
       }
     }
