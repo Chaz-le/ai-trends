@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-06T05:53:24.0917361+00:00",
+  "generatedAt": "2026-09-06T08:38:25.7438957+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 19480,
-      "totalStars": 49708,
-      "forks": 3224,
+      "totalStars": 49894,
+      "forks": 3236,
       "license": "MIT",
       "pushedAt": "09/06/2026 02:56:29",
       "tags": [
@@ -75,10 +75,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 10109,
-      "totalStars": 32040,
-      "forks": 5248,
+      "totalStars": 32119,
+      "forks": 5254,
       "license": "MIT",
-      "pushedAt": "09/06/2026 03:17:32",
+      "pushedAt": "09/06/2026 07:10:24",
       "tags": [
         "agent",
         "learning"
@@ -135,8 +135,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 6761,
-      "totalStars": 19126,
-      "forks": 2448,
+      "totalStars": 19246,
+      "forks": 2459,
       "license": "AGPL-3.0",
       "pushedAt": "09/05/2026 17:47:59",
       "tags": [
@@ -192,8 +192,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://arxiv.org/abs/2609.00065",
       "language": "Python",
       "starsGained": 5491,
-      "totalStars": 43026,
-      "forks": 3929,
+      "totalStars": 43086,
+      "forks": 3933,
       "license": "MIT",
       "pushedAt": "09/02/2026 16:25:37",
       "tags": [
@@ -241,8 +241,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 5445,
-      "totalStars": 250156,
-      "forks": 37636,
+      "totalStars": 250303,
+      "forks": 37658,
       "license": "MIT",
       "pushedAt": "09/05/2026 21:47:27",
       "tags": [
@@ -284,8 +284,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
       "starsGained": 3649,
-      "totalStars": 58876,
-      "forks": 7653,
+      "totalStars": 58936,
+      "forks": 7659,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 14:16:47",
       "tags": [
@@ -322,8 +322,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 2968,
-      "totalStars": 31350,
-      "forks": 2997,
+      "totalStars": 31388,
+      "forks": 3003,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 23:47:31",
       "tags": [
@@ -371,8 +371,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 2755,
-      "totalStars": 17310,
-      "forks": 2170,
+      "totalStars": 17327,
+      "forks": 2179,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -414,8 +414,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://heretic-project.org",
       "language": "Python",
       "starsGained": 2010,
-      "totalStars": 30627,
-      "forks": 3386,
+      "totalStars": 30644,
+      "forks": 3387,
       "license": "AGPL-3.0",
       "pushedAt": "09/05/2026 16:11:52",
       "tags": [
@@ -457,8 +457,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openclaude.gitlawb.com",
       "language": "TypeScript",
       "starsGained": 1839,
-      "totalStars": 32735,
-      "forks": 9063,
+      "totalStars": 32751,
+      "forks": 9066,
       "license": "NOASSERTION",
       "pushedAt": "09/06/2026 00:30:44",
       "tags": [
@@ -496,10 +496,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://magnitude.dev",
       "language": "TypeScript",
       "starsGained": 1396,
-      "totalStars": 3306,
-      "forks": 238,
+      "totalStars": 3350,
+      "forks": 240,
       "license": "Apache-2.0",
-      "pushedAt": "09/06/2026 04:57:21",
+      "pushedAt": "09/06/2026 07:15:54",
       "tags": [
         "agent",
         "llm",
@@ -538,8 +538,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://glama.ai/mcp/servers",
       "language": "",
       "starsGained": 1287,
-      "totalStars": 94358,
-      "forks": 15716,
+      "totalStars": 94373,
+      "forks": 15719,
       "license": "MIT",
       "pushedAt": "09/01/2026 07:26:30",
       "tags": [
@@ -597,8 +597,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 40038,
-      "totalStars": 49708,
-      "forks": 3224,
+      "totalStars": 49894,
+      "forks": 3236,
       "license": "MIT",
       "pushedAt": "09/06/2026 02:56:29",
       "tags": [
@@ -634,44 +634,32 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "homepage": "https://cathrynlavery.github.io/diagram-design/",
+      "topics": [],
+      "homepage": "",
       "language": "HTML",
       "starsGained": 28654,
-      "totalStars": 31830,
-      "forks": 2048,
-      "license": "MIT",
-      "pushedAt": "09/03/2026 02:53:29",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Diagram Design",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "projectIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -686,17 +674,17 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 20036,
-      "totalStars": 19987,
-      "forks": 2184,
-      "license": "MIT",
-      "pushedAt": "09/06/2026 05:10:07",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -706,8 +694,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：A self-improving RLM agent for coding workflows and long-running autonomous tasks."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The installer downloads a versioned release, verifies its SHA-256 checksum, installs the prime-agent command, and can prepare the Python runtime used by the agent."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -718,27 +705,15 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "topics": [
-        "agents",
-        "ai-image-generation",
-        "chatgpt",
-        "dsh-plugin",
-        "gpt-image-2",
-        "image-prompts",
-        "prompt-as-code",
-        "prompt-engineering",
-        "skills",
-        "workflow-automation"
-      ],
-      "homepage": "https://gpt-image2.canghe.ai",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 19395,
-      "totalStars": 28197,
-      "forks": 2710,
-      "license": "MIT",
-      "pushedAt": "09/03/2026 03:26:32",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
         "llm",
         "generation",
         "learning"
@@ -748,17 +723,17 @@ window.GITHUB_AI_TRENDS = {
       "insight": {
         "source": "metadata",
         "readmeTitle": "",
-        "category": "prompt-archive",
-        "zhTitle": "AI 产品系统提示词资料库",
-        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
         "featurePoints": [
-          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
-          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
-          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -773,10 +748,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 11420,
-      "totalStars": 32040,
-      "forks": 5248,
+      "totalStars": 32119,
+      "forks": 5254,
       "license": "MIT",
-      "pushedAt": "09/06/2026 03:17:32",
+      "pushedAt": "09/06/2026 07:10:24",
       "tags": [
         "agent",
         "learning"
@@ -808,57 +783,31 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/semantica-agi/semantica",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "topics": [
-        "agent-memory",
-        "ai",
-        "ai-governance",
-        "ai-infrastructure",
-        "artificial-intelligence",
-        "context-engineering",
-        "context-graphs",
-        "data-engineering",
-        "decision-intelligence",
-        "developer-tools",
-        "explainable-ai",
-        "generative-ai",
-        "graph-rag",
-        "knowledge-graph",
-        "llm",
-        "ontology",
-        "provenance",
-        "python",
-        "reasoning",
-        "semantic-search"
-      ],
-      "homepage": "https://getsemantica.ai",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 10251,
-      "totalStars": 12118,
-      "forks": 1366,
-      "license": "MIT",
-      "pushedAt": "09/05/2026 16:25:13",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "projectIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
         "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+          "核心线索：Graph-Native Infrastructure for Context and Accountable AI Systems"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -894,8 +843,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 9208,
-      "totalStars": 19126,
-      "forks": 2448,
+      "totalStars": 19246,
+      "forks": 2459,
       "license": "AGPL-3.0",
       "pushedAt": "09/05/2026 17:47:59",
       "tags": [
@@ -929,21 +878,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [
-        "agent-memory",
-        "agent-plugins",
-        "agentic-rag",
-        "context-database",
-        "dsh-plugin",
-        "self-evolving"
-      ],
-      "homepage": "https://openviking.ai/",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 7811,
-      "totalStars": 35695,
-      "forks": 2722,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/05/2026 14:58:49",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "rag",
@@ -952,8 +894,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "wait some time for semantic processing if not --wait",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -964,8 +906,7 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
         ]
       }
     },
@@ -1052,18 +993,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4411,
-      "totalStars": 6937,
-      "forks": 581,
+      "totalStars": 0,
+      "forks": 0,
       "license": "",
-      "pushedAt": "09/04/2026 21:32:57",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Cursor plugins",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",

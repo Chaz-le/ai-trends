@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T05:53:37.364Z",
+  "generatedAt": "2026-09-06T08:38:47.232Z",
   "snapshots": [
     {
       "date": "2026-07-09",
@@ -4633,79 +4633,55 @@
     },
     {
       "date": "2026-09-06",
-      "generatedAt": "2026-09-06T05:53:24.0917361+00:00",
+      "generatedAt": "2026-09-06T08:38:25.7438957+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 49708,
+          "stars": 49894,
           "periodGain": 40038
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 32040,
+          "stars": 32119,
           "periodGain": 11420
         },
         "debpalash/VoiceStudio": {
-          "stars": 19126,
+          "stars": 19246,
           "periodGain": 9208
         },
         "K-Dense-AI/scientific-agent-skills": {
-          "stars": 43026,
+          "stars": 43086,
           "periodGain": 5491
         },
         "affaan-m/ECC": {
-          "stars": 250156,
+          "stars": 250303,
           "periodGain": 5445
         },
         "jingyaogong/minimind": {
-          "stars": 58876,
+          "stars": 58936,
           "periodGain": 3649
         },
         "google-research/timesfm": {
-          "stars": 31350,
+          "stars": 31388,
           "periodGain": 2968
         },
         "every-app/open-seo": {
-          "stars": 17310,
+          "stars": 17327,
           "periodGain": 2755
         },
         "p-e-w/heretic": {
-          "stars": 30627,
+          "stars": 30644,
           "periodGain": 2010
         },
         "Gitlawb/openclaude": {
-          "stars": 32735,
+          "stars": 32751,
           "periodGain": 1839
         },
         "magnitudedev/magnitude": {
-          "stars": 3306,
+          "stars": 3350,
           "periodGain": 1396
         },
         "punkpeye/awesome-mcp-servers": {
-          "stars": 94358,
+          "stars": 94373,
           "periodGain": 1287
-        },
-        "cathrynlavery/diagram-design": {
-          "stars": 31830,
-          "periodGain": 28654
-        },
-        "PrimeIntellect-ai/prime-agent": {
-          "stars": 19987,
-          "periodGain": 20036
-        },
-        "freestylefly/awesome-gpt-image-2": {
-          "stars": 28197,
-          "periodGain": 19395
-        },
-        "semantica-agi/semantica": {
-          "stars": 12118,
-          "periodGain": 10251
-        },
-        "volcengine/OpenViking": {
-          "stars": 35695,
-          "periodGain": 7811
-        },
-        "cursor/plugins": {
-          "stars": 6937,
-          "periodGain": 4411
         }
       }
     }
