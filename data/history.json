@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:25:11.239Z",
+  "generatedAt": "2026-09-07T06:02:20.717Z",
   "snapshots": [
     {
       "date": "2026-07-10",
@@ -4613,31 +4613,83 @@
     },
     {
       "date": "2026-09-07",
-      "generatedAt": "2026-09-07T04:24:53.7064596+00:00",
+      "generatedAt": "2026-09-07T06:02:02.8688838+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 51203,
+          "stars": 51282,
           "periodGain": 41018
         },
+        "DietrichGebert/ponytail": {
+          "stars": 129805,
+          "periodGain": 12186
+        },
         "THU-MAIC/OpenMAIC": {
-          "stars": 32548,
+          "stars": 32586,
           "periodGain": 11874
         },
+        "debpalash/VoiceStudio": {
+          "stars": 20045,
+          "periodGain": 9973
+        },
+        "affaan-m/ECC": {
+          "stars": 251779,
+          "periodGain": 6394
+        },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 43397,
+          "periodGain": 4718
+        },
         "jingyaogong/minimind": {
-          "stars": 59228,
+          "stars": 59247,
           "periodGain": 3816
         },
         "google-research/timesfm": {
-          "stars": 31679,
+          "stars": 31691,
           "periodGain": 3203
         },
+        "every-app/open-seo": {
+          "stars": 17560,
+          "periodGain": 2503
+        },
+        "Imbad0202/academic-research-skills": {
+          "stars": 46639,
+          "periodGain": 2334
+        },
         "magnitudedev/magnitude": {
-          "stars": 3760,
+          "stars": 3790,
           "periodGain": 1961
         },
         "Gitlawb/openclaude": {
-          "stars": 32858,
+          "stars": 32862,
           "periodGain": 1944
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 32670,
+          "periodGain": 29194
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 28361,
+          "periodGain": 19087
+        },
+        "PrimeIntellect-ai/prime-agent": {
+          "stars": 20074,
+          "periodGain": 17024
+        },
+        "semantica-agi/semantica": {
+          "stars": 12208,
+          "periodGain": 10145
+        },
+        "volcengine/OpenViking": {
+          "stars": 35831,
+          "periodGain": 7895
+        },
+        "cactus-compute/needle": {
+          "stars": 10432,
+          "periodGain": 7069
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 3538,
+          "periodGain": 3243
         }
       }
     }
