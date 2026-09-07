@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-07T06:02:02.8688838+00:00",
+  "generatedAt": "2026-09-07T09:17:15.1141284+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 17190,
-      "totalStars": 51282,
-      "forks": 3347,
+      "totalStars": 51629,
+      "forks": 3374,
       "license": "MIT",
       "pushedAt": "09/07/2026 04:41:40",
       "tags": [
@@ -86,8 +86,8 @@
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 12186,
-      "totalStars": 129805,
-      "forks": 6954,
+      "totalStars": 130154,
+      "forks": 6973,
       "license": "MIT",
       "pushedAt": "09/04/2026 12:35:29",
       "tags": [
@@ -126,8 +126,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 9193,
-      "totalStars": 32586,
-      "forks": 5315,
+      "totalStars": 32681,
+      "forks": 5330,
       "license": "MIT",
       "pushedAt": "09/06/2026 17:49:28",
       "tags": [
@@ -186,10 +186,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 7513,
-      "totalStars": 20045,
-      "forks": 2531,
+      "totalStars": 20189,
+      "forks": 2544,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 06:00:24",
+      "pushedAt": "09/07/2026 08:59:33",
       "tags": [
         "agent",
         "llm",
@@ -234,10 +234,10 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6394,
-      "totalStars": 251779,
-      "forks": 37831,
+      "totalStars": 252105,
+      "forks": 37848,
       "license": "MIT",
-      "pushedAt": "09/07/2026 04:55:52",
+      "pushedAt": "09/07/2026 09:00:56",
       "tags": [
         "agent",
         "llm",
@@ -292,8 +292,8 @@
       "homepage": "https://arxiv.org/abs/2609.00065",
       "language": "Python",
       "starsGained": 4718,
-      "totalStars": 43397,
-      "forks": 3952,
+      "totalStars": 43462,
+      "forks": 3954,
       "license": "MIT",
       "pushedAt": "09/02/2026 16:25:37",
       "tags": [
@@ -335,8 +335,8 @@
       "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
       "starsGained": 3816,
-      "totalStars": 59247,
-      "forks": 7694,
+      "totalStars": 59303,
+      "forks": 7696,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 14:16:47",
       "tags": [
@@ -373,8 +373,8 @@
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 3203,
-      "totalStars": 31691,
-      "forks": 3033,
+      "totalStars": 31732,
+      "forks": 3038,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 23:47:31",
       "tags": [
@@ -422,8 +422,8 @@
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 2503,
-      "totalStars": 17560,
-      "forks": 2217,
+      "totalStars": 17595,
+      "forks": 2220,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -470,8 +470,8 @@
       "homepage": "https://buymeacoffee.com/crucify020v",
       "language": "Python",
       "starsGained": 2334,
-      "totalStars": 46639,
-      "forks": 3651,
+      "totalStars": 46699,
+      "forks": 3655,
       "license": "NOASSERTION",
       "pushedAt": "09/06/2026 20:49:07",
       "tags": [
@@ -510,10 +510,10 @@
       "homepage": "https://magnitude.dev",
       "language": "TypeScript",
       "starsGained": 1961,
-      "totalStars": 3790,
-      "forks": 275,
+      "totalStars": 3878,
+      "forks": 279,
       "license": "Apache-2.0",
-      "pushedAt": "09/06/2026 23:28:31",
+      "pushedAt": "09/07/2026 09:12:24",
       "tags": [
         "agent",
         "llm",
@@ -555,8 +555,8 @@
       "homepage": "https://openclaude.gitlawb.com",
       "language": "TypeScript",
       "starsGained": 1944,
-      "totalStars": 32862,
-      "forks": 9061,
+      "totalStars": 32876,
+      "forks": 9062,
       "license": "NOASSERTION",
       "pushedAt": "09/07/2026 01:41:34",
       "tags": [
@@ -617,8 +617,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 41018,
-      "totalStars": 51282,
-      "forks": 3347,
+      "totalStars": 51629,
+      "forks": 3374,
       "license": "MIT",
       "pushedAt": "09/07/2026 04:41:40",
       "tags": [
@@ -667,8 +667,8 @@
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 29194,
-      "totalStars": 32670,
-      "forks": 2092,
+      "totalStars": 32945,
+      "forks": 2104,
       "license": "MIT",
       "pushedAt": "09/07/2026 04:39:11",
       "tags": [
@@ -717,8 +717,8 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 19087,
-      "totalStars": 28361,
-      "forks": 2718,
+      "totalStars": 28409,
+      "forks": 2723,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -758,10 +758,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 17024,
-      "totalStars": 20074,
+      "totalStars": 20088,
       "forks": 2196,
       "license": "MIT",
-      "pushedAt": "09/07/2026 05:20:39",
+      "pushedAt": "09/07/2026 09:16:31",
       "tags": [
         "agent"
       ],
@@ -794,8 +794,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 11874,
-      "totalStars": 32586,
-      "forks": 5315,
+      "totalStars": 32681,
+      "forks": 5330,
       "license": "MIT",
       "pushedAt": "09/06/2026 17:49:28",
       "tags": [
@@ -854,10 +854,10 @@
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 10145,
-      "totalStars": 12208,
-      "forks": 1377,
+      "totalStars": 12232,
+      "forks": 1380,
       "license": "MIT",
-      "pushedAt": "09/07/2026 05:26:45",
+      "pushedAt": "09/07/2026 08:21:01",
       "tags": [
         "agent",
         "llm",
@@ -915,10 +915,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 9973,
-      "totalStars": 20045,
-      "forks": 2531,
+      "totalStars": 20189,
+      "forks": 2544,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 06:00:24",
+      "pushedAt": "09/07/2026 08:59:33",
       "tags": [
         "agent",
         "llm",
@@ -961,10 +961,10 @@
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 7895,
-      "totalStars": 35831,
-      "forks": 2731,
+      "totalStars": 35867,
+      "forks": 2733,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 06:01:35",
+      "pushedAt": "09/07/2026 09:12:35",
       "tags": [
         "agent",
         "rag",
@@ -1007,8 +1007,8 @@
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 7069,
-      "totalStars": 10432,
-      "forks": 672,
+      "totalStars": 10438,
+      "forks": 673,
       "license": "Apache-2.0",
       "pushedAt": "09/05/2026 19:53:01",
       "tags": [
@@ -1019,8 +1019,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Needle 2",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -1029,7 +1029,8 @@
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：agent = needle.Needle(tools=[getweather])"
         ]
       }
     },
@@ -1116,7 +1117,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3243,
-      "totalStars": 3538,
+      "totalStars": 3549,
       "forks": 272,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
