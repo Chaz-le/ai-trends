@@ -1,80 +1,6 @@
 {
-  "generatedAt": "2026-09-06T08:38:47.232Z",
+  "generatedAt": "2026-09-07T04:25:11.239Z",
   "snapshots": [
-    {
-      "date": "2026-07-09",
-      "generatedAt": "2026-07-09T07:50:59.8778508+00:00",
-      "repos": {
-        "usestrix/strix": {
-          "stars": 39250,
-          "periodGain": 13169
-        },
-        "MadsLorentzen/ai-job-search": {
-          "stars": 16263,
-          "periodGain": 10540
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 21837,
-          "periodGain": 8366
-        },
-        "JuliusBrussee/caveman": {
-          "stars": 86972,
-          "periodGain": 8080
-        },
-        "msitarzewski/agency-agents": {
-          "stars": 129505,
-          "periodGain": 7364
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 54538,
-          "periodGain": 12446
-        },
-        "facebook/astryx": {
-          "stars": 7283,
-          "periodGain": 4943
-        },
-        "openai/codex-plugin-cc": {
-          "stars": 27010,
-          "periodGain": 4890
-        },
-        "ogulcancelik/herdr": {
-          "stars": 14527,
-          "periodGain": 9114
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 13949,
-          "periodGain": 4424
-        },
-        "alibaba/page-agent": {
-          "stars": 25313,
-          "periodGain": 4295
-        },
-        "xbtlin/ai-berkshire": {
-          "stars": 12157,
-          "periodGain": 3960
-        },
-        "calesthio/OpenMontage": {
-          "stars": 35858,
-          "periodGain": 31078
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 53480,
-          "periodGain": 29819
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 28814,
-          "periodGain": 25432
-        },
-        "NVIDIA/SkillSpector": {
-          "stars": 12537,
-          "periodGain": 11135
-        },
-        "stablyai/orca": {
-          "stars": 14492,
-          "periodGain": 9594
-        }
-      }
-    },
     {
       "date": "2026-07-10",
       "generatedAt": "2026-07-10T07:50:06.4086349+00:00",
@@ -4682,6 +4608,36 @@
         "punkpeye/awesome-mcp-servers": {
           "stars": 94373,
           "periodGain": 1287
+        }
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "generatedAt": "2026-09-07T04:24:53.7064596+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 51203,
+          "periodGain": 41018
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 32548,
+          "periodGain": 11874
+        },
+        "jingyaogong/minimind": {
+          "stars": 59228,
+          "periodGain": 3816
+        },
+        "google-research/timesfm": {
+          "stars": 31679,
+          "periodGain": 3203
+        },
+        "magnitudedev/magnitude": {
+          "stars": 3760,
+          "periodGain": 1961
+        },
+        "Gitlawb/openclaude": {
+          "stars": 32858,
+          "periodGain": 1944
         }
       }
     }

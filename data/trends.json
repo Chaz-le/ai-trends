@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-06T08:38:25.7438957+00:00",
+  "generatedAt": "2026-09-07T04:24:53.7064596+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -33,11 +33,11 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 19480,
-      "totalStars": 49894,
-      "forks": 3236,
+      "starsGained": 17190,
+      "totalStars": 51203,
+      "forks": 3339,
       "license": "MIT",
-      "pushedAt": "09/06/2026 02:56:29",
+      "pushedAt": "09/06/2026 08:38:31",
       "tags": [
         "agent",
         "llm",
@@ -65,6 +65,41 @@
       }
     },
     {
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 12186,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "featurePoints": [
+          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "fullName": "THU-MAIC/OpenMAIC",
@@ -74,11 +109,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 10109,
-      "totalStars": 32119,
-      "forks": 5254,
+      "starsGained": 9193,
+      "totalStars": 32548,
+      "forks": 5310,
       "license": "MIT",
-      "pushedAt": "09/06/2026 07:10:24",
+      "pushedAt": "09/06/2026 17:49:28",
       "tags": [
         "agent",
         "learning"
@@ -110,45 +145,22 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "homepage": "https://voicestudio.sh",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 6761,
-      "totalStars": 19246,
-      "forks": 2459,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/05/2026 17:47:59",
+      "starsGained": 7513,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Quick test via cURL",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -164,87 +176,20 @@
       }
     },
     {
-      "owner": "K-Dense-AI",
-      "repo": "scientific-agent-skills",
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "homepage": "https://arxiv.org/abs/2609.00065",
-      "language": "Python",
-      "starsGained": 5491,
-      "totalStars": 43086,
-      "forks": 3933,
-      "license": "MIT",
-      "pushedAt": "09/02/2026 16:25:37",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Scientific Agent Skills",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Confirm installation paths and optional metadata behavior in your host's current documentation."
-        ]
-      }
-    },
-    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "homepage": "https://ecc.tools",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 5445,
-      "totalStars": 250303,
-      "forks": 37658,
-      "license": "MIT",
-      "pushedAt": "09/05/2026 21:47:27",
+      "starsGained": 6394,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -253,8 +198,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "ECC",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -265,8 +210,46 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Dashboard GUI: New Tkinter-based desktop application (eccdashboard.py or npm run dashboard) with dark/light theme toggle, font customization, and project logo in header and taskbar."
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4718,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -283,9 +266,9 @@
       ],
       "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
-      "starsGained": 3649,
-      "totalStars": 58936,
-      "forks": 7659,
+      "starsGained": 3816,
+      "totalStars": 59228,
+      "forks": 7690,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 14:16:47",
       "tags": [
@@ -321,9 +304,9 @@
       "topics": [],
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
-      "starsGained": 2968,
-      "totalStars": 31388,
-      "forks": 3003,
+      "starsGained": 3203,
+      "totalStars": 31679,
+      "forks": 3030,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 23:47:31",
       "tags": [
@@ -349,41 +332,30 @@
       }
     },
     {
-      "owner": "every-app",
-      "repo": "open-seo",
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-agent",
-        "seo-audit",
-        "seo-automation",
-        "seo-skills",
-        "seo-tools",
-        "site-audit"
-      ],
-      "homepage": "https://openseo.so",
-      "language": "TypeScript",
-      "starsGained": 2755,
-      "totalStars": 17327,
-      "forks": 2179,
-      "license": "MIT",
-      "pushedAt": "09/03/2026 15:54:34",
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 2334,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
+        "llm",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenSEO",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -394,94 +366,7 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Keyword research"
-        ]
-      }
-    },
-    {
-      "owner": "p-e-w",
-      "repo": "heretic",
-      "fullName": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
-      "description": "Fully automatic censorship removal for language models",
-      "topics": [
-        "abliteration",
-        "llm",
-        "transformer"
-      ],
-      "homepage": "https://heretic-project.org",
-      "language": "Python",
-      "starsGained": 2010,
-      "totalStars": 30644,
-      "forks": 3387,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/05/2026 16:11:52",
-      "tags": [
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Heretic: Fully automatic censorship removal for language models",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Fully automatic censorship removal for language models",
-        "projectIntro": "该项目的 GitHub 简介是：Fully automatic censorship removal for language models",
-        "featurePoints": [
-          "核心线索：Fully automatic censorship removal for language models"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：later versions. For example, loading MXFP4-quantized models like gpt-oss"
-        ]
-      }
-    },
-    {
-      "owner": "Gitlawb",
-      "repo": "openclaude",
-      "fullName": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
-      "description": "runs anywhere. uses anything",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-tools",
-        "cli",
-        "coding"
-      ],
-      "homepage": "https://openclaude.gitlawb.com",
-      "language": "TypeScript",
-      "starsGained": 1839,
-      "totalStars": 32751,
-      "forks": 9066,
-      "license": "NOASSERTION",
-      "pushedAt": "09/06/2026 00:30:44",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：run /provider for guided provider setup and saved profiles"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -495,11 +380,11 @@
       "topics": [],
       "homepage": "https://magnitude.dev",
       "language": "TypeScript",
-      "starsGained": 1396,
-      "totalStars": 3350,
-      "forks": 240,
+      "starsGained": 1961,
+      "totalStars": 3760,
+      "forks": 269,
       "license": "Apache-2.0",
-      "pushedAt": "09/06/2026 07:15:54",
+      "pushedAt": "09/06/2026 23:28:31",
       "tags": [
         "agent",
         "llm",
@@ -525,23 +410,65 @@
       }
     },
     {
+      "owner": "Gitlawb",
+      "repo": "openclaude",
+      "fullName": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
+      "description": "runs anywhere. uses anything",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "cli",
+        "coding"
+      ],
+      "homepage": "https://openclaude.gitlawb.com",
+      "language": "TypeScript",
+      "starsGained": 1944,
+      "totalStars": 32858,
+      "forks": 9059,
+      "license": "NOASSERTION",
+      "pushedAt": "09/07/2026 01:41:34",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：run /provider for guided provider setup and saved profiles"
+        ]
+      }
+    },
+    {
       "owner": "punkpeye",
       "repo": "awesome-mcp-servers",
       "fullName": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108313943?s=40&v=4",
       "description": "A collection of MCP servers.",
-      "topics": [
-        "ai",
-        "mcp"
-      ],
-      "homepage": "https://glama.ai/mcp/servers",
+      "topics": [],
+      "homepage": "",
       "language": "",
-      "starsGained": 1287,
-      "totalStars": 94373,
-      "forks": 15719,
-      "license": "MIT",
-      "pushedAt": "09/01/2026 07:26:30",
+      "starsGained": 1326,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -596,11 +523,11 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 40038,
-      "totalStars": 49894,
-      "forks": 3236,
+      "starsGained": 41018,
+      "totalStars": 51203,
+      "forks": 3339,
       "license": "MIT",
-      "pushedAt": "09/06/2026 02:56:29",
+      "pushedAt": "09/06/2026 08:38:31",
       "tags": [
         "agent",
         "llm",
@@ -637,7 +564,7 @@
       "topics": [],
       "homepage": "",
       "language": "HTML",
-      "starsGained": 28654,
+      "starsGained": 29194,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -664,41 +591,6 @@
       }
     },
     {
-      "owner": "PrimeIntellect-ai",
-      "repo": "prime-agent",
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 20036,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "projectIntro": "该项目的 GitHub 简介是：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "featurePoints": [
-          "核心线索：A self-improving RLM agent for coding workflows and long-running autonomous tasks."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "freestylefly",
       "repo": "awesome-gpt-image-2",
       "fullName": "freestylefly/awesome-gpt-image-2",
@@ -708,7 +600,7 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 19395,
+      "starsGained": 19087,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -738,6 +630,41 @@
       }
     },
     {
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 17024,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "projectIntro": "该项目的 GitHub 简介是：A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "featurePoints": [
+          "核心线索：A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "THU-MAIC",
       "repo": "OpenMAIC",
       "fullName": "THU-MAIC/OpenMAIC",
@@ -747,11 +674,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 11420,
-      "totalStars": 32119,
-      "forks": 5254,
+      "starsGained": 11874,
+      "totalStars": 32548,
+      "forks": 5310,
       "license": "MIT",
-      "pushedAt": "09/06/2026 07:10:24",
+      "pushedAt": "09/06/2026 17:49:28",
       "tags": [
         "agent",
         "learning"
@@ -786,7 +713,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 10251,
+      "starsGained": 10145,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -818,45 +745,22 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "homepage": "https://voicestudio.sh",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 9208,
-      "totalStars": 19246,
-      "forks": 2459,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/05/2026 17:47:59",
+      "starsGained": 9973,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Quick test via cURL",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -881,7 +785,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 7811,
+      "starsGained": 7895,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -920,7 +824,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 7001,
+      "starsGained": 7069,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -955,7 +859,7 @@
       "topics": [],
       "homepage": "",
       "language": "Rust",
-      "starsGained": 4430,
+      "starsGained": 4490,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -983,41 +887,6 @@
       }
     },
     {
-      "owner": "cursor",
-      "repo": "plugins",
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-      "description": "Cursor plugin specification and official plugins",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 4411,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "featurePoints": [
-          "核心线索：Cursor plugin specification and official plugins"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "apache",
       "repo": "maka",
       "fullName": "apache/maka",
@@ -1027,7 +896,7 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 3614,
+      "starsGained": 3647,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1046,6 +915,42 @@
         "projectIntro": "该项目的 GitHub 简介是：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
         "featurePoints": [
           "核心线索：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "fullName": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 3243,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "projectIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "featurePoints": [
+          "核心线索：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
