@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-07T09:17:15.1141284+00:00",
+  "generatedAt": "2026-09-08T04:24:35.8051791+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -33,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 17190,
-      "totalStars": 51629,
-      "forks": 3374,
+      "starsGained": 14946,
+      "totalStars": 53318,
+      "forks": 3492,
       "license": "MIT",
-      "pushedAt": "09/07/2026 04:41:40",
+      "pushedAt": "09/08/2026 04:21:17",
       "tags": [
         "agent",
         "llm",
@@ -85,11 +85,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
-      "starsGained": 12186,
-      "totalStars": 130154,
-      "forks": 6973,
+      "starsGained": 12834,
+      "totalStars": 131190,
+      "forks": 7025,
       "license": "MIT",
-      "pushedAt": "09/04/2026 12:35:29",
+      "pushedAt": "09/07/2026 16:27:01",
       "tags": [
         "agent",
         "llm",
@@ -112,45 +112,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "THU-MAIC",
-      "repo": "OpenMAIC",
-      "fullName": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 9193,
-      "totalStars": 32681,
-      "forks": 5330,
-      "license": "MIT",
-      "pushedAt": "09/06/2026 17:49:28",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -185,11 +146,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 7513,
-      "totalStars": 20189,
-      "forks": 2544,
+      "starsGained": 7916,
+      "totalStars": 20778,
+      "forks": 2586,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 08:59:33",
+      "pushedAt": "09/07/2026 14:51:50",
       "tags": [
         "agent",
         "llm",
@@ -233,11 +194,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 6394,
-      "totalStars": 252105,
-      "forks": 37848,
+      "starsGained": 7735,
+      "totalStars": 253040,
+      "forks": 37955,
       "license": "MIT",
-      "pushedAt": "09/07/2026 09:00:56",
+      "pushedAt": "09/07/2026 22:36:32",
       "tags": [
         "agent",
         "llm",
@@ -264,60 +225,41 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "K-Dense-AI",
-      "repo": "scientific-agent-skills",
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "homepage": "https://arxiv.org/abs/2609.00065",
-      "language": "Python",
-      "starsGained": 4718,
-      "totalStars": 43462,
-      "forks": 3954,
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "fullName": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 6934,
+      "totalStars": 33176,
+      "forks": 5386,
       "license": "MIT",
-      "pushedAt": "09/02/2026 16:25:37",
+      "pushedAt": "09/06/2026 17:49:28",
       "tags": [
         "agent",
-        "llm",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Scientific Agent Skills",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Confirm installation paths and optional metadata behavior in your host's current documentation."
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -334,9 +276,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
-      "starsGained": 3816,
-      "totalStars": 59303,
-      "forks": 7696,
+      "starsGained": 3633,
+      "totalStars": 59602,
+      "forks": 7726,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 14:16:47",
       "tags": [
@@ -372,11 +314,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
-      "starsGained": 3203,
-      "totalStars": 31732,
-      "forks": 3038,
+      "starsGained": 3506,
+      "totalStars": 31862,
+      "forks": 3044,
       "license": "Apache-2.0",
-      "pushedAt": "09/04/2026 23:47:31",
+      "pushedAt": "09/07/2026 17:25:39",
       "tags": [
         "ml"
       ],
@@ -385,6 +327,94 @@ window.GITHUB_AI_TRENDS = {
       "insight": {
         "source": "readme",
         "readmeTitle": "TimesFM",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "fullName": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "topics": [],
+      "homepage": "https://magnitude.dev",
+      "language": "TypeScript",
+      "starsGained": 2430,
+      "totalStars": 4077,
+      "forks": 291,
+      "license": "Apache-2.0",
+      "pushedAt": "09/08/2026 02:22:41",
+      "tags": [
+        "agent",
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "topics": [
+        "academic-pipeline",
+        "academic-writing",
+        "ai-research",
+        "claude",
+        "claude-code",
+        "literature-review",
+        "peer-review",
+        "prompt-engineering"
+      ],
+      "homepage": "https://buymeacoffee.com/crucify020v",
+      "language": "Python",
+      "starsGained": 2406,
+      "totalStars": 46854,
+      "forks": 3664,
+      "license": "NOASSERTION",
+      "pushedAt": "09/07/2026 23:38:58",
+      "tags": [
+        "agent",
+        "llm",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Academic Research Skills for Claude Code",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -421,9 +451,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openseo.so",
       "language": "TypeScript",
-      "starsGained": 2503,
-      "totalStars": 17595,
-      "forks": 2220,
+      "starsGained": 2137,
+      "totalStars": 17744,
+      "forks": 2239,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -451,94 +481,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Imbad0202",
-      "repo": "academic-research-skills",
-      "fullName": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "topics": [
-        "academic-pipeline",
-        "academic-writing",
-        "ai-research",
-        "claude",
-        "claude-code",
-        "literature-review",
-        "peer-review",
-        "prompt-engineering"
-      ],
-      "homepage": "https://buymeacoffee.com/crucify020v",
-      "language": "Python",
-      "starsGained": 2334,
-      "totalStars": 46699,
-      "forks": 3655,
-      "license": "NOASSERTION",
-      "pushedAt": "09/06/2026 20:49:07",
-      "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Academic Research Skills for Claude Code",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
-      "owner": "magnitudedev",
-      "repo": "magnitude",
-      "fullName": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "topics": [],
-      "homepage": "https://magnitude.dev",
-      "language": "TypeScript",
-      "starsGained": 1961,
-      "totalStars": 3878,
-      "forks": 279,
-      "license": "Apache-2.0",
-      "pushedAt": "09/07/2026 09:12:24",
-      "tags": [
-        "agent",
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "Gitlawb",
       "repo": "openclaude",
       "fullName": "Gitlawb/openclaude",
@@ -554,11 +496,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openclaude.gitlawb.com",
       "language": "TypeScript",
-      "starsGained": 1944,
-      "totalStars": 32876,
-      "forks": 9062,
+      "starsGained": 2040,
+      "totalStars": 32960,
+      "forks": 9067,
       "license": "NOASSERTION",
-      "pushedAt": "09/07/2026 01:41:34",
+      "pushedAt": "09/07/2026 23:53:01",
       "tags": [
         "agent",
         "llm"
@@ -580,6 +522,41 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：run /provider for guided provider setup and saved profiles"
+        ]
+      }
+    },
+    {
+      "owner": "pollen-robotics",
+      "repo": "microduck_rl",
+      "fullName": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6552564?s=40&v=4",
+      "description": "RL training environments for Microduck (mjlab)",
+      "topics": [],
+      "homepage": "https://pollen-robotics.com/microduck",
+      "language": "Python",
+      "starsGained": 828,
+      "totalStars": 1913,
+      "forks": 382,
+      "license": "Apache-2.0",
+      "pushedAt": "09/07/2026 17:13:27",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Microduck RL",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：RL training environments for Microduck (mjlab)",
+        "projectIntro": "该项目的 GitHub 简介是：RL training environments for Microduck (mjlab)",
+        "featurePoints": [
+          "核心线索：RL training environments for Microduck (mjlab)"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
@@ -616,11 +593,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 41018,
-      "totalStars": 51629,
-      "forks": 3374,
+      "starsGained": 42314,
+      "totalStars": 53318,
+      "forks": 3492,
       "license": "MIT",
-      "pushedAt": "09/07/2026 04:41:40",
+      "pushedAt": "09/08/2026 04:21:17",
       "tags": [
         "agent",
         "llm",
@@ -666,9 +643,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
-      "starsGained": 29194,
-      "totalStars": 32945,
-      "forks": 2104,
+      "starsGained": 29958,
+      "totalStars": 33391,
+      "forks": 2134,
       "license": "MIT",
       "pushedAt": "09/07/2026 04:39:11",
       "tags": [
@@ -716,9 +693,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
-      "starsGained": 19087,
-      "totalStars": 28409,
-      "forks": 2723,
+      "starsGained": 19058,
+      "totalStars": 28668,
+      "forks": 2747,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -757,11 +734,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 17024,
-      "totalStars": 20088,
-      "forks": 2196,
+      "starsGained": 15094,
+      "totalStars": 20192,
+      "forks": 2203,
       "license": "MIT",
-      "pushedAt": "09/07/2026 09:16:31",
+      "pushedAt": "09/08/2026 04:21:55",
       "tags": [
         "agent"
       ],
@@ -793,9 +770,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 11874,
-      "totalStars": 32681,
-      "forks": 5330,
+      "starsGained": 12423,
+      "totalStars": 33176,
+      "forks": 5386,
       "license": "MIT",
       "pushedAt": "09/06/2026 17:49:28",
       "tags": [
@@ -819,67 +796,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：Node.js = 22.19"
-        ]
-      }
-    },
-    {
-      "owner": "semantica-agi",
-      "repo": "semantica",
-      "fullName": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "topics": [
-        "agent-memory",
-        "ai",
-        "ai-governance",
-        "ai-infrastructure",
-        "artificial-intelligence",
-        "context-engineering",
-        "context-graphs",
-        "data-engineering",
-        "decision-intelligence",
-        "developer-tools",
-        "explainable-ai",
-        "generative-ai",
-        "graph-rag",
-        "knowledge-graph",
-        "llm",
-        "ontology",
-        "provenance",
-        "python",
-        "reasoning",
-        "semantic-search"
-      ],
-      "homepage": "https://getsemantica.ai",
-      "language": "Python",
-      "starsGained": 10145,
-      "totalStars": 12232,
-      "forks": 1380,
-      "license": "MIT",
-      "pushedAt": "09/07/2026 08:21:01",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -914,11 +830,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 9973,
-      "totalStars": 20189,
-      "forks": 2544,
+      "starsGained": 10716,
+      "totalStars": 20778,
+      "forks": 2586,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 08:59:33",
+      "pushedAt": "09/07/2026 14:51:50",
       "tags": [
         "agent",
         "llm",
@@ -944,6 +860,67 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "semantica-agi",
+      "repo": "semantica",
+      "fullName": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "topics": [
+        "agent-memory",
+        "ai",
+        "ai-governance",
+        "ai-infrastructure",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "data-engineering",
+        "decision-intelligence",
+        "developer-tools",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "provenance",
+        "python",
+        "reasoning",
+        "semantic-search"
+      ],
+      "homepage": "https://getsemantica.ai",
+      "language": "Python",
+      "starsGained": 10142,
+      "totalStars": 12312,
+      "forks": 1385,
+      "license": "MIT",
+      "pushedAt": "09/07/2026 21:40:53",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "volcengine",
       "repo": "OpenViking",
       "fullName": "volcengine/OpenViking",
@@ -960,11 +937,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openviking.ai/",
       "language": "Python",
-      "starsGained": 7895,
-      "totalStars": 35867,
-      "forks": 2733,
+      "starsGained": 7993,
+      "totalStars": 35958,
+      "forks": 2744,
       "license": "AGPL-3.0",
-      "pushedAt": "09/07/2026 09:12:35",
+      "pushedAt": "09/08/2026 03:53:15",
       "tags": [
         "agent",
         "rag",
@@ -1006,11 +983,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://cactuscompute.com",
       "language": "Python",
-      "starsGained": 7069,
-      "totalStars": 10438,
+      "starsGained": 7126,
+      "totalStars": 10515,
       "forks": 673,
       "license": "Apache-2.0",
-      "pushedAt": "09/05/2026 19:53:01",
+      "pushedAt": "09/07/2026 18:12:43",
       "tags": [
         "agent",
         "llm",
@@ -1035,74 +1012,55 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 4490,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
-        ],
-        "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
-        ]
-      }
-    },
-    {
       "owner": "apache",
       "repo": "maka",
       "fullName": "apache/maka",
       "url": "https://github.com/apache/maka",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "topics": [],
+      "topics": [
+        "agent-runtime",
+        "ai",
+        "ai-agent",
+        "apache",
+        "cli",
+        "desktop",
+        "electron",
+        "event-sourcing",
+        "incubator",
+        "llm",
+        "local-first",
+        "maka",
+        "tool-use",
+        "typescript"
+      ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 3647,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 3715,
+      "totalStars": 4969,
+      "forks": 464,
+      "license": "Apache-2.0",
+      "pushedAt": "09/08/2026 03:03:08",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-        "projectIntro": "该项目的 GitHub 简介是：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -1116,9 +1074,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3243,
-      "totalStars": 3549,
-      "forks": 272,
+      "starsGained": 3285,
+      "totalStars": 3592,
+      "forks": 275,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
@@ -1136,6 +1094,50 @@ window.GITHUB_AI_TRENDS = {
         "projectIntro": "该项目的 GitHub 简介是：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "featurePoints": [
           "核心线索：Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "modular",
+      "repo": "modular",
+      "fullName": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "topics": [
+        "ai",
+        "language",
+        "machine-learning",
+        "max",
+        "modular",
+        "mojo",
+        "programming-language"
+      ],
+      "homepage": "https://docs.modular.com/",
+      "language": "Mojo",
+      "starsGained": 3016,
+      "totalStars": 29611,
+      "forks": 3158,
+      "license": "NOASSERTION",
+      "pushedAt": "09/07/2026 06:36:06",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Modular Platform",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：The Modular Platform (includes MAX & Mojo)",
+        "projectIntro": "该项目的 GitHub 简介是：The Modular Platform (includes MAX & Mojo)",
+        "featurePoints": [
+          "核心线索：The Modular Platform (includes MAX & Mojo)"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
