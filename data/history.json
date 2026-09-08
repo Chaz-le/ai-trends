@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:55:43.515Z",
+  "generatedAt": "2026-09-08T08:50:17.541Z",
   "snapshots": [
     {
       "date": "2026-07-11",
@@ -4629,78 +4629,70 @@
     },
     {
       "date": "2026-09-08",
-      "generatedAt": "2026-09-08T05:55:24.5236378+00:00",
+      "generatedAt": "2026-09-08T08:50:05.7204401+00:00",
       "repos": {
         "tt-a1i/archify": {
-          "stars": 53479,
+          "stars": 53774,
           "periodGain": 42314
         },
         "DietrichGebert/ponytail": {
-          "stars": 131254,
+          "stars": 131466,
           "periodGain": 12834
         },
         "debpalash/VoiceStudio": {
-          "stars": 20841,
+          "stars": 20977,
           "periodGain": 10716
         },
         "affaan-m/ECC": {
-          "stars": 253145,
+          "stars": 253391,
           "periodGain": 7735
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 33214,
+          "stars": 33320,
           "periodGain": 12423
         },
         "jingyaogong/minimind": {
-          "stars": 59627,
+          "stars": 59703,
           "periodGain": 3633
         },
         "google-research/timesfm": {
-          "stars": 31873,
+          "stars": 31903,
           "periodGain": 3506
         },
         "magnitudedev/magnitude": {
-          "stars": 4091,
+          "stars": 4128,
           "periodGain": 2430
         },
         "Imbad0202/academic-research-skills": {
-          "stars": 46868,
+          "stars": 46930,
           "periodGain": 2406
         },
         "every-app/open-seo": {
-          "stars": 17757,
+          "stars": 17781,
           "periodGain": 2137
         },
         "Gitlawb/openclaude": {
-          "stars": 32966,
+          "stars": 32986,
           "periodGain": 2040
         },
         "pollen-robotics/microduck_rl": {
-          "stars": 1917,
+          "stars": 1927,
           "periodGain": 828
         },
         "cathrynlavery/diagram-design": {
-          "stars": 33424,
+          "stars": 33525,
           "periodGain": 29958
         },
-        "freestylefly/awesome-gpt-image-2": {
-          "stars": 28720,
-          "periodGain": 19058
-        },
         "semantica-agi/semantica": {
-          "stars": 12320,
+          "stars": 12345,
           "periodGain": 10142
         },
         "volcengine/OpenViking": {
-          "stars": 35969,
+          "stars": 36004,
           "periodGain": 7993
         },
-        "cactus-compute/needle": {
-          "stars": 10522,
-          "periodGain": 7126
-        },
         "anthropics/claude-plugins-community": {
-          "stars": 3596,
+          "stars": 3606,
           "periodGain": 3285
         }
       }
