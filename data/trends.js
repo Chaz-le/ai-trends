@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-08T04:24:35.8051791+00:00",
+  "generatedAt": "2026-09-08T05:55:24.5236378+00:00",
   "weekly": [
     {
       "owner": "tt-a1i",
@@ -34,8 +34,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 14946,
-      "totalStars": 53318,
-      "forks": 3492,
+      "totalStars": 53479,
+      "forks": 3513,
       "license": "MIT",
       "pushedAt": "09/08/2026 04:21:17",
       "tags": [
@@ -86,8 +86,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 12834,
-      "totalStars": 131190,
-      "forks": 7025,
+      "totalStars": 131254,
+      "forks": 7027,
       "license": "MIT",
       "pushedAt": "09/07/2026 16:27:01",
       "tags": [
@@ -147,8 +147,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 7916,
-      "totalStars": 20778,
-      "forks": 2586,
+      "totalStars": 20841,
+      "forks": 2593,
       "license": "AGPL-3.0",
       "pushedAt": "09/07/2026 14:51:50",
       "tags": [
@@ -195,8 +195,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 7735,
-      "totalStars": 253040,
-      "forks": 37955,
+      "totalStars": 253145,
+      "forks": 37973,
       "license": "MIT",
       "pushedAt": "09/07/2026 22:36:32",
       "tags": [
@@ -235,8 +235,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 6934,
-      "totalStars": 33176,
-      "forks": 5386,
+      "totalStars": 33214,
+      "forks": 5388,
       "license": "MIT",
       "pushedAt": "09/06/2026 17:49:28",
       "tags": [
@@ -277,8 +277,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
       "starsGained": 3633,
-      "totalStars": 59602,
-      "forks": 7726,
+      "totalStars": 59627,
+      "forks": 7728,
       "license": "Apache-2.0",
       "pushedAt": "09/04/2026 14:16:47",
       "tags": [
@@ -315,8 +315,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 3506,
-      "totalStars": 31862,
-      "forks": 3044,
+      "totalStars": 31873,
+      "forks": 3048,
       "license": "Apache-2.0",
       "pushedAt": "09/07/2026 17:25:39",
       "tags": [
@@ -352,8 +352,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://magnitude.dev",
       "language": "TypeScript",
       "starsGained": 2430,
-      "totalStars": 4077,
-      "forks": 291,
+      "totalStars": 4091,
+      "forks": 292,
       "license": "Apache-2.0",
       "pushedAt": "09/08/2026 02:22:41",
       "tags": [
@@ -400,10 +400,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://buymeacoffee.com/crucify020v",
       "language": "Python",
       "starsGained": 2406,
-      "totalStars": 46854,
+      "totalStars": 46868,
       "forks": 3664,
       "license": "NOASSERTION",
-      "pushedAt": "09/07/2026 23:38:58",
+      "pushedAt": "09/08/2026 05:38:01",
       "tags": [
         "agent",
         "llm",
@@ -452,8 +452,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 2137,
-      "totalStars": 17744,
-      "forks": 2239,
+      "totalStars": 17757,
+      "forks": 2244,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -497,7 +497,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openclaude.gitlawb.com",
       "language": "TypeScript",
       "starsGained": 2040,
-      "totalStars": 32960,
+      "totalStars": 32966,
       "forks": 9067,
       "license": "NOASSERTION",
       "pushedAt": "09/07/2026 23:53:01",
@@ -536,8 +536,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://pollen-robotics.com/microduck",
       "language": "Python",
       "starsGained": 828,
-      "totalStars": 1913,
-      "forks": 382,
+      "totalStars": 1917,
+      "forks": 383,
       "license": "Apache-2.0",
       "pushedAt": "09/07/2026 17:13:27",
       "tags": [
@@ -594,8 +594,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 42314,
-      "totalStars": 53318,
-      "forks": 3492,
+      "totalStars": 53479,
+      "forks": 3513,
       "license": "MIT",
       "pushedAt": "09/08/2026 04:21:17",
       "tags": [
@@ -644,8 +644,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 29958,
-      "totalStars": 33391,
-      "forks": 2134,
+      "totalStars": 33424,
+      "forks": 2137,
       "license": "MIT",
       "pushedAt": "09/07/2026 04:39:11",
       "tags": [
@@ -694,8 +694,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 19058,
-      "totalStars": 28668,
-      "forks": 2747,
+      "totalStars": 28720,
+      "forks": 2754,
       "license": "MIT",
       "pushedAt": "09/03/2026 03:26:32",
       "tags": [
@@ -735,17 +735,17 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 15094,
-      "totalStars": 20192,
-      "forks": 2203,
-      "license": "MIT",
-      "pushedAt": "09/08/2026 04:21:55",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -755,8 +755,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：A self-improving RLM agent for coding workflows and long-running autonomous tasks."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The installer downloads a versioned release, verifies its SHA-256 checksum, installs the prime-agent command, and can prepare the Python runtime used by the agent."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -771,8 +770,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 12423,
-      "totalStars": 33176,
-      "forks": 5386,
+      "totalStars": 33214,
+      "forks": 5388,
       "license": "MIT",
       "pushedAt": "09/06/2026 17:49:28",
       "tags": [
@@ -831,8 +830,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 10716,
-      "totalStars": 20778,
-      "forks": 2586,
+      "totalStars": 20841,
+      "forks": 2593,
       "license": "AGPL-3.0",
       "pushedAt": "09/07/2026 14:51:50",
       "tags": [
@@ -891,8 +890,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 10142,
-      "totalStars": 12312,
-      "forks": 1385,
+      "totalStars": 12320,
+      "forks": 1388,
       "license": "MIT",
       "pushedAt": "09/07/2026 21:40:53",
       "tags": [
@@ -938,10 +937,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 7993,
-      "totalStars": 35958,
-      "forks": 2744,
+      "totalStars": 35969,
+      "forks": 2745,
       "license": "AGPL-3.0",
-      "pushedAt": "09/08/2026 03:53:15",
+      "pushedAt": "09/08/2026 04:34:35",
       "tags": [
         "agent",
         "rag",
@@ -984,8 +983,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 7126,
-      "totalStars": 10515,
-      "forks": 673,
+      "totalStars": 10522,
+      "forks": 674,
       "license": "Apache-2.0",
       "pushedAt": "09/07/2026 18:12:43",
       "tags": [
@@ -996,8 +995,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Needle 2",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -1006,8 +1005,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：agent = needle.Needle(tools=[getweather])"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1018,49 +1016,31 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/apache/maka",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "topics": [
-        "agent-runtime",
-        "ai",
-        "ai-agent",
-        "apache",
-        "cli",
-        "desktop",
-        "electron",
-        "event-sourcing",
-        "incubator",
-        "llm",
-        "local-first",
-        "maka",
-        "tool-use",
-        "typescript"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3715,
-      "totalStars": 4969,
-      "forks": 464,
-      "license": "Apache-2.0",
-      "pushedAt": "09/08/2026 03:03:08",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+        "projectIntro": "该项目的 GitHub 简介是：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "核心线索：Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did."
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1075,8 +1055,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3285,
-      "totalStars": 3592,
-      "forks": 275,
+      "totalStars": 3596,
+      "forks": 277,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
@@ -1101,46 +1081,41 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "modular",
-      "repo": "modular",
-      "fullName": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "topics": [
-        "ai",
-        "language",
-        "machine-learning",
-        "max",
-        "modular",
-        "mojo",
-        "programming-language"
-      ],
-      "homepage": "https://docs.modular.com/",
-      "language": "Mojo",
-      "starsGained": 3016,
-      "totalStars": 29611,
-      "forks": 3158,
-      "license": "NOASSERTION",
-      "pushedAt": "09/07/2026 06:36:06",
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "fullName": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22404335?s=40&v=4",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 2529,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "learning"
+        "rag",
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Modular Platform",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：The Modular Platform (includes MAX & Mojo)",
-        "projectIntro": "该项目的 GitHub 简介是：The Modular Platform (includes MAX & Mojo)",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "code-knowledge-graph",
+        "zhTitle": "代码知识图谱工具",
+        "zhIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
+        "projectIntro": "把代码仓库预先索引成知识图谱，让 Claude Code、Codex、Cursor 等工具更快理解符号关系、调用链和项目结构。",
         "featurePoints": [
-          "核心线索：The Modular Platform (includes MAX & Mojo)"
+          "为代码库生成符号关系、调用图和结构化索引，减少 Agent 反复 grep 和读文件。",
+          "支持本地查询和自动同步，代码变化后保持知识图谱更新。",
+          "把代码理解从临时扫描变成可复用上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合大型代码仓库理解、AI 代码审查、重构分析和让编码 Agent 更快定位相关文件。"
         ]
       }
     }
