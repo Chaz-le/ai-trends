@@ -1,76 +1,6 @@
 {
-  "generatedAt": "2026-09-08T08:50:17.541Z",
+  "generatedAt": "2026-09-09T04:30:33.809Z",
   "snapshots": [
-    {
-      "date": "2026-07-11",
-      "generatedAt": "2026-07-11T06:24:55.0672792+00:00",
-      "repos": {
-        "Zackriya-Solutions/meetily": {
-          "stars": 22800,
-          "periodGain": 9968
-        },
-        "addyosmani/agent-skills": {
-          "stars": 76972,
-          "periodGain": 7944
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 55922,
-          "periodGain": 14343
-        },
-        "usestrix/strix": {
-          "stars": 40257,
-          "periodGain": 14196
-        },
-        "iOfficeAI/OfficeCLI": {
-          "stars": 14604,
-          "periodGain": 5789
-        },
-        "JuliusBrussee/caveman": {
-          "stars": 87843,
-          "periodGain": 5348
-        },
-        "ogulcancelik/herdr": {
-          "stars": 15293,
-          "periodGain": 9902
-        },
-        "openai/codex-plugin-cc": {
-          "stars": 27480,
-          "periodGain": 4484
-        },
-        "stablyai/orca": {
-          "stars": 16061,
-          "periodGain": 11236
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 15212,
-          "periodGain": 8867
-        },
-        "bradautomates/claude-video": {
-          "stars": 7294,
-          "periodGain": 4093
-        },
-        "alibaba/page-agent": {
-          "stars": 25890,
-          "periodGain": 7398
-        },
-        "calesthio/OpenMontage": {
-          "stars": 36828,
-          "periodGain": 32095
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 54581,
-          "periodGain": 28774
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 29801,
-          "periodGain": 26480
-        },
-        "NVIDIA/SkillSpector": {
-          "stars": 12798,
-          "periodGain": 10790
-        }
-      }
-    },
     {
       "date": "2026-07-12",
       "generatedAt": "2026-07-12T06:44:47.0164290+00:00",
@@ -4694,6 +4624,76 @@
         "anthropics/claude-plugins-community": {
           "stars": 3606,
           "periodGain": 3285
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "generatedAt": "2026-09-09T04:30:15.3122800+00:00",
+      "repos": {
+        "mattpocock/skills": {
+          "stars": 257101,
+          "periodGain": 13419
+        },
+        "tt-a1i/archify": {
+          "stars": 55002,
+          "periodGain": 44220
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 132409,
+          "periodGain": 12598
+        },
+        "affaan-m/ECC": {
+          "stars": 254450,
+          "periodGain": 8527
+        },
+        "blader/humanizer": {
+          "stars": 45513,
+          "periodGain": 5790
+        },
+        "NousResearch/hermes-agent": {
+          "stars": 243510,
+          "periodGain": 4221
+        },
+        "heygen-com/hyperframes": {
+          "stars": 47921,
+          "periodGain": 3886
+        },
+        "google-research/timesfm": {
+          "stars": 32038,
+          "periodGain": 3365
+        },
+        "Imbad0202/academic-research-skills": {
+          "stars": 47103,
+          "periodGain": 2430
+        },
+        "coreyhaines31/marketingskills": {
+          "stars": 48937,
+          "periodGain": 2141
+        },
+        "every-app/open-seo": {
+          "stars": 17956,
+          "periodGain": 1846
+        },
+        "ruvnet/ruflo": {
+          "stars": 71700,
+          "periodGain": 1585
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 35203,
+          "periodGain": 30797
+        },
+        "semantica-agi/semantica": {
+          "stars": 12438,
+          "periodGain": 9951
+        },
+        "volcengine/OpenViking": {
+          "stars": 36111,
+          "periodGain": 8115
+        },
+        "cursor/plugins": {
+          "stars": 7160,
+          "periodGain": 4574
         }
       }
     }
