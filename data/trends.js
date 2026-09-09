@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-09T04:30:15.3122800+00:00",
+  "generatedAt": "2026-09-09T05:57:07.8762251+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 13419,
-      "totalStars": 257101,
-      "forks": 21657,
+      "totalStars": 257155,
+      "forks": 21663,
       "license": "MIT",
       "pushedAt": "09/04/2026 08:45:43",
       "tags": [
@@ -72,8 +72,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 13318,
-      "totalStars": 55002,
-      "forks": 3609,
+      "totalStars": 55094,
+      "forks": 3614,
       "license": "MIT",
       "pushedAt": "09/08/2026 20:33:06",
       "tags": [
@@ -124,8 +124,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 12598,
-      "totalStars": 132409,
-      "forks": 7084,
+      "totalStars": 132490,
+      "forks": 7089,
       "license": "MIT",
       "pushedAt": "09/07/2026 16:27:01",
       "tags": [
@@ -173,8 +173,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 8527,
-      "totalStars": 254450,
-      "forks": 38125,
+      "totalStars": 254523,
+      "forks": 38131,
       "license": "MIT",
       "pushedAt": "09/09/2026 03:31:53",
       "tags": [
@@ -221,7 +221,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 5790,
-      "totalStars": 45513,
+      "totalStars": 45550,
       "forks": 3748,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
@@ -275,10 +275,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hermes-agent.nousresearch.com",
       "language": "Python",
       "starsGained": 4221,
-      "totalStars": 243510,
-      "forks": 50226,
+      "totalStars": 243547,
+      "forks": 50229,
       "license": "MIT",
-      "pushedAt": "09/09/2026 04:02:21",
+      "pushedAt": "09/09/2026 05:26:37",
       "tags": [
         "agent",
         "llm"
@@ -326,10 +326,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3886,
-      "totalStars": 47921,
-      "forks": 4402,
+      "totalStars": 47966,
+      "forks": 4406,
       "license": "Apache-2.0",
-      "pushedAt": "09/09/2026 04:25:59",
+      "pushedAt": "09/09/2026 05:48:00",
       "tags": [
         "agent"
       ],
@@ -364,7 +364,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 3365,
-      "totalStars": 32038,
+      "totalStars": 32049,
       "forks": 3063,
       "license": "Apache-2.0",
       "pushedAt": "09/07/2026 17:25:39",
@@ -410,7 +410,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://buymeacoffee.com/crucify020v",
       "language": "Python",
       "starsGained": 2430,
-      "totalStars": 47103,
+      "totalStars": 47115,
       "forks": 3687,
       "license": "NOASSERTION",
       "pushedAt": "09/08/2026 07:50:41",
@@ -454,8 +454,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://marketing-skills.com",
       "language": "JavaScript",
       "starsGained": 2141,
-      "totalStars": 48937,
-      "forks": 7500,
+      "totalStars": 48963,
+      "forks": 7502,
       "license": "MIT",
       "pushedAt": "09/05/2026 04:48:10",
       "tags": [
@@ -504,8 +504,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 1846,
-      "totalStars": 17956,
-      "forks": 2264,
+      "totalStars": 17968,
+      "forks": 2265,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -564,10 +564,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://Cognitum.One",
       "language": "TypeScript",
       "starsGained": 1585,
-      "totalStars": 71700,
+      "totalStars": 71706,
       "forks": 8486,
       "license": "MIT",
-      "pushedAt": "09/08/2026 17:01:12",
+      "pushedAt": "09/09/2026 05:20:59",
       "tags": [
         "agent",
         "llm",
@@ -627,8 +627,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 44220,
-      "totalStars": 55002,
-      "forks": 3609,
+      "totalStars": 55094,
+      "forks": 3614,
       "license": "MIT",
       "pushedAt": "09/08/2026 20:33:06",
       "tags": [
@@ -677,8 +677,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 30797,
-      "totalStars": 35203,
-      "forks": 2216,
+      "totalStars": 35355,
+      "forks": 2222,
       "license": "MIT",
       "pushedAt": "09/08/2026 19:45:13",
       "tags": [
@@ -712,15 +712,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 19654,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 29427,
+      "forks": 2821,
+      "license": "MIT",
+      "pushedAt": "09/09/2026 04:24:00",
       "tags": [
+        "agent",
         "llm",
         "generation",
         "learning"
@@ -728,19 +740,20 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "category": "prompt-archive",
+        "zhTitle": "AI 产品系统提示词资料库",
+        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
+          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
+          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
         ]
       }
     },
@@ -755,10 +768,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 13038,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 33809,
+      "forks": 5456,
+      "license": "MIT",
+      "pushedAt": "09/08/2026 18:17:16",
       "tags": [
         "agent",
         "learning"
@@ -766,8 +779,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -778,7 +791,8 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -851,7 +865,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 9951,
-      "totalStars": 12438,
+      "totalStars": 12443,
       "forks": 1394,
       "license": "MIT",
       "pushedAt": "09/09/2026 00:48:45",
@@ -898,8 +912,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 8115,
-      "totalStars": 36111,
-      "forks": 2751,
+      "totalStars": 36123,
+      "forks": 2752,
       "license": "AGPL-3.0",
       "pushedAt": "09/09/2026 04:05:41",
       "tags": [
@@ -934,22 +948,30 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?s=40&v=4",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "cactus",
+        "gemini",
+        "gemma",
+        "llm",
+        "on-device-ai"
+      ],
+      "homepage": "https://cactuscompute.com",
       "language": "Python",
       "starsGained": 7220,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 10624,
+      "forks": 677,
+      "license": "Apache-2.0",
+      "pushedAt": "09/08/2026 16:02:13",
       "tags": [
+        "agent",
+        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Needle 2",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
@@ -958,7 +980,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：agent = needle.Needle(tools=[getweather])"
         ]
       }
     },
@@ -1011,18 +1034,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Rust",
       "starsGained": 4716,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 6152,
+      "forks": 426,
+      "license": "MIT",
+      "pushedAt": "09/09/2026 03:44:30",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Install the ai-memory CLI wrapper (a small shell script that",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -1033,7 +1056,8 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：You need: Docker or Podman + an agent CLI from the Support Matrix,"
         ]
       }
     },
@@ -1048,7 +1072,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4574,
-      "totalStars": 7160,
+      "totalStars": 7164,
       "forks": 620,
       "license": "",
       "pushedAt": "09/09/2026 03:32:19",
