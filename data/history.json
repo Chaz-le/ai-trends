@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T05:57:34.142Z",
+  "generatedAt": "2026-09-09T08:56:50.938Z",
   "snapshots": [
     {
       "date": "2026-07-12",
@@ -4629,86 +4629,70 @@
     },
     {
       "date": "2026-09-09",
-      "generatedAt": "2026-09-09T05:57:07.8762251+00:00",
+      "generatedAt": "2026-09-09T08:56:32.2949150+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 257155,
+          "stars": 257312,
           "periodGain": 13419
         },
         "tt-a1i/archify": {
-          "stars": 55094,
+          "stars": 55355,
           "periodGain": 44220
         },
         "DietrichGebert/ponytail": {
-          "stars": 132490,
+          "stars": 132698,
           "periodGain": 12598
         },
         "affaan-m/ECC": {
-          "stars": 254523,
+          "stars": 254644,
           "periodGain": 8527
         },
         "blader/humanizer": {
-          "stars": 45550,
+          "stars": 45650,
           "periodGain": 5790
         },
         "NousResearch/hermes-agent": {
-          "stars": 243547,
+          "stars": 243612,
           "periodGain": 4221
         },
         "heygen-com/hyperframes": {
-          "stars": 47966,
+          "stars": 48121,
           "periodGain": 3886
         },
         "google-research/timesfm": {
-          "stars": 32049,
+          "stars": 32077,
           "periodGain": 3365
         },
         "Imbad0202/academic-research-skills": {
-          "stars": 47115,
+          "stars": 47157,
           "periodGain": 2430
         },
         "coreyhaines31/marketingskills": {
-          "stars": 48963,
+          "stars": 49064,
           "periodGain": 2141
         },
         "every-app/open-seo": {
-          "stars": 17968,
+          "stars": 18010,
           "periodGain": 1846
         },
         "ruvnet/ruflo": {
-          "stars": 71706,
+          "stars": 71723,
           "periodGain": 1585
         },
         "cathrynlavery/diagram-design": {
-          "stars": 35355,
+          "stars": 35746,
           "periodGain": 30797
         },
-        "freestylefly/awesome-gpt-image-2": {
-          "stars": 29427,
-          "periodGain": 19654
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 33809,
-          "periodGain": 13038
-        },
         "semantica-agi/semantica": {
-          "stars": 12443,
+          "stars": 12470,
           "periodGain": 9951
         },
         "volcengine/OpenViking": {
-          "stars": 36123,
+          "stars": 36182,
           "periodGain": 8115
         },
-        "cactus-compute/needle": {
-          "stars": 10624,
-          "periodGain": 7220
-        },
-        "akitaonrails/ai-memory": {
-          "stars": 6152,
-          "periodGain": 4716
-        },
         "cursor/plugins": {
-          "stars": 7164,
+          "stars": 7181,
           "periodGain": 4574
         }
       }
