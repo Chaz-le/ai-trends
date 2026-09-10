@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-10T04:28:57.8806739+00:00",
+  "generatedAt": "2026-09-10T05:55:35.7444687+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 13143,
-      "totalStars": 258014,
-      "forks": 21732,
+      "totalStars": 258066,
+      "forks": 21737,
       "license": "MIT",
       "pushedAt": "09/04/2026 08:45:43",
       "tags": [
@@ -72,8 +72,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 12541,
-      "totalStars": 56324,
-      "forks": 3675,
+      "totalStars": 56396,
+      "forks": 3677,
       "license": "MIT",
       "pushedAt": "09/08/2026 20:33:06",
       "tags": [
@@ -124,8 +124,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 12431,
-      "totalStars": 133642,
-      "forks": 7150,
+      "totalStars": 133742,
+      "forks": 7156,
       "license": "MIT",
       "pushedAt": "09/07/2026 16:27:01",
       "tags": [
@@ -173,8 +173,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 9146,
-      "totalStars": 255299,
-      "forks": 38235,
+      "totalStars": 255338,
+      "forks": 38241,
       "license": "MIT",
       "pushedAt": "09/09/2026 19:00:49",
       "tags": [
@@ -220,8 +220,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6581,
-      "totalStars": 35201,
-      "forks": 2060,
+      "totalStars": 35414,
+      "forks": 2067,
       "license": "MIT",
       "pushedAt": "09/10/2026 00:47:20",
       "tags": [
@@ -268,8 +268,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 5925,
-      "totalStars": 46072,
-      "forks": 3775,
+      "totalStars": 46101,
+      "forks": 3777,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
       "tags": [
@@ -320,10 +320,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4643,
-      "totalStars": 48473,
-      "forks": 4440,
+      "totalStars": 48491,
+      "forks": 4442,
       "license": "Apache-2.0",
-      "pushedAt": "09/10/2026 03:55:30",
+      "pushedAt": "09/10/2026 05:17:14",
       "tags": [
         "agent"
       ],
@@ -372,10 +372,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hermes-agent.nousresearch.com",
       "language": "Python",
       "starsGained": 4114,
-      "totalStars": 243919,
-      "forks": 50367,
+      "totalStars": 243936,
+      "forks": 50376,
       "license": "MIT",
-      "pushedAt": "09/10/2026 04:28:17",
+      "pushedAt": "09/10/2026 04:49:10",
       "tags": [
         "agent",
         "llm"
@@ -411,8 +411,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3948,
-      "totalStars": 34591,
-      "forks": 5549,
+      "totalStars": 34653,
+      "forks": 5559,
       "license": "MIT",
       "pushedAt": "09/09/2026 10:25:46",
       "tags": [
@@ -454,7 +454,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://marketing-skills.com",
       "language": "JavaScript",
       "starsGained": 2638,
-      "totalStars": 49288,
+      "totalStars": 49306,
       "forks": 7524,
       "license": "MIT",
       "pushedAt": "09/05/2026 04:48:10",
@@ -501,8 +501,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://buymeacoffee.com/crucify020v",
       "language": "Python",
       "starsGained": 1862,
-      "totalStars": 47321,
-      "forks": 3697,
+      "totalStars": 47342,
+      "forks": 3702,
       "license": "NOASSERTION",
       "pushedAt": "09/09/2026 10:13:36",
       "tags": [
@@ -553,8 +553,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openseo.so",
       "language": "TypeScript",
       "starsGained": 1788,
-      "totalStars": 18152,
-      "forks": 2288,
+      "totalStars": 18160,
+      "forks": 2289,
       "license": "MIT",
       "pushedAt": "09/03/2026 15:54:34",
       "tags": [
@@ -615,8 +615,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 45313,
-      "totalStars": 56324,
-      "forks": 3675,
+      "totalStars": 56396,
+      "forks": 3677,
       "license": "MIT",
       "pushedAt": "09/08/2026 20:33:06",
       "tags": [
@@ -652,32 +652,44 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 32587,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 36893,
+      "forks": 2340,
+      "license": "MIT",
+      "pushedAt": "09/10/2026 04:26:30",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "projectIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "source": "readme",
+        "readmeTitle": "Diagram Design",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "核心线索：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -688,15 +700,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 20295,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 30291,
+      "forks": 2933,
+      "license": "MIT",
+      "pushedAt": "09/09/2026 08:31:41",
       "tags": [
+        "agent",
         "llm",
         "generation",
         "learning"
@@ -704,19 +728,20 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "category": "prompt-archive",
+        "zhTitle": "AI 产品系统提示词资料库",
+        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
+          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
+          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
         ]
       }
     },
@@ -731,8 +756,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 13766,
-      "totalStars": 34591,
-      "forks": 5549,
+      "totalStars": 34653,
+      "forks": 5559,
       "license": "MIT",
       "pushedAt": "09/09/2026 10:25:46",
       "tags": [
@@ -803,31 +828,57 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/semantica-agi/semantica",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98801504?s=40&v=4",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "ai",
+        "ai-governance",
+        "ai-infrastructure",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "data-engineering",
+        "decision-intelligence",
+        "developer-tools",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "provenance",
+        "python",
+        "reasoning",
+        "semantic-search"
+      ],
+      "homepage": "https://getsemantica.ai",
       "language": "Python",
       "starsGained": 9711,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 12543,
+      "forks": 1403,
+      "license": "MIT",
+      "pushedAt": "09/10/2026 04:12:18",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "rag",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "projectIntro": "该项目的 GitHub 简介是：Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "source": "readme",
+        "readmeTitle": "Every agent decision becomes a queryable, auditable knowledge node",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
         "featurePoints": [
-          "核心线索：Graph-Native Infrastructure for Context and Accountable AI Systems"
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -838,14 +889,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "self-evolving"
+      ],
+      "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 8284,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 36353,
+      "forks": 2778,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/10/2026 05:26:47",
       "tags": [
         "agent",
         "rag",
@@ -854,8 +912,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Replace TASKID with the returned taskid; continue after status is completed",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -866,7 +924,8 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：💡 Want to see it in action first? Try OpenViking Studio — a live hosted instance with a context playground, semantic search, and a multi-agent hub. No installation required."
         ]
       }
     },
@@ -953,18 +1012,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4683,
-      "totalStars": 0,
-      "forks": 0,
+      "totalStars": 7284,
+      "forks": 634,
       "license": "",
-      "pushedAt": "",
+      "pushedAt": "09/10/2026 02:51:50",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Cursor plugins",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
