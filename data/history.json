@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:29:10.252Z",
+  "generatedAt": "2026-09-11T05:55:22.618Z",
   "snapshots": [
     {
       "date": "2026-07-14",
@@ -4629,70 +4629,66 @@
     },
     {
       "date": "2026-09-11",
-      "generatedAt": "2026-09-11T04:28:41.4206385+00:00",
+      "generatedAt": "2026-09-11T05:55:07.3811583+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 259019,
+          "stars": 259067,
           "periodGain": 12356
         },
         "tt-a1i/archify": {
-          "stars": 57621,
+          "stars": 57693,
           "periodGain": 46339
         },
         "DietrichGebert/ponytail": {
-          "stars": 134954,
+          "stars": 135020,
           "periodGain": 11638
         },
         "ayghri/i-have-adhd": {
-          "stars": 38840,
+          "stars": 38990,
           "periodGain": 18245
         },
         "affaan-m/ECC": {
-          "stars": 255982,
+          "stars": 256017,
           "periodGain": 9257
         },
         "cathrynlavery/diagram-design": {
-          "stars": 37938,
+          "stars": 37988,
           "periodGain": 33361
         },
         "blader/humanizer": {
-          "stars": 46576,
+          "stars": 46600,
           "periodGain": 5224
         },
         "heygen-com/hyperframes": {
-          "stars": 48823,
+          "stars": 48840,
           "periodGain": 4896
         },
         "microsoft/markitdown": {
-          "stars": 182481,
+          "stars": 182487,
           "periodGain": 4579
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 35474,
+          "stars": 35515,
           "periodGain": 14604
         },
         "NousResearch/hermes-agent": {
-          "stars": 244274,
+          "stars": 244297,
           "periodGain": 3769
         },
         "anomalyco/opencode": {
-          "stars": 206532,
+          "stars": 206547,
           "periodGain": 3139
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 31007,
+          "stars": 31047,
           "periodGain": 21157
         },
-        "semantica-agi/semantica": {
-          "stars": 12624,
-          "periodGain": 8849
-        },
         "volcengine/OpenViking": {
-          "stars": 36556,
+          "stars": 36567,
           "periodGain": 8469
         },
         "cursor/plugins": {
-          "stars": 7395,
+          "stars": 7401,
           "periodGain": 4798
         }
       }
