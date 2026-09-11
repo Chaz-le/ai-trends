@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:55:22.618Z",
+  "generatedAt": "2026-09-11T08:54:17.465Z",
   "snapshots": [
     {
       "date": "2026-07-14",
@@ -4629,66 +4629,86 @@
     },
     {
       "date": "2026-09-11",
-      "generatedAt": "2026-09-11T05:55:07.3811583+00:00",
+      "generatedAt": "2026-09-11T08:53:33.7555889+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 259067,
+          "stars": 259212,
           "periodGain": 12356
         },
         "tt-a1i/archify": {
-          "stars": 57693,
+          "stars": 57904,
           "periodGain": 46339
         },
         "DietrichGebert/ponytail": {
-          "stars": 135020,
+          "stars": 135223,
           "periodGain": 11638
         },
         "ayghri/i-have-adhd": {
-          "stars": 38990,
+          "stars": 39495,
           "periodGain": 18245
         },
         "affaan-m/ECC": {
-          "stars": 256017,
+          "stars": 256098,
           "periodGain": 9257
         },
         "cathrynlavery/diagram-design": {
-          "stars": 37988,
+          "stars": 38150,
           "periodGain": 33361
         },
         "blader/humanizer": {
-          "stars": 46600,
+          "stars": 46669,
           "periodGain": 5224
         },
         "heygen-com/hyperframes": {
-          "stars": 48840,
+          "stars": 48884,
           "periodGain": 4896
         },
         "microsoft/markitdown": {
-          "stars": 182487,
+          "stars": 182538,
           "periodGain": 4579
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 35515,
+          "stars": 35644,
           "periodGain": 14604
         },
         "NousResearch/hermes-agent": {
-          "stars": 244297,
+          "stars": 244361,
           "periodGain": 3769
         },
         "anomalyco/opencode": {
-          "stars": 206547,
+          "stars": 206597,
           "periodGain": 3139
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 31047,
+          "stars": 31164,
           "periodGain": 21157
         },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 122355,
+          "periodGain": 20448
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 22384,
+          "periodGain": 12418
+        },
+        "semantica-agi/semantica": {
+          "stars": 12645,
+          "periodGain": 8849
+        },
         "volcengine/OpenViking": {
-          "stars": 36567,
+          "stars": 36602,
           "periodGain": 8469
         },
+        "cactus-compute/needle": {
+          "stars": 10793,
+          "periodGain": 7395
+        },
+        "akitaonrails/ai-memory": {
+          "stars": 6498,
+          "periodGain": 5026
+        },
         "cursor/plugins": {
-          "stars": 7401,
+          "stars": 7418,
           "periodGain": 4798
         }
       }
