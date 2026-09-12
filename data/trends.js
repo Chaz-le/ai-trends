@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-12T04:25:12.2828018+00:00",
+  "generatedAt": "2026-09-12T05:43:40.0092741+00:00",
   "weekly": [
     {
       "owner": "ayghri",
@@ -9,31 +9,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 13164,
-      "totalStars": 42169,
-      "forks": 2385,
-      "license": "MIT",
-      "pushedAt": "09/10/2026 15:48:41",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -56,35 +47,56 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "homepage": "https://ponytail.dev",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 11054,
-      "totalStars": 135930,
-      "forks": 7285,
-      "license": "MIT",
-      "pushedAt": "09/07/2026 16:27:01",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "featurePoints": [
+          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 11006,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -101,68 +113,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
-      "language": "JavaScript",
-      "starsGained": 11006,
-      "totalStars": 58722,
-      "forks": 3831,
-      "license": "MIT",
-      "pushedAt": "09/12/2026 02:23:34",
-      "tags": [
-        "agent",
-        "llm",
-        "multimodal",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Archify",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：The server sees normal HTTP metadata (IP and time), but receives no version, Agent, project data, prompts, account/device ID, or ETag."
-        ]
-      }
-    },
-    {
       "owner": "mattpocock",
       "repo": "skills",
       "fullName": "mattpocock/skills",
@@ -170,13 +120,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "topics": [],
-      "homepage": "https://aihero.dev/skills",
+      "homepage": "",
       "language": "Shell",
       "starsGained": 10571,
-      "totalStars": 259896,
-      "forks": 21916,
-      "license": "MIT",
-      "pushedAt": "09/04/2026 08:45:43",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -184,8 +134,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -207,23 +157,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "homepage": "https://ecc.tools",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 8714,
-      "totalStars": 256605,
-      "forks": 38397,
-      "license": "MIT",
-      "pushedAt": "09/12/2026 03:45:33",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -232,8 +173,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "ECC",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -244,8 +185,7 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Define interfaces first"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -256,44 +196,32 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "homepage": "https://cathrynlavery.github.io/diagram-design/",
+      "topics": [],
+      "homepage": "",
       "language": "HTML",
       "starsGained": 7776,
-      "totalStars": 38545,
-      "forks": 2444,
-      "license": "MIT",
-      "pushedAt": "09/10/2026 22:33:54",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Diagram Design",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "projectIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -304,34 +232,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "Write HTML. Render video. Built for agents.",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 5100,
-      "totalStars": 49051,
-      "forks": 4483,
-      "license": "Apache-2.0",
-      "pushedAt": "09/12/2026 03:11:44",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -342,8 +258,7 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Agents and non-interactive runs should use npx hyperframes skills update instead — it installs exactly the core set, whereas skills add --all installs all 20 published skills."
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -354,33 +269,23 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/blader/humanizer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
       "description": "Agent skill that removes signs of AI-generated writing from text",
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "claude-code",
-        "codex",
-        "cursor",
-        "prompt-engineering",
-        "writing-tools"
-      ],
-      "homepage": "https://skills.sh/blader/humanizer",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 4649,
-      "totalStars": 46994,
-      "forks": 3835,
-      "license": "MIT",
-      "pushedAt": "09/06/2026 20:26:10",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "generation",
-        "learning"
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Humanizer",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -477,18 +382,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "topics": [
-        "claude",
-        "codex",
-        "marketing"
-      ],
-      "homepage": "https://marketing-skills.com",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 2765,
-      "totalStars": 49657,
-      "forks": 7548,
-      "license": "MIT",
-      "pushedAt": "09/05/2026 04:48:10",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -497,8 +398,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Marketing Skills for AI Agents",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
@@ -507,8 +408,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Once installed, just ask your agent to help with marketing tasks:"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -518,58 +418,35 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "topics": [
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugins",
-        "claude-code-skill",
-        "codex",
-        "codex-cli",
-        "context-mode",
-        "copilot",
-        "cursor-plugin",
-        "kiro",
-        "mcp",
-        "mcp-server",
-        "mcp-tools",
-        "openclaw",
-        "opencode",
-        "pi-agent",
-        "skills",
-        "zed-extension"
-      ],
-      "homepage": "https://context-mode.com",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 1810,
-      "totalStars": 22231,
-      "forks": 1604,
-      "license": "NOASSERTION",
-      "pushedAt": "09/11/2026 18:05:01",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Context Mode",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
@@ -582,95 +459,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 47287,
-      "totalStars": 58722,
-      "forks": 3831,
-      "license": "MIT",
-      "pushedAt": "09/12/2026 02:23:34",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "multimodal",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Archify",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：The server sees normal HTTP metadata (IP and time), but receives no version, Agent, project data, prompts, account/device ID, or ETag."
-        ]
-      }
-    },
-    {
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "data-visualization",
-        "diagrams",
-        "drawio",
-        "mermaid",
-        "svg"
-      ],
-      "homepage": "https://cathrynlavery.github.io/diagram-design/",
-      "language": "HTML",
-      "starsGained": 32734,
-      "totalStars": 38545,
-      "forks": 2444,
-      "license": "MIT",
-      "pushedAt": "09/10/2026 22:33:54",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Diagram Design",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -682,6 +486,42 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "topics": [],
+      "homepage": "",
+      "language": "HTML",
+      "starsGained": 32734,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "projectIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "featurePoints": [
+          "核心线索：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -731,31 +571,22 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 20983,
-      "totalStars": 42169,
-      "forks": 2385,
-      "license": "MIT",
-      "pushedAt": "09/10/2026 15:48:41",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
