@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:37:44.180Z",
+  "generatedAt": "2026-09-14T04:45:34.979Z",
   "snapshots": [
     {
       "date": "2026-07-16",
@@ -4601,26 +4601,54 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T04:37:32.6060660+00:00",
+      "generatedAt": "2026-09-14T04:45:22.9602401+00:00",
       "repos": {
         "ayghri/i-have-adhd": {
-          "stars": 44552,
+          "stars": 44556,
           "periodGain": 24025
         },
         "tt-a1i/archify": {
-          "stars": 61090,
+          "stars": 61094,
           "periodGain": 48808
         },
         "DietrichGebert/ponytail": {
-          "stars": 137521,
+          "stars": 137524,
           "periodGain": 8444
         },
         "affaan-m/ECC": {
-          "stars": 257848,
+          "stars": 257851,
           "periodGain": 7264
         },
+        "cathrynlavery/diagram-design": {
+          "stars": 39339,
+          "periodGain": 26213
+        },
+        "microsoft/markitdown": {
+          "stars": 183684,
+          "periodGain": 5191
+        },
+        "heygen-com/hyperframes": {
+          "stars": 49693,
+          "periodGain": 5146
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 36550,
+          "periodGain": 15888
+        },
+        "obra/superpowers": {
+          "stars": 286283,
+          "periodGain": 4068
+        },
+        "blader/humanizer": {
+          "stars": 47748,
+          "periodGain": 3673
+        },
+        "coreyhaines31/marketingskills": {
+          "stars": 50040,
+          "periodGain": 2678
+        },
         "mksglu/context-mode": {
-          "stars": 22680,
+          "stars": 22681,
           "periodGain": 2102
         }
       }
