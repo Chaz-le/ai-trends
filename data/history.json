@@ -1,84 +1,6 @@
 {
-  "generatedAt": "2026-09-12T08:36:54.899Z",
+  "generatedAt": "2026-09-14T04:37:44.180Z",
   "snapshots": [
-    {
-      "date": "2026-07-15",
-      "generatedAt": "2026-07-15T06:25:51.9051720+00:00",
-      "repos": {
-        "iOfficeAI/OfficeCLI": {
-          "stars": 17033,
-          "periodGain": 7129
-        },
-        "stablyai/orca": {
-          "stars": 19381,
-          "periodGain": 14163
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 24739,
-          "periodGain": 11875
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 17432,
-          "periodGain": 11137
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 121175,
-          "periodGain": 3827
-        },
-        "bradautomates/claude-video": {
-          "stars": 8540,
-          "periodGain": 3554
-        },
-        "ogulcancelik/herdr": {
-          "stars": 16570,
-          "periodGain": 10805
-        },
-        "pbakaus/impeccable": {
-          "stars": 46799,
-          "periodGain": 2494
-        },
-        "vxcontrol/pentagi": {
-          "stars": 20638,
-          "periodGain": 2347
-        },
-        "Nutlope/hallmark": {
-          "stars": 6380,
-          "periodGain": 2274
-        },
-        "facebook/astryx": {
-          "stars": 9019,
-          "periodGain": 2189
-        },
-        "openai/codex-plugin-cc": {
-          "stars": 28679,
-          "periodGain": 2063
-        },
-        "calesthio/OpenMontage": {
-          "stars": 38644,
-          "periodGain": 33860
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 56431,
-          "periodGain": 28179
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 31595,
-          "periodGain": 28030
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 57857,
-          "periodGain": 15784
-        },
-        "usestrix/strix": {
-          "stars": 41613,
-          "periodGain": 15625
-        },
-        "alibaba/page-agent": {
-          "stars": 26667,
-          "periodGain": 8181
-        }
-      }
-    },
     {
       "date": "2026-07-16",
       "generatedAt": "2026-07-16T06:29:37.9623096+00:00",
@@ -4674,6 +4596,32 @@
         "mksglu/context-mode": {
           "stars": 22254,
           "periodGain": 1810
+        }
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "generatedAt": "2026-09-14T04:37:32.6060660+00:00",
+      "repos": {
+        "ayghri/i-have-adhd": {
+          "stars": 44552,
+          "periodGain": 24025
+        },
+        "tt-a1i/archify": {
+          "stars": 61090,
+          "periodGain": 48808
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 137521,
+          "periodGain": 8444
+        },
+        "affaan-m/ECC": {
+          "stars": 257848,
+          "periodGain": 7264
+        },
+        "mksglu/context-mode": {
+          "stars": 22680,
+          "periodGain": 2102
         }
       }
     }
