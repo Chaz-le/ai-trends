@@ -1,88 +1,6 @@
 {
-  "generatedAt": "2026-09-14T09:48:43.316Z",
+  "generatedAt": "2026-09-15T04:45:25.414Z",
   "snapshots": [
-    {
-      "date": "2026-07-16",
-      "generatedAt": "2026-07-16T06:29:37.9623096+00:00",
-      "repos": {
-        "iOfficeAI/OfficeCLI": {
-          "stars": 17965,
-          "periodGain": 6374
-        },
-        "stablyai/orca": {
-          "stars": 20144,
-          "periodGain": 14890
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 122150,
-          "periodGain": 4902
-        },
-        "HKUDS/Vibe-Trading": {
-          "stars": 23901,
-          "periodGain": 4802
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 17842,
-          "periodGain": 11484
-        },
-        "Nutlope/hallmark": {
-          "stars": 9291,
-          "periodGain": 3551
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 25046,
-          "periodGain": 12267
-        },
-        "ogulcancelik/herdr": {
-          "stars": 16947,
-          "periodGain": 11079
-        },
-        "pbakaus/impeccable": {
-          "stars": 47124,
-          "periodGain": 2428
-        },
-        "anthropics/claude-cookbooks": {
-          "stars": 48991,
-          "periodGain": 2252
-        },
-        "wonderwhy-er/DesktopCommanderMCP": {
-          "stars": 8368,
-          "periodGain": 2199
-        },
-        "openai/codex-plugin-cc": {
-          "stars": 28864,
-          "periodGain": 1998
-        },
-        "calesthio/OpenMontage": {
-          "stars": 39053,
-          "periodGain": 34298
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 31962,
-          "periodGain": 28343
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 56931,
-          "periodGain": 27531
-        },
-        "usestrix/strix": {
-          "stars": 41934,
-          "periodGain": 15974
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 58184,
-          "periodGain": 15928
-        },
-        "alibaba/page-agent": {
-          "stars": 26803,
-          "periodGain": 8322
-        },
-        "interviewstreet/hiring-agent": {
-          "stars": 5960,
-          "periodGain": 4793
-        }
-      }
-    },
     {
       "date": "2026-07-17",
       "generatedAt": "2026-07-17T06:26:00.5552522+00:00",
@@ -4654,6 +4572,64 @@
         "anthropics/claude-plugins-community": {
           "stars": 3977,
           "periodGain": 3635
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "generatedAt": "2026-09-15T04:45:01.0027042+00:00",
+      "repos": {
+        "ayghri/i-have-adhd": {
+          "stars": 45591,
+          "periodGain": 24963
+        },
+        "tt-a1i/archify": {
+          "stars": 62527,
+          "periodGain": 49900
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 138619,
+          "periodGain": 7722
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 39907,
+          "periodGain": 23268
+        },
+        "affaan-m/ECC": {
+          "stars": 258489,
+          "periodGain": 6085
+        },
+        "heygen-com/hyperframes": {
+          "stars": 50102,
+          "periodGain": 5052
+        },
+        "microsoft/markitdown": {
+          "stars": 184075,
+          "periodGain": 4604
+        },
+        "obra/superpowers": {
+          "stars": 286780,
+          "periodGain": 4124
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 36898,
+          "periodGain": 16207
+        },
+        "blader/humanizer": {
+          "stars": 48222,
+          "periodGain": 3201
+        },
+        "github/spec-kit": {
+          "stars": 136835,
+          "periodGain": 2952
+        },
+        "alibaba/open-code-review": {
+          "stars": 26209,
+          "periodGain": 2709
+        },
+        "anthropics/claude-plugins-community": {
+          "stars": 4043,
+          "periodGain": 3715
         }
       }
     }
