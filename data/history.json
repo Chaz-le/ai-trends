@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T05:58:27.421Z",
+  "generatedAt": "2026-09-16T09:16:12.191Z",
   "snapshots": [
     {
       "date": "2026-07-18",
@@ -4565,78 +4565,78 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T05:58:10.0439552+00:00",
+      "generatedAt": "2026-09-16T09:15:57.6231502+00:00",
       "repos": {
         "ayghri/i-have-adhd": {
-          "stars": 46411,
+          "stars": 46536,
           "periodGain": 25489
         },
         "tt-a1i/archify": {
-          "stars": 63910,
+          "stars": 64166,
           "periodGain": 50700
         },
         "DietrichGebert/ponytail": {
-          "stars": 139598,
+          "stars": 139786,
           "periodGain": 7499
         },
         "JustVugg/colibri": {
-          "stars": 34144,
+          "stars": 34409,
           "periodGain": 6095
         },
         "affaan-m/ECC": {
-          "stars": 259487,
+          "stars": 259609,
           "periodGain": 5398
         },
         "alibaba/open-code-review": {
-          "stars": 29268,
+          "stars": 29886,
           "periodGain": 5169
         },
         "obra/superpowers": {
-          "stars": 287279,
+          "stars": 287360,
           "periodGain": 4170
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 37183,
+          "stars": 37245,
           "periodGain": 16497
         },
         "TauricResearch/TradingAgents": {
-          "stars": 106791,
+          "stars": 106852,
           "periodGain": 3364
         },
         "blader/humanizer": {
-          "stars": 48746,
+          "stars": 48874,
           "periodGain": 3248
         },
         "microsoft/markitdown": {
-          "stars": 184525,
+          "stars": 184600,
           "periodGain": 3046
         },
         "github/spec-kit": {
-          "stars": 137117,
+          "stars": 137174,
           "periodGain": 3018
         },
         "cathrynlavery/diagram-design": {
-          "stars": 40293,
+          "stars": 40353,
           "periodGain": 22368
         },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 32158,
+          "stars": 32197,
           "periodGain": 22273
         },
         "debpalash/VoiceStudio": {
-          "stars": 31290,
+          "stars": 31560,
           "periodGain": 20417
         },
         "volcengine/OpenViking": {
-          "stars": 37607,
+          "stars": 37650,
           "periodGain": 9114
         },
         "cursor/plugins": {
-          "stars": 7949,
+          "stars": 7964,
           "periodGain": 4996
         },
         "anthropics/claude-plugins-community": {
-          "stars": 4107,
+          "stars": 4113,
           "periodGain": 3784
         }
       }
