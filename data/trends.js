@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-16T04:41:19.0178645+00:00",
+  "generatedAt": "2026-09-16T05:58:10.0439552+00:00",
   "weekly": [
     {
       "owner": "ayghri",
@@ -20,8 +20,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 17880,
-      "totalStars": 46372,
-      "forks": 2695,
+      "totalStars": 46411,
+      "forks": 2696,
       "license": "MIT",
       "pushedAt": "09/15/2026 20:56:47",
       "tags": [
@@ -81,10 +81,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 9077,
-      "totalStars": 63834,
-      "forks": 4233,
+      "totalStars": 63910,
+      "forks": 4239,
       "license": "MIT",
-      "pushedAt": "09/15/2026 08:27:46",
+      "pushedAt": "09/16/2026 05:44:57",
       "tags": [
         "agent",
         "llm",
@@ -133,8 +133,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 7499,
-      "totalStars": 139545,
-      "forks": 7496,
+      "totalStars": 139598,
+      "forks": 7502,
       "license": "MIT",
       "pushedAt": "09/14/2026 14:34:56",
       "tags": [
@@ -173,8 +173,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 6095,
-      "totalStars": 34068,
-      "forks": 3564,
+      "totalStars": 34144,
+      "forks": 3573,
       "license": "Apache-2.0",
       "pushedAt": "09/15/2026 21:33:15",
       "tags": [
@@ -217,8 +217,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 5398,
-      "totalStars": 259453,
-      "forks": 38812,
+      "totalStars": 259487,
+      "forks": 38817,
       "license": "MIT",
       "pushedAt": "09/15/2026 19:33:00",
       "tags": [
@@ -264,8 +264,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 5169,
-      "totalStars": 29112,
-      "forks": 2072,
+      "totalStars": 29268,
+      "forks": 2079,
       "license": "Apache-2.0",
       "pushedAt": "09/16/2026 03:27:16",
       "tags": [
@@ -314,8 +314,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 4170,
-      "totalStars": 287245,
-      "forks": 25682,
+      "totalStars": 287279,
+      "forks": 25689,
       "license": "MIT",
       "pushedAt": "09/14/2026 18:42:08",
       "tags": [
@@ -353,10 +353,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3698,
-      "totalStars": 37166,
-      "forks": 5863,
+      "totalStars": 37183,
+      "forks": 5865,
       "license": "MIT",
-      "pushedAt": "09/16/2026 04:30:49",
+      "pushedAt": "09/16/2026 05:28:10",
       "tags": [
         "agent",
         "learning"
@@ -398,8 +398,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://arxiv.org/pdf/2412.20138",
       "language": "Python",
       "starsGained": 3364,
-      "totalStars": 106773,
-      "forks": 20398,
+      "totalStars": 106791,
+      "forks": 20399,
       "license": "Apache-2.0",
       "pushedAt": "09/15/2026 01:33:49",
       "tags": [
@@ -445,8 +445,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 3248,
-      "totalStars": 48710,
-      "forks": 3956,
+      "totalStars": 48746,
+      "forks": 3958,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
       "tags": [
@@ -493,8 +493,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3046,
-      "totalStars": 184495,
-      "forks": 13595,
+      "totalStars": 184525,
+      "forks": 13597,
       "license": "MIT",
       "pushedAt": "09/16/2026 00:16:34",
       "tags": [
@@ -539,8 +539,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://github.github.com/spec-kit/",
       "language": "Python",
       "starsGained": 3018,
-      "totalStars": 137101,
-      "forks": 12278,
+      "totalStars": 137117,
+      "forks": 12280,
       "license": "MIT",
       "pushedAt": "09/15/2026 22:48:36",
       "tags": [
@@ -598,10 +598,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 50700,
-      "totalStars": 63834,
-      "forks": 4233,
+      "totalStars": 63910,
+      "forks": 4239,
       "license": "MIT",
-      "pushedAt": "09/15/2026 08:27:46",
+      "pushedAt": "09/16/2026 05:44:57",
       "tags": [
         "agent",
         "llm",
@@ -646,8 +646,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 25489,
-      "totalStars": 46372,
-      "forks": 2695,
+      "totalStars": 46411,
+      "forks": 2696,
       "license": "MIT",
       "pushedAt": "09/15/2026 20:56:47",
       "tags": [
@@ -682,32 +682,44 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "homepage": "https://cathrynlavery.github.io/diagram-design/",
       "language": "HTML",
       "starsGained": 22368,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 40293,
+      "forks": 2565,
+      "license": "MIT",
+      "pushedAt": "09/15/2026 20:39:25",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "projectIntro": "该项目的 GitHub 简介是：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "source": "readme",
+        "readmeTitle": "Diagram Design",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "核心线索：38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -733,7 +745,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 22273,
-      "totalStars": 32146,
+      "totalStars": 32158,
       "forks": 3095,
       "license": "MIT",
       "pushedAt": "09/11/2026 13:41:32",
@@ -746,7 +758,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "prompt-archive",
         "zhTitle": "AI 产品系统提示词资料库",
@@ -758,7 +770,8 @@ window.GITHUB_AI_TRENDS = {
           "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。"
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
         ]
       }
     },
@@ -769,22 +782,45 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 20417,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 31290,
+      "forks": 3722,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/15/2026 14:32:21",
       "tags": [
+        "agent",
+        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Quick test via cURL",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -810,10 +846,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 16497,
-      "totalStars": 37166,
-      "forks": 5863,
+      "totalStars": 37183,
+      "forks": 5865,
       "license": "MIT",
-      "pushedAt": "09/16/2026 04:30:49",
+      "pushedAt": "09/16/2026 05:28:10",
       "tags": [
         "agent",
         "learning"
@@ -845,14 +881,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/volcengine/OpenViking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "self-evolving"
+      ],
+      "homepage": "https://openviking.ai/",
       "language": "Python",
       "starsGained": 9114,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 37607,
+      "forks": 2900,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/16/2026 04:44:35",
       "tags": [
         "agent",
         "rag",
@@ -861,8 +904,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Replace TASKID with the returned taskid; repeat until status is completed",
         "category": "agent-memory",
         "zhTitle": "AI Agent 长期记忆工具",
         "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
@@ -873,7 +916,8 @@ window.GITHUB_AI_TRENDS = {
           "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：Supported options include Volcengine, OpenAI, Codex OAuth, Kimi, GLM, and local Ollama."
         ]
       }
     },
@@ -962,7 +1006,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4996,
-      "totalStars": 7935,
+      "totalStars": 7949,
       "forks": 707,
       "license": "",
       "pushedAt": "09/15/2026 13:58:56",
@@ -1032,8 +1076,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3784,
-      "totalStars": 4102,
-      "forks": 301,
+      "totalStars": 4107,
+      "forks": 302,
       "license": "Apache-2.0",
       "pushedAt": "08/25/2026 20:01:46",
       "tags": [
