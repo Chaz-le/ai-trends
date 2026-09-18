@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:52:46.663Z",
+  "generatedAt": "2026-09-18T08:59:09.040Z",
   "snapshots": [
     {
       "date": "2026-07-20",
@@ -4525,54 +4525,34 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T05:52:33.7747125+00:00",
+      "generatedAt": "2026-09-18T08:58:54.7948378+00:00",
       "repos": {
         "alibaba/open-code-review": {
-          "stars": 35427,
+          "stars": 35886,
           "periodGain": 11489
         },
         "ayghri/i-have-adhd": {
-          "stars": 47595,
+          "stars": 47691,
           "periodGain": 26237
         },
         "affaan-m/ECC": {
-          "stars": 261335,
+          "stars": 261439,
           "periodGain": 5607
         },
-        "stablyai/orca": {
-          "stars": 71296,
-          "periodGain": 5305
-        },
         "Tencent/WeKnora": {
-          "stars": 26525,
+          "stars": 26676,
           "periodGain": 3982
         },
         "obra/superpowers": {
-          "stars": 288217,
+          "stars": 288282,
           "periodGain": 3821
         },
-        "Panniantong/Agent-Reach": {
-          "stars": 82883,
-          "periodGain": 3670
-        },
-        "blader/humanizer": {
-          "stars": 49665,
-          "periodGain": 3235
-        },
-        "microsoft/markitdown": {
-          "stars": 185200,
-          "periodGain": 2814
-        },
         "addyosmani/agent-skills": {
-          "stars": 95985,
+          "stars": 96084,
           "periodGain": 2560
         },
-        "petergyang/no-ai-slop": {
-          "stars": 10418,
-          "periodGain": 2256
-        },
         "mksglu/context-mode": {
-          "stars": 23424,
+          "stars": 23449,
           "periodGain": 1482
         }
       }
