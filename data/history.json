@@ -1,96 +1,6 @@
 {
-  "generatedAt": "2026-09-17T09:25:01.143Z",
+  "generatedAt": "2026-09-18T04:32:23.978Z",
   "snapshots": [
-    {
-      "date": "2026-07-19",
-      "generatedAt": "2026-07-19T06:41:40.8046656+00:00",
-      "repos": {
-        "mattpocock/skills": {
-          "stars": 176793,
-          "periodGain": 11131
-        },
-        "Nutlope/hallmark": {
-          "stars": 12953,
-          "periodGain": 8834
-        },
-        "Graphify-Labs/graphify": {
-          "stars": 91117,
-          "periodGain": 8611
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 124142,
-          "periodGain": 6146
-        },
-        "HKUDS/Vibe-Trading": {
-          "stars": 25052,
-          "periodGain": 5635
-        },
-        "stablyai/orca": {
-          "stars": 21948,
-          "periodGain": 16476
-        },
-        "iOfficeAI/OfficeCLI": {
-          "stars": 19380,
-          "periodGain": 11955
-        },
-        "openinterpreter/openinterpreter": {
-          "stars": 66710,
-          "periodGain": 2344
-        },
-        "openai/codex": {
-          "stars": 99480,
-          "periodGain": 2268
-        },
-        "HKUDS/DeepTutor": {
-          "stars": 27723,
-          "periodGain": 2154
-        },
-        "kangarooking/cangjie-skill": {
-          "stars": 3699,
-          "periodGain": 1224
-        },
-        "ibelick/ui-skills": {
-          "stars": 5173,
-          "periodGain": 1098
-        },
-        "calesthio/OpenMontage": {
-          "stars": 39906,
-          "periodGain": 34238
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 32771,
-          "periodGain": 26274
-        },
-        "Panniantong/Agent-Reach": {
-          "stars": 57837,
-          "periodGain": 24089
-        },
-        "MadsLorentzen/ai-job-search": {
-          "stars": 23817,
-          "periodGain": 20359
-        },
-        "usestrix/strix": {
-          "stars": 42491,
-          "periodGain": 16680
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 58907,
-          "periodGain": 15830
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 25486,
-          "periodGain": 12829
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 19159,
-          "periodGain": 12279
-        },
-        "ogulcancelik/herdr": {
-          "stars": 18078,
-          "periodGain": 11853
-        }
-      }
-    },
     {
       "date": "2026-07-20",
       "generatedAt": "2026-07-20T07:25:49.6050247+00:00",
@@ -4610,6 +4520,68 @@
         "tt-a1i/archify": {
           "stars": 65372,
           "periodGain": 51755
+        }
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "generatedAt": "2026-09-18T04:32:10.7701688+00:00",
+      "repos": {
+        "alibaba/open-code-review": {
+          "stars": 35291,
+          "periodGain": 11489
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 47572,
+          "periodGain": 26237
+        },
+        "affaan-m/ECC": {
+          "stars": 261297,
+          "periodGain": 5607
+        },
+        "stablyai/orca": {
+          "stars": 71269,
+          "periodGain": 5305
+        },
+        "Tencent/WeKnora": {
+          "stars": 26480,
+          "periodGain": 3982
+        },
+        "obra/superpowers": {
+          "stars": 288196,
+          "periodGain": 3821
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 82868,
+          "periodGain": 3670
+        },
+        "blader/humanizer": {
+          "stars": 49657,
+          "periodGain": 3235
+        },
+        "microsoft/markitdown": {
+          "stars": 185188,
+          "periodGain": 2814
+        },
+        "addyosmani/agent-skills": {
+          "stars": 95962,
+          "periodGain": 2560
+        },
+        "petergyang/no-ai-slop": {
+          "stars": 10407,
+          "periodGain": 2256
+        },
+        "mksglu/context-mode": {
+          "stars": 23422,
+          "periodGain": 1482
+        },
+        "tt-a1i/archify": {
+          "stars": 66057,
+          "periodGain": 52260
+        },
+        "cursor/plugins": {
+          "stars": 8051,
+          "periodGain": 5130
         }
       }
     }
