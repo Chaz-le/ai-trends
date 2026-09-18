@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:32:23.978Z",
+  "generatedAt": "2026-09-18T05:52:46.663Z",
   "snapshots": [
     {
       "date": "2026-07-20",
@@ -4525,63 +4525,55 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T04:32:10.7701688+00:00",
+      "generatedAt": "2026-09-18T05:52:33.7747125+00:00",
       "repos": {
         "alibaba/open-code-review": {
-          "stars": 35291,
+          "stars": 35427,
           "periodGain": 11489
         },
         "ayghri/i-have-adhd": {
-          "stars": 47572,
+          "stars": 47595,
           "periodGain": 26237
         },
         "affaan-m/ECC": {
-          "stars": 261297,
+          "stars": 261335,
           "periodGain": 5607
         },
         "stablyai/orca": {
-          "stars": 71269,
+          "stars": 71296,
           "periodGain": 5305
         },
         "Tencent/WeKnora": {
-          "stars": 26480,
+          "stars": 26525,
           "periodGain": 3982
         },
         "obra/superpowers": {
-          "stars": 288196,
+          "stars": 288217,
           "periodGain": 3821
         },
         "Panniantong/Agent-Reach": {
-          "stars": 82868,
+          "stars": 82883,
           "periodGain": 3670
         },
         "blader/humanizer": {
-          "stars": 49657,
+          "stars": 49665,
           "periodGain": 3235
         },
         "microsoft/markitdown": {
-          "stars": 185188,
+          "stars": 185200,
           "periodGain": 2814
         },
         "addyosmani/agent-skills": {
-          "stars": 95962,
+          "stars": 95985,
           "periodGain": 2560
         },
         "petergyang/no-ai-slop": {
-          "stars": 10407,
+          "stars": 10418,
           "periodGain": 2256
         },
         "mksglu/context-mode": {
-          "stars": 23422,
+          "stars": 23424,
           "periodGain": 1482
-        },
-        "tt-a1i/archify": {
-          "stars": 66057,
-          "periodGain": 52260
-        },
-        "cursor/plugins": {
-          "stars": 8051,
-          "periodGain": 5130
         }
       }
     }
