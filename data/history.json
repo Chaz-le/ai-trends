@@ -1,80 +1,6 @@
 {
-  "generatedAt": "2026-09-18T08:59:09.040Z",
+  "generatedAt": "2026-09-19T04:29:31.481Z",
   "snapshots": [
-    {
-      "date": "2026-07-20",
-      "generatedAt": "2026-07-20T07:25:49.6050247+00:00",
-      "repos": {
-        "mattpocock/skills": {
-          "stars": 177997,
-          "periodGain": 10983
-        },
-        "Nutlope/hallmark": {
-          "stars": 13612,
-          "periodGain": 9975
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 124712,
-          "periodGain": 6211
-        },
-        "HKUDS/Vibe-Trading": {
-          "stars": 25418,
-          "periodGain": 5228
-        },
-        "iOfficeAI/OfficeCLI": {
-          "stars": 19828,
-          "periodGain": 12295
-        },
-        "earendil-works/pi": {
-          "stars": 72967,
-          "periodGain": 2854
-        },
-        "openinterpreter/openinterpreter": {
-          "stars": 66877,
-          "periodGain": 2498
-        },
-        "HKUDS/DeepTutor": {
-          "stars": 28103,
-          "periodGain": 2375
-        },
-        "openai/codex": {
-          "stars": 99820,
-          "periodGain": 2361
-        },
-        "tt-a1i/archify": {
-          "stars": 6007,
-          "periodGain": 2103
-        },
-        "ibelick/ui-skills": {
-          "stars": 5516,
-          "periodGain": 1669
-        },
-        "kangarooking/cangjie-skill": {
-          "stars": 3924,
-          "periodGain": 1284
-        },
-        "calesthio/OpenMontage": {
-          "stars": 40264,
-          "periodGain": 34396
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 33041,
-          "periodGain": 25557
-        },
-        "stablyai/orca": {
-          "stars": 22738,
-          "periodGain": 16894
-        },
-        "usestrix/strix": {
-          "stars": 42740,
-          "periodGain": 16862
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 59126,
-          "periodGain": 15887
-        }
-      }
-    },
     {
       "date": "2026-07-21",
       "generatedAt": "2026-07-21T06:39:31.4952302+00:00",
@@ -4554,6 +4480,80 @@
         "mksglu/context-mode": {
           "stars": 23449,
           "periodGain": 1482
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "generatedAt": "2026-09-19T04:29:04.8988407+00:00",
+      "repos": {
+        "alibaba/open-code-review": {
+          "stars": 36825,
+          "periodGain": 15865
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 48168,
+          "periodGain": 26310
+        },
+        "affaan-m/ECC": {
+          "stars": 262171,
+          "periodGain": 5877
+        },
+        "stablyai/orca": {
+          "stars": 72073,
+          "periodGain": 5272
+        },
+        "Tencent/WeKnora": {
+          "stars": 27066,
+          "periodGain": 7035
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 83173,
+          "periodGain": 3766
+        },
+        "obra/superpowers": {
+          "stars": 288581,
+          "periodGain": 3573
+        },
+        "blader/humanizer": {
+          "stars": 49990,
+          "periodGain": 3118
+        },
+        "addyosmani/agent-skills": {
+          "stars": 96484,
+          "periodGain": 3051
+        },
+        "microsoft/markitdown": {
+          "stars": 185449,
+          "periodGain": 2841
+        },
+        "heygen-com/hyperframes": {
+          "stars": 51434,
+          "periodGain": 2401
+        },
+        "petergyang/no-ai-slop": {
+          "stars": 10587,
+          "periodGain": 2189
+        },
+        "tt-a1i/archify": {
+          "stars": 66926,
+          "periodGain": 52955
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 32938,
+          "periodGain": 22910
+        },
+        "freestylefly/awesome-gpt-image-2": {
+          "stars": 32707,
+          "periodGain": 21890
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 41202,
+          "periodGain": 19891
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 37852,
+          "periodGain": 17177
         }
       }
     }
