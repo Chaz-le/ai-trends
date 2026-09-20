@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T04:46:05.082Z",
+  "generatedAt": "2026-09-20T06:10:42.542Z",
   "snapshots": [
     {
       "date": "2026-07-22",
@@ -4461,75 +4461,67 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T04:45:37.9822176+00:00",
+      "generatedAt": "2026-09-20T06:10:14.2385055+00:00",
       "repos": {
         "alibaba/open-code-review": {
-          "stars": 37770,
+          "stars": 37834,
           "periodGain": 16711
         },
         "affaan-m/ECC": {
-          "stars": 263046,
+          "stars": 263080,
           "periodGain": 6265
         },
         "ayghri/i-have-adhd": {
-          "stars": 48794,
+          "stars": 48836,
           "periodGain": 26527
         },
         "stablyai/orca": {
-          "stars": 72810,
+          "stars": 72866,
           "periodGain": 5404
         },
         "Tencent/WeKnora": {
-          "stars": 27578,
+          "stars": 27617,
           "periodGain": 7397
         },
         "Panniantong/Agent-Reach": {
-          "stars": 83525,
+          "stars": 83549,
           "periodGain": 3914
         },
         "addyosmani/agent-skills": {
-          "stars": 97155,
+          "stars": 97195,
           "periodGain": 3445
         },
         "blader/humanizer": {
-          "stars": 50313,
+          "stars": 50345,
           "periodGain": 3024
         },
         "microsoft/markitdown": {
-          "stars": 185719,
+          "stars": 185738,
           "periodGain": 2767
         },
         "heygen-com/hyperframes": {
-          "stars": 51695,
+          "stars": 51707,
           "periodGain": 2498
         },
         "anthropics/claude-code": {
-          "stars": 146779,
+          "stars": 146803,
           "periodGain": 1999
         },
         "danny-avila/LibreChat": {
-          "stars": 44418,
+          "stars": 44425,
           "periodGain": 1573
         },
         "tt-a1i/archify": {
-          "stars": 67632,
+          "stars": 67674,
           "periodGain": 53311
         },
-        "debpalash/VoiceStudio": {
-          "stars": 33254,
-          "periodGain": 23139
-        },
         "freestylefly/awesome-gpt-image-2": {
-          "stars": 32852,
+          "stars": 32862,
           "periodGain": 21920
         },
         "THU-MAIC/OpenMAIC": {
-          "stars": 38036,
+          "stars": 38048,
           "periodGain": 17316
-        },
-        "cloudflare/security-audit-skill": {
-          "stars": 16684,
-          "periodGain": 12420
         }
       }
     }

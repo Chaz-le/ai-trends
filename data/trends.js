@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-20T04:45:37.9822176+00:00",
+  "generatedAt": "2026-09-20T06:10:14.2385055+00:00",
   "weekly": [
     {
       "owner": "alibaba",
@@ -20,8 +20,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 15028,
-      "totalStars": 37770,
-      "forks": 2693,
+      "totalStars": 37834,
+      "forks": 2695,
       "license": "Apache-2.0",
       "pushedAt": "09/19/2026 12:30:32",
       "tags": [
@@ -70,8 +70,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6265,
-      "totalStars": 263046,
-      "forks": 39360,
+      "totalStars": 263080,
+      "forks": 39364,
       "license": "MIT",
       "pushedAt": "09/20/2026 00:01:14",
       "tags": [
@@ -117,8 +117,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5589,
-      "totalStars": 48794,
-      "forks": 2838,
+      "totalStars": 48836,
+      "forks": 2839,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -176,10 +176,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5404,
-      "totalStars": 72810,
-      "forks": 4763,
+      "totalStars": 72866,
+      "forks": 4766,
       "license": "MIT",
-      "pushedAt": "09/20/2026 04:39:20",
+      "pushedAt": "09/20/2026 06:07:04",
       "tags": [
         "agent",
         "llm",
@@ -236,10 +236,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 4867,
-      "totalStars": 27578,
-      "forks": 3712,
+      "totalStars": 27617,
+      "forks": 3715,
       "license": "NOASSERTION",
-      "pushedAt": "09/20/2026 04:28:24",
+      "pushedAt": "09/20/2026 05:29:04",
       "tags": [
         "agent",
         "llm",
@@ -294,8 +294,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3914,
-      "totalStars": 83525,
-      "forks": 7317,
+      "totalStars": 83549,
+      "forks": 7322,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -339,8 +339,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3445,
-      "totalStars": 97155,
-      "forks": 10254,
+      "totalStars": 97195,
+      "forks": 10258,
       "license": "MIT",
       "pushedAt": "09/18/2026 03:32:22",
       "tags": [
@@ -388,8 +388,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 3024,
-      "totalStars": 50313,
-      "forks": 4058,
+      "totalStars": 50345,
+      "forks": 4059,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
       "tags": [
@@ -436,8 +436,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 2767,
-      "totalStars": 185719,
-      "forks": 13676,
+      "totalStars": 185738,
+      "forks": 13677,
       "license": "MIT",
       "pushedAt": "09/16/2026 17:23:11",
       "tags": [
@@ -486,10 +486,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 2498,
-      "totalStars": 51695,
-      "forks": 4712,
+      "totalStars": 51707,
+      "forks": 4715,
       "license": "Apache-2.0",
-      "pushedAt": "09/20/2026 04:45:15",
+      "pushedAt": "09/20/2026 06:05:30",
       "tags": [
         "agent"
       ],
@@ -524,8 +524,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 1999,
-      "totalStars": 146779,
-      "forks": 23967,
+      "totalStars": 146803,
+      "forks": 23978,
       "license": "",
       "pushedAt": "09/20/2026 02:25:56",
       "tags": [
@@ -585,8 +585,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://librechat.ai/",
       "language": "TypeScript",
       "starsGained": 1573,
-      "totalStars": 44418,
-      "forks": 9122,
+      "totalStars": 44425,
+      "forks": 9124,
       "license": "MIT",
       "pushedAt": "09/20/2026 04:45:10",
       "tags": [
@@ -648,10 +648,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 53311,
-      "totalStars": 67632,
-      "forks": 4517,
+      "totalStars": 67674,
+      "forks": 4518,
       "license": "MIT",
-      "pushedAt": "09/20/2026 04:31:17",
+      "pushedAt": "09/20/2026 04:46:53",
       "tags": [
         "agent",
         "llm",
@@ -696,8 +696,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 26527,
-      "totalStars": 48794,
-      "forks": 2838,
+      "totalStars": 48836,
+      "forks": 2839,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -732,44 +732,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "homepage": "https://voicestudio.sh",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 23139,
-      "totalStars": 33254,
-      "forks": 3929,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/20/2026 04:38:11",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
@@ -781,8 +758,7 @@ window.GITHUB_AI_TRENDS = {
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "可按 README 示例落地：Local workflows run on your hardware. Remote services are optional; usage analytics requires consent."
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -808,7 +784,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 21920,
-      "totalStars": 32852,
+      "totalStars": 32862,
       "forks": 3171,
       "license": "MIT",
       "pushedAt": "09/11/2026 13:41:32",
@@ -821,7 +797,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "prompt-archive",
         "zhTitle": "AI 产品系统提示词资料库",
@@ -833,8 +809,7 @@ window.GITHUB_AI_TRENDS = {
           "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
         ],
         "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
-          "适用线索：Start from the featured cases and decide what output type you want to imitate."
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。"
         ]
       }
     },
@@ -885,8 +860,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 17316,
-      "totalStars": 38036,
-      "forks": 5973,
+      "totalStars": 38048,
+      "forks": 5975,
       "license": "MIT",
       "pushedAt": "09/19/2026 20:08:42",
       "tags": [
@@ -931,8 +906,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 16711,
-      "totalStars": 37770,
-      "forks": 2693,
+      "totalStars": 37834,
+      "forks": 2695,
       "license": "Apache-2.0",
       "pushedAt": "09/19/2026 12:30:32",
       "tags": [
@@ -972,18 +947,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 12420,
-      "totalStars": 16684,
-      "forks": 916,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -994,8 +969,7 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -1067,10 +1041,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 7397,
-      "totalStars": 27578,
-      "forks": 3712,
+      "totalStars": 27617,
+      "forks": 3715,
       "license": "NOASSERTION",
-      "pushedAt": "09/20/2026 04:28:24",
+      "pushedAt": "09/20/2026 05:29:04",
       "tags": [
         "agent",
         "llm",
