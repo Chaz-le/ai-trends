@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-22T04:43:05.9088118+00:00",
+  "generatedAt": "2026-09-22T06:08:29.5237017+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,18 +13,18 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15675,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 19235,
+      "forks": 1081,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 19:29:02",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "security-audit",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -35,7 +35,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -57,10 +58,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 14499,
-      "totalStars": 39327,
-      "forks": 2813,
+      "totalStars": 39355,
+      "forks": 2816,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 03:57:31",
+      "pushedAt": "09/22/2026 05:33:07",
       "tags": [
         "agent",
         "llm",
@@ -107,8 +108,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6865,
-      "totalStars": 264832,
-      "forks": 39574,
+      "totalStars": 264870,
+      "forks": 39579,
       "license": "MIT",
       "pushedAt": "09/21/2026 19:00:51",
       "tags": [
@@ -166,10 +167,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6125,
-      "totalStars": 74858,
-      "forks": 4894,
+      "totalStars": 74908,
+      "forks": 4896,
       "license": "MIT",
-      "pushedAt": "09/22/2026 04:41:41",
+      "pushedAt": "09/22/2026 06:05:31",
       "tags": [
         "agent",
         "llm",
@@ -205,8 +206,8 @@
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 5565,
-      "totalStars": 36908,
-      "forks": 3958,
+      "totalStars": 36923,
+      "forks": 3959,
       "license": "Apache-2.0",
       "pushedAt": "09/22/2026 00:10:10",
       "tags": [
@@ -261,8 +262,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 5455,
-      "totalStars": 28606,
-      "forks": 3846,
+      "totalStars": 28637,
+      "forks": 3851,
       "license": "NOASSERTION",
       "pushedAt": "09/21/2026 16:29:17",
       "tags": [
@@ -308,8 +309,8 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 4197,
-      "totalStars": 98199,
-      "forks": 10325,
+      "totalStars": 98210,
+      "forks": 10326,
       "license": "MIT",
       "pushedAt": "09/20/2026 19:31:54",
       "tags": [
@@ -367,8 +368,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3526,
-      "totalStars": 84467,
-      "forks": 7417,
+      "totalStars": 84489,
+      "forks": 7421,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -413,7 +414,7 @@
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 3023,
-      "totalStars": 51143,
+      "totalStars": 51158,
       "forks": 4104,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
@@ -453,8 +454,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 2731,
-      "totalStars": 147499,
-      "forks": 24117,
+      "totalStars": 147511,
+      "forks": 24120,
       "license": "",
       "pushedAt": "09/21/2026 22:23:28",
       "tags": [
@@ -513,10 +514,10 @@
       "homepage": "https://supabase.com",
       "language": "TypeScript",
       "starsGained": 1518,
-      "totalStars": 110545,
-      "forks": 14515,
+      "totalStars": 110553,
+      "forks": 14517,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 04:42:18",
+      "pushedAt": "09/22/2026 06:00:29",
       "tags": [
         "agent",
         "rag"
@@ -524,8 +525,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Supabase",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -572,8 +573,8 @@
       "homepage": "https://librechat.ai/",
       "language": "TypeScript",
       "starsGained": 1401,
-      "totalStars": 44594,
-      "forks": 9155,
+      "totalStars": 44599,
+      "forks": 9158,
       "license": "MIT",
       "pushedAt": "09/22/2026 03:41:32",
       "tags": [
@@ -610,33 +611,58 @@
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "architecture-as-code",
+        "architecture-diagram",
+        "claude-skill",
+        "code-visualization",
+        "codex",
+        "coding-agents",
+        "data-flow-diagram",
+        "deepseek-harness",
+        "developer-tools",
+        "diagram-as-code",
+        "diagrams",
+        "diagrams-as-code",
+        "dsh-plugin",
+        "mermaid-alternative",
+        "opencode",
+        "sequence-diagram",
+        "software-architecture",
+        "system-design",
+        "text-to-diagram"
+      ],
+      "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 54494,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 69302,
+      "forks": 4648,
+      "license": "MIT",
+      "pushedAt": "09/22/2026 04:37:59",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "multimodal",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：The server sees normal HTTP metadata (IP and time), but receives no version, Agent, project data, prompts, account/device ID, or ETag."
         ]
       }
     },
@@ -772,10 +798,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 18217,
-      "totalStars": 39327,
-      "forks": 2813,
+      "totalStars": 39355,
+      "forks": 2816,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 03:57:31",
+      "pushedAt": "09/22/2026 05:33:07",
       "tags": [
         "agent",
         "llm",
@@ -851,18 +877,18 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15924,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 19235,
+      "forks": 1081,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 19:29:02",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "security-audit",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -873,7 +899,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -884,21 +911,31 @@
       "url": "https://github.com/FlashML-org/FreeToken",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36730318?s=40&v=4",
       "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "deepseek-v4",
+        "edge",
+        "glm",
+        "inference",
+        "minimax",
+        "moe",
+        "qwen",
+        "transformer"
+      ],
+      "homepage": "flashml.ai",
       "language": "Python",
       "starsGained": 13373,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 13504,
+      "forks": 1331,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 01:38:43",
       "tags": [
+        "llm",
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -908,7 +945,8 @@
           "核心线索：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Supported models"
         ]
       }
     },
@@ -944,8 +982,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 8321,
-      "totalStars": 28606,
-      "forks": 3846,
+      "totalStars": 28637,
+      "forks": 3851,
       "license": "NOASSERTION",
       "pushedAt": "09/21/2026 16:29:17",
       "tags": [

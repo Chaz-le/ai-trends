@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:43:17.326Z",
+  "generatedAt": "2026-09-22T06:08:52.246Z",
   "snapshots": [
     {
       "date": "2026-07-24",
@@ -4425,51 +4425,63 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T04:43:05.9088118+00:00",
+      "generatedAt": "2026-09-22T06:08:29.5237017+00:00",
       "repos": {
+        "cloudflare/security-audit-skill": {
+          "stars": 19235,
+          "periodGain": 15924
+        },
         "alibaba/open-code-review": {
-          "stars": 39327,
+          "stars": 39355,
           "periodGain": 18217
         },
         "affaan-m/ECC": {
-          "stars": 264832,
+          "stars": 264870,
           "periodGain": 6865
         },
         "stablyai/orca": {
-          "stars": 74858,
+          "stars": 74908,
           "periodGain": 6125
         },
         "JustVugg/colibri": {
-          "stars": 36908,
+          "stars": 36923,
           "periodGain": 5565
         },
         "Tencent/WeKnora": {
-          "stars": 28606,
+          "stars": 28637,
           "periodGain": 8321
         },
         "addyosmani/agent-skills": {
-          "stars": 98199,
+          "stars": 98210,
           "periodGain": 4197
         },
         "Panniantong/Agent-Reach": {
-          "stars": 84467,
+          "stars": 84489,
           "periodGain": 3526
         },
         "blader/humanizer": {
-          "stars": 51143,
+          "stars": 51158,
           "periodGain": 3023
         },
         "anthropics/claude-code": {
-          "stars": 147499,
+          "stars": 147511,
           "periodGain": 2731
         },
         "supabase/supabase": {
-          "stars": 110545,
+          "stars": 110553,
           "periodGain": 1518
         },
         "danny-avila/LibreChat": {
-          "stars": 44594,
+          "stars": 44599,
           "periodGain": 1401
+        },
+        "tt-a1i/archify": {
+          "stars": 69302,
+          "periodGain": 54494
+        },
+        "FlashML-org/FreeToken": {
+          "stars": 13504,
+          "periodGain": 13373
         }
       }
     }
