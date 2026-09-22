@@ -1,7 +1,44 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-21T09:52:53.6730951+00:00",
+  "generatedAt": "2026-09-22T04:43:05.9088118+00:00",
   "weekly": [
+    {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 15675,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
     {
       "owner": "alibaba",
       "repo": "open-code-review",
@@ -19,11 +56,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 15504,
-      "totalStars": 38829,
-      "forks": 2770,
+      "starsGained": 14499,
+      "totalStars": 39327,
+      "forks": 2813,
       "license": "Apache-2.0",
-      "pushedAt": "09/21/2026 09:42:02",
+      "pushedAt": "09/22/2026 03:57:31",
       "tags": [
         "agent",
         "llm",
@@ -69,11 +106,11 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 6453,
-      "totalStars": 264238,
-      "forks": 39504,
+      "starsGained": 6865,
+      "totalStars": 264832,
+      "forks": 39574,
       "license": "MIT",
-      "pushedAt": "09/21/2026 04:55:15",
+      "pushedAt": "09/21/2026 19:00:51",
       "tags": [
         "agent",
         "llm",
@@ -128,11 +165,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 5841,
-      "totalStars": 74106,
-      "forks": 4856,
+      "starsGained": 6125,
+      "totalStars": 74858,
+      "forks": 4894,
       "license": "MIT",
-      "pushedAt": "09/21/2026 09:52:51",
+      "pushedAt": "09/22/2026 04:41:41",
       "tags": [
         "agent",
         "llm",
@@ -158,49 +195,37 @@
       }
     },
     {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 5249,
-      "totalStars": 49503,
-      "forks": 2865,
-      "license": "MIT",
-      "pushedAt": "09/19/2026 16:44:46",
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "topics": [],
+      "homepage": "https://justvugg.github.io/colibri",
+      "language": "C",
+      "starsGained": 5565,
+      "totalStars": 36908,
+      "forks": 3958,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 00:10:10",
       "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "readmeTitle": "in the TUI: the same model, told to stop writing",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -235,11 +260,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 5242,
-      "totalStars": 28308,
-      "forks": 3808,
+      "starsGained": 5455,
+      "totalStars": 28606,
+      "forks": 3846,
       "license": "NOASSERTION",
-      "pushedAt": "09/21/2026 08:28:03",
+      "pushedAt": "09/21/2026 16:29:17",
       "tags": [
         "agent",
         "llm",
@@ -282,9 +307,9 @@
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 3986,
-      "totalStars": 97938,
-      "forks": 10308,
+      "starsGained": 4197,
+      "totalStars": 98199,
+      "forks": 10325,
       "license": "MIT",
       "pushedAt": "09/20/2026 19:31:54",
       "tags": [
@@ -341,9 +366,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 3690,
-      "totalStars": 84107,
-      "forks": 7377,
+      "starsGained": 3526,
+      "totalStars": 84467,
+      "forks": 7417,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -387,9 +412,9 @@
       ],
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
-      "starsGained": 3045,
-      "totalStars": 50837,
-      "forks": 4083,
+      "starsGained": 3023,
+      "totalStars": 51143,
+      "forks": 4104,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
       "tags": [
@@ -418,102 +443,6 @@
       }
     },
     {
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-      "description": "Write HTML. Render video. Built for agents.",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 2546,
-      "totalStars": 52065,
-      "forks": 4744,
-      "license": "Apache-2.0",
-      "pushedAt": "09/21/2026 07:42:59",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Agents and non-interactive runs should use npx hyperframes skills update instead — it installs exactly the core set, whereas skills add --all installs all 21 published skills."
-        ]
-      }
-    },
-    {
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "fullName": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 2521,
-      "totalStars": 186064,
-      "forks": 13703,
-      "license": "MIT",
-      "pushedAt": "09/16/2026 17:23:11",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "MarkItDown",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：[all] Installs all optional dependencies"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "claude-code",
       "fullName": "anthropics/claude-code",
@@ -523,11 +452,11 @@
       "topics": [],
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
-      "starsGained": 2342,
-      "totalStars": 147357,
-      "forks": 24097,
+      "starsGained": 2731,
+      "totalStars": 147499,
+      "forks": 24117,
       "license": "",
-      "pushedAt": "09/20/2026 20:41:16",
+      "pushedAt": "09/21/2026 22:23:28",
       "tags": [
         "agent",
         "llm",
@@ -554,38 +483,121 @@
       }
     },
     {
-      "owner": "petergyang",
-      "repo": "no-ai-slop",
-      "fullName": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2383268?s=40&v=4",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "topics": [],
-      "homepage": "https://creatoreconomy.so/p/use-my-no-ai-slop-skill-to-remove-20-ai-slop-patterns",
-      "language": "Python",
-      "starsGained": 1819,
-      "totalStars": 10908,
-      "forks": 740,
-      "license": "MIT",
-      "pushedAt": "09/02/2026 04:19:00",
+      "owner": "supabase",
+      "repo": "supabase",
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "topics": [
+        "ai",
+        "alternative",
+        "auth",
+        "database",
+        "deno",
+        "embeddings",
+        "example",
+        "firebase",
+        "nextjs",
+        "oauth2",
+        "pgvector",
+        "postgis",
+        "postgres",
+        "postgresql",
+        "postgrest",
+        "realtime",
+        "supabase",
+        "vectors",
+        "websockets"
+      ],
+      "homepage": "https://supabase.com",
+      "language": "TypeScript",
+      "starsGained": 1518,
+      "totalStars": 110545,
+      "forks": 14515,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 04:42:18",
       "tags": [
-        "agent"
+        "agent",
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "rag-search",
+        "zhTitle": "RAG / 语义检索工具",
+        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "featurePoints": [
+          "支持向量、语义搜索、知识库或文档检索相关能力。",
+          "可作为 RAG 管道中的索引、召回或知识组织组件。",
+          "帮助把外部资料转成大模型可查询的上下文。"
+        ],
+        "scenarioPoints": [
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+        ]
+      }
+    },
+    {
+      "owner": "danny-avila",
+      "repo": "LibreChat",
+      "fullName": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
+      ],
+      "homepage": "https://librechat.ai/",
+      "language": "TypeScript",
+      "starsGained": 1401,
+      "totalStars": 44594,
+      "forks": 9155,
+      "license": "MIT",
+      "pushedAt": "09/22/2026 03:41:32",
+      "tags": [
+        "agent",
+        "llm",
+        "ml",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "No AI Slop",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Removes 20+ patterns of AI slop from any piece of writing.",
-        "projectIntro": "该项目的 GitHub 简介是：Removes 20+ patterns of AI slop from any piece of writing.",
+        "readmeTitle": "✨ Features",
+        "category": "rag-search",
+        "zhTitle": "RAG / 语义检索工具",
+        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
         "featurePoints": [
-          "核心线索：Removes 20+ patterns of AI slop from any piece of writing."
+          "支持向量、语义搜索、知识库或文档检索相关能力。",
+          "可作为 RAG 管道中的索引、召回或知识组织组件。",
+          "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The easiest way to install the skill is to paste this into ChatGPT, Claude Code, Codex, or your favorite coding agent:"
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
         ]
       }
     }
@@ -598,58 +610,33 @@
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 53904,
-      "totalStars": 68688,
-      "forks": 4606,
-      "license": "MIT",
-      "pushedAt": "09/21/2026 08:38:50",
+      "starsGained": 54494,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "multimodal",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：The server sees normal HTTP metadata (IP and time), but receives no version, Agent, project data, prompts, account/device ID, or ETag."
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -660,31 +647,22 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 26844,
-      "totalStars": 49503,
-      "forks": 2865,
-      "license": "MIT",
-      "pushedAt": "09/19/2026 16:44:46",
+      "starsGained": 27004,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -707,44 +685,21 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "tauri",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "homepage": "https://voicestudio.sh",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
-      "starsGained": 22901,
-      "totalStars": 33703,
-      "forks": 3977,
-      "license": "AGPL-3.0",
-      "pushedAt": "09/20/2026 19:15:41",
+      "starsGained": 22973,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
@@ -756,8 +711,7 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "可按 README 示例落地：Local workflows run on your hardware. Remote services are optional; usage analytics requires consent."
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -768,27 +722,15 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "topics": [
-        "agents",
-        "ai-image-generation",
-        "chatgpt",
-        "dsh-plugin",
-        "gpt-image-2",
-        "image-prompts",
-        "prompt-as-code",
-        "prompt-engineering",
-        "skills",
-        "workflow-automation"
-      ],
-      "homepage": "https://gpt-image2.canghe.ai",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 22015,
-      "totalStars": 33088,
-      "forks": 3189,
-      "license": "MIT",
-      "pushedAt": "09/11/2026 13:41:32",
+      "starsGained": 22108,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
         "llm",
         "generation",
         "learning"
@@ -796,56 +738,19 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "prompt-archive",
-        "zhTitle": "AI 产品系统提示词资料库",
-        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
-        "featurePoints": [
-          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
-          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
-          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
-        ],
-        "scenarioPoints": [
-          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
-          "适用线索：Start from the featured cases and decide what output type you want to imitate."
-        ]
-      }
-    },
-    {
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "topics": [],
-      "homepage": "",
-      "language": "HTML",
-      "starsGained": 17716,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
         "source": "metadata",
         "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "projectIntro": "该项目的 GitHub 简介是：Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
         "featurePoints": [
-          "核心线索：Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -866,11 +771,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 17582,
-      "totalStars": 38829,
-      "forks": 2770,
+      "starsGained": 18217,
+      "totalStars": 39327,
+      "forks": 2813,
       "license": "Apache-2.0",
-      "pushedAt": "09/21/2026 09:42:02",
+      "pushedAt": "09/22/2026 03:57:31",
       "tags": [
         "agent",
         "llm",
@@ -907,11 +812,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 17511,
-      "totalStars": 38336,
-      "forks": 6009,
-      "license": "MIT",
-      "pushedAt": "09/21/2026 01:37:54",
+      "starsGained": 17721,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -919,8 +824,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -931,8 +836,7 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Node.js = 22.19"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -946,19 +850,19 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 14879,
-      "totalStars": 18503,
-      "forks": 1034,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
+      "starsGained": 15924,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -969,8 +873,42 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "FlashML-org",
+      "repo": "FreeToken",
+      "fullName": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36730318?s=40&v=4",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 13373,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "projectIntro": "该项目的 GitHub 简介是：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "featurePoints": [
+          "核心线索：FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1005,11 +943,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 7936,
-      "totalStars": 28308,
-      "forks": 3808,
+      "starsGained": 8321,
+      "totalStars": 28606,
+      "forks": 3846,
       "license": "NOASSERTION",
-      "pushedAt": "09/21/2026 08:28:03",
+      "pushedAt": "09/21/2026 16:29:17",
       "tags": [
         "agent",
         "llm",
@@ -1045,7 +983,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 7126,
+      "starsGained": 7274,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1079,13 +1017,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "topics": [],
-      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+      "homepage": "",
       "language": "Python",
-      "starsGained": 5364,
-      "totalStars": 33367,
-      "forks": 3221,
-      "license": "Apache-2.0",
-      "pushedAt": "09/15/2026 20:02:45",
+      "starsGained": 5427,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "ml"
       ],
@@ -1118,7 +1056,7 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 4797,
+      "starsGained": 5066,
       "totalStars": 0,
       "forks": 0,
       "license": "",
