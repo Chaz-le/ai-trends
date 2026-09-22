@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-22T06:08:29.5237017+00:00",
+  "generatedAt": "2026-09-22T09:16:13.8151394+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15675,
-      "totalStars": 19235,
-      "forks": 1081,
+      "totalStars": 19455,
+      "forks": 1095,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -58,10 +58,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 14499,
-      "totalStars": 39355,
-      "forks": 2816,
+      "totalStars": 39454,
+      "forks": 2826,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 05:33:07",
+      "pushedAt": "09/22/2026 07:56:35",
       "tags": [
         "agent",
         "llm",
@@ -108,8 +108,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6865,
-      "totalStars": 264870,
-      "forks": 39579,
+      "totalStars": 264952,
+      "forks": 39585,
       "license": "MIT",
       "pushedAt": "09/21/2026 19:00:51",
       "tags": [
@@ -167,10 +167,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6125,
-      "totalStars": 74908,
-      "forks": 4896,
+      "totalStars": 75056,
+      "forks": 4909,
       "license": "MIT",
-      "pushedAt": "09/22/2026 06:05:31",
+      "pushedAt": "09/22/2026 09:13:27",
       "tags": [
         "agent",
         "llm",
@@ -206,10 +206,10 @@
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 5565,
-      "totalStars": 36923,
-      "forks": 3959,
+      "totalStars": 36972,
+      "forks": 3972,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 00:10:10",
+      "pushedAt": "09/22/2026 08:22:47",
       "tags": [
         "ml"
       ],
@@ -262,10 +262,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 5455,
-      "totalStars": 28637,
-      "forks": 3851,
+      "totalStars": 28735,
+      "forks": 3865,
       "license": "NOASSERTION",
-      "pushedAt": "09/21/2026 16:29:17",
+      "pushedAt": "09/22/2026 08:53:10",
       "tags": [
         "agent",
         "llm",
@@ -309,7 +309,7 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 4197,
-      "totalStars": 98210,
+      "totalStars": 98264,
       "forks": 10326,
       "license": "MIT",
       "pushedAt": "09/20/2026 19:31:54",
@@ -368,8 +368,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3526,
-      "totalStars": 84489,
-      "forks": 7421,
+      "totalStars": 84569,
+      "forks": 7429,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -414,8 +414,8 @@
       "homepage": "https://skills.sh/blader/humanizer",
       "language": "Python",
       "starsGained": 3023,
-      "totalStars": 51158,
-      "forks": 4104,
+      "totalStars": 51228,
+      "forks": 4106,
       "license": "MIT",
       "pushedAt": "09/06/2026 20:26:10",
       "tags": [
@@ -454,8 +454,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 2731,
-      "totalStars": 147511,
-      "forks": 24120,
+      "totalStars": 147548,
+      "forks": 24119,
       "license": "",
       "pushedAt": "09/21/2026 22:23:28",
       "tags": [
@@ -514,10 +514,10 @@
       "homepage": "https://supabase.com",
       "language": "TypeScript",
       "starsGained": 1518,
-      "totalStars": 110553,
+      "totalStars": 110573,
       "forks": 14517,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 06:00:29",
+      "pushedAt": "09/22/2026 09:14:01",
       "tags": [
         "agent",
         "rag"
@@ -573,10 +573,10 @@
       "homepage": "https://librechat.ai/",
       "language": "TypeScript",
       "starsGained": 1401,
-      "totalStars": 44599,
-      "forks": 9158,
+      "totalStars": 44611,
+      "forks": 9159,
       "license": "MIT",
-      "pushedAt": "09/22/2026 03:41:32",
+      "pushedAt": "09/22/2026 09:15:37",
       "tags": [
         "agent",
         "llm",
@@ -636,10 +636,10 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 54494,
-      "totalStars": 69302,
-      "forks": 4648,
+      "totalStars": 69459,
+      "forks": 4660,
       "license": "MIT",
-      "pushedAt": "09/22/2026 04:37:59",
+      "pushedAt": "09/22/2026 08:05:27",
       "tags": [
         "agent",
         "llm",
@@ -748,15 +748,27 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 22108,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 33214,
+      "forks": 3199,
+      "license": "MIT",
+      "pushedAt": "09/11/2026 13:41:32",
       "tags": [
+        "agent",
         "llm",
         "generation",
         "learning"
@@ -764,19 +776,20 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "category": "prompt-archive",
+        "zhTitle": "AI 产品系统提示词资料库",
+        "zhIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
+        "projectIntro": "收集主流 AI 产品、编码工具和 Agent 的系统提示词、内部工具说明和模型相关资料，方便研究产品机制。",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "整理不同 AI 产品的系统提示词和内部工具暴露信息。",
+          "帮助研究提示词设计、工具调用规范和 AI 产品行为差异。",
+          "更偏资料归档和逆向观察，不是可直接接入的开发框架。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合做提示词研究、竞品分析、Agent 行为研究和学习大型 AI 产品的系统设计。",
+          "适用线索：Start from the featured cases and decide what output type you want to imitate."
         ]
       }
     },
@@ -798,10 +811,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 18217,
-      "totalStars": 39355,
-      "forks": 2816,
+      "totalStars": 39454,
+      "forks": 2826,
       "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 05:33:07",
+      "pushedAt": "09/22/2026 07:56:35",
       "tags": [
         "agent",
         "llm",
@@ -839,10 +852,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 17721,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 38508,
+      "forks": 6033,
+      "license": "MIT",
+      "pushedAt": "09/22/2026 09:05:07",
       "tags": [
         "agent",
         "learning"
@@ -850,8 +863,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -862,7 +875,8 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -877,8 +891,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15924,
-      "totalStars": 19235,
-      "forks": 1081,
+      "totalStars": 19455,
+      "forks": 1095,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -924,8 +938,8 @@
       "homepage": "flashml.ai",
       "language": "Python",
       "starsGained": 13373,
-      "totalStars": 13504,
-      "forks": 1331,
+      "totalStars": 13539,
+      "forks": 1333,
       "license": "Apache-2.0",
       "pushedAt": "09/22/2026 01:38:43",
       "tags": [
@@ -982,10 +996,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 8321,
-      "totalStars": 28637,
-      "forks": 3851,
+      "totalStars": 28735,
+      "forks": 3865,
       "license": "NOASSERTION",
-      "pushedAt": "09/21/2026 16:29:17",
+      "pushedAt": "09/22/2026 08:53:10",
       "tags": [
         "agent",
         "llm",
