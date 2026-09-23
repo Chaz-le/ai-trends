@@ -1,88 +1,6 @@
 {
-  "generatedAt": "2026-09-22T09:16:41.218Z",
+  "generatedAt": "2026-09-23T04:37:13.743Z",
   "snapshots": [
-    {
-      "date": "2026-07-24",
-      "generatedAt": "2026-07-24T06:37:38.0759607+00:00",
-      "repos": {
-        "koala73/worldmonitor": {
-          "stars": 72126,
-          "periodGain": 9054
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 27643,
-          "periodGain": 19755
-        },
-        "tirth8205/code-review-graph": {
-          "stars": 25979,
-          "periodGain": 6257
-        },
-        "Nutlope/hallmark": {
-          "stars": 16411,
-          "periodGain": 5797
-        },
-        "codecrafters-io/build-your-own-x": {
-          "stars": 530981,
-          "periodGain": 4964
-        },
-        "earendil-works/pi": {
-          "stars": 76561,
-          "periodGain": 4495
-        },
-        "Robbyant/lingbot-map": {
-          "stars": 15169,
-          "periodGain": 4435
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 127050,
-          "periodGain": 4390
-        },
-        "HKUDS/DeepTutor": {
-          "stars": 29444,
-          "periodGain": 2661
-        },
-        "1jehuang/jcode": {
-          "stars": 11065,
-          "periodGain": 2586
-        },
-        "ibelick/ui-skills": {
-          "stars": 6205,
-          "periodGain": 2139
-        },
-        "MoonshotAI/kimi-code": {
-          "stars": 4841,
-          "periodGain": 1610
-        },
-        "DeusData/codebase-memory-mcp": {
-          "stars": 34685,
-          "periodGain": 22464
-        },
-        "MadsLorentzen/ai-job-search": {
-          "stars": 25996,
-          "periodGain": 22183
-        },
-        "stablyai/orca": {
-          "stars": 27700,
-          "periodGain": 20972
-        },
-        "usestrix/strix": {
-          "stars": 43802,
-          "periodGain": 17842
-        },
-        "asgeirtj/system_prompts_leaks": {
-          "stars": 60119,
-          "periodGain": 14994
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 26356,
-          "periodGain": 13587
-        },
-        "ogulcancelik/herdr": {
-          "stars": 20127,
-          "periodGain": 13100
-        }
-      }
-    },
     {
       "date": "2026-07-25",
       "generatedAt": "2026-07-25T06:27:24.5676802+00:00",
@@ -4490,6 +4408,68 @@
         "FlashML-org/FreeToken": {
           "stars": 13539,
           "periodGain": 13373
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "generatedAt": "2026-09-23T04:36:56.2359037+00:00",
+      "repos": {
+        "cloudflare/security-audit-skill": {
+          "stars": 20289,
+          "periodGain": 17090
+        },
+        "alibaba/open-code-review": {
+          "stars": 39831,
+          "periodGain": 18836
+        },
+        "affaan-m/ECC": {
+          "stars": 265556,
+          "periodGain": 6904
+        },
+        "stablyai/orca": {
+          "stars": 75820,
+          "periodGain": 6205
+        },
+        "Tencent/WeKnora": {
+          "stars": 29053,
+          "periodGain": 8734
+        },
+        "Tencent/BrowserSkill": {
+          "stars": 6707,
+          "periodGain": 4553
+        },
+        "addyosmani/agent-skills": {
+          "stars": 98504,
+          "periodGain": 4224
+        },
+        "JustVugg/colibri": {
+          "stars": 37177,
+          "periodGain": 4036
+        },
+        "Panniantong/Agent-Reach": {
+          "stars": 84887,
+          "periodGain": 2985
+        },
+        "anthropics/claude-code": {
+          "stars": 147684,
+          "periodGain": 2754
+        },
+        "TencentCloud/Octop": {
+          "stars": 4668,
+          "periodGain": 2148
+        },
+        "supabase/supabase": {
+          "stars": 110660,
+          "periodGain": 1508
+        },
+        "tt-a1i/archify": {
+          "stars": 70070,
+          "periodGain": 55243
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 38656,
+          "periodGain": 17895
         }
       }
     }
