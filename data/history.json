@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:37:13.743Z",
+  "generatedAt": "2026-09-23T05:55:26.695Z",
   "snapshots": [
     {
       "date": "2026-07-25",
@@ -4413,63 +4413,47 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T04:36:56.2359037+00:00",
+      "generatedAt": "2026-09-23T05:55:08.7086531+00:00",
       "repos": {
-        "cloudflare/security-audit-skill": {
-          "stars": 20289,
-          "periodGain": 17090
-        },
         "alibaba/open-code-review": {
-          "stars": 39831,
+          "stars": 39857,
           "periodGain": 18836
         },
         "affaan-m/ECC": {
-          "stars": 265556,
+          "stars": 265597,
           "periodGain": 6904
         },
         "stablyai/orca": {
-          "stars": 75820,
+          "stars": 75876,
           "periodGain": 6205
         },
         "Tencent/WeKnora": {
-          "stars": 29053,
+          "stars": 29078,
           "periodGain": 8734
         },
-        "Tencent/BrowserSkill": {
-          "stars": 6707,
-          "periodGain": 4553
-        },
         "addyosmani/agent-skills": {
-          "stars": 98504,
+          "stars": 98512,
           "periodGain": 4224
         },
         "JustVugg/colibri": {
-          "stars": 37177,
+          "stars": 37183,
           "periodGain": 4036
         },
         "Panniantong/Agent-Reach": {
-          "stars": 84887,
+          "stars": 84909,
           "periodGain": 2985
         },
         "anthropics/claude-code": {
-          "stars": 147684,
+          "stars": 147695,
           "periodGain": 2754
         },
         "TencentCloud/Octop": {
-          "stars": 4668,
+          "stars": 4676,
           "periodGain": 2148
         },
         "supabase/supabase": {
-          "stars": 110660,
+          "stars": 110666,
           "periodGain": 1508
-        },
-        "tt-a1i/archify": {
-          "stars": 70070,
-          "periodGain": 55243
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 38656,
-          "periodGain": 17895
         }
       }
     }

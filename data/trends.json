@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-23T04:36:56.2359037+00:00",
+  "generatedAt": "2026-09-23T05:55:08.7086531+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,18 +13,18 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15381,
-      "totalStars": 20289,
-      "forks": 1150,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -35,8 +35,7 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -58,7 +57,7 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 12590,
-      "totalStars": 39831,
+      "totalStars": 39857,
       "forks": 2861,
       "license": "Apache-2.0",
       "pushedAt": "09/23/2026 03:50:04",
@@ -108,8 +107,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6904,
-      "totalStars": 265556,
-      "forks": 39688,
+      "totalStars": 265597,
+      "forks": 39699,
       "license": "MIT",
       "pushedAt": "09/22/2026 23:09:59",
       "tags": [
@@ -167,10 +166,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6205,
-      "totalStars": 75820,
-      "forks": 4966,
+      "totalStars": 75876,
+      "forks": 4968,
       "license": "MIT",
-      "pushedAt": "09/23/2026 04:34:45",
+      "pushedAt": "09/23/2026 05:54:02",
       "tags": [
         "agent",
         "llm",
@@ -227,10 +226,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 5303,
-      "totalStars": 29053,
-      "forks": 3917,
+      "totalStars": 29078,
+      "forks": 3919,
       "license": "NOASSERTION",
-      "pushedAt": "09/23/2026 04:17:07",
+      "pushedAt": "09/23/2026 05:25:29",
       "tags": [
         "agent",
         "llm",
@@ -263,26 +262,22 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "topics": [
-        "agent",
-        "browser-use",
-        "dsh-plugin"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 4553,
-      "totalStars": 6707,
-      "forks": 491,
-      "license": "MIT",
-      "pushedAt": "09/23/2026 04:25:58",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "BrowserSkill",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -293,8 +288,7 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Using an agent sandbox that reaps background processes after each command?"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -316,8 +310,8 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 4224,
-      "totalStars": 98504,
-      "forks": 10350,
+      "totalStars": 98512,
+      "forks": 10352,
       "license": "MIT",
       "pushedAt": "09/23/2026 04:05:38",
       "tags": [
@@ -357,8 +351,8 @@
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 4036,
-      "totalStars": 37177,
-      "forks": 4013,
+      "totalStars": 37183,
+      "forks": 4014,
       "license": "Apache-2.0",
       "pushedAt": "09/22/2026 22:13:54",
       "tags": [
@@ -410,7 +404,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2985,
-      "totalStars": 84887,
+      "totalStars": 84909,
       "forks": 7455,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
@@ -448,8 +442,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 2754,
-      "totalStars": 147684,
-      "forks": 24136,
+      "totalStars": 147695,
+      "forks": 24137,
       "license": "",
       "pushedAt": "09/22/2026 16:38:13",
       "tags": [
@@ -496,8 +490,8 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 2148,
-      "totalStars": 4668,
-      "forks": 541,
+      "totalStars": 4676,
+      "forks": 542,
       "license": "MIT",
       "pushedAt": "09/23/2026 04:13:06",
       "tags": [
@@ -552,10 +546,10 @@
       "homepage": "https://supabase.com",
       "language": "TypeScript",
       "starsGained": 1508,
-      "totalStars": 110660,
+      "totalStars": 110666,
       "forks": 14518,
       "license": "Apache-2.0",
-      "pushedAt": "09/23/2026 04:36:44",
+      "pushedAt": "09/23/2026 05:54:07",
       "tags": [
         "agent",
         "rag"
@@ -588,58 +582,33 @@
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 55243,
-      "totalStars": 70070,
-      "forks": 4709,
-      "license": "MIT",
-      "pushedAt": "09/23/2026 04:27:07",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "multimodal",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：The agent switcher covers cursor, codex, claude-code, and opencode."
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -775,7 +744,7 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 18836,
-      "totalStars": 39831,
+      "totalStars": 39857,
       "forks": 2861,
       "license": "Apache-2.0",
       "pushedAt": "09/23/2026 03:50:04",
@@ -816,10 +785,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 17895,
-      "totalStars": 38656,
-      "forks": 6045,
-      "license": "MIT",
-      "pushedAt": "09/23/2026 04:34:55",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "learning"
@@ -854,18 +823,18 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 17090,
-      "totalStars": 20289,
-      "forks": 1150,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -876,8 +845,7 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -984,10 +952,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 8734,
-      "totalStars": 29053,
-      "forks": 3917,
+      "totalStars": 29078,
+      "forks": 3919,
       "license": "NOASSERTION",
-      "pushedAt": "09/23/2026 04:17:07",
+      "pushedAt": "09/23/2026 05:25:29",
       "tags": [
         "agent",
         "llm",
