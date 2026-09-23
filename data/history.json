@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T05:55:26.695Z",
+  "generatedAt": "2026-09-23T09:16:58.643Z",
   "snapshots": [
     {
       "date": "2026-07-25",
@@ -4413,47 +4413,71 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T05:55:08.7086531+00:00",
+      "generatedAt": "2026-09-23T09:16:42.1382712+00:00",
       "repos": {
+        "cloudflare/security-audit-skill": {
+          "stars": 20468,
+          "periodGain": 17090
+        },
         "alibaba/open-code-review": {
-          "stars": 39857,
+          "stars": 39971,
           "periodGain": 18836
         },
         "affaan-m/ECC": {
-          "stars": 265597,
+          "stars": 265732,
           "periodGain": 6904
         },
         "stablyai/orca": {
-          "stars": 75876,
+          "stars": 76045,
           "periodGain": 6205
         },
         "Tencent/WeKnora": {
-          "stars": 29078,
+          "stars": 29179,
           "periodGain": 8734
         },
+        "Tencent/BrowserSkill": {
+          "stars": 6802,
+          "periodGain": 4553
+        },
         "addyosmani/agent-skills": {
-          "stars": 98512,
+          "stars": 98563,
           "periodGain": 4224
         },
         "JustVugg/colibri": {
-          "stars": 37183,
+          "stars": 37224,
           "periodGain": 4036
         },
         "Panniantong/Agent-Reach": {
-          "stars": 84909,
+          "stars": 84978,
           "periodGain": 2985
         },
         "anthropics/claude-code": {
-          "stars": 147695,
+          "stars": 147719,
           "periodGain": 2754
         },
         "TencentCloud/Octop": {
-          "stars": 4676,
+          "stars": 4699,
           "periodGain": 2148
         },
         "supabase/supabase": {
-          "stars": 110666,
+          "stars": 110683,
           "periodGain": 1508
+        },
+        "tt-a1i/archify": {
+          "stars": 70260,
+          "periodGain": 55243
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 50489,
+          "periodGain": 27313
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 34654,
+          "periodGain": 23275
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 38712,
+          "periodGain": 17895
         }
       }
     }
