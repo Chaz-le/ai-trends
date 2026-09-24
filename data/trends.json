@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-24T06:07:50.2072505+00:00",
+  "generatedAt": "2026-09-24T09:16:10.7906204+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 15280,
-      "totalStars": 21008,
-      "forks": 1204,
+      "totalStars": 21070,
+      "forks": 1206,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -58,10 +58,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 9833,
-      "totalStars": 40321,
-      "forks": 2900,
+      "totalStars": 40425,
+      "forks": 2907,
       "license": "Apache-2.0",
-      "pushedAt": "09/24/2026 02:52:48",
+      "pushedAt": "09/24/2026 08:51:36",
       "tags": [
         "agent",
         "llm",
@@ -108,8 +108,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6695,
-      "totalStars": 266313,
-      "forks": 39801,
+      "totalStars": 266395,
+      "forks": 39814,
       "license": "MIT",
       "pushedAt": "09/22/2026 23:09:59",
       "tags": [
@@ -167,10 +167,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6435,
-      "totalStars": 76792,
-      "forks": 5028,
+      "totalStars": 76968,
+      "forks": 5041,
       "license": "MIT",
-      "pushedAt": "09/24/2026 06:04:55",
+      "pushedAt": "09/24/2026 09:14:34",
       "tags": [
         "agent",
         "llm",
@@ -227,10 +227,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 4522,
-      "totalStars": 29460,
-      "forks": 3964,
+      "totalStars": 29542,
+      "forks": 3977,
       "license": "NOASSERTION",
-      "pushedAt": "09/24/2026 05:19:43",
+      "pushedAt": "09/24/2026 09:14:21",
       "tags": [
         "agent",
         "llm",
@@ -274,8 +274,8 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3867,
-      "totalStars": 98751,
-      "forks": 10372,
+      "totalStars": 98780,
+      "forks": 10378,
       "license": "MIT",
       "pushedAt": "09/23/2026 04:05:38",
       "tags": [
@@ -315,8 +315,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 2762,
-      "totalStars": 147842,
-      "forks": 24249,
+      "totalStars": 147862,
+      "forks": 24283,
       "license": "",
       "pushedAt": "09/24/2026 02:54:38",
       "tags": [
@@ -355,8 +355,8 @@
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 2739,
-      "totalStars": 37390,
-      "forks": 4045,
+      "totalStars": 37421,
+      "forks": 4048,
       "license": "Apache-2.0",
       "pushedAt": "09/23/2026 22:28:58",
       "tags": [
@@ -390,8 +390,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1895,
-      "totalStars": 37065,
-      "forks": 5388,
+      "totalStars": 37147,
+      "forks": 5403,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -434,10 +434,10 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1877,
-      "totalStars": 4794,
-      "forks": 567,
+      "totalStars": 4813,
+      "forks": 570,
       "license": "MIT",
-      "pushedAt": "09/23/2026 15:27:21",
+      "pushedAt": "09/24/2026 08:18:56",
       "tags": [
         "agent"
       ],
@@ -481,8 +481,8 @@
       "homepage": "https://openspec.dev/",
       "language": "TypeScript",
       "starsGained": 1538,
-      "totalStars": 70091,
-      "forks": 4795,
+      "totalStars": 70123,
+      "forks": 4796,
       "license": "MIT",
       "pushedAt": "09/23/2026 21:47:33",
       "tags": [
@@ -517,10 +517,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1358,
-      "totalStars": 25512,
+      "totalStars": 25518,
       "forks": 3024,
       "license": "Apache-2.0",
-      "pushedAt": "09/23/2026 15:49:43",
+      "pushedAt": "09/24/2026 07:36:14",
       "tags": [
         "llm"
       ],
@@ -575,10 +575,10 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 55857,
-      "totalStars": 70779,
-      "forks": 4761,
+      "totalStars": 70904,
+      "forks": 4767,
       "license": "MIT",
-      "pushedAt": "09/24/2026 04:52:02",
+      "pushedAt": "09/24/2026 08:26:33",
       "tags": [
         "agent",
         "llm",
@@ -623,8 +623,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 27477,
-      "totalStars": 50766,
-      "forks": 2929,
+      "totalStars": 50808,
+      "forks": 2930,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -684,10 +684,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 23623,
-      "totalStars": 34993,
-      "forks": 4128,
+      "totalStars": 35041,
+      "forks": 4134,
       "license": "AGPL-3.0",
-      "pushedAt": "09/23/2026 14:04:00",
+      "pushedAt": "09/24/2026 08:28:26",
       "tags": [
         "agent",
         "llm",
@@ -735,10 +735,10 @@
       "homepage": "https://gpt-image2.canghe.ai",
       "language": "JavaScript",
       "starsGained": 21457,
-      "totalStars": 33438,
-      "forks": 3218,
+      "totalStars": 33458,
+      "forks": 3222,
       "license": "MIT",
-      "pushedAt": "09/11/2026 13:41:32",
+      "pushedAt": "09/24/2026 08:01:10",
       "tags": [
         "agent",
         "llm",
@@ -783,10 +783,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 19196,
-      "totalStars": 40321,
-      "forks": 2900,
+      "totalStars": 40425,
+      "forks": 2907,
       "license": "Apache-2.0",
-      "pushedAt": "09/24/2026 02:52:48",
+      "pushedAt": "09/24/2026 08:51:36",
       "tags": [
         "agent",
         "llm",
@@ -824,8 +824,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 18072,
-      "totalStars": 38825,
-      "forks": 6065,
+      "totalStars": 38860,
+      "forks": 6068,
       "license": "MIT",
       "pushedAt": "09/24/2026 06:04:47",
       "tags": [
@@ -863,8 +863,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 17893,
-      "totalStars": 21008,
-      "forks": 1204,
+      "totalStars": 21070,
+      "forks": 1206,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -897,32 +897,14 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "homepage": "https://arxiv.org/abs/2609.00065",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 12304,
-      "totalStars": 46392,
-      "forks": 4196,
-      "license": "MIT",
-      "pushedAt": "09/21/2026 09:27:50",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -931,8 +913,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Scientific Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
@@ -943,8 +925,7 @@
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Confirm installation paths and optional metadata behavior in your host's current documentation."
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     },
@@ -980,10 +961,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 9078,
-      "totalStars": 29460,
-      "forks": 3964,
+      "totalStars": 29542,
+      "forks": 3977,
       "license": "NOASSERTION",
-      "pushedAt": "09/24/2026 05:19:43",
+      "pushedAt": "09/24/2026 09:14:21",
       "tags": [
         "agent",
         "llm",
@@ -1016,27 +997,23 @@
       "url": "https://github.com/jingyaogong/minimind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "topics": [
-        "artificial-intelligence",
-        "large-language-model"
-      ],
-      "homepage": "https://jingyaogong.github.io/minimind",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 7561,
-      "totalStars": 62385,
-      "forks": 8116,
-      "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 16:07:34",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
-        "ml",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "📌 项目介绍",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
@@ -1045,59 +1022,7 @@
           "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：cd scripts && streamlit run webdemo.py"
-        ]
-      }
-    },
-    {
-      "owner": "every-app",
-      "repo": "open-seo",
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-agent",
-        "seo-audit",
-        "seo-automation",
-        "seo-skills",
-        "seo-tools",
-        "site-audit"
-      ],
-      "homepage": "https://openseo.so",
-      "language": "TypeScript",
-      "starsGained": 7313,
-      "totalStars": 20623,
-      "forks": 2644,
-      "license": "MIT",
-      "pushedAt": "09/20/2026 00:10:38",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenSEO",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Keyword research"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1108,26 +1033,22 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "topics": [
-        "agent",
-        "browser-use",
-        "dsh-plugin"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 5647,
-      "totalStars": 6980,
-      "forks": 503,
-      "license": "MIT",
-      "pushedAt": "09/24/2026 04:28:05",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "BrowserSkill",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1138,8 +1059,44 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：For local automation, you need an AI agent + the bsk CLI + the browser extension. The CLI includes the background daemon. The skill teaches your agent how to use it."
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "topics": [],
+      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+      "language": "Python",
+      "starsGained": 5563,
+      "totalStars": 33598,
+      "forks": 3245,
+      "license": "Apache-2.0",
+      "pushedAt": "09/15/2026 20:02:45",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     }
