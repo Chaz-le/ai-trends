@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-25T06:08:09.7723957+00:00",
+  "generatedAt": "2026-09-25T09:34:31.3795085+00:00",
   "weekly": [
     {
       "owner": "alibaba",
@@ -20,8 +20,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 6920,
-      "totalStars": 40935,
-      "forks": 2942,
+      "totalStars": 41041,
+      "forks": 2946,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -80,10 +80,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6547,
-      "totalStars": 77692,
-      "forks": 5084,
+      "totalStars": 77819,
+      "forks": 5095,
       "license": "MIT",
-      "pushedAt": "09/25/2026 06:06:29",
+      "pushedAt": "09/25/2026 09:34:02",
       "tags": [
         "agent",
         "llm",
@@ -128,8 +128,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6193,
-      "totalStars": 267050,
-      "forks": 39905,
+      "totalStars": 267138,
+      "forks": 39915,
       "license": "MIT",
       "pushedAt": "09/24/2026 16:52:48",
       "tags": [
@@ -189,10 +189,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 3749,
-      "totalStars": 29810,
-      "forks": 4007,
+      "totalStars": 29869,
+      "forks": 4015,
       "license": "NOASSERTION",
-      "pushedAt": "09/25/2026 05:26:39",
+      "pushedAt": "09/25/2026 06:10:58",
       "tags": [
         "agent",
         "llm",
@@ -235,8 +235,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 3363,
-      "totalStars": 28171,
-      "forks": 2770,
+      "totalStars": 28407,
+      "forks": 2830,
       "license": "MIT",
       "pushedAt": "09/25/2026 00:16:59",
       "tags": [
@@ -281,8 +281,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3345,
-      "totalStars": 98930,
-      "forks": 10389,
+      "totalStars": 98951,
+      "forks": 10386,
       "license": "MIT",
       "pushedAt": "09/23/2026 04:05:38",
       "tags": [
@@ -322,8 +322,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 2384,
-      "totalStars": 147998,
-      "forks": 24445,
+      "totalStars": 148012,
+      "forks": 24487,
       "license": "",
       "pushedAt": "09/25/2026 02:35:26",
       "tags": [
@@ -362,8 +362,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 2382,
-      "totalStars": 37423,
-      "forks": 5422,
+      "totalStars": 37454,
+      "forks": 5424,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -398,8 +398,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 2055,
-      "totalStars": 37574,
-      "forks": 4070,
+      "totalStars": 37594,
+      "forks": 4072,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 22:54:06",
       "tags": [
@@ -441,10 +441,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1608,
-      "totalStars": 4892,
-      "forks": 581,
+      "totalStars": 4905,
+      "forks": 582,
       "license": "MIT",
-      "pushedAt": "09/25/2026 02:40:26",
+      "pushedAt": "09/25/2026 06:48:48",
       "tags": [
         "agent"
       ],
@@ -488,8 +488,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openspec.dev/",
       "language": "TypeScript",
       "starsGained": 1415,
-      "totalStars": 70257,
-      "forks": 4806,
+      "totalStars": 70280,
+      "forks": 4809,
       "license": "MIT",
       "pushedAt": "09/23/2026 21:47:33",
       "tags": [
@@ -536,8 +536,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://treg.to",
       "language": "Python",
       "starsGained": 1406,
-      "totalStars": 3231,
-      "forks": 268,
+      "totalStars": 3274,
+      "forks": 273,
       "license": "NOASSERTION",
       "pushedAt": "09/25/2026 05:36:08",
       "tags": [
@@ -597,10 +597,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 56351,
-      "totalStars": 71328,
-      "forks": 4797,
+      "totalStars": 71398,
+      "forks": 4804,
       "license": "MIT",
-      "pushedAt": "09/25/2026 05:44:10",
+      "pushedAt": "09/25/2026 09:20:49",
       "tags": [
         "agent",
         "llm",
@@ -645,7 +645,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 27473,
-      "totalStars": 51031,
+      "totalStars": 51067,
       "forks": 2944,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
@@ -706,8 +706,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 23857,
-      "totalStars": 35308,
-      "forks": 4158,
+      "totalStars": 35332,
+      "forks": 4162,
       "license": "AGPL-3.0",
       "pushedAt": "09/24/2026 21:38:58",
       "tags": [
@@ -753,8 +753,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 19583,
-      "totalStars": 40935,
-      "forks": 2942,
+      "totalStars": 41041,
+      "forks": 2946,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -794,8 +794,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 18441,
-      "totalStars": 21382,
-      "forks": 1232,
+      "totalStars": 21433,
+      "forks": 1237,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -832,8 +832,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 18202,
-      "totalStars": 38974,
-      "forks": 6080,
+      "totalStars": 38981,
+      "forks": 6077,
       "license": "MIT",
       "pushedAt": "09/25/2026 00:59:02",
       "tags": [
@@ -931,10 +931,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 9356,
-      "totalStars": 29810,
-      "forks": 4007,
+      "totalStars": 29869,
+      "forks": 4015,
       "license": "NOASSERTION",
-      "pushedAt": "09/25/2026 05:26:39",
+      "pushedAt": "09/25/2026 06:10:58",
       "tags": [
         "agent",
         "llm",
@@ -968,23 +968,27 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/jingyaogong/minimind",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "homepage": "https://jingyaogong.github.io/minimind",
       "language": "Python",
       "starsGained": 7689,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 62523,
+      "forks": 8130,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 16:07:34",
       "tags": [
         "llm",
+        "ml",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "📌 项目介绍",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
@@ -993,7 +997,59 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：cd scripts && streamlit run webdemo.py"
+        ]
+      }
+    },
+    {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-agent",
+        "seo-audit",
+        "seo-automation",
+        "seo-skills",
+        "seo-tools",
+        "site-audit"
+      ],
+      "homepage": "https://openseo.so",
+      "language": "TypeScript",
+      "starsGained": 7668,
+      "totalStars": 20978,
+      "forks": 2691,
+      "license": "MIT",
+      "pushedAt": "09/20/2026 00:10:38",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenSEO",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Keyword research"
         ]
       }
     },
@@ -1004,22 +1060,26 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/Tencent/BrowserSkill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "topics": [],
+      "topics": [
+        "agent",
+        "browser-use",
+        "dsh-plugin"
+      ],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 5854,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 7170,
+      "forks": 516,
+      "license": "MIT",
+      "pushedAt": "09/24/2026 04:28:05",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "BrowserSkill",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1030,7 +1090,8 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：For local automation, you need an AI agent + the bsk CLI + the browser extension. The CLI includes the background daemon. The skill teaches your agent how to use it."
         ]
       }
     },
@@ -1042,21 +1103,21 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 5545,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 33668,
+      "forks": 3248,
+      "license": "Apache-2.0",
+      "pushedAt": "09/15/2026 20:02:45",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "TimesFM",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -1068,41 +1129,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
-      "owner": "cursor",
-      "repo": "plugins",
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-      "description": "Cursor plugin specification and official plugins",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 3861,
-      "totalStars": 8582,
-      "forks": 808,
-      "license": "",
-      "pushedAt": "09/24/2026 21:41:58",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Cursor plugins",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
-        "featurePoints": [
-          "核心线索：Cursor plugin specification and official plugins"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
