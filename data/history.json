@@ -1,60 +1,6 @@
 {
-  "generatedAt": "2026-09-24T09:16:32.452Z",
+  "generatedAt": "2026-09-25T04:46:23.733Z",
   "snapshots": [
-    {
-      "date": "2026-07-26",
-      "generatedAt": "2026-07-26T06:47:27.4172899+00:00",
-      "repos": {
-        "bojieli/ai-agent-book": {
-          "stars": 20060,
-          "periodGain": 16579
-        },
-        "koala73/worldmonitor": {
-          "stars": 74301,
-          "periodGain": 14554
-        },
-        "mattpocock/skills": {
-          "stars": 188602,
-          "periodGain": 11790
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 30237,
-          "periodGain": 23016
-        },
-        "stablyai/orca": {
-          "stars": 29173,
-          "periodGain": 21817
-        },
-        "tirth8205/code-review-graph": {
-          "stars": 26450,
-          "periodGain": 6423
-        },
-        "ruvnet/RuView": {
-          "stars": 86440,
-          "periodGain": 5313
-        },
-        "earendil-works/pi": {
-          "stars": 77676,
-          "periodGain": 5167
-        },
-        "Nutlope/hallmark": {
-          "stars": 17823,
-          "periodGain": 14156
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 43542,
-          "periodGain": 4518
-        },
-        "jamiepine/voicebox": {
-          "stars": 46790,
-          "periodGain": 4237
-        },
-        "every-app/open-seo": {
-          "stars": 8008,
-          "periodGain": 3439
-        }
-      }
-    },
     {
       "date": "2026-07-27",
       "generatedAt": "2026-07-27T07:47:10.2678792+00:00",
@@ -4470,6 +4416,84 @@
         "google-research/timesfm": {
           "stars": 33598,
           "periodGain": 5563
+        }
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "generatedAt": "2026-09-25T04:46:10.6102565+00:00",
+      "repos": {
+        "alibaba/open-code-review": {
+          "stars": 40897,
+          "periodGain": 19583
+        },
+        "stablyai/orca": {
+          "stars": 77658,
+          "periodGain": 6547
+        },
+        "affaan-m/ECC": {
+          "stars": 267023,
+          "periodGain": 6193
+        },
+        "Tencent/WeKnora": {
+          "stars": 29791,
+          "periodGain": 9356
+        },
+        "vectorize-io/hindsight": {
+          "stars": 28041,
+          "periodGain": 3363
+        },
+        "addyosmani/agent-skills": {
+          "stars": 98924,
+          "periodGain": 3345
+        },
+        "anthropics/claude-code": {
+          "stars": 147993,
+          "periodGain": 2384
+        },
+        "anthropics/financial-services": {
+          "stars": 37403,
+          "periodGain": 2382
+        },
+        "JustVugg/colibri": {
+          "stars": 37568,
+          "periodGain": 2055
+        },
+        "TencentCloud/Octop": {
+          "stars": 4886,
+          "periodGain": 1608
+        },
+        "Fission-AI/OpenSpec": {
+          "stars": 70253,
+          "periodGain": 1415
+        },
+        "superdesigndev/treg": {
+          "stars": 3208,
+          "periodGain": 1406
+        },
+        "tt-a1i/archify": {
+          "stars": 71307,
+          "periodGain": 56351
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 51020,
+          "periodGain": 27473
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 35291,
+          "periodGain": 23857
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 21363,
+          "periodGain": 18441
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 38968,
+          "periodGain": 18202
+        },
+        "cursor/plugins": {
+          "stars": 8577,
+          "periodGain": 3861
         }
       }
     }
