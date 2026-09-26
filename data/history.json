@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:07:28.419Z",
+  "generatedAt": "2026-09-26T09:19:39.795Z",
   "snapshots": [
     {
       "date": "2026-07-28",
@@ -4457,75 +4457,51 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T06:07:14.1258196+00:00",
+      "generatedAt": "2026-09-26T09:19:25.0614072+00:00",
       "repos": {
         "cloudflare/security-audit-skill": {
-          "stars": 21715,
+          "stars": 21782,
           "periodGain": 18769
         },
         "stablyai/orca": {
-          "stars": 78480,
+          "stars": 78562,
           "periodGain": 6537
         },
         "affaan-m/ECC": {
-          "stars": 267597,
+          "stars": 267670,
           "periodGain": 6037
         },
         "alibaba/open-code-review": {
-          "stars": 41409,
+          "stars": 41466,
           "periodGain": 20100
         },
         "vectorize-io/hindsight": {
-          "stars": 30161,
+          "stars": 30392,
           "periodGain": 4869
         },
         "Tencent/WeKnora": {
-          "stars": 30151,
+          "stars": 30190,
           "periodGain": 9591
         },
         "addyosmani/agent-skills": {
-          "stars": 99128,
+          "stars": 99163,
           "periodGain": 2911
         },
         "anthropics/financial-services": {
-          "stars": 37584,
+          "stars": 37603,
           "periodGain": 2623
         },
         "paperclipai/paperclip": {
-          "stars": 85381,
+          "stars": 85676,
           "periodGain": 2616
         },
-        "bojieli/ai-agent-book": {
-          "stars": 51046,
-          "periodGain": 2485
-        },
         "anthropics/claude-code": {
-          "stars": 148127,
+          "stars": 148143,
           "periodGain": 2102
         },
         "superdesigndev/treg": {
-          "stars": 3415,
+          "stars": 3425,
           "periodGain": 1687
-        },
-        "tt-a1i/archify": {
-          "stars": 71882,
-          "periodGain": 56232
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 51252,
-          "periodGain": 27288
-        },
-        "debpalash/VoiceStudio": {
-          "stars": 35561,
-          "periodGain": 24027
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 39070,
-          "periodGain": 18282
-        },
-        "cursor/plugins": {
-          "stars": 8664,
-          "periodGain": 3701
         }
       }
     }
