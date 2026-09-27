@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-27T06:34:53.9897608+00:00",
+  "generatedAt": "2026-09-27T09:58:46.8254626+00:00",
   "weekly": [
     {
       "owner": "vectorize-io",
@@ -18,8 +18,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 7282,
-      "totalStars": 33642,
-      "forks": 3939,
+      "totalStars": 34634,
+      "forks": 4245,
       "license": "MIT",
       "pushedAt": "09/26/2026 14:14:46",
       "tags": [
@@ -76,10 +76,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 6503,
-      "totalStars": 79066,
-      "forks": 5178,
+      "totalStars": 79168,
+      "forks": 5185,
       "license": "MIT",
-      "pushedAt": "09/27/2026 06:34:48",
+      "pushedAt": "09/27/2026 09:58:00",
       "tags": [
         "agent",
         "llm",
@@ -115,8 +115,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 6474,
-      "totalStars": 22089,
-      "forks": 1278,
+      "totalStars": 22140,
+      "forks": 1282,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -162,8 +162,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 5522,
-      "totalStars": 268028,
-      "forks": 40038,
+      "totalStars": 268080,
+      "forks": 40047,
       "license": "MIT",
       "pushedAt": "09/24/2026 16:52:48",
       "tags": [
@@ -202,10 +202,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 5376,
-      "totalStars": 87876,
-      "forks": 15483,
+      "totalStars": 88227,
+      "forks": 15522,
       "license": "MIT",
-      "pushedAt": "09/27/2026 03:47:02",
+      "pushedAt": "09/27/2026 09:38:47",
       "tags": [
         "agent"
       ],
@@ -260,10 +260,10 @@
       "homepage": "https://docs.univer.ai",
       "language": "TypeScript",
       "starsGained": 4660,
-      "totalStars": 19711,
-      "forks": 1661,
+      "totalStars": 19807,
+      "forks": 1689,
       "license": "Apache-2.0",
-      "pushedAt": "09/27/2026 06:22:05",
+      "pushedAt": "09/27/2026 06:47:15",
       "tags": [
         "agent"
       ],
@@ -305,8 +305,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 4310,
-      "totalStars": 41679,
-      "forks": 2999,
+      "totalStars": 41740,
+      "forks": 3004,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -367,8 +367,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 3015,
-      "totalStars": 30395,
-      "forks": 4073,
+      "totalStars": 30445,
+      "forks": 4074,
       "license": "NOASSERTION",
       "pushedAt": "09/27/2026 05:48:04",
       "tags": [
@@ -408,8 +408,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2633,
-      "totalStars": 37737,
-      "forks": 5453,
+      "totalStars": 37758,
+      "forks": 5458,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -451,8 +451,8 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 2510,
-      "totalStars": 99328,
-      "forks": 10427,
+      "totalStars": 99354,
+      "forks": 10429,
       "license": "MIT",
       "pushedAt": "09/26/2026 04:19:38",
       "tags": [
@@ -504,8 +504,8 @@
       "homepage": "https://treg.to",
       "language": "Python",
       "starsGained": 1773,
-      "totalStars": 3524,
-      "forks": 288,
+      "totalStars": 3539,
+      "forks": 290,
       "license": "NOASSERTION",
       "pushedAt": "09/26/2026 10:14:25",
       "tags": [
@@ -542,8 +542,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 1744,
-      "totalStars": 148248,
-      "forks": 24787,
+      "totalStars": 148268,
+      "forks": 24794,
       "license": "",
       "pushedAt": "09/26/2026 22:04:19",
       "tags": [
@@ -605,10 +605,10 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 55722,
-      "totalStars": 72379,
-      "forks": 4891,
+      "totalStars": 72455,
+      "forks": 4897,
       "license": "MIT",
-      "pushedAt": "09/27/2026 04:52:00",
+      "pushedAt": "09/27/2026 08:56:05",
       "tags": [
         "agent",
         "llm",
@@ -677,22 +677,31 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [],
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 27092,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 51460,
+      "forks": 2971,
+      "license": "MIT",
+      "pushedAt": "09/19/2026 16:44:46",
       "tags": [
         "agent",
-        "coding"
+        "llm",
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -715,22 +724,45 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 24241,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 38141,
+      "forks": 4519,
+      "license": "AGPL-3.0",
+      "pushedAt": "09/27/2026 09:58:01",
       "tags": [
+        "agent",
+        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Latest Electron release",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -741,7 +773,8 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "可按 README 示例落地：Local workflows run on your hardware. Remote services are optional; usage analytics requires consent."
         ]
       }
     },
@@ -763,8 +796,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 20421,
-      "totalStars": 41679,
-      "forks": 2999,
+      "totalStars": 41740,
+      "forks": 3004,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -804,8 +837,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 19124,
-      "totalStars": 22089,
-      "forks": 1278,
+      "totalStars": 22140,
+      "forks": 1282,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -842,8 +875,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 18374,
-      "totalStars": 39186,
-      "forks": 6094,
+      "totalStars": 39201,
+      "forks": 6099,
       "license": "MIT",
       "pushedAt": "09/27/2026 06:31:26",
       "tags": [
@@ -902,8 +935,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 9808,
-      "totalStars": 30395,
-      "forks": 4073,
+      "totalStars": 30445,
+      "forks": 4074,
       "license": "NOASSERTION",
       "pushedAt": "09/27/2026 05:48:04",
       "tags": [
@@ -969,6 +1002,57 @@
       }
     },
     {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-agent",
+        "seo-audit",
+        "seo-automation",
+        "seo-skills",
+        "seo-tools",
+        "site-audit"
+      ],
+      "homepage": "https://openseo.so",
+      "language": "TypeScript",
+      "starsGained": 7749,
+      "totalStars": 21296,
+      "forks": 2728,
+      "license": "MIT",
+      "pushedAt": "09/20/2026 00:10:38",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenSEO",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Keyword research"
+        ]
+      }
+    },
+    {
       "owner": "Tencent",
       "repo": "BrowserSkill",
       "fullName": "Tencent/BrowserSkill",
@@ -1013,21 +1097,21 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
       "starsGained": 5607,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 33820,
+      "forks": 3254,
+      "license": "Apache-2.0",
+      "pushedAt": "09/15/2026 20:02:45",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "TimesFM",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -1039,41 +1123,6 @@
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
-      "owner": "MakazhanAlpamys",
-      "repo": "Soup",
-      "fullName": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188336071?s=40&v=4",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 4232,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "projectIntro": "该项目的 GitHub 简介是：Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "featurePoints": [
-          "核心线索：Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
