@@ -1,68 +1,6 @@
 {
-  "generatedAt": "2026-09-26T09:19:39.795Z",
+  "generatedAt": "2026-09-27T05:10:01.777Z",
   "snapshots": [
-    {
-      "date": "2026-07-28",
-      "generatedAt": "2026-07-28T06:38:05.6264195+00:00",
-      "repos": {
-        "bojieli/ai-agent-book": {
-          "stars": 23405,
-          "periodGain": 13627
-        },
-        "koala73/worldmonitor": {
-          "stars": 75504,
-          "periodGain": 15236
-        },
-        "mattpocock/skills": {
-          "stars": 191827,
-          "periodGain": 12682
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 32388,
-          "periodGain": 24936
-        },
-        "stablyai/orca": {
-          "stars": 31116,
-          "periodGain": 22573
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 11686,
-          "periodGain": 6961
-        },
-        "earendil-works/pi": {
-          "stars": 79244,
-          "periodGain": 5751
-        },
-        "ruvnet/RuView": {
-          "stars": 87044,
-          "periodGain": 5662
-        },
-        "oblien/openship": {
-          "stars": 9046,
-          "periodGain": 4911
-        },
-        "Nutlope/hallmark": {
-          "stars": 18976,
-          "periodGain": 15231
-        },
-        "tirth8205/code-review-graph": {
-          "stars": 27085,
-          "periodGain": 4577
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 44354,
-          "periodGain": 3961
-        },
-        "usestrix/strix": {
-          "stars": 45073,
-          "periodGain": 18948
-        },
-        "ogulcancelik/herdr": {
-          "stars": 21630,
-          "periodGain": 13835
-        }
-      }
-    },
     {
       "date": "2026-07-29",
       "generatedAt": "2026-07-29T06:42:44.5980355+00:00",
@@ -4502,6 +4440,76 @@
         "superdesigndev/treg": {
           "stars": 3425,
           "periodGain": 1687
+        }
+      }
+    },
+    {
+      "date": "2026-09-27",
+      "generatedAt": "2026-09-27T05:09:46.8574794+00:00",
+      "repos": {
+        "vectorize-io/hindsight": {
+          "stars": 33061,
+          "periodGain": 7282
+        },
+        "stablyai/orca": {
+          "stars": 79031,
+          "periodGain": 6503
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 22072,
+          "periodGain": 19124
+        },
+        "affaan-m/ECC": {
+          "stars": 268007,
+          "periodGain": 5522
+        },
+        "paperclipai/paperclip": {
+          "stars": 87732,
+          "periodGain": 5376
+        },
+        "dream-num/univer": {
+          "stars": 19661,
+          "periodGain": 4660
+        },
+        "alibaba/open-code-review": {
+          "stars": 41660,
+          "periodGain": 20421
+        },
+        "Tencent/WeKnora": {
+          "stars": 30381,
+          "periodGain": 9808
+        },
+        "anthropics/financial-services": {
+          "stars": 37727,
+          "periodGain": 2633
+        },
+        "addyosmani/agent-skills": {
+          "stars": 99312,
+          "periodGain": 2510
+        },
+        "superdesigndev/treg": {
+          "stars": 3520,
+          "periodGain": 1773
+        },
+        "anthropics/claude-code": {
+          "stars": 148243,
+          "periodGain": 1744
+        },
+        "tt-a1i/archify": {
+          "stars": 72349,
+          "periodGain": 55722
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 51417,
+          "periodGain": 27092
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 37472,
+          "periodGain": 24241
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 39176,
+          "periodGain": 18374
         }
       }
     }
