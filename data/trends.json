@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-27T09:58:46.8254626+00:00",
+  "generatedAt": "2026-09-28T05:13:05.1882063+00:00",
   "weekly": [
     {
       "owner": "vectorize-io",
@@ -17,9 +17,9 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 7282,
-      "totalStars": 34634,
-      "forks": 4245,
+      "starsGained": 11089,
+      "totalStars": 37996,
+      "forks": 4931,
       "license": "MIT",
       "pushedAt": "09/26/2026 14:14:46",
       "tags": [
@@ -43,6 +43,44 @@
         "scenarioPoints": [
           "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
           "适用线索：Oracle AI Database is also supported for enterprise deployments with full feature parity. See the storage documentation for details."
+        ]
+      }
+    },
+    {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "topics": [],
+      "homepage": "https://paperclip.ing",
+      "language": "TypeScript",
+      "starsGained": 7364,
+      "totalStars": 90513,
+      "forks": 15715,
+      "license": "MIT",
+      "pushedAt": "09/28/2026 04:25:09",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Paperclip is the app people use to manage AI agents for work.",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：agent, use test-drive. It stays in the foreground, never installs a service"
         ]
       }
     },
@@ -75,11 +113,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 6503,
-      "totalStars": 79168,
-      "forks": 5185,
+      "starsGained": 6227,
+      "totalStars": 79859,
+      "forks": 5215,
       "license": "MIT",
-      "pushedAt": "09/27/2026 09:58:00",
+      "pushedAt": "09/28/2026 05:11:19",
       "tags": [
         "agent",
         "llm",
@@ -105,44 +143,6 @@
       }
     },
     {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 6474,
-      "totalStars": 22140,
-      "forks": 1282,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
-        ]
-      }
-    },
-    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
@@ -161,11 +161,11 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 5522,
-      "totalStars": 268080,
-      "forks": 40047,
+      "starsGained": 5175,
+      "totalStars": 268512,
+      "forks": 40116,
       "license": "MIT",
-      "pushedAt": "09/24/2026 16:52:48",
+      "pushedAt": "09/28/2026 05:12:53",
       "tags": [
         "agent",
         "llm",
@@ -192,20 +192,20 @@
       }
     },
     {
-      "owner": "paperclipai",
-      "repo": "paperclip",
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-      "description": "The open-source app everyone uses to manage agents at work",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "topics": [],
-      "homepage": "https://paperclip.ing",
-      "language": "TypeScript",
-      "starsGained": 5376,
-      "totalStars": 88227,
-      "forks": 15522,
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 4805,
+      "totalStars": 22411,
+      "forks": 1303,
       "license": "MIT",
-      "pushedAt": "09/27/2026 09:38:47",
+      "pushedAt": "09/14/2026 19:29:02",
       "tags": [
         "agent"
       ],
@@ -213,77 +213,79 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Paperclip is the app people use to manage AI agents for work.",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "security-audit",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：agent, use test-drive. It stays in the foreground, never installs a service"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
     {
-      "owner": "dream-num",
-      "repo": "univer",
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
+      "description": "Learn it. Build it. Ship it for others.",
       "topics": [
-        "board",
-        "collaboration",
-        "data-table",
-        "doc",
-        "docx",
-        "excel",
-        "grid",
-        "pdf",
-        "ppt",
-        "pptx",
-        "presentation",
-        "sdk",
-        "sheet",
-        "slides",
-        "spreadsheet",
-        "table",
-        "word",
-        "wordprocessor",
-        "xlsx"
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
       ],
-      "homepage": "https://docs.univer.ai",
-      "language": "TypeScript",
-      "starsGained": 4660,
-      "totalStars": 19807,
-      "forks": 1689,
-      "license": "Apache-2.0",
-      "pushedAt": "09/27/2026 06:47:15",
+      "homepage": "https://aiengineeringfromscratch.com",
+      "language": "Python",
+      "starsGained": 3850,
+      "totalStars": 59584,
+      "forks": 10269,
+      "license": "MIT",
+      "pushedAt": "09/27/2026 11:54:19",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "generation",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
         "readmeTitle": "",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Learn it. Build it. Ship it for others.",
+        "projectIntro": "该项目的 GitHub 简介是：Learn it. Build it. Ship it for others.",
         "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
+          "核心线索：Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。",
-          "适用线索：Agents can generate spreadsheet-based mini-apps, such as decision-making dashboards, interactive reports, and business dashboards."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：compatible agent and let the course drive itself:"
         ]
       }
     },
@@ -304,9 +306,9 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 4310,
-      "totalStars": 41740,
-      "forks": 3004,
+      "starsGained": 3727,
+      "totalStars": 42010,
+      "forks": 3014,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -366,11 +368,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 3015,
-      "totalStars": 30445,
-      "forks": 4074,
+      "starsGained": 2705,
+      "totalStars": 30714,
+      "forks": 4106,
       "license": "NOASSERTION",
-      "pushedAt": "09/27/2026 05:48:04",
+      "pushedAt": "09/28/2026 04:56:00",
       "tags": [
         "agent",
         "llm",
@@ -407,9 +409,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2633,
-      "totalStars": 37758,
-      "forks": 5458,
+      "starsGained": 2606,
+      "totalStars": 37901,
+      "forks": 5467,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -434,104 +436,6 @@
       }
     },
     {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
-      "language": "JavaScript",
-      "starsGained": 2510,
-      "totalStars": 99354,
-      "forks": 10429,
-      "license": "MIT",
-      "pushedAt": "09/26/2026 04:19:38",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
-        ]
-      }
-    },
-    {
-      "owner": "superdesigndev",
-      "repo": "treg",
-      "fullName": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "topics": [
-        "agents",
-        "api-keys",
-        "cli",
-        "credentials",
-        "developer-tools",
-        "dsh-plugin",
-        "mcp",
-        "proxy",
-        "python",
-        "registry",
-        "secrets"
-      ],
-      "homepage": "https://treg.to",
-      "language": "Python",
-      "starsGained": 1773,
-      "totalStars": 3539,
-      "forks": 290,
-      "license": "NOASSERTION",
-      "pushedAt": "09/26/2026 10:14:25",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Treg (OpenRouter for Tools)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Same flow as the dashboard's Getting started guide:"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "claude-code",
       "fullName": "anthropics/claude-code",
@@ -541,11 +445,11 @@
       "topics": [],
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
-      "starsGained": 1744,
-      "totalStars": 148268,
-      "forks": 24794,
+      "starsGained": 1493,
+      "totalStars": 148379,
+      "forks": 24883,
       "license": "",
-      "pushedAt": "09/26/2026 22:04:19",
+      "pushedAt": "09/27/2026 22:20:45",
       "tags": [
         "agent",
         "llm",
@@ -568,6 +472,86 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：See our data usage policies."
+        ]
+      }
+    },
+    {
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "homepage": "https://aitmpl.com",
+      "language": "Python",
+      "starsGained": 1154,
+      "totalStars": 32004,
+      "forks": 3645,
+      "license": "MIT",
+      "pushedAt": "09/28/2026 04:29:33",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Install the Bright Data Skills + MCP for Claude Code",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "topics": [],
+      "homepage": "https://clianything.cc/",
+      "language": "Python",
+      "starsGained": 1105,
+      "totalStars": 50783,
+      "forks": 4640,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 02:01:29",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Browse what is available",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
@@ -604,11 +588,11 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 55722,
-      "totalStars": 72455,
-      "forks": 4897,
+      "starsGained": 51711,
+      "totalStars": 72954,
+      "forks": 4930,
       "license": "MIT",
-      "pushedAt": "09/27/2026 08:56:05",
+      "pushedAt": "09/28/2026 05:08:59",
       "tags": [
         "agent",
         "llm",
@@ -632,88 +616,6 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：The agent switcher covers cursor, codex, claude-code, and opencode."
-        ]
-      }
-    },
-    {
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 35097,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 27092,
-      "totalStars": 51460,
-      "forks": 2971,
-      "license": "MIT",
-      "pushedAt": "09/19/2026 16:44:46",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -748,11 +650,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 24241,
-      "totalStars": 38141,
-      "forks": 4519,
+      "starsGained": 27329,
+      "totalStars": 40671,
+      "forks": 4829,
       "license": "AGPL-3.0",
-      "pushedAt": "09/27/2026 09:58:01",
+      "pushedAt": "09/27/2026 13:29:55",
       "tags": [
         "agent",
         "llm",
@@ -779,6 +681,53 @@
       }
     },
     {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "fullName": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 26939,
+      "totalStars": 51655,
+      "forks": 2979,
+      "license": "MIT",
+      "pushedAt": "09/19/2026 16:44:46",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -795,9 +744,9 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 20421,
-      "totalStars": 41740,
-      "forks": 3004,
+      "starsGained": 20657,
+      "totalStars": 42010,
+      "forks": 3014,
       "license": "Apache-2.0",
       "pushedAt": "09/24/2026 09:59:47",
       "tags": [
@@ -836,9 +785,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 19124,
-      "totalStars": 22140,
-      "forks": 1282,
+      "starsGained": 19427,
+      "totalStars": 22411,
+      "forks": 1303,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -874,11 +823,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 18374,
-      "totalStars": 39201,
-      "forks": 6099,
+      "starsGained": 18484,
+      "totalStars": 39311,
+      "forks": 6109,
       "license": "MIT",
-      "pushedAt": "09/27/2026 06:31:26",
+      "pushedAt": "09/28/2026 05:02:46",
       "tags": [
         "agent",
         "learning"
@@ -900,6 +849,56 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：Node.js = 22.19"
+        ]
+      }
+    },
+    {
+      "owner": "miuuyy",
+      "repo": "codex-chatgpt-web",
+      "fullName": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/147659719?s=40&v=4",
+      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "topics": [
+        "chatgpt",
+        "chatgpt-pro",
+        "codex",
+        "free-ai",
+        "mcp",
+        "openai",
+        "playwright",
+        "quickstart",
+        "responses-api",
+        "typescript"
+      ],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 10481,
+      "totalStars": 12193,
+      "forks": 965,
+      "license": "MIT",
+      "pushedAt": "09/27/2026 03:34:35",
+      "tags": [
+        "agent",
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -934,11 +933,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 9808,
-      "totalStars": 30445,
-      "forks": 4074,
+      "starsGained": 9985,
+      "totalStars": 30714,
+      "forks": 4106,
       "license": "NOASSERTION",
-      "pushedAt": "09/27/2026 05:48:04",
+      "pushedAt": "09/28/2026 04:56:00",
       "tags": [
         "agent",
         "llm",
@@ -966,93 +965,6 @@
       }
     },
     {
-      "owner": "jingyaogong",
-      "repo": "minimind",
-      "fullName": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 7813,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "projectIntro": "该项目的 GitHub 简介是：🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "featurePoints": [
-          "核心线索：🧠 Train a 64M-parameter LLM from scratch in just 2h!"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "every-app",
-      "repo": "open-seo",
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-agent",
-        "seo-audit",
-        "seo-automation",
-        "seo-skills",
-        "seo-tools",
-        "site-audit"
-      ],
-      "homepage": "https://openseo.so",
-      "language": "TypeScript",
-      "starsGained": 7749,
-      "totalStars": 21296,
-      "forks": 2728,
-      "license": "MIT",
-      "pushedAt": "09/20/2026 00:10:38",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenSEO",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Keyword research"
-        ]
-      }
-    },
-    {
       "owner": "Tencent",
       "repo": "BrowserSkill",
       "fullName": "Tencent/BrowserSkill",
@@ -1062,7 +974,7 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 6030,
+      "starsGained": 6144,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1099,9 +1011,9 @@
       "topics": [],
       "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
       "language": "Python",
-      "starsGained": 5607,
-      "totalStars": 33820,
-      "forks": 3254,
+      "starsGained": 5681,
+      "totalStars": 33874,
+      "forks": 3262,
       "license": "Apache-2.0",
       "pushedAt": "09/15/2026 20:02:45",
       "tags": [
@@ -1110,8 +1022,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "TimesFM",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -1123,6 +1035,76 @@
         ],
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "fullName": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
+      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "topics": [],
+      "homepage": "https://magnitude.dev",
+      "language": "Rust",
+      "starsGained": 3743,
+      "totalStars": 5291,
+      "forks": 379,
+      "license": "Apache-2.0",
+      "pushedAt": "09/28/2026 04:41:06",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "projectIntro": "该项目的 GitHub 简介是：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "featurePoints": [
+          "核心线索：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "cursor",
+      "repo": "plugins",
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+      "description": "Cursor plugin specification and official plugins",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 3379,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "featurePoints": [
+          "核心线索：Cursor plugin specification and official plugins"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }

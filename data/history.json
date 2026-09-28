@@ -1,84 +1,6 @@
 {
-  "generatedAt": "2026-09-27T09:59:04.356Z",
+  "generatedAt": "2026-09-28T05:13:22.868Z",
   "snapshots": [
-    {
-      "date": "2026-07-29",
-      "generatedAt": "2026-07-29T06:42:44.5980355+00:00",
-      "repos": {
-        "mattpocock/skills": {
-          "stars": 193458,
-          "periodGain": 12794
-        },
-        "koala73/worldmonitor": {
-          "stars": 76096,
-          "periodGain": 15518
-        },
-        "bojieli/ai-agent-book": {
-          "stars": 25256,
-          "periodGain": 10637
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 33432,
-          "periodGain": 25839
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 13011,
-          "periodGain": 6156
-        },
-        "earendil-works/pi": {
-          "stars": 79920,
-          "periodGain": 5244
-        },
-        "ruvnet/RuView": {
-          "stars": 87360,
-          "periodGain": 5026
-        },
-        "oblien/openship": {
-          "stars": 9524,
-          "periodGain": 3628
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 44688,
-          "periodGain": 3333
-        },
-        "tirth8205/code-review-graph": {
-          "stars": 27430,
-          "periodGain": 3032
-        },
-        "every-app/open-seo": {
-          "stars": 9095,
-          "periodGain": 2596
-        },
-        "shiyu-coder/Kronos": {
-          "stars": 34865,
-          "periodGain": 2521
-        },
-        "stablyai/orca": {
-          "stars": 32067,
-          "periodGain": 23282
-        },
-        "usestrix/strix": {
-          "stars": 45435,
-          "periodGain": 19164
-        },
-        "emilkowalski/skills": {
-          "stars": 22197,
-          "periodGain": 18400
-        },
-        "Nutlope/hallmark": {
-          "stars": 19469,
-          "periodGain": 15858
-        },
-        "Zackriya-Solutions/meetily": {
-          "stars": 27272,
-          "periodGain": 14467
-        },
-        "ogulcancelik/herdr": {
-          "stars": 22071,
-          "periodGain": 14176
-        }
-      }
-    },
     {
       "date": "2026-07-30",
       "generatedAt": "2026-07-30T06:38:22.7138217+00:00",
@@ -4518,6 +4440,88 @@
         "google-research/timesfm": {
           "stars": 33820,
           "periodGain": 5607
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "generatedAt": "2026-09-28T05:13:05.1882063+00:00",
+      "repos": {
+        "vectorize-io/hindsight": {
+          "stars": 37996,
+          "periodGain": 11089
+        },
+        "paperclipai/paperclip": {
+          "stars": 90513,
+          "periodGain": 7364
+        },
+        "stablyai/orca": {
+          "stars": 79859,
+          "periodGain": 6227
+        },
+        "affaan-m/ECC": {
+          "stars": 268512,
+          "periodGain": 5175
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 22411,
+          "periodGain": 19427
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 59584,
+          "periodGain": 3850
+        },
+        "alibaba/open-code-review": {
+          "stars": 42010,
+          "periodGain": 20657
+        },
+        "Tencent/WeKnora": {
+          "stars": 30714,
+          "periodGain": 9985
+        },
+        "anthropics/financial-services": {
+          "stars": 37901,
+          "periodGain": 2606
+        },
+        "anthropics/claude-code": {
+          "stars": 148379,
+          "periodGain": 1493
+        },
+        "davila7/claude-code-templates": {
+          "stars": 32004,
+          "periodGain": 1154
+        },
+        "HKUDS/CLI-Anything": {
+          "stars": 50783,
+          "periodGain": 1105
+        },
+        "tt-a1i/archify": {
+          "stars": 72954,
+          "periodGain": 51711
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 40671,
+          "periodGain": 27329
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 51655,
+          "periodGain": 26939
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 39311,
+          "periodGain": 18484
+        },
+        "miuuyy/codex-chatgpt-web": {
+          "stars": 12193,
+          "periodGain": 10481
+        },
+        "google-research/timesfm": {
+          "stars": 33874,
+          "periodGain": 5681
+        },
+        "magnitudedev/magnitude": {
+          "stars": 5291,
+          "periodGain": 3743
         }
       }
     }
