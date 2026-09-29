@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-09-28T10:50:08.5749379+00:00",
+  "generatedAt": "2026-09-29T05:35:12.0412639+00:00",
   "weekly": [
     {
       "owner": "vectorize-io",
@@ -17,11 +17,11 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 11089,
-      "totalStars": 39383,
-      "forks": 5202,
+      "starsGained": 15537,
+      "totalStars": 41402,
+      "forks": 5574,
       "license": "MIT",
-      "pushedAt": "09/28/2026 10:09:27",
+      "pushedAt": "09/29/2026 00:09:54",
       "tags": [
         "agent",
         "learning"
@@ -43,6 +43,44 @@
         "scenarioPoints": [
           "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
           "适用线索：Oracle AI Database is also supported for enterprise deployments with full feature parity. See the storage documentation for details."
+        ]
+      }
+    },
+    {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "topics": [],
+      "homepage": "https://paperclip.ing",
+      "language": "TypeScript",
+      "starsGained": 10518,
+      "totalStars": 93251,
+      "forks": 15930,
+      "license": "MIT",
+      "pushedAt": "09/29/2026 02:46:34",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Paperclip is the app people use to manage AI agents for work.",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：agent, use test-drive. It stays in the foreground, never installs a service"
         ]
       }
     },
@@ -77,11 +115,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 7793,
-      "totalStars": 41423,
-      "forks": 4911,
+      "starsGained": 7972,
+      "totalStars": 44915,
+      "forks": 5152,
       "license": "AGPL-3.0",
-      "pushedAt": "09/27/2026 13:29:55",
+      "pushedAt": "09/29/2026 00:58:42",
       "tags": [
         "agent",
         "llm",
@@ -104,44 +142,6 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "可按 README 示例落地：Local workflows run on your hardware. Remote services are optional; usage analytics requires consent."
-        ]
-      }
-    },
-    {
-      "owner": "paperclipai",
-      "repo": "paperclip",
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "topics": [],
-      "homepage": "https://paperclip.ing",
-      "language": "TypeScript",
-      "starsGained": 7364,
-      "totalStars": 91451,
-      "forks": 15795,
-      "license": "MIT",
-      "pushedAt": "09/28/2026 09:47:18",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Paperclip is the app people use to manage AI agents for work.",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：agent, use test-drive. It stays in the foreground, never installs a service"
         ]
       }
     },
@@ -174,11 +174,11 @@
       ],
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
-      "starsGained": 6227,
-      "totalStars": 80168,
-      "forks": 5229,
+      "starsGained": 6151,
+      "totalStars": 80930,
+      "forks": 5268,
       "license": "MIT",
-      "pushedAt": "09/28/2026 10:46:22",
+      "pushedAt": "09/29/2026 05:34:12",
       "tags": [
         "agent",
         "llm",
@@ -200,44 +200,6 @@
         ],
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 4805,
-      "totalStars": 22523,
-      "forks": 1308,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -272,11 +234,11 @@
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 3850,
-      "totalStars": 59998,
-      "forks": 10325,
+      "starsGained": 5004,
+      "totalStars": 60544,
+      "forks": 10427,
       "license": "MIT",
-      "pushedAt": "09/28/2026 06:30:42",
+      "pushedAt": "09/28/2026 20:11:19",
       "tags": [
         "agent",
         "llm",
@@ -298,6 +260,44 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：compatible agent and let the course drive itself:"
+        ]
+      }
+    },
+    {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 3962,
+      "totalStars": 22843,
+      "forks": 1332,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 19:29:02",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "security-audit",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -332,11 +332,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 2705,
-      "totalStars": 30807,
-      "forks": 4119,
+      "starsGained": 2509,
+      "totalStars": 31041,
+      "forks": 4150,
       "license": "NOASSERTION",
-      "pushedAt": "09/28/2026 10:24:20",
+      "pushedAt": "09/29/2026 04:16:47",
       "tags": [
         "agent",
         "llm",
@@ -373,9 +373,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2606,
-      "totalStars": 37952,
-      "forks": 5474,
+      "starsGained": 2381,
+      "totalStars": 38117,
+      "forks": 5488,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -428,11 +428,11 @@
       ],
       "homepage": "https://cua.ai",
       "language": "HTML",
-      "starsGained": 1559,
-      "totalStars": 26732,
-      "forks": 1858,
+      "starsGained": 1293,
+      "totalStars": 26899,
+      "forks": 1873,
       "license": "MIT",
-      "pushedAt": "09/28/2026 10:48:50",
+      "pushedAt": "09/29/2026 04:57:47",
       "tags": [
         "agent",
         "ml"
@@ -455,20 +455,20 @@
       }
     },
     {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "topics": [],
-      "homepage": "",
-      "language": "Rust",
-      "starsGained": 1224,
-      "totalStars": 8508,
-      "forks": 577,
-      "license": "MIT",
-      "pushedAt": "09/28/2026 05:22:53",
+      "homepage": "https://clianything.cc/",
+      "language": "Python",
+      "starsGained": 1227,
+      "totalStars": 50920,
+      "forks": 4647,
+      "license": "Apache-2.0",
+      "pushedAt": "09/22/2026 02:01:29",
       "tags": [
         "agent"
       ],
@@ -476,19 +476,18 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Install the ai-memory CLI wrapper (a small shell script that",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
+        "readmeTitle": "Browse what is available",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：hooks/ tree, starts the existing LaunchAgent, and opens /web,"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -507,11 +506,11 @@
       ],
       "homepage": "https://aitmpl.com",
       "language": "Python",
-      "starsGained": 1154,
-      "totalStars": 32031,
-      "forks": 3647,
+      "starsGained": 1200,
+      "totalStars": 32102,
+      "forks": 3653,
       "license": "MIT",
-      "pushedAt": "09/28/2026 04:29:33",
+      "pushedAt": "09/29/2026 03:07:28",
       "tags": [
         "agent",
         "llm"
@@ -536,20 +535,20 @@
       }
     },
     {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "topics": [],
-      "homepage": "https://clianything.cc/",
-      "language": "Python",
-      "starsGained": 1105,
-      "totalStars": 50824,
-      "forks": 4646,
-      "license": "Apache-2.0",
-      "pushedAt": "09/22/2026 02:01:29",
+      "homepage": "",
+      "language": "Rust",
+      "starsGained": 1110,
+      "totalStars": 8591,
+      "forks": 582,
+      "license": "MIT",
+      "pushedAt": "09/29/2026 04:00:50",
       "tags": [
         "agent"
       ],
@@ -557,18 +556,19 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Browse what is available",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "Install the ai-memory CLI wrapper (a small shell script that",
+        "category": "agent-memory",
+        "zhTitle": "AI Agent 长期记忆工具",
+        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
+        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
+          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
+          "强调基准和真实工作流中的记忆效果。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：hooks/ tree, starts the existing LaunchAgent, and opens /web,"
         ]
       }
     }
@@ -605,11 +605,11 @@
       ],
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
-      "starsGained": 51711,
-      "totalStars": 73195,
-      "forks": 4948,
+      "starsGained": 48030,
+      "totalStars": 73697,
+      "forks": 4973,
       "license": "MIT",
-      "pushedAt": "09/28/2026 10:49:20",
+      "pushedAt": "09/28/2026 15:45:30",
       "tags": [
         "agent",
         "llm",
@@ -646,7 +646,7 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 33812,
+      "starsGained": 33174,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -702,11 +702,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 27329,
-      "totalStars": 41423,
-      "forks": 4911,
+      "starsGained": 30611,
+      "totalStars": 44915,
+      "forks": 5152,
       "license": "AGPL-3.0",
-      "pushedAt": "09/27/2026 13:29:55",
+      "pushedAt": "09/29/2026 00:58:42",
       "tags": [
         "agent",
         "llm",
@@ -739,31 +739,22 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 26939,
-      "totalStars": 51726,
-      "forks": 2982,
-      "license": "MIT",
-      "pushedAt": "09/19/2026 16:44:46",
+      "starsGained": 26854,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -796,11 +787,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 20657,
-      "totalStars": 42106,
-      "forks": 3022,
+      "starsGained": 20955,
+      "totalStars": 42380,
+      "forks": 3038,
       "license": "Apache-2.0",
-      "pushedAt": "09/28/2026 09:09:11",
+      "pushedAt": "09/29/2026 03:46:45",
       "tags": [
         "agent",
         "llm",
@@ -837,9 +828,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 19427,
-      "totalStars": 22523,
-      "forks": 1308,
+      "starsGained": 19771,
+      "totalStars": 22843,
+      "forks": 1332,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -875,11 +866,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 18484,
-      "totalStars": 39351,
-      "forks": 6113,
+      "starsGained": 18422,
+      "totalStars": 39445,
+      "forks": 6126,
       "license": "MIT",
-      "pushedAt": "09/28/2026 10:25:24",
+      "pushedAt": "09/29/2026 02:59:35",
       "tags": [
         "agent",
         "learning"
@@ -925,9 +916,9 @@
       ],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 10481,
-      "totalStars": 12313,
-      "forks": 977,
+      "starsGained": 10909,
+      "totalStars": 12637,
+      "forks": 999,
       "license": "MIT",
       "pushedAt": "09/28/2026 05:20:16",
       "tags": [
@@ -985,11 +976,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 9985,
-      "totalStars": 30807,
-      "forks": 4119,
+      "starsGained": 10271,
+      "totalStars": 31041,
+      "forks": 4150,
       "license": "NOASSERTION",
-      "pushedAt": "09/28/2026 10:24:20",
+      "pushedAt": "09/29/2026 04:16:47",
       "tags": [
         "agent",
         "llm",
@@ -1017,35 +1008,59 @@
       }
     },
     {
-      "owner": "every-app",
-      "repo": "open-seo",
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "topics": [
-        "backlink-analysis",
-        "google-search-console-mcp",
-        "keyword-research",
-        "mcp",
-        "seo",
-        "seo-agent",
-        "seo-audit",
-        "seo-automation",
-        "seo-skills",
-        "seo-tools",
-        "site-audit"
-      ],
-      "homepage": "https://openseo.so",
+      "owner": "Tencent",
+      "repo": "BrowserSkill",
+      "fullName": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
-      "starsGained": 7792,
-      "totalStars": 21468,
-      "forks": 2758,
-      "license": "MIT",
-      "pushedAt": "09/20/2026 00:10:38",
+      "starsGained": 6292,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "learning"
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 5752,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -1067,62 +1082,20 @@
       }
     },
     {
-      "owner": "Tencent",
-      "repo": "BrowserSkill",
-      "fullName": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "topics": [
-        "agent",
-        "browser-use",
-        "dsh-plugin"
-      ],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 6144,
-      "totalStars": 7656,
-      "forks": 549,
-      "license": "MIT",
-      "pushedAt": "09/28/2026 03:20:16",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "BrowserSkill",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：For local automation, you need an AI agent + the bsk CLI + the browser extension. The CLI includes the background daemon. The skill teaches your agent how to use it."
-        ]
-      }
-    },
-    {
-      "owner": "google-research",
-      "repo": "timesfm",
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "fullName": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",
+      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "topics": [],
-      "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
-      "language": "Python",
-      "starsGained": 5681,
-      "totalStars": 33896,
-      "forks": 3262,
+      "homepage": "https://magnitude.dev",
+      "language": "Rust",
+      "starsGained": 3856,
+      "totalStars": 5423,
+      "forks": 384,
       "license": "Apache-2.0",
-      "pushedAt": "09/15/2026 20:02:45",
+      "pushedAt": "09/29/2026 03:29:32",
       "tags": [
         "ml"
       ],
@@ -1130,18 +1103,16 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "TimesFM",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "projectIntro": "该项目的 GitHub 简介是：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
         "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+          "核心线索：Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU."
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }

@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-28T10:50:28.343Z",
+  "generatedAt": "2026-09-29T05:35:29.611Z",
   "snapshots": [
-    {
-      "date": "2026-07-30",
-      "generatedAt": "2026-07-30T06:38:22.7138217+00:00",
-      "repos": {
-        "koala73/worldmonitor": {
-          "stars": 76645,
-          "periodGain": 15849
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 13697,
-          "periodGain": 5544
-        }
-      }
-    },
     {
       "date": "2026-07-31",
       "generatedAt": "2026-07-31T07:11:44.7177923+00:00",
@@ -4526,6 +4512,80 @@
         "google-research/timesfm": {
           "stars": 33896,
           "periodGain": 5681
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "generatedAt": "2026-09-29T05:35:12.0412639+00:00",
+      "repos": {
+        "vectorize-io/hindsight": {
+          "stars": 41402,
+          "periodGain": 15537
+        },
+        "paperclipai/paperclip": {
+          "stars": 93251,
+          "periodGain": 10518
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 44915,
+          "periodGain": 30611
+        },
+        "stablyai/orca": {
+          "stars": 80930,
+          "periodGain": 6151
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 60544,
+          "periodGain": 5004
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 22843,
+          "periodGain": 19771
+        },
+        "Tencent/WeKnora": {
+          "stars": 31041,
+          "periodGain": 10271
+        },
+        "anthropics/financial-services": {
+          "stars": 38117,
+          "periodGain": 2381
+        },
+        "trycua/cua": {
+          "stars": 26899,
+          "periodGain": 1293
+        },
+        "HKUDS/CLI-Anything": {
+          "stars": 50920,
+          "periodGain": 1227
+        },
+        "davila7/claude-code-templates": {
+          "stars": 32102,
+          "periodGain": 1200
+        },
+        "akitaonrails/ai-memory": {
+          "stars": 8591,
+          "periodGain": 1110
+        },
+        "tt-a1i/archify": {
+          "stars": 73697,
+          "periodGain": 48030
+        },
+        "alibaba/open-code-review": {
+          "stars": 42380,
+          "periodGain": 20955
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 39445,
+          "periodGain": 18422
+        },
+        "miuuyy/codex-chatgpt-web": {
+          "stars": 12637,
+          "periodGain": 10909
+        },
+        "magnitudedev/magnitude": {
+          "stars": 5423,
+          "periodGain": 3856
         }
       }
     }
