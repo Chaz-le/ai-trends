@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-01T05:40:15.2421691+00:00",
+  "generatedAt": "2026-10-01T07:09:26.5390271+00:00",
   "weekly": [
     {
       "owner": "vectorize-io",
@@ -18,8 +18,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 18389,
-      "totalStars": 44021,
-      "forks": 5850,
+      "totalStars": 44033,
+      "forks": 5855,
       "license": "MIT",
       "pushedAt": "10/01/2026 04:38:41",
       "tags": [
@@ -78,8 +78,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 15186,
-      "totalStars": 50692,
-      "forks": 5619,
+      "totalStars": 50780,
+      "forks": 5630,
       "license": "AGPL-3.0",
       "pushedAt": "09/29/2026 15:45:28",
       "tags": [
@@ -118,10 +118,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 13855,
-      "totalStars": 95415,
-      "forks": 16190,
+      "totalStars": 95465,
+      "forks": 16195,
       "license": "MIT",
-      "pushedAt": "10/01/2026 05:14:51",
+      "pushedAt": "10/01/2026 06:42:34",
       "tags": [
         "agent"
       ],
@@ -177,8 +177,8 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 6485,
-      "totalStars": 62193,
-      "forks": 10632,
+      "totalStars": 62208,
+      "forks": 10638,
       "license": "MIT",
       "pushedAt": "09/30/2026 18:27:51",
       "tags": [
@@ -236,10 +236,10 @@
       "homepage": "https://docs.univer.ai",
       "language": "TypeScript",
       "starsGained": 6091,
-      "totalStars": 22193,
-      "forks": 1868,
+      "totalStars": 22196,
+      "forks": 1869,
       "license": "Apache-2.0",
-      "pushedAt": "09/30/2026 18:08:53",
+      "pushedAt": "10/01/2026 06:20:59",
       "tags": [
         "agent"
       ],
@@ -293,10 +293,10 @@
       "homepage": "https://onOrca.dev",
       "language": "TypeScript",
       "starsGained": 5987,
-      "totalStars": 82528,
-      "forks": 5359,
+      "totalStars": 82587,
+      "forks": 5360,
       "license": "MIT",
-      "pushedAt": "10/01/2026 05:39:22",
+      "pushedAt": "10/01/2026 07:02:59",
       "tags": [
         "agent",
         "llm",
@@ -332,8 +332,8 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 2775,
-      "totalStars": 73140,
-      "forks": 4414,
+      "totalStars": 73166,
+      "forks": 4418,
       "license": "Apache-2.0",
       "pushedAt": "10/01/2026 00:06:24",
       "tags": [
@@ -388,7 +388,7 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 2227,
-      "totalStars": 31543,
+      "totalStars": 31556,
       "forks": 4210,
       "license": "NOASSERTION",
       "pushedAt": "09/30/2026 07:26:51",
@@ -429,8 +429,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1637,
-      "totalStars": 38392,
-      "forks": 5524,
+      "totalStars": 38402,
+      "forks": 5526,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -465,8 +465,8 @@
       "homepage": "https://clianything.cc/",
       "language": "Python",
       "starsGained": 1371,
-      "totalStars": 51141,
-      "forks": 4662,
+      "totalStars": 51147,
+      "forks": 4663,
       "license": "Apache-2.0",
       "pushedAt": "09/22/2026 02:01:29",
       "tags": [
@@ -510,8 +510,8 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1301,
-      "totalStars": 6132,
-      "forks": 773,
+      "totalStars": 6140,
+      "forks": 778,
       "license": "MIT",
       "pushedAt": "09/30/2026 07:13:09",
       "tags": [
@@ -551,7 +551,7 @@
       "homepage": "https://aitmpl.com",
       "language": "Python",
       "starsGained": 914,
-      "totalStars": 32248,
+      "totalStars": 32252,
       "forks": 3662,
       "license": "MIT",
       "pushedAt": "10/01/2026 03:17:12",
@@ -612,8 +612,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 38190,
-      "totalStars": 75375,
-      "forks": 5064,
+      "totalStars": 75419,
+      "forks": 5065,
       "license": "MIT",
       "pushedAt": "09/30/2026 15:57:42",
       "tags": [
@@ -649,31 +649,47 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 31553,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 149502,
+      "forks": 8031,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 14:34:56",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "generation",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -695,8 +711,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 26622,
-      "totalStars": 52469,
-      "forks": 3023,
+      "totalStars": 52498,
+      "forks": 3025,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -744,8 +760,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 26563,
-      "totalStars": 270290,
-      "forks": 40399,
+      "totalStars": 270316,
+      "forks": 40406,
       "license": "MIT",
       "pushedAt": "09/30/2026 18:45:04",
       "tags": [
@@ -789,8 +805,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 21957,
-      "totalStars": 44021,
-      "forks": 5850,
+      "totalStars": 44033,
+      "forks": 5855,
       "license": "MIT",
       "pushedAt": "10/01/2026 04:38:41",
       "tags": [
@@ -835,8 +851,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 21460,
-      "totalStars": 42987,
-      "forks": 3093,
+      "totalStars": 43003,
+      "forks": 3095,
       "license": "Apache-2.0",
       "pushedAt": "09/29/2026 14:33:37",
       "tags": [
@@ -876,10 +892,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 15694,
-      "totalStars": 95415,
-      "forks": 16190,
+      "totalStars": 95465,
+      "forks": 16195,
       "license": "MIT",
-      "pushedAt": "10/01/2026 05:14:51",
+      "pushedAt": "10/01/2026 06:42:34",
       "tags": [
         "agent"
       ],
@@ -914,10 +930,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 13868,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 39701,
+      "forks": 6154,
+      "license": "MIT",
+      "pushedAt": "10/01/2026 02:00:10",
       "tags": [
         "agent",
         "learning"
@@ -925,8 +941,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Or configure Amazon Bedrock with AWS credentials and BEDROCKREGION.",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -937,7 +953,8 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Node.js = 22.19"
         ]
       }
     },
@@ -948,22 +965,34 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "Write HTML. Render video. Built for agents.",
-      "topics": [],
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 11385,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 54888,
+      "forks": 4988,
+      "license": "Apache-2.0",
+      "pushedAt": "10/01/2026 07:04:15",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "macOS",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -974,7 +1003,8 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：For Claude Code, install the versioned plugin:"
         ]
       }
     },
@@ -1010,7 +1040,7 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10658,
-      "totalStars": 31543,
+      "totalStars": 31556,
       "forks": 4210,
       "license": "NOASSERTION",
       "pushedAt": "09/30/2026 07:26:51",
@@ -1084,13 +1114,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 5807,
-      "totalStars": 0,
-      "forks": 0,
+      "totalStars": 148758,
+      "forks": 25117,
       "license": "",
-      "pushedAt": "",
+      "pushedAt": "10/01/2026 05:23:04",
       "tags": [
         "agent",
         "llm",
@@ -1099,8 +1129,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Claude Code",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1111,7 +1141,8 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：See our data usage policies."
         ]
       }
     }
