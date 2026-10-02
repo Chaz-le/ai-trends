@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-02T06:58:12.4347141+00:00",
+  "generatedAt": "2026-10-02T10:28:09.2973728+00:00",
   "weekly": [
     {
       "owner": "vectorize-io",
@@ -18,10 +18,10 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 17403,
-      "totalStars": 44420,
-      "forks": 5861,
+      "totalStars": 44496,
+      "forks": 5862,
       "license": "MIT",
-      "pushedAt": "10/01/2026 21:37:15",
+      "pushedAt": "10/02/2026 08:47:19",
       "tags": [
         "agent",
         "learning"
@@ -78,8 +78,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 16114,
-      "totalStars": 51526,
-      "forks": 5745,
+      "totalStars": 51620,
+      "forks": 5753,
       "license": "AGPL-3.0",
       "pushedAt": "10/02/2026 06:40:40",
       "tags": [
@@ -118,10 +118,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 14335,
-      "totalStars": 95952,
-      "forks": 16265,
+      "totalStars": 96027,
+      "forks": 16272,
       "license": "MIT",
-      "pushedAt": "10/02/2026 06:47:38",
+      "pushedAt": "10/02/2026 09:45:11",
       "tags": [
         "agent"
       ],
@@ -177,8 +177,8 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 6469,
-      "totalStars": 62505,
-      "forks": 10688,
+      "totalStars": 62550,
+      "forks": 10696,
       "license": "MIT",
       "pushedAt": "10/02/2026 05:37:24",
       "tags": [
@@ -236,7 +236,7 @@
       "homepage": "https://docs.univer.ai",
       "language": "TypeScript",
       "starsGained": 5267,
-      "totalStars": 22271,
+      "totalStars": 22286,
       "forks": 1870,
       "license": "Apache-2.0",
       "pushedAt": "10/02/2026 01:05:00",
@@ -274,10 +274,10 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 2704,
-      "totalStars": 73854,
-      "forks": 4447,
+      "totalStars": 73935,
+      "forks": 4456,
       "license": "Apache-2.0",
-      "pushedAt": "10/02/2026 06:50:57",
+      "pushedAt": "10/02/2026 07:05:04",
       "tags": [
         "agent"
       ],
@@ -317,8 +317,8 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1360,
-      "totalStars": 6287,
-      "forks": 787,
+      "totalStars": 6312,
+      "forks": 788,
       "license": "MIT",
       "pushedAt": "09/30/2026 07:13:09",
       "tags": [
@@ -353,8 +353,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1270,
-      "totalStars": 38498,
-      "forks": 5537,
+      "totalStars": 38504,
+      "forks": 5538,
       "license": "Apache-2.0",
       "pushedAt": "09/21/2026 21:10:41",
       "tags": [
@@ -389,7 +389,7 @@
       "homepage": "https://clianything.cc/",
       "language": "Python",
       "starsGained": 1055,
-      "totalStars": 51290,
+      "totalStars": 51318,
       "forks": 4678,
       "license": "Apache-2.0",
       "pushedAt": "09/22/2026 02:01:29",
@@ -447,7 +447,7 @@
       "homepage": "https://alirezarezvani.medium.com/",
       "language": "Python",
       "starsGained": 743,
-      "totalStars": 27213,
+      "totalStars": 27232,
       "forks": 3844,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:46:16",
@@ -493,8 +493,8 @@
       "homepage": "https://aitmpl.com",
       "language": "Python",
       "starsGained": 601,
-      "totalStars": 32286,
-      "forks": 3670,
+      "totalStars": 32291,
+      "forks": 3672,
       "license": "MIT",
       "pushedAt": "10/02/2026 03:15:08",
       "tags": [
@@ -544,8 +544,8 @@
       "homepage": "https://github.com/androoAGI/starnet-releases/releases/latest",
       "language": "JavaScript",
       "starsGained": 592,
-      "totalStars": 925,
-      "forks": 156,
+      "totalStars": 935,
+      "forks": 157,
       "license": "MIT",
       "pushedAt": "09/28/2026 21:02:04",
       "tags": [
@@ -603,8 +603,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 35068,
-      "totalStars": 75975,
-      "forks": 5113,
+      "totalStars": 76043,
+      "forks": 5119,
       "license": "MIT",
       "pushedAt": "09/30/2026 15:57:42",
       "tags": [
@@ -640,31 +640,47 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 31160,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 151059,
+      "forks": 8105,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 14:34:56",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "generation",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "metadata",
         "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -686,8 +702,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 26584,
-      "totalStars": 52770,
-      "forks": 3037,
+      "totalStars": 52807,
+      "forks": 3039,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -735,8 +751,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 26450,
-      "totalStars": 270827,
-      "forks": 40492,
+      "totalStars": 270900,
+      "forks": 40504,
       "license": "MIT",
       "pushedAt": "10/02/2026 02:01:14",
       "tags": [
@@ -780,10 +796,10 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 22416,
-      "totalStars": 44420,
-      "forks": 5861,
+      "totalStars": 44496,
+      "forks": 5862,
       "license": "MIT",
-      "pushedAt": "10/01/2026 21:37:15",
+      "pushedAt": "10/02/2026 08:47:19",
       "tags": [
         "agent",
         "learning"
@@ -826,8 +842,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 21646,
-      "totalStars": 43241,
-      "forks": 3113,
+      "totalStars": 43262,
+      "forks": 3116,
       "license": "Apache-2.0",
       "pushedAt": "10/01/2026 20:40:46",
       "tags": [
@@ -867,10 +883,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 16130,
-      "totalStars": 95952,
-      "forks": 16265,
+      "totalStars": 96027,
+      "forks": 16272,
       "license": "MIT",
-      "pushedAt": "10/02/2026 06:47:38",
+      "pushedAt": "10/02/2026 09:45:11",
       "tags": [
         "agent"
       ],
@@ -1001,8 +1017,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10740,
-      "totalStars": 31693,
-      "forks": 4230,
+      "totalStars": 31712,
+      "forks": 4232,
       "license": "NOASSERTION",
       "pushedAt": "10/01/2026 11:57:46",
       "tags": [
