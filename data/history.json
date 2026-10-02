@@ -1,56 +1,6 @@
 {
-  "generatedAt": "2026-10-01T10:54:47.972Z",
+  "generatedAt": "2026-10-02T05:25:22.073Z",
   "snapshots": [
-    {
-      "date": "2026-08-02",
-      "generatedAt": "2026-08-02T06:43:21.0792643+00:00",
-      "repos": {
-        "diegosouzapw/OmniRoute": {
-          "stars": 37232,
-          "periodGain": 27829
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 15346,
-          "periodGain": 5232
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 14988,
-          "periodGain": 5105
-        },
-        "alibaba/open-code-review": {
-          "stars": 17599,
-          "periodGain": 4708
-        },
-        "citrolabs/ego-lite": {
-          "stars": 7453,
-          "periodGain": 4090
-        },
-        "1jehuang/jcode": {
-          "stars": 15013,
-          "periodGain": 3548
-        },
-        "moeru-ai/airi": {
-          "stars": 46426,
-          "periodGain": 3335
-        },
-        "microsoft/AI-For-Beginners": {
-          "stars": 57821,
-          "periodGain": 3246
-        },
-        "earthtojake/text-to-cad": {
-          "stars": 12420,
-          "periodGain": 2009
-        },
-        "shiyu-coder/Kronos": {
-          "stars": 35434,
-          "periodGain": 1741
-        },
-        "microsoft/VibeVoice": {
-          "stars": 51825,
-          "periodGain": 1317
-        }
-      }
-    },
     {
       "date": "2026-08-03",
       "generatedAt": "2026-08-03T07:42:18.3783573+00:00",
@@ -4610,6 +4560,52 @@
         "heygen-com/hyperframes": {
           "stars": 54988,
           "periodGain": 11385
+        }
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "generatedAt": "2026-10-02T05:25:08.9061086+00:00",
+      "repos": {
+        "tt-a1i/archify": {
+          "stars": 75936,
+          "periodGain": 35068
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 150771,
+          "periodGain": 31160
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 52760,
+          "periodGain": 26584
+        },
+        "affaan-m/ECC": {
+          "stars": 270788,
+          "periodGain": 26450
+        },
+        "alibaba/open-code-review": {
+          "stars": 43232,
+          "periodGain": 21646
+        },
+        "heygen-com/hyperframes": {
+          "stars": 55449,
+          "periodGain": 11734
+        },
+        "THU-MAIC/OpenMAIC": {
+          "stars": 39774,
+          "periodGain": 11062
+        },
+        "Tencent/WeKnora": {
+          "stars": 31688,
+          "periodGain": 10740
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 30016,
+          "periodGain": 6611
+        },
+        "jingyaogong/minimind": {
+          "stars": 63061,
+          "periodGain": 6436
         }
       }
     }
