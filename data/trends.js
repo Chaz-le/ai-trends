@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-03T06:25:35.6342363+00:00",
+  "generatedAt": "2026-10-03T09:49:46.1314211+00:00",
   "weekly": [
     {
       "owner": "debpalash",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 16475,
-      "totalStars": 52055,
-      "forks": 5800,
+      "totalStars": 52157,
+      "forks": 5814,
       "license": "AGPL-3.0",
-      "pushedAt": "10/03/2026 05:18:43",
+      "pushedAt": "10/03/2026 08:13:42",
       "tags": [
         "agent",
         "llm",
@@ -79,8 +79,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 16183,
-      "totalStars": 44803,
-      "forks": 5872,
+      "totalStars": 44845,
+      "forks": 5882,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -118,10 +118,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 12825,
-      "totalStars": 96403,
-      "forks": 16324,
+      "totalStars": 96462,
+      "forks": 16337,
       "license": "MIT",
-      "pushedAt": "10/03/2026 06:18:45",
+      "pushedAt": "10/03/2026 09:34:46",
       "tags": [
         "agent"
       ],
@@ -177,8 +177,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 5600,
-      "totalStars": 62745,
-      "forks": 10725,
+      "totalStars": 62783,
+      "forks": 10732,
       "license": "MIT",
       "pushedAt": "10/02/2026 05:37:24",
       "tags": [
@@ -216,10 +216,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 3124,
-      "totalStars": 74482,
-      "forks": 4488,
+      "totalStars": 74571,
+      "forks": 4491,
       "license": "Apache-2.0",
-      "pushedAt": "10/03/2026 05:22:53",
+      "pushedAt": "10/03/2026 07:35:50",
       "tags": [
         "agent"
       ],
@@ -263,10 +263,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 2661,
-      "totalStars": 55997,
-      "forks": 5041,
+      "totalStars": 56064,
+      "forks": 5044,
       "license": "Apache-2.0",
-      "pushedAt": "10/03/2026 06:16:13",
+      "pushedAt": "10/03/2026 09:49:04",
       "tags": [
         "agent"
       ],
@@ -297,40 +297,23 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "topics": [
-        "ai-video-generator",
-        "content-creation",
-        "ffmpeg",
-        "instagram-reels",
-        "llm",
-        "python",
-        "short-video",
-        "subtitles",
-        "text-to-speech",
-        "tiktok",
-        "video-automation",
-        "video-workflow",
-        "workflow-automation",
-        "youtube-shorts"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 2533,
-      "totalStars": 128125,
-      "forks": 20045,
-      "license": "MIT",
-      "pushedAt": "10/03/2026 03:31:16",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "multimodal",
         "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "MoneyPrinterTurbo 💸",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -364,10 +347,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1425,
-      "totalStars": 6439,
-      "forks": 794,
+      "totalStars": 6477,
+      "forks": 797,
       "license": "MIT",
-      "pushedAt": "10/03/2026 02:37:53",
+      "pushedAt": "10/03/2026 09:43:57",
       "tags": [
         "agent"
       ],
@@ -400,18 +383,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 1073,
-      "totalStars": 38575,
-      "forks": 5537,
-      "license": "Apache-2.0",
-      "pushedAt": "09/21/2026 21:10:41",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude for Financial Services",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目与 AI 工具、Agent 或模型工作流相关，但 README/简介信息不足，需要进入仓库进一步确认。",
@@ -420,8 +403,7 @@ window.GITHUB_AI_TRENDS = {
           "信息不足：需要查看 README、示例和 issue 后再判断具体能力。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Upload a zip — zip any directory under plugins/ (e.g. plugins/agent-plugins/pitch-agent/) and drop it in."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -457,8 +439,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://alirezarezvani.medium.com/",
       "language": "Python",
       "starsGained": 832,
-      "totalStars": 27358,
-      "forks": 3856,
+      "totalStars": 27379,
+      "forks": 3857,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:46:16",
       "tags": [
@@ -493,33 +475,32 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "tile-ai/tilelang",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
-      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "topics": [],
-      "homepage": "https://tilelang.com/",
+      "homepage": "",
       "language": "Python",
       "starsGained": 732,
-      "totalStars": 8263,
-      "forks": 832,
-      "license": "NOASSERTION",
-      "pushedAt": "10/02/2026 15:22:18",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Tile Language",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-        "projectIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "zhIntro": "该项目的 GitHub 简介是：Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "projectIntro": "该项目的 GitHub 简介是：Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "featurePoints": [
-          "核心线索： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+          "核心线索：Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：The following example defines, compiles, runs, and verifies an FP16 GEMM kernel with FP32 accumulation and a fused ReLU epilogue."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -534,18 +515,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 417,
-      "totalStars": 9387,
-      "forks": 2184,
-      "license": "MIT",
-      "pushedAt": "10/02/2026 20:30:33",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Code Action",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -556,8 +537,7 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：The easiest way to set up this action is through Claude Code in the terminal. Just open claude and run /install-github-app."
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
@@ -570,97 +550,21 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [
-        "agent-skills",
-        "architecture-as-code",
-        "architecture-diagram",
-        "claude-skill",
-        "code-visualization",
-        "codex",
-        "coding-agents",
-        "data-flow-diagram",
-        "deepseek-harness",
-        "developer-tools",
-        "diagram-as-code",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "mermaid-alternative",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "text-to-diagram"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 33363,
-      "totalStars": 76375,
-      "forks": 5134,
-      "license": "MIT",
-      "pushedAt": "10/02/2026 14:08:03",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "multimodal",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：The agent switcher covers cursor, codex, claude-code, and opencode."
-        ]
-      }
-    },
-    {
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "homepage": "https://ponytail.dev",
-      "language": "JavaScript",
-      "starsGained": 31213,
-      "totalStars": 152051,
-      "forks": 8155,
-      "license": "MIT",
-      "pushedAt": "10/03/2026 05:12:55",
-      "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -677,37 +581,63 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 31213,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "featurePoints": [
+          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "fullName": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
+      "topics": [],
       "homepage": "",
       "language": "Python",
       "starsGained": 26537,
-      "totalStars": 53004,
-      "forks": 3051,
-      "license": "MIT",
-      "pushedAt": "09/19/2026 16:44:46",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -730,23 +660,14 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "homepage": "https://ecc.tools",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 26490,
-      "totalStars": 271512,
-      "forks": 40562,
-      "license": "MIT",
-      "pushedAt": "10/02/2026 02:01:14",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -755,8 +676,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "ECC",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -767,8 +688,7 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Define interfaces first"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -788,8 +708,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 22756,
-      "totalStars": 44803,
-      "forks": 5872,
+      "totalStars": 44845,
+      "forks": 5882,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -823,32 +743,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "homepage": "https://open-codereview.ai",
+      "topics": [],
+      "homepage": "",
       "language": "Go",
       "starsGained": 21821,
-      "totalStars": 43399,
-      "forks": 3126,
-      "license": "Apache-2.0",
-      "pushedAt": "10/01/2026 20:40:46",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -859,8 +771,7 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -875,10 +786,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 16583,
-      "totalStars": 96403,
-      "forks": 16324,
+      "totalStars": 96462,
+      "forks": 16337,
       "license": "MIT",
-      "pushedAt": "10/03/2026 06:18:45",
+      "pushedAt": "10/03/2026 09:34:46",
       "tags": [
         "agent"
       ],
@@ -925,10 +836,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 12185,
-      "totalStars": 55997,
-      "forks": 5041,
+      "totalStars": 56064,
+      "forks": 5044,
       "license": "Apache-2.0",
-      "pushedAt": "10/03/2026 06:16:13",
+      "pushedAt": "10/03/2026 09:49:04",
       "tags": [
         "agent"
       ],
@@ -959,46 +870,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/Tencent/WeKnora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "homepage": "https://weknora.weixin.qq.com",
+      "topics": [],
+      "homepage": "",
       "language": "Go",
       "starsGained": 10794,
-      "totalStars": 31803,
-      "forks": 4245,
-      "license": "NOASSERTION",
-      "pushedAt": "10/01/2026 11:57:46",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "rag",
-        "generation"
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.2), or keep latest",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -1009,8 +898,7 @@ window.GITHUB_AI_TRENDS = {
           "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
         ]
       }
     },
@@ -1096,13 +984,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "topics": [],
-      "homepage": "https://code.claude.com/docs/en/overview",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 5832,
-      "totalStars": 149004,
-      "forks": 25286,
+      "totalStars": 0,
+      "forks": 0,
       "license": "",
-      "pushedAt": "10/03/2026 06:16:55",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -1111,8 +999,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Code",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1123,8 +1011,7 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：See our data usage policies."
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
