@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-04T06:48:32.9814174+00:00",
+  "generatedAt": "2026-10-04T10:33:05.3484729+00:00",
   "weekly": [
     {
       "owner": "debpalash",
@@ -34,10 +34,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 16775,
-      "totalStars": 52746,
-      "forks": 5877,
+      "totalStars": 52828,
+      "forks": 5886,
       "license": "AGPL-3.0",
-      "pushedAt": "10/04/2026 05:04:47",
+      "pushedAt": "10/04/2026 08:12:06",
       "tags": [
         "agent",
         "llm",
@@ -79,8 +79,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 14507,
-      "totalStars": 45196,
-      "forks": 5899,
+      "totalStars": 45255,
+      "forks": 5902,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -118,10 +118,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 10722,
-      "totalStars": 96839,
-      "forks": 16393,
+      "totalStars": 96897,
+      "forks": 16403,
       "license": "MIT",
-      "pushedAt": "10/04/2026 06:47:57",
+      "pushedAt": "10/04/2026 10:20:58",
       "tags": [
         "agent"
       ],
@@ -177,8 +177,8 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 5059,
-      "totalStars": 63311,
-      "forks": 10826,
+      "totalStars": 63436,
+      "forks": 10851,
       "license": "MIT",
       "pushedAt": "10/02/2026 05:37:24",
       "tags": [
@@ -234,8 +234,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3952,
-      "totalStars": 90046,
-      "forks": 7921,
+      "totalStars": 90232,
+      "forks": 7936,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -272,10 +272,10 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 3311,
-      "totalStars": 75551,
-      "forks": 4527,
+      "totalStars": 75729,
+      "forks": 4531,
       "license": "Apache-2.0",
-      "pushedAt": "10/03/2026 07:35:50",
+      "pushedAt": "10/04/2026 09:42:55",
       "tags": [
         "agent"
       ],
@@ -319,10 +319,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3011,
-      "totalStars": 56381,
-      "forks": 5067,
+      "totalStars": 56447,
+      "forks": 5071,
       "license": "Apache-2.0",
-      "pushedAt": "10/04/2026 06:48:19",
+      "pushedAt": "10/04/2026 10:30:54",
       "tags": [
         "agent"
       ],
@@ -372,7 +372,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2324,
-      "totalStars": 128304,
+      "totalStars": 128333,
       "forks": 20078,
       "license": "MIT",
       "pushedAt": "10/04/2026 06:48:17",
@@ -420,10 +420,10 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1476,
-      "totalStars": 6626,
-      "forks": 816,
+      "totalStars": 6653,
+      "forks": 819,
       "license": "MIT",
-      "pushedAt": "10/04/2026 06:15:36",
+      "pushedAt": "10/04/2026 09:37:29",
       "tags": [
         "agent"
       ],
@@ -477,8 +477,8 @@
       "homepage": "https://alirezarezvani.medium.com/",
       "language": "Python",
       "starsGained": 948,
-      "totalStars": 27520,
-      "forks": 3876,
+      "totalStars": 27544,
+      "forks": 3880,
       "license": "MIT",
       "pushedAt": "08/30/2026 09:46:16",
       "tags": [
@@ -518,7 +518,7 @@
       "homepage": "https://tilelang.com/",
       "language": "Python",
       "starsGained": 800,
-      "totalStars": 8301,
+      "totalStars": 8309,
       "forks": 837,
       "license": "NOASSERTION",
       "pushedAt": "10/03/2026 15:45:35",
@@ -563,10 +563,10 @@
       "homepage": "https://pytorch.org",
       "language": "Python",
       "starsGained": 346,
-      "totalStars": 103710,
-      "forks": 31302,
+      "totalStars": 103734,
+      "forks": 31332,
       "license": "NOASSERTION",
-      "pushedAt": "10/04/2026 06:34:24",
+      "pushedAt": "10/04/2026 10:22:09",
       "tags": [
         "ml",
         "learning"
@@ -597,22 +597,98 @@
       "fullName": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "topics": [],
-      "homepage": "",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-agents",
+        "deepseek-harness",
+        "developer-tools",
+        "diagrams",
+        "diagrams-as-code",
+        "dsh-plugin",
+        "flowchart",
+        "llm",
+        "mermaid",
+        "opencode",
+        "sequence-diagram",
+        "software-architecture",
+        "system-design",
+        "visualization"
+      ],
+      "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 31939,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 76912,
+      "forks": 5195,
+      "license": "MIT",
+      "pushedAt": "10/04/2026 09:57:12",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：The agent switcher covers cursor, codex, claude-code, and opencode."
+        ]
+      }
+    },
+    {
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
+      "language": "JavaScript",
+      "starsGained": 30546,
+      "totalStars": 154078,
+      "forks": 8289,
+      "license": "MIT",
+      "pushedAt": "10/03/2026 05:12:55",
+      "tags": [
+        "agent",
+        "llm",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -625,41 +701,6 @@
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 30546,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -683,8 +724,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 26724,
-      "totalStars": 272421,
-      "forks": 40679,
+      "totalStars": 272536,
+      "forks": 40689,
       "license": "MIT",
       "pushedAt": "10/02/2026 02:01:14",
       "tags": [
@@ -730,8 +771,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 26497,
-      "totalStars": 53225,
-      "forks": 3067,
+      "totalStars": 53309,
+      "forks": 3068,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -775,8 +816,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23065,
-      "totalStars": 45196,
-      "forks": 5899,
+      "totalStars": 45255,
+      "forks": 5902,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -821,8 +862,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 21959,
-      "totalStars": 43578,
-      "forks": 3144,
+      "totalStars": 43610,
+      "forks": 3147,
       "license": "Apache-2.0",
       "pushedAt": "10/01/2026 20:40:46",
       "tags": [
@@ -862,10 +903,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 17030,
-      "totalStars": 96839,
-      "forks": 16393,
+      "totalStars": 96897,
+      "forks": 16403,
       "license": "MIT",
-      "pushedAt": "10/04/2026 06:47:57",
+      "pushedAt": "10/04/2026 10:20:58",
       "tags": [
         "agent"
       ],
@@ -912,10 +953,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 12634,
-      "totalStars": 56381,
-      "forks": 5067,
+      "totalStars": 56447,
+      "forks": 5071,
       "license": "Apache-2.0",
-      "pushedAt": "10/04/2026 06:48:19",
+      "pushedAt": "10/04/2026 10:30:54",
       "tags": [
         "agent"
       ],
@@ -971,8 +1012,8 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10856,
-      "totalStars": 31928,
-      "forks": 4258,
+      "totalStars": 31947,
+      "forks": 4260,
       "license": "NOASSERTION",
       "pushedAt": "10/01/2026 11:57:46",
       "tags": [
@@ -1045,20 +1086,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 6209,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 14734,
+      "forks": 1685,
+      "license": "Apache-2.0",
+      "pushedAt": "10/04/2026 09:55:47",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -1068,7 +1109,8 @@
           "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
         ]
       }
     },

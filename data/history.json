@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T06:48:45.631Z",
+  "generatedAt": "2026-10-04T10:33:23.794Z",
   "snapshots": [
     {
       "date": "2026-08-05",
@@ -4513,71 +4513,83 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T06:48:32.9814174+00:00",
+      "generatedAt": "2026-10-04T10:33:05.3484729+00:00",
       "repos": {
         "debpalash/VoiceStudio": {
-          "stars": 52746,
+          "stars": 52828,
           "periodGain": 16775
         },
         "vectorize-io/hindsight": {
-          "stars": 45196,
+          "stars": 45255,
           "periodGain": 23065
         },
         "paperclipai/paperclip": {
-          "stars": 96839,
+          "stars": 96897,
           "periodGain": 17030
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 63311,
+          "stars": 63436,
           "periodGain": 5059
         },
         "Panniantong/Agent-Reach": {
-          "stars": 90046,
+          "stars": 90232,
           "periodGain": 3952
         },
         "pbakaus/impeccable": {
-          "stars": 75551,
+          "stars": 75729,
           "periodGain": 3311
         },
         "heygen-com/hyperframes": {
-          "stars": 56381,
+          "stars": 56447,
           "periodGain": 12634
         },
         "harry0703/MoneyPrinterTurbo": {
-          "stars": 128304,
+          "stars": 128333,
           "periodGain": 2324
         },
         "TencentCloud/Octop": {
-          "stars": 6626,
+          "stars": 6653,
           "periodGain": 1476
         },
         "alirezarezvani/claude-skills": {
-          "stars": 27520,
+          "stars": 27544,
           "periodGain": 948
         },
         "tile-ai/tilelang": {
-          "stars": 8301,
+          "stars": 8309,
           "periodGain": 800
         },
         "pytorch/pytorch": {
-          "stars": 103710,
+          "stars": 103734,
           "periodGain": 346
         },
+        "tt-a1i/archify": {
+          "stars": 76912,
+          "periodGain": 31939
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 154078,
+          "periodGain": 30546
+        },
         "affaan-m/ECC": {
-          "stars": 272421,
+          "stars": 272536,
           "periodGain": 26724
         },
         "ayghri/i-have-adhd": {
-          "stars": 53225,
+          "stars": 53309,
           "periodGain": 26497
         },
         "alibaba/open-code-review": {
-          "stars": 43578,
+          "stars": 43610,
           "periodGain": 21959
         },
         "Tencent/WeKnora": {
-          "stars": 31928,
+          "stars": 31947,
           "periodGain": 10856
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 14734,
+          "periodGain": 6209
         }
       }
     }
