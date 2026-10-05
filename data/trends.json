@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-05T05:25:28.3398756+00:00",
+  "generatedAt": "2026-10-05T06:57:43.3552858+00:00",
   "weekly": [
     {
       "owner": "debpalash",
@@ -34,10 +34,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 14689,
-      "totalStars": 53275,
-      "forks": 5933,
+      "totalStars": 53318,
+      "forks": 5936,
       "license": "AGPL-3.0",
-      "pushedAt": "10/05/2026 05:02:34",
+      "pushedAt": "10/05/2026 06:48:30",
       "tags": [
         "agent",
         "llm",
@@ -79,8 +79,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 10623,
-      "totalStars": 45580,
-      "forks": 5918,
+      "totalStars": 45605,
+      "forks": 5919,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -118,10 +118,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 8732,
-      "totalStars": 97264,
-      "forks": 16458,
+      "totalStars": 97294,
+      "forks": 16462,
       "license": "MIT",
-      "pushedAt": "10/05/2026 03:46:58",
+      "pushedAt": "10/05/2026 06:31:33",
       "tags": [
         "agent"
       ],
@@ -156,10 +156,10 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 5996,
-      "totalStars": 14895,
+      "totalStars": 14914,
       "forks": 1699,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 05:14:45",
+      "pushedAt": "10/05/2026 06:48:47",
       "tags": [
         "agent"
       ],
@@ -213,10 +213,10 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 4904,
-      "totalStars": 64047,
-      "forks": 10965,
+      "totalStars": 64096,
+      "forks": 10981,
       "license": "MIT",
-      "pushedAt": "10/04/2026 12:21:23",
+      "pushedAt": "10/05/2026 06:29:17",
       "tags": [
         "agent",
         "llm",
@@ -270,8 +270,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 4789,
-      "totalStars": 91098,
-      "forks": 8002,
+      "totalStars": 91183,
+      "forks": 8008,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -320,10 +320,10 @@
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 4251,
-      "totalStars": 5021,
-      "forks": 364,
+      "totalStars": 5032,
+      "forks": 365,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 05:15:26",
+      "pushedAt": "10/05/2026 06:38:16",
       "tags": [
         "agent",
         "llm",
@@ -359,10 +359,10 @@
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 4242,
-      "totalStars": 76461,
-      "forks": 4563,
+      "totalStars": 76525,
+      "forks": 4566,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 04:26:27",
+      "pushedAt": "10/05/2026 06:26:18",
       "tags": [
         "agent"
       ],
@@ -406,10 +406,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 3096,
-      "totalStars": 56858,
-      "forks": 5103,
+      "totalStars": 56903,
+      "forks": 5104,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 05:24:50",
+      "pushedAt": "10/05/2026 06:53:36",
       "tags": [
         "agent"
       ],
@@ -459,7 +459,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2291,
-      "totalStars": 128495,
+      "totalStars": 128514,
       "forks": 20097,
       "license": "MIT",
       "pushedAt": "10/04/2026 06:48:17",
@@ -507,8 +507,8 @@
       "homepage": "https://cs341.cs.illinois.edu/coursebook",
       "language": "TeX",
       "starsGained": 1626,
-      "totalStars": 3702,
-      "forks": 309,
+      "totalStars": 3708,
+      "forks": 310,
       "license": "",
       "pushedAt": "10/04/2026 19:08:38",
       "tags": [
@@ -550,10 +550,10 @@
       "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1496,
-      "totalStars": 6780,
-      "forks": 838,
+      "totalStars": 6791,
+      "forks": 839,
       "license": "MIT",
-      "pushedAt": "10/05/2026 05:17:57",
+      "pushedAt": "10/05/2026 05:58:13",
       "tags": [
         "agent"
       ],
@@ -599,8 +599,8 @@
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 30466,
-      "totalStars": 155102,
-      "forks": 8338,
+      "totalStars": 155218,
+      "forks": 8342,
       "license": "MIT",
       "pushedAt": "10/05/2026 03:45:49",
       "tags": [
@@ -660,8 +660,8 @@
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 30184,
-      "totalStars": 77601,
-      "forks": 5218,
+      "totalStars": 77662,
+      "forks": 5220,
       "license": "MIT",
       "pushedAt": "10/05/2026 05:06:23",
       "tags": [
@@ -708,8 +708,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 26627,
-      "totalStars": 53671,
-      "forks": 3080,
+      "totalStars": 53701,
+      "forks": 3081,
       "license": "MIT",
       "pushedAt": "09/19/2026 16:44:46",
       "tags": [
@@ -757,8 +757,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 26306,
-      "totalStars": 273078,
-      "forks": 40756,
+      "totalStars": 273125,
+      "forks": 40766,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -802,8 +802,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23232,
-      "totalStars": 45580,
-      "forks": 5918,
+      "totalStars": 45605,
+      "forks": 5919,
       "license": "MIT",
       "pushedAt": "10/02/2026 17:43:57",
       "tags": [
@@ -848,10 +848,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 22080,
-      "totalStars": 43744,
-      "forks": 3153,
+      "totalStars": 43765,
+      "forks": 3154,
       "license": "Apache-2.0",
-      "pushedAt": "10/01/2026 20:40:46",
+      "pushedAt": "10/05/2026 06:43:52",
       "tags": [
         "agent",
         "llm",
@@ -889,10 +889,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 17361,
-      "totalStars": 97264,
-      "forks": 16458,
+      "totalStars": 97294,
+      "forks": 16462,
       "license": "MIT",
-      "pushedAt": "10/05/2026 03:46:58",
+      "pushedAt": "10/05/2026 06:31:33",
       "tags": [
         "agent"
       ],
@@ -939,10 +939,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 12865,
-      "totalStars": 56858,
-      "forks": 5103,
+      "totalStars": 56903,
+      "forks": 5104,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 05:24:50",
+      "pushedAt": "10/05/2026 06:53:36",
       "tags": [
         "agent"
       ],
@@ -998,7 +998,7 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10912,
-      "totalStars": 32055,
+      "totalStars": 32072,
       "forks": 4276,
       "license": "NOASSERTION",
       "pushedAt": "10/01/2026 11:57:46",
@@ -1036,13 +1036,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 6502,
-      "totalStars": 30698,
-      "forks": 4308,
-      "license": "MIT",
-      "pushedAt": "10/04/2026 17:23:54",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -1050,8 +1050,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -1060,8 +1060,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1076,10 +1075,10 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 6356,
-      "totalStars": 14895,
+      "totalStars": 14914,
       "forks": 1699,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 05:14:45",
+      "pushedAt": "10/05/2026 06:48:47",
       "tags": [
         "agent"
       ],
@@ -1112,8 +1111,8 @@
       "homepage": "https://code.claude.com/docs/en/overview",
       "language": "TypeScript",
       "starsGained": 5996,
-      "totalStars": 149442,
-      "forks": 25507,
+      "totalStars": 149447,
+      "forks": 25511,
       "license": "",
       "pushedAt": "10/05/2026 01:04:13",
       "tags": [
