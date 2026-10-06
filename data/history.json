@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:10:50.414Z",
+  "generatedAt": "2026-10-06T07:30:58.249Z",
   "snapshots": [
     {
       "date": "2026-08-07",
@@ -4481,39 +4481,67 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T06:10:29.9918129+00:00",
+      "generatedAt": "2026-10-06T07:30:32.9179635+00:00",
       "repos": {
         "debpalash/VoiceStudio": {
-          "stars": 53895,
+          "stars": 53938,
           "periodGain": 12036
         },
         "DietrichGebert/ponytail": {
-          "stars": 156156,
+          "stars": 156210,
           "periodGain": 29162
         },
         "vectorize-io/hindsight": {
-          "stars": 46047,
+          "stars": 46069,
           "periodGain": 23453
         },
         "paperclipai/paperclip": {
-          "stars": 97769,
+          "stars": 97792,
           "periodGain": 17769
         },
         "Panniantong/Agent-Reach": {
-          "stars": 92097,
+          "stars": 92152,
           "periodGain": 5703
         },
         "pbakaus/impeccable": {
-          "stars": 77178,
+          "stars": 77210,
           "periodGain": 4936
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 64887,
+          "stars": 64926,
           "periodGain": 4375
         },
+        "mvschwarz/openrig": {
+          "stars": 5313,
+          "periodGain": 3776
+        },
         "heygen-com/hyperframes": {
-          "stars": 57428,
+          "stars": 57475,
           "periodGain": 13245
+        },
+        "harry0703/MoneyPrinterTurbo": {
+          "stars": 128706,
+          "periodGain": 2189
+        },
+        "msitarzewski/agency-agents": {
+          "stars": 157437,
+          "periodGain": 2116
+        },
+        "TencentCloud/Octop": {
+          "stars": 7065,
+          "periodGain": 1416
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 54015,
+          "periodGain": 26953
+        },
+        "affaan-m/ECC": {
+          "stars": 273807,
+          "periodGain": 25740
+        },
+        "alibaba/open-code-review": {
+          "stars": 43916,
+          "periodGain": 22242
         }
       }
     }

@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-06T06:10:29.9918129+00:00",
+  "generatedAt": "2026-10-06T07:30:32.9179635+00:00",
   "weekly": [
     {
       "owner": "debpalash",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 12036,
-      "totalStars": 53895,
-      "forks": 6026,
+      "totalStars": 53938,
+      "forks": 6030,
       "license": "AGPL-3.0",
-      "pushedAt": "10/05/2026 18:30:38",
+      "pushedAt": "10/06/2026 06:55:29",
       "tags": [
         "agent",
         "llm",
@@ -85,8 +85,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 8596,
-      "totalStars": 156156,
-      "forks": 8393,
+      "totalStars": 156210,
+      "forks": 8395,
       "license": "MIT",
       "pushedAt": "10/05/2026 20:46:39",
       "tags": [
@@ -130,8 +130,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 6565,
-      "totalStars": 46047,
-      "forks": 5937,
+      "totalStars": 46069,
+      "forks": 5938,
       "license": "MIT",
       "pushedAt": "10/05/2026 21:50:23",
       "tags": [
@@ -169,10 +169,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 6030,
-      "totalStars": 97769,
-      "forks": 16520,
+      "totalStars": 97792,
+      "forks": 16525,
       "license": "MIT",
-      "pushedAt": "10/06/2026 06:04:35",
+      "pushedAt": "10/06/2026 06:53:56",
       "tags": [
         "agent"
       ],
@@ -225,8 +225,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5703,
-      "totalStars": 92097,
-      "forks": 8082,
+      "totalStars": 92152,
+      "forks": 8085,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -263,10 +263,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "JavaScript",
       "starsGained": 4936,
-      "totalStars": 77178,
-      "forks": 4597,
+      "totalStars": 77210,
+      "forks": 4600,
       "license": "Apache-2.0",
-      "pushedAt": "10/06/2026 06:08:51",
+      "pushedAt": "10/06/2026 07:25:37",
       "tags": [
         "agent"
       ],
@@ -319,8 +319,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 4375,
-      "totalStars": 64887,
-      "forks": 11167,
+      "totalStars": 64926,
+      "forks": 11179,
       "license": "MIT",
       "pushedAt": "10/05/2026 13:11:03",
       "tags": [
@@ -354,32 +354,47 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 3776,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 5313,
+      "forks": 392,
+      "license": "Apache-2.0",
+      "pushedAt": "10/06/2026 07:23:53",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-        "projectIntro": "该项目的 GitHub 简介是：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "source": "readme",
+        "readmeTitle": "OpenRig",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "核心线索：Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -406,10 +421,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 3342,
-      "totalStars": 57428,
-      "forks": 5138,
+      "totalStars": 57475,
+      "forks": 5144,
       "license": "Apache-2.0",
-      "pushedAt": "10/06/2026 06:03:36",
+      "pushedAt": "10/06/2026 07:12:39",
       "tags": [
         "agent"
       ],
@@ -440,23 +455,40 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "topics": [],
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 2189,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 128706,
+      "forks": 20129,
+      "license": "MIT",
+      "pushedAt": "10/04/2026 06:48:17",
       "tags": [
         "agent",
+        "llm",
+        "multimodal",
         "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "MoneyPrinterTurbo 💸",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -482,18 +514,18 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 2116,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 157437,
+      "forks": 25386,
+      "license": "MIT",
+      "pushedAt": "10/04/2026 21:17:44",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -502,7 +534,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：→ Download the latest release · agencyagents.app"
         ]
       }
     },
@@ -513,22 +546,30 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/TencentCloud/Octop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 1416,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 7065,
+      "forks": 874,
+      "license": "MIT",
+      "pushedAt": "10/05/2026 14:29:23",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "or",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
@@ -537,7 +578,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：A smarter, self-hosted AI assistant — multi-user, multi-agent."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：macOS / Linux / Windows"
         ]
       }
     }
@@ -604,8 +646,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 29162,
-      "totalStars": 156156,
-      "forks": 8393,
+      "totalStars": 156210,
+      "forks": 8395,
       "license": "MIT",
       "pushedAt": "10/05/2026 20:46:39",
       "tags": [
@@ -640,17 +682,26 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32200675?s=40&v=4",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "topics": [],
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 26953,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 54015,
+      "forks": 3103,
+      "license": "MIT",
+      "pushedAt": "09/19/2026 16:44:46",
       "tags": [
         "agent",
-        "coding"
+        "llm",
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -678,14 +729,23 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 25740,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 273807,
+      "forks": 40851,
+      "license": "MIT",
+      "pushedAt": "10/05/2026 04:55:16",
       "tags": [
         "agent",
         "llm",
@@ -694,8 +754,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "ECC",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -706,7 +766,8 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Define interfaces first"
         ]
       }
     },
@@ -726,8 +787,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23453,
-      "totalStars": 46047,
-      "forks": 5937,
+      "totalStars": 46069,
+      "forks": 5938,
       "license": "MIT",
       "pushedAt": "10/05/2026 21:50:23",
       "tags": [
@@ -761,24 +822,32 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 22242,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 43916,
+      "forks": 3168,
+      "license": "Apache-2.0",
+      "pushedAt": "10/05/2026 06:43:52",
       "tags": [
         "agent",
         "llm",
-        "coding"
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -789,7 +858,8 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
         ]
       }
     },
@@ -804,10 +874,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 17769,
-      "totalStars": 97769,
-      "forks": 16520,
+      "totalStars": 97792,
+      "forks": 16525,
       "license": "MIT",
-      "pushedAt": "10/06/2026 06:04:35",
+      "pushedAt": "10/06/2026 06:53:56",
       "tags": [
         "agent"
       ],
@@ -854,10 +924,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 13245,
-      "totalStars": 57428,
-      "forks": 5138,
+      "totalStars": 57475,
+      "forks": 5144,
       "license": "Apache-2.0",
-      "pushedAt": "10/06/2026 06:03:36",
+      "pushedAt": "10/06/2026 07:12:39",
       "tags": [
         "agent"
       ],
