@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-07T07:11:02.1636862+00:00",
+  "generatedAt": "2026-10-07T11:01:41.1588278+00:00",
   "weekly": [
     {
       "owner": "Panniantong",
@@ -31,8 +31,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6454,
-      "totalStars": 92800,
-      "forks": 8137,
+      "totalStars": 92917,
+      "forks": 8142,
       "license": "MIT",
       "pushedAt": "09/15/2026 16:16:24",
       "tags": [
@@ -69,10 +69,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 5228,
-      "totalStars": 15182,
-      "forks": 1718,
+      "totalStars": 15202,
+      "forks": 1719,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 06:47:08",
+      "pushedAt": "10/07/2026 10:28:38",
       "tags": [
         "agent"
       ],
@@ -117,10 +117,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 3614,
-      "totalStars": 58100,
-      "forks": 5175,
+      "totalStars": 58207,
+      "forks": 5180,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 07:10:00",
+      "pushedAt": "10/07/2026 11:01:17",
       "tags": [
         "agent"
       ],
@@ -167,10 +167,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 3327,
-      "totalStars": 5571,
-      "forks": 404,
+      "totalStars": 5616,
+      "forks": 412,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 07:03:32",
+      "pushedAt": "10/07/2026 10:38:34",
       "tags": [
         "agent",
         "llm",
@@ -225,8 +225,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://opengym.duarte-santos.ch",
       "language": "JavaScript",
       "starsGained": 3318,
-      "totalStars": 6028,
-      "forks": 819,
+      "totalStars": 6283,
+      "forks": 844,
       "license": "AGPL-3.0",
       "pushedAt": "10/06/2026 09:42:32",
       "tags": [
@@ -243,50 +243,6 @@ window.GITHUB_AI_TRENDS = {
         "projectIntro": "该项目的 GitHub 简介是：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
         "featurePoints": [
           "核心线索：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "byoungd",
-      "repo": "up",
-      "fullName": "byoungd/up",
-      "url": "https://github.com/byoungd/up",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
-      "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-      "topics": [
-        "ai-literacy",
-        "chinese",
-        "english-learning",
-        "lifelong-learning",
-        "open-education",
-        "self-directed-learning",
-        "tutorial"
-      ],
-      "homepage": "https://byoungd.github.io/up/",
-      "language": "JavaScript",
-      "starsGained": 2154,
-      "totalStars": 67574,
-      "forks": 6709,
-      "license": "NOASSERTION",
-      "pushedAt": "10/06/2026 16:59:17",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "人生进阶指南",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-        "projectIntro": "该项目的 GitHub 简介是：中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
-        "featurePoints": [
-          "核心线索：中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -325,8 +281,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 2104,
-      "totalStars": 97308,
-      "forks": 8573,
+      "totalStars": 97391,
+      "forks": 8581,
       "license": "Apache-2.0",
       "pushedAt": "10/07/2026 00:57:45",
       "tags": [
@@ -357,59 +313,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "VectifyAI",
-      "repo": "PageIndex",
-      "fullName": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "context-engineering",
-        "information-retrieval",
-        "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
-      ],
-      "homepage": "https://pageindex.ai",
-      "language": "Python",
-      "starsGained": 2079,
-      "totalStars": 38830,
-      "forks": 3362,
-      "license": "MIT",
-      "pushedAt": "10/06/2026 18:06:27",
-      "tags": [
-        "agent",
-        "llm",
-        "rag"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "PageIndex: Vectorless, Reasoning-based RAG",
-        "category": "rag-search",
-        "zhTitle": "RAG / 语义检索工具",
-        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "featurePoints": [
-          "支持向量、语义搜索、知识库或文档检索相关能力。",
-          "可作为 RAG 管道中的索引、召回或知识组织组件。",
-          "帮助把外部资料转成大模型可查询的上下文。"
-        ],
-        "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：chat=: use the best model you can afford. The chat model searches the tree to retrieve information. See Query cost and accuracy."
-        ]
-      }
-    },
-    {
       "owner": "cursor",
       "repo": "plugins",
       "fullName": "cursor/plugins",
@@ -420,8 +323,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1106,
-      "totalStars": 10155,
-      "forks": 964,
+      "totalStars": 10176,
+      "forks": 965,
       "license": "",
       "pushedAt": "10/07/2026 04:54:21",
       "tags": [
@@ -441,6 +344,42 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "tile-ai",
+      "repo": "tilelang",
+      "fullName": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
+      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "topics": [],
+      "homepage": "https://tilelang.com/",
+      "language": "Python",
+      "starsGained": 675,
+      "totalStars": 8456,
+      "forks": 856,
+      "license": "NOASSERTION",
+      "pushedAt": "10/07/2026 06:41:23",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Tile Language",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "projectIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "featurePoints": [
+          "核心线索： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：The following example defines, compiles, runs, and verifies an FP16 GEMM kernel with FP32 accumulation and a fused ReLU epilogue."
         ]
       }
     }
@@ -478,10 +417,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tt-a1i.github.io/archify/",
       "language": "JavaScript",
       "starsGained": 28776,
-      "totalStars": 78817,
-      "forks": 5296,
+      "totalStars": 78943,
+      "forks": 5299,
       "license": "MIT",
-      "pushedAt": "10/07/2026 06:46:09",
+      "pushedAt": "10/07/2026 10:36:38",
       "tags": [
         "agent",
         "llm",
@@ -530,8 +469,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 28592,
-      "totalStars": 157033,
-      "forks": 8437,
+      "totalStars": 157177,
+      "forks": 8449,
       "license": "MIT",
       "pushedAt": "10/05/2026 20:46:39",
       "tags": [
@@ -577,8 +516,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 27129,
-      "totalStars": 54568,
-      "forks": 3134,
+      "totalStars": 54669,
+      "forks": 3136,
       "license": "MIT",
       "pushedAt": "10/06/2026 23:23:46",
       "tags": [
@@ -626,8 +565,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 25085,
-      "totalStars": 274434,
-      "forks": 40948,
+      "totalStars": 274530,
+      "forks": 40966,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -671,10 +610,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23797,
-      "totalStars": 46421,
-      "forks": 5947,
+      "totalStars": 46523,
+      "forks": 5952,
       "license": "MIT",
-      "pushedAt": "10/07/2026 07:10:14",
+      "pushedAt": "10/07/2026 10:38:39",
       "tags": [
         "agent",
         "learning"
@@ -717,8 +656,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 22361,
-      "totalStars": 44099,
-      "forks": 3183,
+      "totalStars": 44131,
+      "forks": 3188,
       "license": "Apache-2.0",
       "pushedAt": "10/05/2026 06:43:52",
       "tags": [
@@ -758,10 +697,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 18199,
-      "totalStars": 98168,
-      "forks": 16592,
+      "totalStars": 98235,
+      "forks": 16604,
       "license": "MIT",
-      "pushedAt": "10/07/2026 06:58:24",
+      "pushedAt": "10/07/2026 11:01:31",
       "tags": [
         "agent"
       ],
@@ -808,10 +747,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 13590,
-      "totalStars": 58100,
-      "forks": 5175,
+      "totalStars": 58207,
+      "forks": 5180,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 07:10:00",
+      "pushedAt": "10/07/2026 11:01:17",
       "tags": [
         "agent"
       ],
@@ -846,8 +785,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 13243,
-      "totalStars": 40112,
-      "forks": 4421,
+      "totalStars": 40148,
+      "forks": 4422,
       "license": "Apache-2.0",
       "pushedAt": "10/06/2026 23:03:56",
       "tags": [
@@ -903,8 +842,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 11017,
-      "totalStars": 32348,
-      "forks": 4310,
+      "totalStars": 32374,
+      "forks": 4313,
       "license": "NOASSERTION",
       "pushedAt": "10/01/2026 11:57:46",
       "tags": [
@@ -934,6 +873,54 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
+      "language": "JavaScript",
+      "starsGained": 10029,
+      "totalStars": 102309,
+      "forks": 10722,
+      "license": "MIT",
+      "pushedAt": "10/03/2026 18:21:11",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+        ]
+      }
+    },
+    {
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "fullName": "tashfeenahmed/freellmapi",
@@ -944,8 +931,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 6832,
-      "totalStars": 31365,
-      "forks": 4392,
+      "totalStars": 31423,
+      "forks": 4398,
       "license": "MIT",
       "pushedAt": "10/07/2026 00:16:09",
       "tags": [
@@ -967,42 +954,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
-      "language": "Rust",
-      "starsGained": 6640,
-      "totalStars": 15182,
-      "forks": 1718,
-      "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 06:47:08",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "projectIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "featurePoints": [
-          "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
         ]
       }
     }
