@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-08T07:17:50.1763403+00:00",
+  "generatedAt": "2026-10-08T11:19:02.1062574+00:00",
   "weekly": [
     {
       "owner": "Panniantong",
@@ -31,10 +31,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 6912,
-      "totalStars": 93615,
-      "forks": 8193,
+      "totalStars": 93810,
+      "forks": 8204,
       "license": "MIT",
-      "pushedAt": "10/07/2026 17:17:29",
+      "pushedAt": "10/08/2026 08:31:08",
       "tags": [
         "agent",
         "llm"
@@ -55,6 +55,44 @@
         ],
         "scenarioPoints": [
           "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
+        ]
+      }
+    },
+    {
+      "owner": "mattpocock",
+      "repo": "skills",
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "topics": [],
+      "homepage": "https://aihero.dev/skills",
+      "language": "Shell",
+      "starsGained": 6869,
+      "totalStars": 280479,
+      "forks": 23498,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 08:49:07",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Skills For Real Engineers",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -88,8 +126,8 @@
       "homepage": "https://opengym.duarte-santos.ch",
       "language": "JavaScript",
       "starsGained": 4906,
-      "totalStars": 7390,
-      "forks": 958,
+      "totalStars": 7628,
+      "forks": 976,
       "license": "AGPL-3.0",
       "pushedAt": "10/07/2026 16:48:33",
       "tags": [
@@ -135,10 +173,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 3908,
-      "totalStars": 58751,
-      "forks": 5227,
+      "totalStars": 58882,
+      "forks": 5237,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 06:27:22",
+      "pushedAt": "10/08/2026 11:01:47",
       "tags": [
         "agent"
       ],
@@ -159,42 +197,6 @@
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
-      "language": "Rust",
-      "starsGained": 3690,
-      "totalStars": 15369,
-      "forks": 1733,
-      "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 06:39:11",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "projectIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "featurePoints": [
-          "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
         ]
       }
     },
@@ -221,10 +223,10 @@
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 2912,
-      "totalStars": 5897,
-      "forks": 434,
+      "totalStars": 5975,
+      "forks": 439,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 07:05:38",
+      "pushedAt": "10/08/2026 11:15:27",
       "tags": [
         "agent",
         "llm",
@@ -281,8 +283,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 2607,
-      "totalStars": 97927,
-      "forks": 8612,
+      "totalStars": 98034,
+      "forks": 8618,
       "license": "Apache-2.0",
       "pushedAt": "10/07/2026 00:57:45",
       "tags": [
@@ -313,6 +315,54 @@
       }
     },
     {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+      "description": "Give your agent CAD superpowers.",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "homepage": "https://www.texttocad.dev",
+      "language": "Python",
+      "starsGained": 1800,
+      "totalStars": 18351,
+      "forks": 1823,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 08:16:11",
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "text-to-cad",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+        ]
+      }
+    },
+    {
       "owner": "cursor",
       "repo": "plugins",
       "fullName": "cursor/plugins",
@@ -323,8 +373,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1109,
-      "totalStars": 10294,
-      "forks": 978,
+      "totalStars": 10315,
+      "forks": 980,
       "license": "",
       "pushedAt": "10/08/2026 00:45:15",
       "tags": [
@@ -346,45 +396,70 @@
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
-    },
+    }
+  ],
+  "monthly": [
     {
-      "owner": "tile-ai",
-      "repo": "tilelang",
-      "fullName": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
-      "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "topics": [],
-      "homepage": "https://tilelang.com/",
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 639,
-      "totalStars": 8503,
-      "forks": 858,
-      "license": "NOASSERTION",
-      "pushedAt": "10/08/2026 07:08:52",
+      "starsGained": 34563,
+      "totalStars": 54929,
+      "forks": 6167,
+      "license": "AGPL-3.0",
+      "pushedAt": "10/08/2026 09:11:26",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Tile Language",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-        "projectIntro": "该项目的 GitHub 简介是： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "readmeTitle": "Latest Electron release",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
         "featurePoints": [
-          "核心线索： Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：The following example defines, compiles, runs, and verifies an FP16 GEMM kernel with FP32 accumulation and a fused ReLU epilogue."
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "可按 README 示例落地：Local workflows run on your hardware. Remote services are optional; usage analytics requires consent."
         ]
       }
-    }
-  ],
-  "monthly": [
+    },
     {
       "owner": "DietrichGebert",
       "repo": "ponytail",
@@ -421,45 +496,6 @@
       }
     },
     {
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 27502,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "fullName": "ayghri/i-have-adhd",
@@ -477,8 +513,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 27500,
-      "totalStars": 55409,
-      "forks": 3168,
+      "totalStars": 55578,
+      "forks": 3171,
       "license": "MIT",
       "pushedAt": "10/06/2026 23:23:46",
       "tags": [
@@ -526,8 +562,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 23835,
-      "totalStars": 275097,
-      "forks": 41039,
+      "totalStars": 275208,
+      "forks": 41051,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -571,10 +607,10 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23808,
-      "totalStars": 46994,
-      "forks": 5966,
+      "totalStars": 47085,
+      "forks": 5967,
       "license": "MIT",
-      "pushedAt": "10/07/2026 23:14:25",
+      "pushedAt": "10/08/2026 10:43:09",
       "tags": [
         "agent",
         "learning"
@@ -617,8 +653,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 22512,
-      "totalStars": 44371,
-      "forks": 3207,
+      "totalStars": 44461,
+      "forks": 3209,
       "license": "Apache-2.0",
       "pushedAt": "10/08/2026 07:06:38",
       "tags": [
@@ -658,10 +694,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 18524,
-      "totalStars": 98571,
-      "forks": 16645,
+      "totalStars": 98661,
+      "forks": 16649,
       "license": "MIT",
-      "pushedAt": "10/08/2026 07:08:16",
+      "pushedAt": "10/08/2026 11:18:43",
       "tags": [
         "agent"
       ],
@@ -708,10 +744,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 13601,
-      "totalStars": 58751,
-      "forks": 5227,
+      "totalStars": 58882,
+      "forks": 5237,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 06:27:22",
+      "pushedAt": "10/08/2026 11:01:47",
       "tags": [
         "agent"
       ],
@@ -743,20 +779,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 13446,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 40440,
+      "forks": 4444,
+      "license": "Apache-2.0",
+      "pushedAt": "10/08/2026 10:45:43",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -766,7 +802,8 @@
           "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
         ]
       }
     },
@@ -802,10 +839,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10980,
-      "totalStars": 32512,
-      "forks": 4330,
+      "totalStars": 32564,
+      "forks": 4338,
       "license": "NOASSERTION",
-      "pushedAt": "10/08/2026 06:57:40",
+      "pushedAt": "10/08/2026 10:19:54",
       "tags": [
         "agent",
         "llm",
@@ -879,13 +916,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 6960,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 31926,
+      "forks": 4442,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 00:09:33",
       "tags": [
         "llm",
         "ml"
