@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-08T05:52:13.3076441+00:00",
+  "generatedAt": "2026-10-08T07:17:50.1763403+00:00",
   "weekly": [
     {
       "owner": "Panniantong",
@@ -31,8 +31,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 6912,
-      "totalStars": 93532,
-      "forks": 8189,
+      "totalStars": 93615,
+      "forks": 8193,
       "license": "MIT",
       "pushedAt": "10/07/2026 17:17:29",
       "tags": [
@@ -88,8 +88,8 @@
       "homepage": "https://opengym.duarte-santos.ch",
       "language": "JavaScript",
       "starsGained": 4906,
-      "totalStars": 7271,
-      "forks": 947,
+      "totalStars": 7390,
+      "forks": 958,
       "license": "AGPL-3.0",
       "pushedAt": "10/07/2026 16:48:33",
       "tags": [
@@ -135,10 +135,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 3908,
-      "totalStars": 58691,
-      "forks": 5223,
+      "totalStars": 58751,
+      "forks": 5227,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 05:31:56",
+      "pushedAt": "10/08/2026 06:27:22",
       "tags": [
         "agent"
       ],
@@ -173,10 +173,10 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 3690,
-      "totalStars": 15351,
-      "forks": 1730,
+      "totalStars": 15369,
+      "forks": 1733,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 05:49:22",
+      "pushedAt": "10/08/2026 06:39:11",
       "tags": [
         "agent"
       ],
@@ -221,10 +221,10 @@
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 2912,
-      "totalStars": 5877,
-      "forks": 433,
+      "totalStars": 5897,
+      "forks": 434,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 05:48:23",
+      "pushedAt": "10/08/2026 07:05:38",
       "tags": [
         "agent",
         "llm",
@@ -281,8 +281,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 2607,
-      "totalStars": 97892,
-      "forks": 8611,
+      "totalStars": 97927,
+      "forks": 8612,
       "license": "Apache-2.0",
       "pushedAt": "10/07/2026 00:57:45",
       "tags": [
@@ -323,7 +323,7 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1109,
-      "totalStars": 10284,
+      "totalStars": 10294,
       "forks": 978,
       "license": "",
       "pushedAt": "10/08/2026 00:45:15",
@@ -358,10 +358,10 @@
       "homepage": "https://tilelang.com/",
       "language": "Python",
       "starsGained": 639,
-      "totalStars": 8497,
+      "totalStars": 8503,
       "forks": 858,
       "license": "NOASSERTION",
-      "pushedAt": "10/08/2026 05:08:29",
+      "pushedAt": "10/08/2026 07:08:52",
       "tags": [
         "agent"
       ],
@@ -392,47 +392,31 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "homepage": "https://ponytail.dev",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 27653,
-      "totalStars": 157799,
-      "forks": 8476,
-      "license": "MIT",
-      "pushedAt": "10/08/2026 03:51:37",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -493,8 +477,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 27500,
-      "totalStars": 55334,
-      "forks": 3166,
+      "totalStars": 55409,
+      "forks": 3168,
       "license": "MIT",
       "pushedAt": "10/06/2026 23:23:46",
       "tags": [
@@ -542,8 +526,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 23835,
-      "totalStars": 275055,
-      "forks": 41034,
+      "totalStars": 275097,
+      "forks": 41039,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -587,8 +571,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 23808,
-      "totalStars": 46946,
-      "forks": 5965,
+      "totalStars": 46994,
+      "forks": 5966,
       "license": "MIT",
       "pushedAt": "10/07/2026 23:14:25",
       "tags": [
@@ -633,10 +617,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 22512,
-      "totalStars": 44340,
-      "forks": 3204,
+      "totalStars": 44371,
+      "forks": 3207,
       "license": "Apache-2.0",
-      "pushedAt": "10/05/2026 06:43:52",
+      "pushedAt": "10/08/2026 07:06:38",
       "tags": [
         "agent",
         "llm",
@@ -674,10 +658,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 18524,
-      "totalStars": 98553,
-      "forks": 16642,
+      "totalStars": 98571,
+      "forks": 16645,
       "license": "MIT",
-      "pushedAt": "10/08/2026 05:42:05",
+      "pushedAt": "10/08/2026 07:08:16",
       "tags": [
         "agent"
       ],
@@ -724,10 +708,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 13601,
-      "totalStars": 58691,
-      "forks": 5223,
+      "totalStars": 58751,
+      "forks": 5227,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 05:31:56",
+      "pushedAt": "10/08/2026 06:27:22",
       "tags": [
         "agent"
       ],
@@ -759,20 +743,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "topics": [],
-      "homepage": "https://justvugg.github.io/colibri",
+      "homepage": "",
       "language": "C",
       "starsGained": 13446,
-      "totalStars": 40379,
-      "forks": 4440,
-      "license": "Apache-2.0",
-      "pushedAt": "10/06/2026 23:03:56",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -782,8 +766,7 @@
           "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -819,10 +802,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 10980,
-      "totalStars": 32491,
-      "forks": 4326,
+      "totalStars": 32512,
+      "forks": 4330,
       "license": "NOASSERTION",
-      "pushedAt": "10/08/2026 05:14:19",
+      "pushedAt": "10/08/2026 06:57:40",
       "tags": [
         "agent",
         "llm",
@@ -896,13 +879,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 6960,
-      "totalStars": 31799,
-      "forks": 4434,
-      "license": "MIT",
-      "pushedAt": "10/08/2026 00:09:33",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -910,8 +893,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -920,8 +903,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
