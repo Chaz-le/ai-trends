@@ -1,100 +1,6 @@
 {
-  "generatedAt": "2026-10-07T11:02:05.815Z",
+  "generatedAt": "2026-10-08T05:52:36.584Z",
   "snapshots": [
-    {
-      "date": "2026-08-08",
-      "generatedAt": "2026-08-08T05:08:09.6571556+00:00",
-      "repos": {
-        "zhaoxuya520/reverse-skill": {
-          "stars": 20637,
-          "periodGain": 12996
-        },
-        "microsoft/AI-For-Beginners": {
-          "stars": 63275,
-          "periodGain": 11438
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 17617,
-          "periodGain": 7501
-        },
-        "lyogavin/airllm": {
-          "stars": 29951,
-          "periodGain": 5521
-        },
-        "esengine/DeepSeek-Reasonix": {
-          "stars": 32934,
-          "periodGain": 4739
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 18420,
-          "periodGain": 3957
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 18208,
-          "periodGain": 3497
-        },
-        "different-ai/openwork": {
-          "stars": 21483,
-          "periodGain": 2367
-        },
-        "paperswithbacktest/awesome-systematic-trading": {
-          "stars": 12977,
-          "periodGain": 1433
-        },
-        "antirez/ds4": {
-          "stars": 20902,
-          "periodGain": 1341
-        },
-        "DataExpert-io/data-engineer-handbook": {
-          "stars": 43388,
-          "periodGain": 742
-        },
-        "unclebob/swarm-forge": {
-          "stars": 1872,
-          "periodGain": 273
-        },
-        "mattpocock/skills": {
-          "stars": 209051,
-          "periodGain": 49783
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 42701,
-          "periodGain": 29603
-        },
-        "stablyai/orca": {
-          "stars": 39771,
-          "periodGain": 26566
-        },
-        "emilkowalski/skills": {
-          "stars": 26979,
-          "periodGain": 21584
-        },
-        "Nutlope/hallmark": {
-          "stars": 22611,
-          "periodGain": 19043
-        },
-        "koala73/worldmonitor": {
-          "stars": 79732,
-          "periodGain": 18482
-        },
-        "iOfficeAI/OfficeCLI": {
-          "stars": 26584,
-          "periodGain": 17141
-        },
-        "Shubhamsaboo/awesome-llm-apps": {
-          "stars": 131371,
-          "periodGain": 15067
-        },
-        "pbakaus/impeccable": {
-          "stars": 56774,
-          "periodGain": 12795
-        },
-        "HKUDS/Vibe-Trading": {
-          "stars": 30271,
-          "periodGain": 12068
-        }
-      }
-    },
     {
       "date": "2026-08-09",
       "generatedAt": "2026-08-09T05:16:30.2274014+00:00",
@@ -4538,6 +4444,80 @@
         "tashfeenahmed/freellmapi": {
           "stars": 31423,
           "periodGain": 6832
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "generatedAt": "2026-10-08T05:52:13.3076441+00:00",
+      "repos": {
+        "Panniantong/Agent-Reach": {
+          "stars": 93532,
+          "periodGain": 6912
+        },
+        "DuarteSantos8/openGym": {
+          "stars": 7271,
+          "periodGain": 4906
+        },
+        "heygen-com/hyperframes": {
+          "stars": 58691,
+          "periodGain": 13601
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 15351,
+          "periodGain": 3690
+        },
+        "mvschwarz/openrig": {
+          "stars": 5877,
+          "periodGain": 2912
+        },
+        "thedotmack/claude-mem": {
+          "stars": 97892,
+          "periodGain": 2607
+        },
+        "cursor/plugins": {
+          "stars": 10284,
+          "periodGain": 1109
+        },
+        "tile-ai/tilelang": {
+          "stars": 8497,
+          "periodGain": 639
+        },
+        "DietrichGebert/ponytail": {
+          "stars": 157799,
+          "periodGain": 27653
+        },
+        "ayghri/i-have-adhd": {
+          "stars": 55334,
+          "periodGain": 27500
+        },
+        "affaan-m/ECC": {
+          "stars": 275055,
+          "periodGain": 23835
+        },
+        "vectorize-io/hindsight": {
+          "stars": 46946,
+          "periodGain": 23808
+        },
+        "alibaba/open-code-review": {
+          "stars": 44340,
+          "periodGain": 22512
+        },
+        "paperclipai/paperclip": {
+          "stars": 98553,
+          "periodGain": 18524
+        },
+        "JustVugg/colibri": {
+          "stars": 40379,
+          "periodGain": 13446
+        },
+        "Tencent/WeKnora": {
+          "stars": 32491,
+          "periodGain": 10980
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 31799,
+          "periodGain": 6960
         }
       }
     }

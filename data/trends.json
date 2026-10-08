@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-07T11:01:41.1588278+00:00",
+  "generatedAt": "2026-10-08T05:52:13.3076441+00:00",
   "weekly": [
     {
       "owner": "Panniantong",
@@ -30,11 +30,11 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6454,
-      "totalStars": 92917,
-      "forks": 8142,
+      "starsGained": 6912,
+      "totalStars": 93532,
+      "forks": 8189,
       "license": "MIT",
-      "pushedAt": "09/15/2026 16:16:24",
+      "pushedAt": "10/07/2026 17:17:29",
       "tags": [
         "agent",
         "llm"
@@ -55,143 +55,6 @@
         ],
         "scenarioPoints": [
           "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
-        ]
-      }
-    },
-    {
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
-      "language": "Rust",
-      "starsGained": 5228,
-      "totalStars": 15202,
-      "forks": 1719,
-      "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 10:28:38",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "projectIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "featurePoints": [
-          "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
-        ]
-      }
-    },
-    {
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-      "description": "Write HTML. Render video. Built for agents.",
-      "topics": [
-        "ai",
-        "animation",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "mcp",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video"
-      ],
-      "homepage": "https://hyperframes.dev",
-      "language": "TypeScript",
-      "starsGained": 3614,
-      "totalStars": 58207,
-      "forks": 5180,
-      "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 11:01:17",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "mvschwarz",
-      "repo": "openrig",
-      "fullName": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-skills",
-        "ai-coding",
-        "claude-code",
-        "cli",
-        "codex-cli",
-        "multi-agent",
-        "multi-agent-systems",
-        "tmux",
-        "typescript"
-      ],
-      "homepage": "https://openrig.dev",
-      "language": "TypeScript",
-      "starsGained": 3327,
-      "totalStars": 5616,
-      "forks": 412,
-      "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 10:38:34",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenRig",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -224,11 +87,11 @@
       ],
       "homepage": "https://opengym.duarte-santos.ch",
       "language": "JavaScript",
-      "starsGained": 3318,
-      "totalStars": 6283,
-      "forks": 844,
+      "starsGained": 4906,
+      "totalStars": 7271,
+      "forks": 947,
       "license": "AGPL-3.0",
-      "pushedAt": "10/06/2026 09:42:32",
+      "pushedAt": "10/07/2026 16:48:33",
       "tags": [
         "agent"
       ],
@@ -246,6 +109,143 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+      "description": "Write HTML. Render video. Built for agents.",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "homepage": "https://hyperframes.dev",
+      "language": "TypeScript",
+      "starsGained": 3908,
+      "totalStars": 58691,
+      "forks": 5223,
+      "license": "Apache-2.0",
+      "pushedAt": "10/08/2026 05:31:56",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "macOS",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：For Claude Code, install the versioned plugin:"
+        ]
+      }
+    },
+    {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "topics": [],
+      "homepage": "https://docs.nvidia.com/openshell/latest/",
+      "language": "Rust",
+      "starsGained": 3690,
+      "totalStars": 15351,
+      "forks": 1730,
+      "license": "Apache-2.0",
+      "pushedAt": "10/08/2026 05:49:22",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
+        "projectIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
+        "featurePoints": [
+          "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
+        ]
+      }
+    },
+    {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "homepage": "https://openrig.dev",
+      "language": "TypeScript",
+      "starsGained": 2912,
+      "totalStars": 5877,
+      "forks": 433,
+      "license": "Apache-2.0",
+      "pushedAt": "10/08/2026 05:48:23",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenRig",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -280,9 +280,9 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 2104,
-      "totalStars": 97391,
-      "forks": 8581,
+      "starsGained": 2607,
+      "totalStars": 97892,
+      "forks": 8611,
       "license": "Apache-2.0",
       "pushedAt": "10/07/2026 00:57:45",
       "tags": [
@@ -322,11 +322,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1106,
-      "totalStars": 10176,
-      "forks": 965,
+      "starsGained": 1109,
+      "totalStars": 10284,
+      "forks": 978,
       "license": "",
-      "pushedAt": "10/07/2026 04:54:21",
+      "pushedAt": "10/08/2026 00:45:15",
       "tags": [
         "agent"
       ],
@@ -357,11 +357,11 @@
       "topics": [],
       "homepage": "https://tilelang.com/",
       "language": "Python",
-      "starsGained": 675,
-      "totalStars": 8456,
-      "forks": 856,
+      "starsGained": 639,
+      "totalStars": 8497,
+      "forks": 858,
       "license": "NOASSERTION",
-      "pushedAt": "10/07/2026 06:41:23",
+      "pushedAt": "10/08/2026 05:08:29",
       "tags": [
         "agent"
       ],
@@ -386,68 +386,6 @@
   ],
   "monthly": [
     {
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
-      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "architecture-diagram",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "coding-agents",
-        "deepseek-harness",
-        "developer-tools",
-        "diagrams",
-        "diagrams-as-code",
-        "dsh-plugin",
-        "flowchart",
-        "llm",
-        "mermaid",
-        "opencode",
-        "sequence-diagram",
-        "software-architecture",
-        "system-design",
-        "visualization"
-      ],
-      "homepage": "https://tt-a1i.github.io/archify/",
-      "language": "JavaScript",
-      "starsGained": 28776,
-      "totalStars": 78943,
-      "forks": 5299,
-      "license": "MIT",
-      "pushedAt": "10/07/2026 10:36:38",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：The agent switcher covers cursor, codex, claude-code, and opencode."
-        ]
-      }
-    },
-    {
       "owner": "DietrichGebert",
       "repo": "ponytail",
       "fullName": "DietrichGebert/ponytail",
@@ -468,11 +406,11 @@
       ],
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
-      "starsGained": 28592,
-      "totalStars": 157177,
-      "forks": 8449,
+      "starsGained": 27653,
+      "totalStars": 157799,
+      "forks": 8476,
       "license": "MIT",
-      "pushedAt": "10/05/2026 20:46:39",
+      "pushedAt": "10/08/2026 03:51:37",
       "tags": [
         "agent",
         "llm",
@@ -483,6 +421,45 @@
       "summarySource": "pending",
       "insight": {
         "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 27502,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
         "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
@@ -515,9 +492,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 27129,
-      "totalStars": 54669,
-      "forks": 3136,
+      "starsGained": 27500,
+      "totalStars": 55334,
+      "forks": 3166,
       "license": "MIT",
       "pushedAt": "10/06/2026 23:23:46",
       "tags": [
@@ -564,9 +541,9 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 25085,
-      "totalStars": 274530,
-      "forks": 40966,
+      "starsGained": 23835,
+      "totalStars": 275055,
+      "forks": 41034,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -609,11 +586,11 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 23797,
-      "totalStars": 46523,
-      "forks": 5952,
+      "starsGained": 23808,
+      "totalStars": 46946,
+      "forks": 5965,
       "license": "MIT",
-      "pushedAt": "10/07/2026 10:38:39",
+      "pushedAt": "10/07/2026 23:14:25",
       "tags": [
         "agent",
         "learning"
@@ -655,9 +632,9 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 22361,
-      "totalStars": 44131,
-      "forks": 3188,
+      "starsGained": 22512,
+      "totalStars": 44340,
+      "forks": 3204,
       "license": "Apache-2.0",
       "pushedAt": "10/05/2026 06:43:52",
       "tags": [
@@ -696,11 +673,11 @@
       "topics": [],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 18199,
-      "totalStars": 98235,
-      "forks": 16604,
+      "starsGained": 18524,
+      "totalStars": 98553,
+      "forks": 16642,
       "license": "MIT",
-      "pushedAt": "10/07/2026 11:01:31",
+      "pushedAt": "10/08/2026 05:42:05",
       "tags": [
         "agent"
       ],
@@ -746,11 +723,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 13590,
-      "totalStars": 58207,
-      "forks": 5180,
+      "starsGained": 13601,
+      "totalStars": 58691,
+      "forks": 5223,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 11:01:17",
+      "pushedAt": "10/08/2026 05:31:56",
       "tags": [
         "agent"
       ],
@@ -784,9 +761,9 @@
       "topics": [],
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
-      "starsGained": 13243,
-      "totalStars": 40148,
-      "forks": 4422,
+      "starsGained": 13446,
+      "totalStars": 40379,
+      "forks": 4440,
       "license": "Apache-2.0",
       "pushedAt": "10/06/2026 23:03:56",
       "tags": [
@@ -841,11 +818,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 11017,
-      "totalStars": 32374,
-      "forks": 4313,
+      "starsGained": 10980,
+      "totalStars": 32491,
+      "forks": 4326,
       "license": "NOASSERTION",
-      "pushedAt": "10/01/2026 11:57:46",
+      "pushedAt": "10/08/2026 05:14:19",
       "tags": [
         "agent",
         "llm",
@@ -879,32 +856,24 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 10029,
-      "totalStars": 102309,
-      "forks": 10722,
-      "license": "MIT",
-      "pushedAt": "10/03/2026 18:21:11",
+      "starsGained": 10376,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -915,8 +884,7 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -930,11 +898,11 @@
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 6832,
-      "totalStars": 31423,
-      "forks": 4398,
+      "starsGained": 6960,
+      "totalStars": 31799,
+      "forks": 4434,
       "license": "MIT",
-      "pushedAt": "10/07/2026 00:16:09",
+      "pushedAt": "10/08/2026 00:09:33",
       "tags": [
         "llm",
         "ml"
