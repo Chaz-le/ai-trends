@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:58:14.519Z",
+  "generatedAt": "2026-10-09T07:20:27.814Z",
   "snapshots": [
     {
       "date": "2026-08-10",
@@ -4441,79 +4441,63 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T05:57:53.6237603+00:00",
+      "generatedAt": "2026-10-09T07:20:12.9369827+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 281440,
+          "stars": 281566,
           "periodGain": 7448
         },
         "Panniantong/Agent-Reach": {
-          "stars": 94319,
+          "stars": 94382,
           "periodGain": 6987
         },
         "DuarteSantos8/openGym": {
-          "stars": 8157,
+          "stars": 8205,
           "periodGain": 6086
         },
         "heygen-com/hyperframes": {
-          "stars": 59333,
+          "stars": 59372,
           "periodGain": 11862
         },
         "thedotmack/claude-mem": {
-          "stars": 98664,
+          "stars": 98722,
           "periodGain": 3153
         },
         "mvschwarz/openrig": {
-          "stars": 6218,
+          "stars": 6240,
           "periodGain": 2693
         },
         "earthtojake/text-to-cad": {
-          "stars": 18538,
+          "stars": 18556,
           "periodGain": 1898
         },
         "cursor/plugins": {
-          "stars": 10438,
+          "stars": 10457,
           "periodGain": 1109
         },
         "debpalash/VoiceStudio": {
-          "stars": 55481,
+          "stars": 55543,
           "periodGain": 34334
         },
-        "ayghri/i-have-adhd": {
-          "stars": 55874,
-          "periodGain": 27656
-        },
-        "DietrichGebert/ponytail": {
-          "stars": 158781,
-          "periodGain": 27284
-        },
         "vectorize-io/hindsight": {
-          "stars": 47401,
+          "stars": 47436,
           "periodGain": 24260
         },
         "affaan-m/ECC": {
-          "stars": 275510,
+          "stars": 275543,
           "periodGain": 23115
         },
         "alibaba/open-code-review": {
-          "stars": 44683,
+          "stars": 44704,
           "periodGain": 22779
         },
         "paperclipai/paperclip": {
-          "stars": 98943,
+          "stars": 98965,
           "periodGain": 18863
         },
-        "JustVugg/colibri": {
-          "stars": 40616,
-          "periodGain": 13653
-        },
         "Tencent/WeKnora": {
-          "stars": 32713,
+          "stars": 32735,
           "periodGain": 11015
-        },
-        "tashfeenahmed/freellmapi": {
-          "stars": 32246,
-          "periodGain": 7238
         }
       }
     }
