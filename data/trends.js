@@ -1,7 +1,45 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-08T11:19:02.1062574+00:00",
+  "generatedAt": "2026-10-09T05:57:53.6237603+00:00",
   "weekly": [
+    {
+      "owner": "mattpocock",
+      "repo": "skills",
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "topics": [],
+      "homepage": "https://aihero.dev/skills",
+      "language": "Shell",
+      "starsGained": 7448,
+      "totalStars": 281440,
+      "forks": 23590,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 08:49:07",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Skills For Real Engineers",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
     {
       "owner": "Panniantong",
       "repo": "Agent-Reach",
@@ -30,9 +68,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6912,
-      "totalStars": 93810,
-      "forks": 8204,
+      "starsGained": 6987,
+      "totalStars": 94319,
+      "forks": 8245,
       "license": "MIT",
       "pushedAt": "10/08/2026 08:31:08",
       "tags": [
@@ -55,44 +93,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
-        ]
-      }
-    },
-    {
-      "owner": "mattpocock",
-      "repo": "skills",
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "topics": [],
-      "homepage": "https://aihero.dev/skills",
-      "language": "Shell",
-      "starsGained": 6869,
-      "totalStars": 280479,
-      "forks": 23498,
-      "license": "MIT",
-      "pushedAt": "10/08/2026 08:49:07",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills For Real Engineers",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -125,11 +125,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://opengym.duarte-santos.ch",
       "language": "JavaScript",
-      "starsGained": 4906,
-      "totalStars": 7628,
-      "forks": 976,
+      "starsGained": 6086,
+      "totalStars": 8157,
+      "forks": 1034,
       "license": "AGPL-3.0",
-      "pushedAt": "10/07/2026 16:48:33",
+      "pushedAt": "10/08/2026 13:32:09",
       "tags": [
         "agent"
       ],
@@ -172,11 +172,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 3908,
-      "totalStars": 58882,
-      "forks": 5237,
+      "starsGained": 3996,
+      "totalStars": 59333,
+      "forks": 5287,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 11:01:47",
+      "pushedAt": "10/09/2026 05:30:42",
       "tags": [
         "agent"
       ],
@@ -197,57 +197,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "mvschwarz",
-      "repo": "openrig",
-      "fullName": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "topics": [
-        "agent-harness",
-        "agent-orchestration",
-        "agent-skills",
-        "ai-coding",
-        "claude-code",
-        "cli",
-        "codex-cli",
-        "multi-agent",
-        "multi-agent-systems",
-        "tmux",
-        "typescript"
-      ],
-      "homepage": "https://openrig.dev",
-      "language": "TypeScript",
-      "starsGained": 2912,
-      "totalStars": 5975,
-      "forks": 439,
-      "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 11:15:27",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenRig",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -282,11 +231,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 2607,
-      "totalStars": 98034,
-      "forks": 8618,
+      "starsGained": 3153,
+      "totalStars": 98664,
+      "forks": 8650,
       "license": "Apache-2.0",
-      "pushedAt": "10/07/2026 00:57:45",
+      "pushedAt": "10/09/2026 03:34:45",
       "tags": [
         "agent",
         "llm",
@@ -315,6 +264,57 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171890339?s=40&v=4",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "homepage": "https://openrig.dev",
+      "language": "TypeScript",
+      "starsGained": 2693,
+      "totalStars": 6218,
+      "forks": 451,
+      "license": "Apache-2.0",
+      "pushedAt": "10/09/2026 05:49:32",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenRig",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "fullName": "earthtojake/text-to-cad",
@@ -334,11 +334,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 1800,
-      "totalStars": 18351,
-      "forks": 1823,
+      "starsGained": 1898,
+      "totalStars": 18538,
+      "forks": 1840,
       "license": "MIT",
-      "pushedAt": "10/08/2026 08:16:11",
+      "pushedAt": "10/09/2026 05:53:42",
       "tags": [
         "agent",
         "multimodal"
@@ -373,8 +373,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1109,
-      "totalStars": 10315,
-      "forks": 980,
+      "totalStars": 10438,
+      "forks": 988,
       "license": "",
       "pushedAt": "10/08/2026 00:45:15",
       "tags": [
@@ -430,11 +430,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 34563,
-      "totalStars": 54929,
-      "forks": 6167,
+      "starsGained": 34334,
+      "totalStars": 55481,
+      "forks": 6216,
       "license": "AGPL-3.0",
-      "pushedAt": "10/08/2026 09:11:26",
+      "pushedAt": "10/09/2026 05:25:06",
       "tags": [
         "agent",
         "llm",
@@ -461,41 +461,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "DietrichGebert",
-      "repo": "ponytail",
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 27653,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "ayghri",
       "repo": "i-have-adhd",
       "fullName": "ayghri/i-have-adhd",
@@ -512,9 +477,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 27500,
-      "totalStars": 55578,
-      "forks": 3171,
+      "starsGained": 27656,
+      "totalStars": 55874,
+      "forks": 3189,
       "license": "MIT",
       "pushedAt": "10/06/2026 23:23:46",
       "tags": [
@@ -543,6 +508,101 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
+      "language": "JavaScript",
+      "starsGained": 27284,
+      "totalStars": 158781,
+      "forks": 8537,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 16:19:55",
+      "tags": [
+        "agent",
+        "llm",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "fullName": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
+      "description": "Hindsight: Agent Memory That Learns",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai-memory",
+        "memory"
+      ],
+      "homepage": "https://hindsight.vectorize.io/",
+      "language": "Python",
+      "starsGained": 24260,
+      "totalStars": 47401,
+      "forks": 5973,
+      "license": "MIT",
+      "pushedAt": "10/08/2026 21:42:39",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Retain: Store information",
+        "category": "agent-memory",
+        "zhTitle": "AI Agent 长期记忆工具",
+        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
+        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
+        "featurePoints": [
+          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
+          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
+          "强调基准和真实工作流中的记忆效果。"
+        ],
+        "scenarioPoints": [
+          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
+          "适用线索：Oracle AI Database is also supported for enterprise deployments with full feature parity. See the storage documentation for details."
+        ]
+      }
+    },
+    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
@@ -561,9 +621,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 23835,
-      "totalStars": 275208,
-      "forks": 41051,
+      "starsGained": 23115,
+      "totalStars": 275510,
+      "forks": 41124,
       "license": "MIT",
       "pushedAt": "10/05/2026 04:55:16",
       "tags": [
@@ -592,50 +652,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "vectorize-io",
-      "repo": "hindsight",
-      "fullName": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
-      "description": "Hindsight: Agent Memory That Learns",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai-memory",
-        "memory"
-      ],
-      "homepage": "https://hindsight.vectorize.io/",
-      "language": "Python",
-      "starsGained": 23808,
-      "totalStars": 47085,
-      "forks": 5967,
-      "license": "MIT",
-      "pushedAt": "10/08/2026 10:43:09",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Retain: Store information",
-        "category": "agent-memory",
-        "zhTitle": "AI Agent 长期记忆工具",
-        "zhIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "projectIntro": "为 AI 编程 Agent 或个人助手提供可持续记忆，让模型跨任务保留项目偏好、经验和上下文。",
-        "featurePoints": [
-          "保存 Agent 在真实项目中的经验、约定和历史决策，减少重复说明。",
-          "面向编码 Agent 的长期上下文管理，而不是单次聊天记录。",
-          "强调基准和真实工作流中的记忆效果。"
-        ],
-        "scenarioPoints": [
-          "适合长期维护同一项目、团队规范复杂或希望 AI 助手逐渐熟悉个人工作流的用户。",
-          "适用线索：Oracle AI Database is also supported for enterprise deployments with full feature parity. See the storage documentation for details."
-        ]
-      }
-    },
-    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -652,11 +668,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 22512,
-      "totalStars": 44461,
-      "forks": 3209,
+      "starsGained": 22779,
+      "totalStars": 44683,
+      "forks": 3232,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 07:06:38",
+      "pushedAt": "10/08/2026 11:52:10",
       "tags": [
         "agent",
         "llm",
@@ -693,11 +709,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 18524,
-      "totalStars": 98661,
-      "forks": 16649,
+      "starsGained": 18863,
+      "totalStars": 98943,
+      "forks": 16702,
       "license": "MIT",
-      "pushedAt": "10/08/2026 11:18:43",
+      "pushedAt": "10/09/2026 05:36:47",
       "tags": [
         "agent"
       ],
@@ -718,6 +734,42 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：Open source. Self-hosted. No Paperclip account required. Follow the guided quickstart to set up your first agent."
+        ]
+      }
+    },
+    {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "topics": [],
+      "homepage": "https://justvugg.github.io/colibri",
+      "language": "C",
+      "starsGained": 13653,
+      "totalStars": 40616,
+      "forks": 4464,
+      "license": "Apache-2.0",
+      "pushedAt": "10/08/2026 18:30:03",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "featurePoints": [
+          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
         ]
       }
     },
@@ -743,11 +795,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 13601,
-      "totalStars": 58882,
-      "forks": 5237,
+      "starsGained": 11862,
+      "totalStars": 59333,
+      "forks": 5287,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 11:01:47",
+      "pushedAt": "10/09/2026 05:30:42",
       "tags": [
         "agent"
       ],
@@ -768,42 +820,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "JustVugg",
-      "repo": "colibri",
-      "fullName": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "topics": [],
-      "homepage": "https://justvugg.github.io/colibri",
-      "language": "C",
-      "starsGained": 13446,
-      "totalStars": 40440,
-      "forks": 4444,
-      "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 10:45:43",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "featurePoints": [
-          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
         ]
       }
     },
@@ -838,11 +854,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 10980,
-      "totalStars": 32564,
-      "forks": 4338,
+      "starsGained": 11015,
+      "totalStars": 32713,
+      "forks": 4353,
       "license": "NOASSERTION",
-      "pushedAt": "10/08/2026 10:19:54",
+      "pushedAt": "10/09/2026 05:01:49",
       "tags": [
         "agent",
         "llm",
@@ -879,7 +895,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 10376,
+      "starsGained": 10948,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -918,9 +934,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 6960,
-      "totalStars": 31926,
-      "forks": 4442,
+      "starsGained": 7238,
+      "totalStars": 32246,
+      "forks": 4479,
       "license": "MIT",
       "pushedAt": "10/08/2026 00:09:33",
       "tags": [
@@ -930,8 +946,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -940,7 +956,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     }
