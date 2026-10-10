@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-10T07:00:13.8310578+00:00",
+  "generatedAt": "2026-10-10T10:34:27.5685355+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 8156,
-      "totalStars": 283206,
-      "forks": 23724,
+      "totalStars": 283502,
+      "forks": 23745,
       "license": "MIT",
       "pushedAt": "10/09/2026 10:57:08",
       "tags": [
@@ -69,8 +69,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 7084,
-      "totalStars": 95124,
-      "forks": 8316,
+      "totalStars": 95254,
+      "forks": 8331,
       "license": "MIT",
       "pushedAt": "10/08/2026 08:31:08",
       "tags": [
@@ -126,8 +126,8 @@
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
       "starsGained": 6749,
-      "totalStars": 8827,
-      "forks": 1092,
+      "totalStars": 8940,
+      "forks": 1103,
       "license": "AGPL-3.0",
       "pushedAt": "10/09/2026 14:01:04",
       "tags": [
@@ -173,10 +173,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 4003,
-      "totalStars": 59956,
-      "forks": 5352,
+      "totalStars": 60058,
+      "forks": 5365,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 06:58:53",
+      "pushedAt": "10/10/2026 09:58:46",
       "tags": [
         "agent"
       ],
@@ -232,8 +232,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 3850,
-      "totalStars": 99044,
-      "forks": 8674,
+      "totalStars": 99094,
+      "forks": 8677,
       "license": "Apache-2.0",
       "pushedAt": "10/09/2026 10:23:45",
       "tags": [
@@ -286,10 +286,10 @@
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 2338,
-      "totalStars": 6548,
-      "forks": 481,
+      "totalStars": 6600,
+      "forks": 484,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 06:55:37",
+      "pushedAt": "10/10/2026 09:01:57",
       "tags": [
         "agent",
         "llm",
@@ -335,10 +335,10 @@
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 2125,
-      "totalStars": 18833,
-      "forks": 1861,
+      "totalStars": 18881,
+      "forks": 1862,
       "license": "MIT",
-      "pushedAt": "10/10/2026 06:36:54",
+      "pushedAt": "10/10/2026 09:57:34",
       "tags": [
         "agent",
         "multimodal"
@@ -373,8 +373,8 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1125,
-      "totalStars": 10635,
-      "forks": 1006,
+      "totalStars": 10669,
+      "forks": 1011,
       "license": "",
       "pushedAt": "10/10/2026 04:39:40",
       "tags": [
@@ -431,10 +431,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 34560,
-      "totalStars": 56587,
-      "forks": 6340,
+      "totalStars": 56751,
+      "forks": 6366,
       "license": "AGPL-3.0",
-      "pushedAt": "10/10/2026 04:37:34",
+      "pushedAt": "10/10/2026 10:31:36",
       "tags": [
         "agent",
         "llm",
@@ -467,47 +467,31 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "homepage": "https://ponytail.dev",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 27290,
-      "totalStars": 159854,
-      "forks": 8601,
-      "license": "MIT",
-      "pushedAt": "10/10/2026 04:19:53",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm",
-        "generation",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -527,8 +511,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 24617,
-      "totalStars": 47815,
-      "forks": 5982,
+      "totalStars": 47891,
+      "forks": 5988,
       "license": "MIT",
       "pushedAt": "10/09/2026 18:39:34",
       "tags": [
@@ -573,10 +557,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 23028,
-      "totalStars": 45519,
-      "forks": 3286,
+      "totalStars": 45705,
+      "forks": 3299,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 00:55:20",
+      "pushedAt": "10/10/2026 08:37:26",
       "tags": [
         "agent",
         "llm",
@@ -623,8 +607,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 22710,
-      "totalStars": 276104,
-      "forks": 41195,
+      "totalStars": 276192,
+      "forks": 41206,
       "license": "MIT",
       "pushedAt": "10/10/2026 01:41:12",
       "tags": [
@@ -663,10 +647,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 19137,
-      "totalStars": 99352,
-      "forks": 16766,
+      "totalStars": 99441,
+      "forks": 16780,
       "license": "MIT",
-      "pushedAt": "10/10/2026 06:57:26",
+      "pushedAt": "10/10/2026 09:51:10",
       "tags": [
         "agent"
       ],
@@ -701,8 +685,8 @@
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 13755,
-      "totalStars": 40867,
-      "forks": 4483,
+      "totalStars": 40902,
+      "forks": 4487,
       "license": "Apache-2.0",
       "pushedAt": "10/08/2026 18:30:03",
       "tags": [
@@ -749,10 +733,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 11576,
-      "totalStars": 59956,
-      "forks": 5352,
+      "totalStars": 60058,
+      "forks": 5365,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 06:58:53",
+      "pushedAt": "10/10/2026 09:58:46",
       "tags": [
         "agent"
       ],
@@ -783,32 +767,24 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 11155,
-      "totalStars": 104180,
-      "forks": 10874,
-      "license": "MIT",
-      "pushedAt": "10/03/2026 18:21:11",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -819,8 +795,7 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -856,10 +831,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 11118,
-      "totalStars": 32918,
-      "forks": 4375,
+      "totalStars": 32977,
+      "forks": 4388,
       "license": "NOASSERTION",
-      "pushedAt": "10/10/2026 06:50:20",
+      "pushedAt": "10/10/2026 09:45:19",
       "tags": [
         "agent",
         "llm",
@@ -894,13 +869,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 7455,
-      "totalStars": 32640,
-      "forks": 4521,
-      "license": "MIT",
-      "pushedAt": "10/09/2026 21:16:00",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -908,8 +883,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -918,8 +893,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -934,10 +908,10 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7118,
-      "totalStars": 15639,
-      "forks": 1751,
+      "totalStars": 15661,
+      "forks": 1752,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 04:24:23",
+      "pushedAt": "10/10/2026 07:38:52",
       "tags": [
         "agent"
       ],
