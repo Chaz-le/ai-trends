@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-09T11:17:18.1533835+00:00",
+  "generatedAt": "2026-10-10T05:40:38.1123878+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -12,9 +12,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 7448,
-      "totalStars": 281900,
-      "forks": 23618,
+      "starsGained": 8156,
+      "totalStars": 283077,
+      "forks": 23716,
       "license": "MIT",
       "pushedAt": "10/09/2026 10:57:08",
       "tags": [
@@ -68,9 +68,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6987,
-      "totalStars": 94544,
-      "forks": 8262,
+      "starsGained": 7084,
+      "totalStars": 95058,
+      "forks": 8310,
       "license": "MIT",
       "pushedAt": "10/08/2026 08:31:08",
       "tags": [
@@ -125,11 +125,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
-      "starsGained": 6086,
-      "totalStars": 8322,
-      "forks": 1048,
+      "starsGained": 6749,
+      "totalStars": 8780,
+      "forks": 1090,
       "license": "AGPL-3.0",
-      "pushedAt": "10/09/2026 10:57:12",
+      "pushedAt": "10/09/2026 14:01:04",
       "tags": [
         "agent"
       ],
@@ -172,11 +172,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 3996,
-      "totalStars": 59470,
-      "forks": 5303,
+      "starsGained": 4003,
+      "totalStars": 59915,
+      "forks": 5349,
       "license": "Apache-2.0",
-      "pushedAt": "10/09/2026 09:34:05",
+      "pushedAt": "10/10/2026 05:40:39",
       "tags": [
         "agent"
       ],
@@ -231,9 +231,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 3153,
-      "totalStars": 98849,
-      "forks": 8663,
+      "starsGained": 3850,
+      "totalStars": 99034,
+      "forks": 8674,
       "license": "Apache-2.0",
       "pushedAt": "10/09/2026 10:23:45",
       "tags": [
@@ -285,11 +285,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
-      "starsGained": 2693,
-      "totalStars": 6285,
-      "forks": 456,
+      "starsGained": 2338,
+      "totalStars": 6531,
+      "forks": 478,
       "license": "Apache-2.0",
-      "pushedAt": "10/09/2026 11:14:57",
+      "pushedAt": "10/10/2026 02:05:47",
       "tags": [
         "agent",
         "llm",
@@ -334,11 +334,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 1898,
-      "totalStars": 18603,
-      "forks": 1849,
+      "starsGained": 2125,
+      "totalStars": 18816,
+      "forks": 1860,
       "license": "MIT",
-      "pushedAt": "10/09/2026 07:50:05",
+      "pushedAt": "10/10/2026 05:35:05",
       "tags": [
         "agent",
         "multimodal"
@@ -372,11 +372,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1109,
-      "totalStars": 10491,
-      "forks": 988,
+      "starsGained": 1125,
+      "totalStars": 10627,
+      "forks": 1005,
       "license": "",
-      "pushedAt": "10/08/2026 00:45:15",
+      "pushedAt": "10/10/2026 04:39:40",
       "tags": [
         "agent"
       ],
@@ -430,11 +430,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 34334,
-      "totalStars": 55720,
-      "forks": 6250,
+      "starsGained": 34560,
+      "totalStars": 56519,
+      "forks": 6337,
       "license": "AGPL-3.0",
-      "pushedAt": "10/09/2026 09:18:16",
+      "pushedAt": "10/10/2026 04:37:34",
       "tags": [
         "agent",
         "llm",
@@ -481,11 +481,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
-      "starsGained": 27284,
-      "totalStars": 159110,
-      "forks": 8550,
+      "starsGained": 27290,
+      "totalStars": 159799,
+      "forks": 8598,
       "license": "MIT",
-      "pushedAt": "10/08/2026 16:19:55",
+      "pushedAt": "10/10/2026 04:19:53",
       "tags": [
         "agent",
         "llm",
@@ -526,11 +526,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 24260,
-      "totalStars": 47532,
-      "forks": 5977,
+      "starsGained": 24617,
+      "totalStars": 47788,
+      "forks": 5980,
       "license": "MIT",
-      "pushedAt": "10/09/2026 07:55:23",
+      "pushedAt": "10/09/2026 18:39:34",
       "tags": [
         "agent",
         "learning"
@@ -556,55 +556,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "affaan-m",
-      "repo": "ECC",
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "homepage": "https://ecc.tools",
-      "language": "JavaScript",
-      "starsGained": 23115,
-      "totalStars": 275644,
-      "forks": 41142,
-      "license": "MIT",
-      "pushedAt": "10/05/2026 04:55:16",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "ECC",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Define interfaces first"
-        ]
-      }
-    },
-    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -621,11 +572,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 22779,
-      "totalStars": 44782,
-      "forks": 3243,
+      "starsGained": 23028,
+      "totalStars": 45447,
+      "forks": 3279,
       "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 11:52:10",
+      "pushedAt": "10/10/2026 00:55:20",
       "tags": [
         "agent",
         "llm",
@@ -653,6 +604,55 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "homepage": "https://ecc.tools",
+      "language": "JavaScript",
+      "starsGained": 22710,
+      "totalStars": 276070,
+      "forks": 41190,
+      "license": "MIT",
+      "pushedAt": "10/10/2026 01:41:12",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "ECC",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Define interfaces first"
+        ]
+      }
+    },
+    {
       "owner": "paperclipai",
       "repo": "paperclip",
       "fullName": "paperclipai/paperclip",
@@ -662,11 +662,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 18863,
-      "totalStars": 99034,
-      "forks": 16713,
+      "starsGained": 19137,
+      "totalStars": 99318,
+      "forks": 16762,
       "license": "MIT",
-      "pushedAt": "10/09/2026 10:47:30",
+      "pushedAt": "10/10/2026 04:56:00",
       "tags": [
         "agent"
       ],
@@ -700,9 +700,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
-      "starsGained": 13653,
-      "totalStars": 40682,
-      "forks": 4472,
+      "starsGained": 13755,
+      "totalStars": 40850,
+      "forks": 4483,
       "license": "Apache-2.0",
       "pushedAt": "10/08/2026 18:30:03",
       "tags": [
@@ -748,11 +748,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 11862,
-      "totalStars": 59470,
-      "forks": 5303,
+      "starsGained": 11576,
+      "totalStars": 59915,
+      "forks": 5349,
       "license": "Apache-2.0",
-      "pushedAt": "10/09/2026 09:34:05",
+      "pushedAt": "10/10/2026 05:40:39",
       "tags": [
         "agent"
       ],
@@ -773,6 +773,54 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：For Claude Code, install the versioned plugin:"
+        ]
+      }
+    },
+    {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
+      "language": "JavaScript",
+      "starsGained": 11155,
+      "totalStars": 104143,
+      "forks": 10872,
+      "license": "MIT",
+      "pushedAt": "10/03/2026 18:21:11",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
         ]
       }
     },
@@ -807,11 +855,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 11015,
-      "totalStars": 32780,
-      "forks": 4363,
+      "starsGained": 11118,
+      "totalStars": 32899,
+      "forks": 4373,
       "license": "NOASSERTION",
-      "pushedAt": "10/09/2026 06:28:48",
+      "pushedAt": "10/10/2026 03:59:00",
       "tags": [
         "agent",
         "llm",
@@ -839,54 +887,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
-      "language": "JavaScript",
-      "starsGained": 10948,
-      "totalStars": 103593,
-      "forks": 10838,
-      "license": "MIT",
-      "pushedAt": "10/03/2026 18:21:11",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
-        ]
-      }
-    },
-    {
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "fullName": "tashfeenahmed/freellmapi",
@@ -896,11 +896,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 7238,
-      "totalStars": 32349,
-      "forks": 4491,
+      "starsGained": 7455,
+      "totalStars": 32611,
+      "forks": 4519,
       "license": "MIT",
-      "pushedAt": "10/09/2026 09:05:21",
+      "pushedAt": "10/09/2026 21:16:00",
       "tags": [
         "llm",
         "ml"
@@ -933,11 +933,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 6997,
-      "totalStars": 15549,
-      "forks": 1747,
+      "starsGained": 7118,
+      "totalStars": 15629,
+      "forks": 1751,
       "license": "Apache-2.0",
-      "pushedAt": "10/09/2026 10:50:13",
+      "pushedAt": "10/10/2026 04:24:23",
       "tags": [
         "agent"
       ],
