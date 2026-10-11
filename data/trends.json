@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-11T05:35:47.4485810+00:00",
+  "generatedAt": "2026-10-11T07:07:27.5031798+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 9179,
-      "totalStars": 284798,
-      "forks": 23834,
+      "totalStars": 284915,
+      "forks": 23844,
       "license": "MIT",
       "pushedAt": "10/09/2026 10:57:08",
       "tags": [
@@ -70,8 +70,8 @@
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
       "starsGained": 7369,
-      "totalStars": 9337,
-      "forks": 1152,
+      "totalStars": 9379,
+      "forks": 1160,
       "license": "AGPL-3.0",
       "pushedAt": "10/11/2026 00:34:13",
       "tags": [
@@ -117,10 +117,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 4081,
-      "totalStars": 60436,
-      "forks": 5399,
+      "totalStars": 60467,
+      "forks": 5401,
       "license": "Apache-2.0",
-      "pushedAt": "10/11/2026 04:56:57",
+      "pushedAt": "10/11/2026 06:51:43",
       "tags": [
         "agent"
       ],
@@ -176,8 +176,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 4035,
-      "totalStars": 99351,
-      "forks": 8705,
+      "totalStars": 99382,
+      "forks": 8712,
       "license": "Apache-2.0",
       "pushedAt": "10/09/2026 10:23:45",
       "tags": [
@@ -228,8 +228,8 @@
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 2369,
-      "totalStars": 19030,
-      "forks": 1878,
+      "totalStars": 19050,
+      "forks": 1881,
       "license": "MIT",
       "pushedAt": "10/11/2026 03:40:10",
       "tags": [
@@ -278,10 +278,10 @@
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 2068,
-      "totalStars": 6771,
+      "totalStars": 6783,
       "forks": 501,
       "license": "Apache-2.0",
-      "pushedAt": "10/11/2026 05:35:30",
+      "pushedAt": "10/11/2026 05:48:54",
       "tags": [
         "agent",
         "llm",
@@ -317,7 +317,7 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1110,
-      "totalStars": 10781,
+      "totalStars": 10793,
       "forks": 1027,
       "license": "",
       "pushedAt": "10/11/2026 01:52:26",
@@ -375,8 +375,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 35194,
-      "totalStars": 57571,
-      "forks": 6453,
+      "totalStars": 57656,
+      "forks": 6471,
       "license": "AGPL-3.0",
       "pushedAt": "10/10/2026 20:59:32",
       "tags": [
@@ -455,8 +455,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 24928,
-      "totalStars": 48143,
-      "forks": 5991,
+      "totalStars": 48162,
+      "forks": 5993,
       "license": "MIT",
       "pushedAt": "10/10/2026 14:24:49",
       "tags": [
@@ -501,8 +501,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 23947,
-      "totalStars": 45926,
-      "forks": 3326,
+      "totalStars": 45943,
+      "forks": 3329,
       "license": "Apache-2.0",
       "pushedAt": "10/10/2026 08:37:26",
       "tags": [
@@ -551,10 +551,10 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 22474,
-      "totalStars": 276629,
-      "forks": 41252,
+      "totalStars": 276669,
+      "forks": 41258,
       "license": "MIT",
-      "pushedAt": "10/11/2026 01:15:29",
+      "pushedAt": "10/11/2026 06:35:16",
       "tags": [
         "agent",
         "llm",
@@ -591,10 +591,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 19499,
-      "totalStars": 99861,
-      "forks": 16837,
+      "totalStars": 99898,
+      "forks": 16846,
       "license": "MIT",
-      "pushedAt": "10/11/2026 05:35:16",
+      "pushedAt": "10/11/2026 06:56:16",
       "tags": [
         "agent"
       ],
@@ -626,20 +626,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "topics": [],
-      "homepage": "https://justvugg.github.io/colibri",
+      "homepage": "",
       "language": "C",
       "starsGained": 13894,
-      "totalStars": 41066,
-      "forks": 4508,
-      "license": "Apache-2.0",
-      "pushedAt": "10/08/2026 18:30:03",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -649,8 +649,7 @@
           "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -677,10 +676,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 11826,
-      "totalStars": 60436,
-      "forks": 5399,
+      "totalStars": 60467,
+      "forks": 5401,
       "license": "Apache-2.0",
-      "pushedAt": "10/11/2026 04:56:57",
+      "pushedAt": "10/11/2026 06:51:43",
       "tags": [
         "agent"
       ],
@@ -775,10 +774,10 @@
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 11234,
-      "totalStars": 33056,
-      "forks": 4398,
+      "totalStars": 33066,
+      "forks": 4403,
       "license": "NOASSERTION",
-      "pushedAt": "10/11/2026 04:36:39",
+      "pushedAt": "10/11/2026 07:01:12",
       "tags": [
         "agent",
         "llm",
@@ -813,13 +812,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 7700,
-      "totalStars": 33002,
-      "forks": 4562,
-      "license": "MIT",
-      "pushedAt": "10/11/2026 00:12:47",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -827,8 +826,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -837,8 +836,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -850,20 +848,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
+      "homepage": "",
       "language": "Rust",
       "starsGained": 7234,
-      "totalStars": 15752,
-      "forks": 1758,
-      "license": "Apache-2.0",
-      "pushedAt": "10/11/2026 04:23:37",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -873,8 +871,7 @@
           "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
