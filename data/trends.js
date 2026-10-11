@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-10T10:34:27.5685355+00:00",
+  "generatedAt": "2026-10-11T05:35:47.4485810+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -12,9 +12,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 8156,
-      "totalStars": 283502,
-      "forks": 23745,
+      "starsGained": 9179,
+      "totalStars": 284798,
+      "forks": 23834,
       "license": "MIT",
       "pushedAt": "10/09/2026 10:57:08",
       "tags": [
@@ -37,62 +37,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 7084,
-      "totalStars": 95254,
-      "forks": 8331,
-      "license": "MIT",
-      "pushedAt": "10/08/2026 08:31:08",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "只预览，不实际删除",
-        "category": "agent-web-reach",
-        "zhTitle": "Agent 互联网检索工具",
-        "zhIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
-        "projectIntro": "给 AI Agent 提供读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台的能力，主打无需官方 API。",
-        "featurePoints": [
-          "通过一个 CLI 帮 Agent 读取多个网站和社区平台内容。",
-          "面向没有 API 权限或不想接多个平台 API 的信息收集场景。",
-          "适合把网页和社交内容作为 Agent 调研、监控和分析的输入。"
-        ],
-        "scenarioPoints": [
-          "适合舆情观察、内容调研、竞品动态跟踪和让 Agent 自动查找互联网上的实时资料。"
         ]
       }
     },
@@ -125,11 +69,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
-      "starsGained": 6749,
-      "totalStars": 8940,
-      "forks": 1103,
+      "starsGained": 7369,
+      "totalStars": 9337,
+      "forks": 1152,
       "license": "AGPL-3.0",
-      "pushedAt": "10/09/2026 14:01:04",
+      "pushedAt": "10/11/2026 00:34:13",
       "tags": [
         "agent"
       ],
@@ -172,11 +116,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 4003,
-      "totalStars": 60058,
-      "forks": 5365,
+      "starsGained": 4081,
+      "totalStars": 60436,
+      "forks": 5399,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 09:58:46",
+      "pushedAt": "10/11/2026 04:56:57",
       "tags": [
         "agent"
       ],
@@ -231,9 +175,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 3850,
-      "totalStars": 99094,
-      "forks": 8677,
+      "starsGained": 4035,
+      "totalStars": 99351,
+      "forks": 8705,
       "license": "Apache-2.0",
       "pushedAt": "10/09/2026 10:23:45",
       "tags": [
@@ -264,6 +208,54 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+      "description": "Give your agent CAD superpowers.",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "homepage": "https://www.texttocad.dev",
+      "language": "Python",
+      "starsGained": 2369,
+      "totalStars": 19030,
+      "forks": 1878,
+      "license": "MIT",
+      "pushedAt": "10/11/2026 03:40:10",
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "text-to-cad",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
+        ]
+      }
+    },
+    {
       "owner": "mvschwarz",
       "repo": "openrig",
       "fullName": "mvschwarz/openrig",
@@ -285,11 +277,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
-      "starsGained": 2338,
-      "totalStars": 6600,
-      "forks": 484,
+      "starsGained": 2068,
+      "totalStars": 6771,
+      "forks": 501,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 09:01:57",
+      "pushedAt": "10/11/2026 05:35:30",
       "tags": [
         "agent",
         "llm",
@@ -315,54 +307,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-      "description": "Give your agent CAD superpowers.",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "homepage": "https://www.texttocad.dev",
-      "language": "Python",
-      "starsGained": 2125,
-      "totalStars": 18881,
-      "forks": 1862,
-      "license": "MIT",
-      "pushedAt": "10/10/2026 09:57:34",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "text-to-cad",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
-        ]
-      }
-    },
-    {
       "owner": "cursor",
       "repo": "plugins",
       "fullName": "cursor/plugins",
@@ -372,11 +316,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1125,
-      "totalStars": 10669,
-      "forks": 1011,
+      "starsGained": 1110,
+      "totalStars": 10781,
+      "forks": 1027,
       "license": "",
-      "pushedAt": "10/10/2026 04:39:40",
+      "pushedAt": "10/11/2026 01:52:26",
       "tags": [
         "agent"
       ],
@@ -430,11 +374,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 34560,
-      "totalStars": 56751,
-      "forks": 6366,
+      "starsGained": 35194,
+      "totalStars": 57571,
+      "forks": 6453,
       "license": "AGPL-3.0",
-      "pushedAt": "10/10/2026 10:31:36",
+      "pushedAt": "10/10/2026 20:59:32",
       "tags": [
         "agent",
         "llm",
@@ -470,7 +414,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 27290,
+      "starsGained": 26935,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -510,11 +454,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 24617,
-      "totalStars": 47891,
-      "forks": 5988,
+      "starsGained": 24928,
+      "totalStars": 48143,
+      "forks": 5991,
       "license": "MIT",
-      "pushedAt": "10/09/2026 18:39:34",
+      "pushedAt": "10/10/2026 14:24:49",
       "tags": [
         "agent",
         "learning"
@@ -556,9 +500,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 23028,
-      "totalStars": 45705,
-      "forks": 3299,
+      "starsGained": 23947,
+      "totalStars": 45926,
+      "forks": 3326,
       "license": "Apache-2.0",
       "pushedAt": "10/10/2026 08:37:26",
       "tags": [
@@ -606,11 +550,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 22710,
-      "totalStars": 276192,
-      "forks": 41206,
+      "starsGained": 22474,
+      "totalStars": 276629,
+      "forks": 41252,
       "license": "MIT",
-      "pushedAt": "10/10/2026 01:41:12",
+      "pushedAt": "10/11/2026 01:15:29",
       "tags": [
         "agent",
         "llm",
@@ -646,11 +590,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 19137,
-      "totalStars": 99441,
-      "forks": 16780,
+      "starsGained": 19499,
+      "totalStars": 99861,
+      "forks": 16837,
       "license": "MIT",
-      "pushedAt": "10/10/2026 09:51:10",
+      "pushedAt": "10/11/2026 05:35:16",
       "tags": [
         "agent"
       ],
@@ -684,9 +628,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
-      "starsGained": 13755,
-      "totalStars": 40902,
-      "forks": 4487,
+      "starsGained": 13894,
+      "totalStars": 41066,
+      "forks": 4508,
       "license": "Apache-2.0",
       "pushedAt": "10/08/2026 18:30:03",
       "tags": [
@@ -732,11 +676,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 11576,
-      "totalStars": 60058,
-      "forks": 5365,
+      "starsGained": 11826,
+      "totalStars": 60436,
+      "forks": 5399,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 09:58:46",
+      "pushedAt": "10/11/2026 04:56:57",
       "tags": [
         "agent"
       ],
@@ -770,7 +714,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 11155,
+      "starsGained": 11706,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -830,11 +774,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 11118,
-      "totalStars": 32977,
-      "forks": 4388,
+      "starsGained": 11234,
+      "totalStars": 33056,
+      "forks": 4398,
       "license": "NOASSERTION",
-      "pushedAt": "10/10/2026 09:45:19",
+      "pushedAt": "10/11/2026 04:36:39",
       "tags": [
         "agent",
         "llm",
@@ -869,13 +813,13 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 7455,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 7700,
+      "totalStars": 33002,
+      "forks": 4562,
+      "license": "MIT",
+      "pushedAt": "10/11/2026 00:12:47",
       "tags": [
         "llm",
         "ml"
@@ -883,8 +827,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -893,7 +837,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -907,11 +852,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 7118,
-      "totalStars": 15661,
-      "forks": 1752,
+      "starsGained": 7234,
+      "totalStars": 15752,
+      "forks": 1758,
       "license": "Apache-2.0",
-      "pushedAt": "10/10/2026 07:38:52",
+      "pushedAt": "10/11/2026 04:23:37",
       "tags": [
         "agent"
       ],
