@@ -1,92 +1,6 @@
 {
-  "generatedAt": "2026-10-11T10:47:20.335Z",
+  "generatedAt": "2026-10-12T05:46:17.092Z",
   "snapshots": [
-    {
-      "date": "2026-08-12",
-      "generatedAt": "2026-08-12T05:44:13.7217541+00:00",
-      "repos": {
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 20024,
-          "periodGain": 11445
-        },
-        "cloudflare/computer": {
-          "stars": 7643,
-          "periodGain": 6775
-        },
-        "zhaoxuya520/reverse-skill": {
-          "stars": 24074,
-          "periodGain": 15942
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 20615,
-          "periodGain": 11976
-        },
-        "esengine/DeepSeek-Reasonix": {
-          "stars": 34019,
-          "periodGain": 3517
-        },
-        "Comfy-Org/ComfyUI": {
-          "stars": 126886,
-          "periodGain": 3252
-        },
-        "lyogavin/airllm": {
-          "stars": 30797,
-          "periodGain": 2798
-        },
-        "semantica-agi/semantica": {
-          "stars": 5102,
-          "periodGain": 2712
-        },
-        "huangruiteng/loopx": {
-          "stars": 4235,
-          "periodGain": 2687
-        },
-        "google/skills": {
-          "stars": 17821,
-          "periodGain": 2216
-        },
-        "vitali87/code-graph-rag": {
-          "stars": 3905,
-          "periodGain": 1189
-        },
-        "unclebob/swarm-forge": {
-          "stars": 2182,
-          "periodGain": 671
-        },
-        "mattpocock/skills": {
-          "stars": 214122,
-          "periodGain": 49161
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 46056,
-          "periodGain": 30582
-        },
-        "stablyai/orca": {
-          "stars": 43031,
-          "periodGain": 26440
-        },
-        "Nutlope/hallmark": {
-          "stars": 24149,
-          "periodGain": 20034
-        },
-        "koala73/worldmonitor": {
-          "stars": 80924,
-          "periodGain": 19348
-        },
-        "earendil-works/pi": {
-          "stars": 87880,
-          "periodGain": 18096
-        },
-        "tirth8205/code-review-graph": {
-          "stars": 29845,
-          "periodGain": 10514
-        },
-        "HKUDS/DeepTutor": {
-          "stars": 34899,
-          "periodGain": 9113
-        }
-      }
-    },
     {
       "date": "2026-08-13",
       "generatedAt": "2026-08-13T05:47:05.7745376+00:00",
@@ -4542,6 +4456,20 @@
         "NVIDIA/OpenShell": {
           "stars": 15767,
           "periodGain": 7234
+        }
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "generatedAt": "2026-10-12T05:45:56.4222499+00:00",
+      "repos": {
+        "mattpocock/skills": {
+          "stars": 286622,
+          "periodGain": 10330
+        },
+        "thedotmack/claude-mem": {
+          "stars": 99810,
+          "periodGain": 3803
         }
       }
     }
