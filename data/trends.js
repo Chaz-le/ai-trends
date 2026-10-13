@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-13T06:40:34.5076757+00:00",
+  "generatedAt": "2026-10-13T07:39:40.6051125+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 130471,
-      "totalStars": 173077,
-      "forks": 41451,
+      "totalStars": 175815,
+      "forks": 42203,
       "license": "MIT",
-      "pushedAt": "10/13/2026 06:40:04",
+      "pushedAt": "10/13/2026 07:38:48",
       "tags": [
         "agent",
         "llm",
@@ -75,8 +75,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 11139,
-      "totalStars": 288357,
-      "forks": 24206,
+      "totalStars": 288460,
+      "forks": 24214,
       "license": "MIT",
       "pushedAt": "10/12/2026 08:46:48",
       "tags": [
@@ -132,8 +132,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
       "starsGained": 6621,
-      "totalStars": 10692,
-      "forks": 1296,
+      "totalStars": 10733,
+      "forks": 1299,
       "license": "AGPL-3.0",
       "pushedAt": "10/12/2026 21:09:43",
       "tags": [
@@ -179,10 +179,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 4482,
-      "totalStars": 62006,
-      "forks": 5552,
+      "totalStars": 62051,
+      "forks": 5557,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 06:39:48",
+      "pushedAt": "10/13/2026 07:39:23",
       "tags": [
         "agent"
       ],
@@ -238,10 +238,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 3762,
-      "totalStars": 100186,
-      "forks": 8783,
+      "totalStars": 100201,
+      "forks": 8784,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 03:07:25",
+      "pushedAt": "10/13/2026 07:33:53",
       "tags": [
         "agent",
         "llm",
@@ -290,10 +290,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 2441,
-      "totalStars": 19738,
-      "forks": 1941,
+      "totalStars": 19751,
+      "forks": 1943,
       "license": "MIT",
-      "pushedAt": "10/13/2026 05:48:11",
+      "pushedAt": "10/13/2026 07:32:47",
       "tags": [
         "agent",
         "multimodal"
@@ -340,10 +340,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
       "starsGained": 2056,
-      "totalStars": 7322,
-      "forks": 553,
+      "totalStars": 7331,
+      "forks": 554,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 04:45:01",
+      "pushedAt": "10/13/2026 07:33:41",
       "tags": [
         "agent",
         "llm",
@@ -379,8 +379,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1144,
-      "totalStars": 11105,
-      "forks": 1081,
+      "totalStars": 11117,
+      "forks": 1082,
       "license": "",
       "pushedAt": "10/13/2026 06:30:08",
       "tags": [
@@ -437,10 +437,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 37110,
-      "totalStars": 60875,
-      "forks": 6826,
+      "totalStars": 60960,
+      "forks": 6839,
       "license": "AGPL-3.0",
-      "pushedAt": "10/13/2026 06:21:19",
+      "pushedAt": "10/13/2026 07:20:45",
       "tags": [
         "agent",
         "llm",
@@ -482,8 +482,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 25557,
-      "totalStars": 48934,
-      "forks": 6017,
+      "totalStars": 48950,
+      "forks": 6019,
       "license": "MIT",
       "pushedAt": "10/12/2026 15:59:57",
       "tags": [
@@ -528,8 +528,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 24317,
-      "totalStars": 46653,
-      "forks": 3389,
+      "totalStars": 46672,
+      "forks": 3390,
       "license": "Apache-2.0",
       "pushedAt": "10/13/2026 06:00:46",
       "tags": [
@@ -578,8 +578,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 22583,
-      "totalStars": 278080,
-      "forks": 41445,
+      "totalStars": 278110,
+      "forks": 41446,
       "license": "MIT",
       "pushedAt": "10/12/2026 14:45:46",
       "tags": [
@@ -639,10 +639,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 20601,
-      "totalStars": 101117,
-      "forks": 16989,
+      "totalStars": 101142,
+      "forks": 16990,
       "license": "MIT",
-      "pushedAt": "10/13/2026 06:24:45",
+      "pushedAt": "10/13/2026 07:11:19",
       "tags": [
         "agent",
         "llm",
@@ -700,8 +700,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 13880,
-      "totalStars": 68248,
-      "forks": 11953,
+      "totalStars": 68284,
+      "forks": 11958,
       "license": "MIT",
       "pushedAt": "10/13/2026 06:09:07",
       "tags": [
@@ -713,7 +713,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -723,7 +723,8 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Learn AI Engineering! Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Choose the host and scope when the installer asks. Use start-learning in Codex, /start-learning in Claude Code, or ask your host to use the skill by name."
         ]
       }
     },
@@ -738,7 +739,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://justvugg.github.io/colibri",
       "language": "C",
       "starsGained": 13470,
-      "totalStars": 41588,
+      "totalStars": 41591,
       "forks": 4593,
       "license": "Apache-2.0",
       "pushedAt": "10/12/2026 21:21:34",
@@ -786,10 +787,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 12662,
-      "totalStars": 62006,
-      "forks": 5552,
+      "totalStars": 62051,
+      "forks": 5557,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 06:39:48",
+      "pushedAt": "10/13/2026 07:39:23",
       "tags": [
         "agent"
       ],
@@ -831,8 +832,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 12396,
-      "totalStars": 105783,
-      "forks": 11036,
+      "totalStars": 105801,
+      "forks": 11038,
       "license": "MIT",
       "pushedAt": "10/10/2026 08:28:49",
       "tags": [
@@ -893,8 +894,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 11159,
-      "totalStars": 33617,
-      "forks": 4478,
+      "totalStars": 33633,
+      "forks": 4479,
       "license": "NOASSERTION",
       "pushedAt": "10/13/2026 06:37:17",
       "tags": [
@@ -934,8 +935,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 8213,
-      "totalStars": 34262,
-      "forks": 4685,
+      "totalStars": 34283,
+      "forks": 4688,
       "license": "MIT",
       "pushedAt": "10/12/2026 13:33:15",
       "tags": [
@@ -971,10 +972,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7457,
-      "totalStars": 16017,
+      "totalStars": 16028,
       "forks": 1775,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 06:11:02",
+      "pushedAt": "10/13/2026 07:34:45",
       "tags": [
         "agent"
       ],
