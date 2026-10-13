@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-12T11:53:39.7963874+00:00",
+  "generatedAt": "2026-10-13T06:40:34.5076757+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -33,11 +33,11 @@
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 126976,
-      "totalStars": 131575,
-      "forks": 29436,
+      "starsGained": 130471,
+      "totalStars": 173077,
+      "forks": 41451,
       "license": "MIT",
-      "pushedAt": "10/12/2026 11:51:06",
+      "pushedAt": "10/13/2026 06:40:04",
       "tags": [
         "agent",
         "llm",
@@ -74,9 +74,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 10330,
-      "totalStars": 287182,
-      "forks": 24096,
+      "starsGained": 11139,
+      "totalStars": 288357,
+      "forks": 24206,
       "license": "MIT",
       "pushedAt": "10/12/2026 08:46:48",
       "tags": [
@@ -131,11 +131,11 @@
       ],
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
-      "starsGained": 7383,
-      "totalStars": 10072,
-      "forks": 1245,
+      "starsGained": 6621,
+      "totalStars": 10692,
+      "forks": 1296,
       "license": "AGPL-3.0",
-      "pushedAt": "10/12/2026 11:44:55",
+      "pushedAt": "10/12/2026 21:09:43",
       "tags": [
         "agent"
       ],
@@ -178,11 +178,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 4223,
-      "totalStars": 61390,
-      "forks": 5496,
+      "starsGained": 4482,
+      "totalStars": 62006,
+      "forks": 5552,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 11:49:45",
+      "pushedAt": "10/13/2026 06:39:48",
       "tags": [
         "agent"
       ],
@@ -237,11 +237,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 3803,
-      "totalStars": 99931,
-      "forks": 8765,
+      "starsGained": 3762,
+      "totalStars": 100186,
+      "forks": 8783,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 07:06:28",
+      "pushedAt": "10/13/2026 03:07:25",
       "tags": [
         "agent",
         "llm",
@@ -289,11 +289,11 @@
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 2508,
-      "totalStars": 19470,
-      "forks": 1917,
+      "starsGained": 2441,
+      "totalStars": 19738,
+      "forks": 1941,
       "license": "MIT",
-      "pushedAt": "10/12/2026 02:51:45",
+      "pushedAt": "10/13/2026 05:48:11",
       "tags": [
         "agent",
         "multimodal"
@@ -339,11 +339,11 @@
       ],
       "homepage": "https://openrig.dev",
       "language": "TypeScript",
-      "starsGained": 2028,
-      "totalStars": 7102,
-      "forks": 536,
+      "starsGained": 2056,
+      "totalStars": 7322,
+      "forks": 553,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 11:53:07",
+      "pushedAt": "10/13/2026 04:45:01",
       "tags": [
         "agent",
         "llm",
@@ -378,11 +378,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1140,
-      "totalStars": 10989,
-      "forks": 1059,
+      "starsGained": 1144,
+      "totalStars": 11105,
+      "forks": 1081,
       "license": "",
-      "pushedAt": "10/12/2026 08:10:54",
+      "pushedAt": "10/13/2026 06:30:08",
       "tags": [
         "agent"
       ],
@@ -436,11 +436,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 36012,
-      "totalStars": 59609,
-      "forks": 6683,
+      "starsGained": 37110,
+      "totalStars": 60875,
+      "forks": 6826,
       "license": "AGPL-3.0",
-      "pushedAt": "10/12/2026 07:51:59",
+      "pushedAt": "10/13/2026 06:21:19",
       "tags": [
         "agent",
         "llm",
@@ -481,11 +481,11 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 25187,
-      "totalStars": 48651,
-      "forks": 6011,
+      "starsGained": 25557,
+      "totalStars": 48934,
+      "forks": 6017,
       "license": "MIT",
-      "pushedAt": "10/12/2026 11:47:53",
+      "pushedAt": "10/12/2026 15:59:57",
       "tags": [
         "agent",
         "learning"
@@ -527,11 +527,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 24146,
-      "totalStars": 46398,
-      "forks": 3372,
+      "starsGained": 24317,
+      "totalStars": 46653,
+      "forks": 3389,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 11:41:07",
+      "pushedAt": "10/13/2026 06:00:46",
       "tags": [
         "agent",
         "llm",
@@ -577,11 +577,11 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 22438,
-      "totalStars": 277554,
-      "forks": 41385,
+      "starsGained": 22583,
+      "totalStars": 278080,
+      "forks": 41445,
       "license": "MIT",
-      "pushedAt": "10/12/2026 06:22:31",
+      "pushedAt": "10/12/2026 14:45:46",
       "tags": [
         "agent",
         "llm",
@@ -614,16 +614,39 @@
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
       "description": "The open-source app everyone uses to manage agents at work",
-      "topics": [],
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 19987,
-      "totalStars": 100652,
-      "forks": 16936,
+      "starsGained": 20601,
+      "totalStars": 101117,
+      "forks": 16989,
       "license": "MIT",
-      "pushedAt": "10/12/2026 11:52:36",
+      "pushedAt": "10/13/2026 06:24:45",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -642,42 +665,6 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：Open source. Self-hosted. No Paperclip account required. Follow the guided quickstart to set up your first agent."
-        ]
-      }
-    },
-    {
-      "owner": "JustVugg",
-      "repo": "colibri",
-      "fullName": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "topics": [],
-      "homepage": "https://justvugg.github.io/colibri",
-      "language": "C",
-      "starsGained": 13726,
-      "totalStars": 41380,
-      "forks": 4562,
-      "license": "Apache-2.0",
-      "pushedAt": "10/11/2026 20:56:34",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "featurePoints": [
-          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
         ]
       }
     },
@@ -712,11 +699,11 @@
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 13378,
-      "totalStars": 67805,
-      "forks": 11881,
+      "starsGained": 13880,
+      "totalStars": 68248,
+      "forks": 11953,
       "license": "MIT",
-      "pushedAt": "10/11/2026 05:56:30",
+      "pushedAt": "10/13/2026 06:09:07",
       "tags": [
         "agent",
         "llm",
@@ -726,7 +713,7 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -736,8 +723,43 @@
           "核心线索：Learn AI Engineering! Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "topics": [],
+      "homepage": "https://justvugg.github.io/colibri",
+      "language": "C",
+      "starsGained": 13470,
+      "totalStars": 41588,
+      "forks": 4593,
+      "license": "Apache-2.0",
+      "pushedAt": "10/12/2026 21:21:34",
+      "tags": [
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "featurePoints": [
+          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Choose the host and scope when the installer asks. Use start-learning in Codex, /start-learning in Claude Code, or ask your host to use the skill by name."
+          "适用线索：new ways to decode. Nothing is kept because it is conventional, and nothing is"
         ]
       }
     },
@@ -763,11 +785,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 11993,
-      "totalStars": 61390,
-      "forks": 5496,
+      "starsGained": 12662,
+      "totalStars": 62006,
+      "forks": 5552,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 11:49:45",
+      "pushedAt": "10/13/2026 06:39:48",
       "tags": [
         "agent"
       ],
@@ -808,9 +830,9 @@
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 11891,
-      "totalStars": 105305,
-      "forks": 10992,
+      "starsGained": 12396,
+      "totalStars": 105783,
+      "forks": 11036,
       "license": "MIT",
       "pushedAt": "10/10/2026 08:28:49",
       "tags": [
@@ -870,11 +892,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 11116,
-      "totalStars": 33435,
-      "forks": 4451,
+      "starsGained": 11159,
+      "totalStars": 33617,
+      "forks": 4478,
       "license": "NOASSERTION",
-      "pushedAt": "10/12/2026 11:36:08",
+      "pushedAt": "10/13/2026 06:37:17",
       "tags": [
         "agent",
         "llm",
@@ -911,11 +933,11 @@
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 7925,
-      "totalStars": 33588,
-      "forks": 4636,
+      "starsGained": 8213,
+      "totalStars": 34262,
+      "forks": 4685,
       "license": "MIT",
-      "pushedAt": "10/12/2026 10:07:17",
+      "pushedAt": "10/12/2026 13:33:15",
       "tags": [
         "llm",
         "ml"
@@ -948,11 +970,11 @@
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 7318,
-      "totalStars": 15920,
-      "forks": 1768,
+      "starsGained": 7457,
+      "totalStars": 16017,
+      "forks": 1775,
       "license": "Apache-2.0",
-      "pushedAt": "10/12/2026 11:26:24",
+      "pushedAt": "10/13/2026 06:11:02",
       "tags": [
         "agent"
       ],
