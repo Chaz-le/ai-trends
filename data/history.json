@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:43:31.544Z",
+  "generatedAt": "2026-10-14T06:06:11.083Z",
   "snapshots": [
     {
       "date": "2026-08-15",
@@ -4425,67 +4425,55 @@
     },
     {
       "date": "2026-10-14",
-      "generatedAt": "2026-10-14T04:43:09.4588539+00:00",
+      "generatedAt": "2026-10-14T06:05:56.2052203+00:00",
       "repos": {
         "mattpocock/skills": {
-          "stars": 289946,
+          "stars": 290035,
           "periodGain": 11955
         },
         "cathrynlavery/diagram-design": {
-          "stars": 54463,
+          "stars": 54551,
           "periodGain": 9867
         },
         "heygen-com/hyperframes": {
-          "stars": 62960,
+          "stars": 63018,
           "periodGain": 13203
         },
         "thedotmack/claude-mem": {
-          "stars": 100501,
+          "stars": 100517,
           "periodGain": 3587
         },
         "earthtojake/text-to-cad": {
-          "stars": 20055,
+          "stars": 20074,
           "periodGain": 2173
         },
         "cursor/plugins": {
-          "stars": 11252,
+          "stars": 11254,
           "periodGain": 1141
         },
         "debpalash/VoiceStudio": {
-          "stars": 63897,
+          "stars": 64067,
           "periodGain": 36408
         },
         "vectorize-io/hindsight": {
-          "stars": 49344,
+          "stars": 49369,
           "periodGain": 25874
         },
         "alibaba/open-code-review": {
-          "stars": 46968,
+          "stars": 46995,
           "periodGain": 24283
         },
         "affaan-m/ECC": {
-          "stars": 278697,
+          "stars": 278726,
           "periodGain": 22653
         },
         "paperclipai/paperclip": {
-          "stars": 101658,
+          "stars": 101697,
           "periodGain": 21106
         },
-        "addyosmani/agent-skills": {
-          "stars": 106301,
-          "periodGain": 12820
-        },
         "Tencent/WeKnora": {
-          "stars": 33831,
+          "stars": 33844,
           "periodGain": 11177
-        },
-        "tashfeenahmed/freellmapi": {
-          "stars": 34804,
-          "periodGain": 8786
-        },
-        "NVIDIA/OpenShell": {
-          "stars": 16135,
-          "periodGain": 7574
         }
       }
     }
