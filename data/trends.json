@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-13T11:42:44.9751938+00:00",
+  "generatedAt": "2026-10-14T04:43:09.4588539+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -12,9 +12,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 11139,
-      "totalStars": 288799,
-      "forks": 24241,
+      "starsGained": 11955,
+      "totalStars": 289946,
+      "forks": 24334,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -59,11 +59,11 @@
       ],
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
-      "starsGained": 9237,
-      "totalStars": 53380,
-      "forks": 3381,
+      "starsGained": 9867,
+      "totalStars": 54463,
+      "forks": 3447,
       "license": "MIT",
-      "pushedAt": "10/13/2026 04:30:17",
+      "pushedAt": "10/13/2026 21:48:36",
       "tags": [
         "agent",
         "llm",
@@ -111,11 +111,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 4482,
-      "totalStars": 62189,
-      "forks": 5570,
+      "starsGained": 4732,
+      "totalStars": 62960,
+      "forks": 5649,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 11:24:45",
+      "pushedAt": "10/14/2026 04:41:53",
       "tags": [
         "agent"
       ],
@@ -170,11 +170,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 3762,
-      "totalStars": 100259,
-      "forks": 8787,
+      "starsGained": 3587,
+      "totalStars": 100501,
+      "forks": 8805,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 07:33:53",
+      "pushedAt": "10/13/2026 21:35:02",
       "tags": [
         "agent",
         "llm",
@@ -222,11 +222,11 @@
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 2441,
-      "totalStars": 19811,
-      "forks": 1945,
+      "starsGained": 2173,
+      "totalStars": 20055,
+      "forks": 1971,
       "license": "MIT",
-      "pushedAt": "10/13/2026 08:45:58",
+      "pushedAt": "10/14/2026 03:53:26",
       "tags": [
         "agent",
         "multimodal"
@@ -260,11 +260,11 @@
       "topics": [],
       "homepage": "",
       "language": "TypeScript",
-      "starsGained": 1144,
-      "totalStars": 11145,
-      "forks": 1084,
+      "starsGained": 1141,
+      "totalStars": 11252,
+      "forks": 1093,
       "license": "",
-      "pushedAt": "10/13/2026 09:41:40",
+      "pushedAt": "10/14/2026 04:34:54",
       "tags": [
         "agent"
       ],
@@ -305,7 +305,6 @@
         "mlx",
         "omnivoice-studio",
         "speech-to-text",
-        "tauri",
         "text-to-speech",
         "transcription",
         "translate",
@@ -318,11 +317,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 37110,
-      "totalStars": 61376,
-      "forks": 6874,
+      "starsGained": 36408,
+      "totalStars": 63897,
+      "forks": 7104,
       "license": "AGPL-3.0",
-      "pushedAt": "10/13/2026 08:31:14",
+      "pushedAt": "10/14/2026 04:12:11",
       "tags": [
         "agent",
         "llm",
@@ -363,11 +362,11 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 25557,
-      "totalStars": 49030,
-      "forks": 6019,
+      "starsGained": 25874,
+      "totalStars": 49344,
+      "forks": 6038,
       "license": "MIT",
-      "pushedAt": "10/12/2026 15:59:57",
+      "pushedAt": "10/13/2026 14:55:14",
       "tags": [
         "agent",
         "learning"
@@ -409,11 +408,11 @@
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 24317,
-      "totalStars": 46746,
-      "forks": 3397,
+      "starsGained": 24283,
+      "totalStars": 46968,
+      "forks": 3411,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 09:55:03",
+      "pushedAt": "10/13/2026 13:47:09",
       "tags": [
         "agent",
         "llm",
@@ -459,9 +458,9 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 22583,
-      "totalStars": 278210,
-      "forks": 41455,
+      "starsGained": 22653,
+      "totalStars": 278697,
+      "forks": 41510,
       "license": "MIT",
       "pushedAt": "10/12/2026 14:45:46",
       "tags": [
@@ -520,11 +519,11 @@
       ],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 20601,
-      "totalStars": 101260,
-      "forks": 17007,
+      "starsGained": 21106,
+      "totalStars": 101658,
+      "forks": 17046,
       "license": "MIT",
-      "pushedAt": "10/13/2026 11:42:48",
+      "pushedAt": "10/14/2026 04:22:58",
       "tags": [
         "agent",
         "llm",
@@ -560,7 +559,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13880,
+      "starsGained": 14347,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -580,41 +579,6 @@
         "projectIntro": "该项目的 GitHub 简介是：Learn AI Engineering! Learn it. Build it. Ship it for others.",
         "featurePoints": [
           "核心线索：Learn AI Engineering! Learn it. Build it. Ship it for others."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "JustVugg",
-      "repo": "colibri",
-      "fullName": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "topics": [],
-      "homepage": "",
-      "language": "C",
-      "starsGained": 13470,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "featurePoints": [
-          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -643,11 +607,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 12662,
-      "totalStars": 62189,
-      "forks": 5570,
+      "starsGained": 13203,
+      "totalStars": 62960,
+      "forks": 5649,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 11:24:45",
+      "pushedAt": "10/14/2026 04:41:53",
       "tags": [
         "agent"
       ],
@@ -672,30 +636,73 @@
       }
     },
     {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "topics": [],
       "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 12396,
+      "language": "C",
+      "starsGained": 13015,
       "totalStars": 0,
       "forks": 0,
       "license": "",
       "pushedAt": "",
       "tags": [
-        "agent",
-        "coding",
-        "learning"
+        "ml"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "metadata",
         "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "projectIntro": "该项目的 GitHub 简介是：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "featurePoints": [
+          "核心线索：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
+      "language": "JavaScript",
+      "starsGained": 12820,
+      "totalStars": 106301,
+      "forks": 11081,
+      "license": "MIT",
+      "pushedAt": "10/13/2026 20:24:07",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -706,7 +713,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
         ]
       }
     },
@@ -741,11 +749,11 @@
       ],
       "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
-      "starsGained": 11159,
-      "totalStars": 33679,
-      "forks": 4485,
+      "starsGained": 11177,
+      "totalStars": 33831,
+      "forks": 4497,
       "license": "NOASSERTION",
-      "pushedAt": "10/13/2026 09:22:25",
+      "pushedAt": "10/14/2026 03:53:59",
       "tags": [
         "agent",
         "llm",
@@ -780,13 +788,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 8213,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 8786,
+      "totalStars": 34804,
+      "forks": 4737,
+      "license": "MIT",
+      "pushedAt": "10/13/2026 17:12:35",
       "tags": [
         "llm",
         "ml"
@@ -794,8 +802,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -804,7 +812,8 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -818,11 +827,11 @@
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 7457,
-      "totalStars": 16051,
-      "forks": 1775,
+      "starsGained": 7574,
+      "totalStars": 16135,
+      "forks": 1779,
       "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 10:33:15",
+      "pushedAt": "10/14/2026 04:00:27",
       "tags": [
         "agent"
       ],
