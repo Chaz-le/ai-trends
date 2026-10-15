@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-15T05:51:38.0205438+00:00",
+  "generatedAt": "2026-10-15T09:06:29.3818412+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 214837,
-      "totalStars": 249613,
-      "forks": 62676,
+      "totalStars": 254646,
+      "forks": 63978,
       "license": "MIT",
-      "pushedAt": "10/15/2026 05:50:14",
+      "pushedAt": "10/15/2026 09:05:56",
       "tags": [
         "agent",
         "llm",
@@ -75,8 +75,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 12292,
-      "totalStars": 291611,
-      "forks": 24452,
+      "totalStars": 291897,
+      "forks": 24471,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -122,8 +122,8 @@
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
       "starsGained": 10706,
-      "totalStars": 55474,
-      "forks": 3504,
+      "totalStars": 55575,
+      "forks": 3514,
       "license": "MIT",
       "pushedAt": "10/14/2026 21:29:18",
       "tags": [
@@ -174,10 +174,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 5123,
-      "totalStars": 63879,
-      "forks": 5735,
+      "totalStars": 64009,
+      "forks": 5745,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 05:48:06",
+      "pushedAt": "10/15/2026 09:05:52",
       "tags": [
         "agent"
       ],
@@ -233,8 +233,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 3371,
-      "totalStars": 100822,
-      "forks": 8833,
+      "totalStars": 100865,
+      "forks": 8834,
       "license": "Apache-2.0",
       "pushedAt": "10/13/2026 21:35:02",
       "tags": [
@@ -285,10 +285,10 @@
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 1994,
-      "totalStars": 20462,
-      "forks": 2021,
+      "totalStars": 20522,
+      "forks": 2024,
       "license": "MIT",
-      "pushedAt": "10/15/2026 05:17:36",
+      "pushedAt": "10/15/2026 07:16:54",
       "tags": [
         "agent",
         "multimodal"
@@ -323,8 +323,8 @@
       "homepage": "",
       "language": "",
       "starsGained": 930,
-      "totalStars": 6001,
-      "forks": 218,
+      "totalStars": 6016,
+      "forks": 220,
       "license": "MIT",
       "pushedAt": "10/07/2026 13:39:28",
       "tags": [
@@ -383,8 +383,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 37181,
-      "totalStars": 67037,
-      "forks": 7368,
+      "totalStars": 67524,
+      "forks": 7405,
       "license": "AGPL-3.0",
       "pushedAt": "10/15/2026 05:27:26",
       "tags": [
@@ -428,10 +428,10 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 26274,
-      "totalStars": 49770,
-      "forks": 6069,
+      "totalStars": 49848,
+      "forks": 6074,
       "license": "MIT",
-      "pushedAt": "10/14/2026 16:03:42",
+      "pushedAt": "10/15/2026 08:57:48",
       "tags": [
         "agent",
         "learning"
@@ -474,8 +474,8 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 23047,
-      "totalStars": 47232,
-      "forks": 3440,
+      "totalStars": 47271,
+      "forks": 3443,
       "license": "Apache-2.0",
       "pushedAt": "10/15/2026 02:59:13",
       "tags": [
@@ -524,8 +524,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 22689,
-      "totalStars": 279616,
-      "forks": 41604,
+      "totalStars": 279764,
+      "forks": 41621,
       "license": "MIT",
       "pushedAt": "10/12/2026 14:45:46",
       "tags": [
@@ -585,10 +585,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 21643,
-      "totalStars": 102272,
-      "forks": 17135,
+      "totalStars": 102352,
+      "forks": 17155,
       "license": "MIT",
-      "pushedAt": "10/15/2026 05:40:23",
+      "pushedAt": "10/15/2026 09:05:51",
       "tags": [
         "agent",
         "llm",
@@ -673,10 +673,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 13722,
-      "totalStars": 63879,
-      "forks": 5735,
+      "totalStars": 64009,
+      "forks": 5745,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 05:48:06",
+      "pushedAt": "10/15/2026 09:05:52",
       "tags": [
         "agent"
       ],
@@ -707,24 +707,32 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 12981,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 106820,
+      "forks": 11111,
+      "license": "MIT",
+      "pushedAt": "10/13/2026 20:24:07",
       "tags": [
         "agent",
+        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -735,7 +743,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
         ]
       }
     },
@@ -746,24 +755,46 @@
       "url": "https://github.com/Tencent/WeKnora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 11112,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 34105,
+      "forks": 4544,
+      "license": "NOASSERTION",
+      "pushedAt": "10/15/2026 08:14:22",
       "tags": [
         "agent",
         "llm",
-        "rag"
+        "rag",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.3), or keep latest",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -774,7 +805,8 @@
           "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
+          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
         ]
       }
     },
@@ -786,13 +818,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 9154,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 35474,
+      "forks": 4810,
+      "license": "MIT",
+      "pushedAt": "10/15/2026 07:06:35",
       "tags": [
         "llm",
         "ml"
@@ -800,8 +832,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -810,7 +842,8 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -821,22 +854,30 @@
       "url": "https://github.com/TencentCloud/Octop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 7717,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 9440,
+      "forks": 1175,
+      "license": "MIT",
+      "pushedAt": "10/15/2026 08:57:54",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "or",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
@@ -845,7 +886,8 @@
           "核心线索：A smarter, self-hosted AI assistant — multi-user, multi-agent."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：macOS / Linux / Windows"
         ]
       }
     },
@@ -860,17 +902,17 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7698,
-      "totalStars": 16266,
-      "forks": 1789,
+      "totalStars": 16284,
+      "forks": 1790,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 05:42:43",
+      "pushedAt": "10/15/2026 08:17:17",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -880,7 +922,8 @@
           "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
         ]
       }
     }
