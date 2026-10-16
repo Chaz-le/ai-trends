@@ -1,84 +1,6 @@
 {
-  "generatedAt": "2026-10-15T09:06:49.009Z",
+  "generatedAt": "2026-10-16T04:20:50.922Z",
   "snapshots": [
-    {
-      "date": "2026-08-16",
-      "generatedAt": "2026-08-16T04:47:34.5200678+00:00",
-      "repos": {
-        "cathrynlavery/diagram-design": {
-          "stars": 18796,
-          "periodGain": 14735
-        },
-        "PrimeIntellect-ai/prime-agent": {
-          "stars": 16343,
-          "periodGain": 8488
-        },
-        "semantica-agi/semantica": {
-          "stars": 7970,
-          "periodGain": 5339
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 22021,
-          "periodGain": 13073
-        },
-        "addyosmani/agent-skills": {
-          "stars": 87538,
-          "periodGain": 3300
-        },
-        "cactus-compute/needle": {
-          "stars": 6129,
-          "periodGain": 2488
-        },
-        "macro-inc/macro": {
-          "stars": 3288,
-          "periodGain": 2434
-        },
-        "paperclipai/paperclip": {
-          "stars": 78336,
-          "periodGain": 2430
-        },
-        "cloudflare/computer": {
-          "stars": 8274,
-          "periodGain": 1966
-        },
-        "google/skills": {
-          "stars": 18352,
-          "periodGain": 1821
-        },
-        "vitali87/code-graph-rag": {
-          "stars": 4379,
-          "periodGain": 1756
-        },
-        "NVIDIA-NeMo/Switchyard": {
-          "stars": 1597,
-          "periodGain": 1326
-        },
-        "mattpocock/skills": {
-          "stars": 218514,
-          "periodGain": 47580
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 48660,
-          "periodGain": 31196
-        },
-        "stablyai/orca": {
-          "stars": 46186,
-          "periodGain": 26744
-        },
-        "koala73/worldmonitor": {
-          "stars": 82187,
-          "periodGain": 20570
-        },
-        "zhaoxuya520/reverse-skill": {
-          "stars": 25528,
-          "periodGain": 17376
-        },
-        "1jehuang/jcode": {
-          "stars": 17659,
-          "periodGain": 9406
-        }
-      }
-    },
     {
       "date": "2026-08-17",
       "generatedAt": "2026-08-17T04:55:18.9692798+00:00",
@@ -4458,6 +4380,68 @@
         "NVIDIA/OpenShell": {
           "stars": 16284,
           "periodGain": 7698
+        }
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "generatedAt": "2026-10-16T04:20:29.9725561+00:00",
+      "repos": {
+        "morluto/rea": {
+          "stars": 274879,
+          "periodGain": 239477
+        },
+        "mattpocock/skills": {
+          "stars": 293074,
+          "periodGain": 12147
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 56020,
+          "periodGain": 10237
+        },
+        "heygen-com/hyperframes": {
+          "stars": 64690,
+          "periodGain": 14246
+        },
+        "DuarteSantos8/openGym": {
+          "stars": 12441,
+          "periodGain": 4471
+        },
+        "earthtojake/text-to-cad": {
+          "stars": 20756,
+          "periodGain": 2244
+        },
+        "cursor/plugins": {
+          "stars": 11682,
+          "periodGain": 1214
+        },
+        "twostraws/SwiftUI-Agent-Skill": {
+          "stars": 6114,
+          "periodGain": 900
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 69413,
+          "periodGain": 38181
+        },
+        "vectorize-io/hindsight": {
+          "stars": 50132,
+          "periodGain": 26652
+        },
+        "affaan-m/ECC": {
+          "stars": 280553,
+          "periodGain": 22953
+        },
+        "paperclipai/paperclip": {
+          "stars": 102814,
+          "periodGain": 22181
+        },
+        "alibaba/open-code-review": {
+          "stars": 47419,
+          "periodGain": 20351
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 16362,
+          "periodGain": 7813
         }
       }
     }

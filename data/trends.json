@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-15T09:06:29.3818412+00:00",
+  "generatedAt": "2026-10-16T04:20:29.9725561+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -33,11 +33,11 @@
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 214837,
-      "totalStars": 254646,
-      "forks": 63978,
+      "starsGained": 239477,
+      "totalStars": 274879,
+      "forks": 69228,
       "license": "MIT",
-      "pushedAt": "10/15/2026 09:05:56",
+      "pushedAt": "10/16/2026 04:19:54",
       "tags": [
         "agent",
         "llm",
@@ -74,9 +74,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 12292,
-      "totalStars": 291897,
-      "forks": 24471,
+      "starsGained": 12147,
+      "totalStars": 293074,
+      "forks": 24573,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -121,11 +121,11 @@
       ],
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
-      "starsGained": 10706,
-      "totalStars": 55575,
-      "forks": 3514,
+      "starsGained": 10237,
+      "totalStars": 56020,
+      "forks": 3543,
       "license": "MIT",
-      "pushedAt": "10/14/2026 21:29:18",
+      "pushedAt": "10/16/2026 03:03:41",
       "tags": [
         "agent",
         "llm",
@@ -173,11 +173,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 5123,
-      "totalStars": 64009,
-      "forks": 5745,
+      "starsGained": 5318,
+      "totalStars": 64690,
+      "forks": 5821,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 09:05:52",
+      "pushedAt": "10/16/2026 04:19:46",
       "tags": [
         "agent"
       ],
@@ -202,65 +202,56 @@
       }
     },
     {
-      "owner": "thedotmack",
-      "repo": "claude-mem",
-      "fullName": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "owner": "DuarteSantos8",
+      "repo": "openGym",
+      "fullName": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171949022?s=40&v=4",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "topics": [
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "anthropic",
-        "artificial-intelligence",
-        "chromadb",
-        "claude",
-        "claude-agent-sdk",
-        "claude-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "embeddings",
-        "long-term-memory",
-        "mem0",
-        "memory-engine",
-        "openmemory",
-        "rag",
-        "sqlite",
-        "supermemory"
+        "bodyweight",
+        "docker",
+        "fitness",
+        "fitness-tracker",
+        "gym",
+        "health",
+        "mcp",
+        "nodejs",
+        "passkeys",
+        "progressive-web-applications",
+        "pwa",
+        "react",
+        "self-hosted",
+        "self-hosting",
+        "vite",
+        "webauthn",
+        "weightlifting",
+        "workout-tracker"
       ],
-      "homepage": "https://claude-mem.ai",
-      "language": "TypeScript",
-      "starsGained": 3371,
-      "totalStars": 100865,
-      "forks": 8834,
-      "license": "Apache-2.0",
-      "pushedAt": "10/13/2026 21:35:02",
+      "homepage": "https://opengym.ch",
+      "language": "JavaScript",
+      "starsGained": 4471,
+      "totalStars": 12441,
+      "forks": 1525,
+      "license": "AGPL-3.0",
+      "pushedAt": "10/15/2026 19:31:37",
       "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "coding",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
         "readmeTitle": "",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "projectIntro": "该项目的 GitHub 简介是：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
         "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+          "核心线索：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Or install for OpenCode:"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -284,11 +275,11 @@
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 1994,
-      "totalStars": 20522,
-      "forks": 2024,
+      "starsGained": 2244,
+      "totalStars": 20756,
+      "forks": 2052,
       "license": "MIT",
-      "pushedAt": "10/15/2026 07:16:54",
+      "pushedAt": "10/16/2026 04:11:32",
       "tags": [
         "agent",
         "multimodal"
@@ -313,6 +304,41 @@
       }
     },
     {
+      "owner": "cursor",
+      "repo": "plugins",
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+      "description": "Cursor plugin specification and official plugins",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 1214,
+      "totalStars": 11682,
+      "forks": 1137,
+      "license": "",
+      "pushedAt": "10/16/2026 03:24:20",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Cursor plugins",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "projectIntro": "该项目的 GitHub 简介是：Cursor plugin specification and official plugins",
+        "featurePoints": [
+          "核心线索：Cursor plugin specification and official plugins"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "twostraws",
       "repo": "SwiftUI-Agent-Skill",
       "fullName": "twostraws/SwiftUI-Agent-Skill",
@@ -322,9 +348,9 @@
       "topics": [],
       "homepage": "",
       "language": "",
-      "starsGained": 930,
-      "totalStars": 6016,
-      "forks": 220,
+      "starsGained": 900,
+      "totalStars": 6114,
+      "forks": 221,
       "license": "MIT",
       "pushedAt": "10/07/2026 13:39:28",
       "tags": [
@@ -382,11 +408,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 37181,
-      "totalStars": 67524,
-      "forks": 7405,
+      "starsGained": 38181,
+      "totalStars": 69413,
+      "forks": 7597,
       "license": "AGPL-3.0",
-      "pushedAt": "10/15/2026 05:27:26",
+      "pushedAt": "10/16/2026 01:13:32",
       "tags": [
         "agent",
         "llm",
@@ -427,11 +453,11 @@
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 26274,
-      "totalStars": 49848,
-      "forks": 6074,
+      "starsGained": 26652,
+      "totalStars": 50132,
+      "forks": 6088,
       "license": "MIT",
-      "pushedAt": "10/15/2026 08:57:48",
+      "pushedAt": "10/15/2026 18:34:43",
       "tags": [
         "agent",
         "learning"
@@ -457,54 +483,6 @@
       }
     },
     {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "homepage": "https://open-codereview.ai",
-      "language": "Go",
-      "starsGained": 23047,
-      "totalStars": 47271,
-      "forks": 3443,
-      "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 02:59:13",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
-        ]
-      }
-    },
-    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
@@ -523,11 +501,11 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 22689,
-      "totalStars": 279764,
-      "forks": 41621,
+      "starsGained": 22953,
+      "totalStars": 280553,
+      "forks": 41718,
       "license": "MIT",
-      "pushedAt": "10/12/2026 14:45:46",
+      "pushedAt": "10/15/2026 19:17:01",
       "tags": [
         "agent",
         "llm",
@@ -584,11 +562,11 @@
       ],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 21643,
-      "totalStars": 102352,
-      "forks": 17155,
+      "starsGained": 22181,
+      "totalStars": 102814,
+      "forks": 17212,
       "license": "MIT",
-      "pushedAt": "10/15/2026 09:05:51",
+      "pushedAt": "10/16/2026 04:08:20",
       "tags": [
         "agent",
         "llm",
@@ -615,6 +593,54 @@
       }
     },
     {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "homepage": "https://open-codereview.ai",
+      "language": "Go",
+      "starsGained": 20351,
+      "totalStars": 47419,
+      "forks": 3452,
+      "license": "Apache-2.0",
+      "pushedAt": "10/16/2026 03:17:27",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
+        ]
+      }
+    },
+    {
       "owner": "rohitg00",
       "repo": "ai-engineering-from-scratch",
       "fullName": "rohitg00/ai-engineering-from-scratch",
@@ -624,7 +650,7 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14754,
+      "starsGained": 15242,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -672,11 +698,11 @@
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 13722,
-      "totalStars": 64009,
-      "forks": 5745,
+      "starsGained": 14246,
+      "totalStars": 64690,
+      "forks": 5821,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 09:05:52",
+      "pushedAt": "10/16/2026 04:19:46",
       "tags": [
         "agent"
       ],
@@ -707,32 +733,24 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
-      "starsGained": 12981,
-      "totalStars": 106820,
-      "forks": 11111,
-      "license": "MIT",
-      "pushedAt": "10/13/2026 20:24:07",
+      "starsGained": 13095,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -743,8 +761,7 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -755,46 +772,24 @@
       "url": "https://github.com/Tencent/WeKnora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "homepage": "https://weknora.weixin.qq.com",
+      "topics": [],
+      "homepage": "",
       "language": "Go",
-      "starsGained": 11112,
-      "totalStars": 34105,
-      "forks": 4544,
-      "license": "NOASSERTION",
-      "pushedAt": "10/15/2026 08:14:22",
+      "starsGained": 10698,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "rag",
-        "generation"
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.3), or keep latest",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -805,8 +800,7 @@
           "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
         ]
       }
     },
@@ -818,13 +812,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
-      "starsGained": 9154,
-      "totalStars": 35474,
-      "forks": 4810,
-      "license": "MIT",
-      "pushedAt": "10/15/2026 07:06:35",
+      "starsGained": 9499,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -832,8 +826,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -842,52 +836,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
-        ]
-      }
-    },
-    {
-      "owner": "TencentCloud",
-      "repo": "Octop",
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "local-first",
-        "long-term-memory"
-      ],
-      "homepage": "https://octop.cloud",
-      "language": "Python",
-      "starsGained": 7717,
-      "totalStars": 9440,
-      "forks": 1175,
-      "license": "MIT",
-      "pushedAt": "10/15/2026 08:57:54",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "or",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "projectIntro": "该项目的 GitHub 简介是：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "featurePoints": [
-          "核心线索：A smarter, self-hosted AI assistant — multi-user, multi-agent."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：macOS / Linux / Windows"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -901,11 +850,11 @@
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 7698,
-      "totalStars": 16284,
-      "forks": 1790,
+      "starsGained": 7813,
+      "totalStars": 16362,
+      "forks": 1796,
       "license": "Apache-2.0",
-      "pushedAt": "10/15/2026 08:17:17",
+      "pushedAt": "10/16/2026 04:06:09",
       "tags": [
         "agent"
       ],
@@ -924,6 +873,45 @@
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
+        ]
+      }
+    },
+    {
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "fullName": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "topics": [],
+      "homepage": "",
+      "language": "TypeScript",
+      "starsGained": 7470,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     }
