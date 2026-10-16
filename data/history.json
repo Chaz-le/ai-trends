@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:20:50.922Z",
+  "generatedAt": "2026-10-16T05:48:05.167Z",
   "snapshots": [
     {
       "date": "2026-08-17",
@@ -4385,63 +4385,55 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T04:20:29.9725561+00:00",
+      "generatedAt": "2026-10-16T05:47:54.3057920+00:00",
       "repos": {
         "morluto/rea": {
-          "stars": 274879,
+          "stars": 276098,
           "periodGain": 239477
         },
         "mattpocock/skills": {
-          "stars": 293074,
+          "stars": 293143,
           "periodGain": 12147
         },
         "cathrynlavery/diagram-design": {
-          "stars": 56020,
+          "stars": 56050,
           "periodGain": 10237
         },
         "heygen-com/hyperframes": {
-          "stars": 64690,
+          "stars": 64740,
           "periodGain": 14246
         },
         "DuarteSantos8/openGym": {
-          "stars": 12441,
+          "stars": 12481,
           "periodGain": 4471
         },
         "earthtojake/text-to-cad": {
-          "stars": 20756,
+          "stars": 20771,
           "periodGain": 2244
         },
         "cursor/plugins": {
-          "stars": 11682,
+          "stars": 11695,
           "periodGain": 1214
         },
         "twostraws/SwiftUI-Agent-Skill": {
-          "stars": 6114,
+          "stars": 6123,
           "periodGain": 900
         },
         "debpalash/VoiceStudio": {
-          "stars": 69413,
+          "stars": 69523,
           "periodGain": 38181
         },
         "vectorize-io/hindsight": {
-          "stars": 50132,
+          "stars": 50156,
           "periodGain": 26652
         },
         "affaan-m/ECC": {
-          "stars": 280553,
+          "stars": 280599,
           "periodGain": 22953
         },
         "paperclipai/paperclip": {
-          "stars": 102814,
+          "stars": 102839,
           "periodGain": 22181
-        },
-        "alibaba/open-code-review": {
-          "stars": 47419,
-          "periodGain": 20351
-        },
-        "NVIDIA/OpenShell": {
-          "stars": 16362,
-          "periodGain": 7813
         }
       }
     }

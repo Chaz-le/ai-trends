@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-16T04:20:29.9725561+00:00",
+  "generatedAt": "2026-10-16T05:47:54.3057920+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 239477,
-      "totalStars": 274879,
-      "forks": 69228,
+      "totalStars": 276098,
+      "forks": 69554,
       "license": "MIT",
-      "pushedAt": "10/16/2026 04:19:54",
+      "pushedAt": "10/16/2026 05:42:45",
       "tags": [
         "agent",
         "llm",
@@ -75,8 +75,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 12147,
-      "totalStars": 293074,
-      "forks": 24573,
+      "totalStars": 293143,
+      "forks": 24579,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -122,8 +122,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
       "starsGained": 10237,
-      "totalStars": 56020,
-      "forks": 3543,
+      "totalStars": 56050,
+      "forks": 3546,
       "license": "MIT",
       "pushedAt": "10/16/2026 03:03:41",
       "tags": [
@@ -174,10 +174,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 5318,
-      "totalStars": 64690,
-      "forks": 5821,
+      "totalStars": 64740,
+      "forks": 5830,
       "license": "Apache-2.0",
-      "pushedAt": "10/16/2026 04:19:46",
+      "pushedAt": "10/16/2026 05:08:03",
       "tags": [
         "agent"
       ],
@@ -231,8 +231,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://opengym.ch",
       "language": "JavaScript",
       "starsGained": 4471,
-      "totalStars": 12441,
-      "forks": 1525,
+      "totalStars": 12481,
+      "forks": 1530,
       "license": "AGPL-3.0",
       "pushedAt": "10/15/2026 19:31:37",
       "tags": [
@@ -276,10 +276,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 2244,
-      "totalStars": 20756,
+      "totalStars": 20771,
       "forks": 2052,
       "license": "MIT",
-      "pushedAt": "10/16/2026 04:11:32",
+      "pushedAt": "10/16/2026 05:04:28",
       "tags": [
         "agent",
         "multimodal"
@@ -314,10 +314,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1214,
-      "totalStars": 11682,
-      "forks": 1137,
+      "totalStars": 11695,
+      "forks": 1140,
       "license": "",
-      "pushedAt": "10/16/2026 03:24:20",
+      "pushedAt": "10/16/2026 05:40:24",
       "tags": [
         "agent"
       ],
@@ -349,8 +349,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "",
       "starsGained": 900,
-      "totalStars": 6114,
-      "forks": 221,
+      "totalStars": 6123,
+      "forks": 222,
       "license": "MIT",
       "pushedAt": "10/07/2026 13:39:28",
       "tags": [
@@ -409,8 +409,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 38181,
-      "totalStars": 69413,
-      "forks": 7597,
+      "totalStars": 69523,
+      "forks": 7609,
       "license": "AGPL-3.0",
       "pushedAt": "10/16/2026 01:13:32",
       "tags": [
@@ -454,8 +454,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 26652,
-      "totalStars": 50132,
-      "forks": 6088,
+      "totalStars": 50156,
+      "forks": 6089,
       "license": "MIT",
       "pushedAt": "10/15/2026 18:34:43",
       "tags": [
@@ -502,8 +502,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 22953,
-      "totalStars": 280553,
-      "forks": 41718,
+      "totalStars": 280599,
+      "forks": 41728,
       "license": "MIT",
       "pushedAt": "10/15/2026 19:17:01",
       "tags": [
@@ -563,10 +563,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 22181,
-      "totalStars": 102814,
-      "forks": 17212,
+      "totalStars": 102839,
+      "forks": 17214,
       "license": "MIT",
-      "pushedAt": "10/16/2026 04:08:20",
+      "pushedAt": "10/16/2026 05:44:20",
       "tags": [
         "agent",
         "llm",
@@ -599,32 +599,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "homepage": "https://open-codereview.ai",
+      "topics": [],
+      "homepage": "",
       "language": "Go",
       "starsGained": 20351,
-      "totalStars": 47419,
-      "forks": 3452,
-      "license": "Apache-2.0",
-      "pushedAt": "10/16/2026 03:17:27",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -635,8 +627,7 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -699,10 +690,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 14246,
-      "totalStars": 64690,
-      "forks": 5821,
+      "totalStars": 64740,
+      "forks": 5830,
       "license": "Apache-2.0",
-      "pushedAt": "10/16/2026 04:19:46",
+      "pushedAt": "10/16/2026 05:08:03",
       "tags": [
         "agent"
       ],
@@ -848,20 +839,20 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
+      "homepage": "",
       "language": "Rust",
       "starsGained": 7813,
-      "totalStars": 16362,
-      "forks": 1796,
-      "license": "Apache-2.0",
-      "pushedAt": "10/16/2026 04:06:09",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -871,8 +862,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
