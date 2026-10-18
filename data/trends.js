@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-18T05:50:15.1169290+00:00",
+  "generatedAt": "2026-10-18T08:48:57.3191304+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 239923,
-      "totalStars": 310776,
-      "forks": 78693,
+      "totalStars": 312940,
+      "forks": 79323,
       "license": "MIT",
-      "pushedAt": "10/18/2026 05:33:41",
+      "pushedAt": "10/18/2026 08:19:05",
       "tags": [
         "agent",
         "llm",
@@ -81,8 +81,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getartcraft.com",
       "language": "Rust",
       "starsGained": 18479,
-      "totalStars": 31969,
-      "forks": 5069,
+      "totalStars": 32094,
+      "forks": 5092,
       "license": "Apache-2.0",
       "pushedAt": "10/15/2026 02:48:37",
       "tags": [
@@ -118,8 +118,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 11272,
-      "totalStars": 295307,
-      "forks": 24771,
+      "totalStars": 295467,
+      "forks": 24788,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -165,8 +165,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
       "starsGained": 8382,
-      "totalStars": 57155,
-      "forks": 3635,
+      "totalStars": 57259,
+      "forks": 3646,
       "license": "MIT",
       "pushedAt": "10/16/2026 19:42:46",
       "tags": [
@@ -217,10 +217,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 5639,
-      "totalStars": 66118,
-      "forks": 5972,
+      "totalStars": 66188,
+      "forks": 5983,
       "license": "Apache-2.0",
-      "pushedAt": "10/18/2026 05:50:00",
+      "pushedAt": "10/18/2026 08:44:00",
       "tags": [
         "agent"
       ],
@@ -276,10 +276,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://context-mode.com",
       "language": "TypeScript",
       "starsGained": 4438,
-      "totalStars": 30555,
-      "forks": 2219,
+      "totalStars": 30576,
+      "forks": 2226,
       "license": "NOASSERTION",
-      "pushedAt": "10/18/2026 05:49:52",
+      "pushedAt": "10/18/2026 08:47:41",
       "tags": [
         "agent",
         "llm",
@@ -320,10 +320,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
       "starsGained": 3581,
-      "totalStars": 41978,
-      "forks": 4476,
+      "totalStars": 42130,
+      "forks": 4493,
       "license": "Apache-2.0",
-      "pushedAt": "10/17/2026 16:41:00",
+      "pushedAt": "10/18/2026 07:34:19",
       "tags": [
         "agent",
         "llm",
@@ -381,10 +381,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 40333,
-      "totalStars": 73742,
-      "forks": 8067,
+      "totalStars": 73966,
+      "forks": 8097,
       "license": "AGPL-3.0",
-      "pushedAt": "10/18/2026 01:17:51",
+      "pushedAt": "10/18/2026 07:51:57",
       "tags": [
         "agent",
         "llm",
@@ -426,7 +426,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 27228,
-      "totalStars": 50942,
+      "totalStars": 50978,
       "forks": 6134,
       "license": "MIT",
       "pushedAt": "10/17/2026 14:59:44",
@@ -474,8 +474,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 23023,
-      "totalStars": 282696,
-      "forks": 42001,
+      "totalStars": 282820,
+      "forks": 42013,
       "license": "MIT",
       "pushedAt": "10/15/2026 19:17:01",
       "tags": [
@@ -535,10 +535,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 22891,
-      "totalStars": 103748,
-      "forks": 17349,
+      "totalStars": 103801,
+      "forks": 17361,
       "license": "MIT",
-      "pushedAt": "10/18/2026 05:49:11",
+      "pushedAt": "10/18/2026 08:00:24",
       "tags": [
         "agent",
         "llm",
@@ -575,8 +575,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 22054,
-      "totalStars": 30781,
-      "forks": 1925,
+      "totalStars": 30840,
+      "forks": 1931,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -634,10 +634,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 16014,
-      "totalStars": 70745,
-      "forks": 12449,
+      "totalStars": 70789,
+      "forks": 12454,
       "license": "MIT",
-      "pushedAt": "10/18/2026 05:38:04",
+      "pushedAt": "10/18/2026 07:38:40",
       "tags": [
         "agent",
         "llm",
@@ -647,7 +647,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -657,8 +657,7 @@ window.GITHUB_AI_TRENDS = {
           "核心线索：Learn AI Engineering! Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Choose the host and scope when the installer asks. Use start-learning in Codex, /start-learning in Claude Code, or ask your host to use the skill by name."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -685,10 +684,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 15041,
-      "totalStars": 66118,
-      "forks": 5972,
+      "totalStars": 66188,
+      "forks": 5983,
       "license": "Apache-2.0",
-      "pushedAt": "10/18/2026 05:50:00",
+      "pushedAt": "10/18/2026 08:44:00",
       "tags": [
         "agent"
       ],
@@ -719,32 +718,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "homepage": "https://skills.addy.ie",
+      "topics": [],
+      "homepage": "",
       "language": "JavaScript",
       "starsGained": 12605,
-      "totalStars": 107917,
-      "forks": 11246,
-      "license": "MIT",
-      "pushedAt": "10/13/2026 20:24:07",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -755,8 +746,7 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -771,10 +761,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 9863,
-      "totalStars": 36710,
-      "forks": 4971,
+      "totalStars": 36773,
+      "forks": 4977,
       "license": "MIT",
-      "pushedAt": "10/17/2026 19:16:10",
+      "pushedAt": "10/18/2026 07:45:16",
       "tags": [
         "llm",
         "ml"
@@ -804,46 +794,24 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/Tencent/WeKnora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "homepage": "https://weknora.weixin.qq.com",
+      "topics": [],
+      "homepage": "",
       "language": "Go",
       "starsGained": 8870,
-      "totalStars": 34547,
-      "forks": 4599,
-      "license": "NOASSERTION",
-      "pushedAt": "10/17/2026 15:52:23",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "rag",
-        "generation"
+        "rag"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.3), or keep latest",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -854,8 +822,7 @@ window.GITHUB_AI_TRENDS = {
           "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
         ]
       }
     },
@@ -870,8 +837,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7956,
-      "totalStars": 16562,
-      "forks": 1808,
+      "totalStars": 16576,
+      "forks": 1810,
       "license": "Apache-2.0",
       "pushedAt": "10/17/2026 22:08:05",
       "tags": [
@@ -925,10 +892,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://cua.ai",
       "language": "Rust",
       "starsGained": 7435,
-      "totalStars": 30052,
+      "totalStars": 30064,
       "forks": 2157,
       "license": "MIT",
-      "pushedAt": "10/18/2026 05:04:40",
+      "pushedAt": "10/18/2026 08:27:48",
       "tags": [
         "agent",
         "ml"
