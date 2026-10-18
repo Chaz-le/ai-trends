@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-18T04:18:39.9144407+00:00",
+  "generatedAt": "2026-10-18T05:50:15.1169290+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 239923,
-      "totalStars": 309736,
-      "forks": 78398,
+      "totalStars": 310776,
+      "forks": 78693,
       "license": "MIT",
-      "pushedAt": "10/18/2026 03:42:01",
+      "pushedAt": "10/18/2026 05:33:41",
       "tags": [
         "agent",
         "llm",
@@ -81,8 +81,8 @@
       "homepage": "https://getartcraft.com",
       "language": "Rust",
       "starsGained": 18479,
-      "totalStars": 31903,
-      "forks": 5058,
+      "totalStars": 31969,
+      "forks": 5069,
       "license": "Apache-2.0",
       "pushedAt": "10/15/2026 02:48:37",
       "tags": [
@@ -118,8 +118,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 11272,
-      "totalStars": 295243,
-      "forks": 24761,
+      "totalStars": 295307,
+      "forks": 24771,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -165,8 +165,8 @@
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
       "starsGained": 8382,
-      "totalStars": 57114,
-      "forks": 3634,
+      "totalStars": 57155,
+      "forks": 3635,
       "license": "MIT",
       "pushedAt": "10/16/2026 19:42:46",
       "tags": [
@@ -217,10 +217,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 5639,
-      "totalStars": 66079,
-      "forks": 5968,
+      "totalStars": 66118,
+      "forks": 5972,
       "license": "Apache-2.0",
-      "pushedAt": "10/18/2026 03:50:37",
+      "pushedAt": "10/18/2026 05:50:00",
       "tags": [
         "agent"
       ],
@@ -276,10 +276,10 @@
       "homepage": "https://context-mode.com",
       "language": "TypeScript",
       "starsGained": 4438,
-      "totalStars": 30545,
-      "forks": 2212,
+      "totalStars": 30555,
+      "forks": 2219,
       "license": "NOASSERTION",
-      "pushedAt": "10/18/2026 04:16:40",
+      "pushedAt": "10/18/2026 05:49:52",
       "tags": [
         "agent",
         "llm",
@@ -320,8 +320,8 @@
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
       "starsGained": 3581,
-      "totalStars": 41918,
-      "forks": 4472,
+      "totalStars": 41978,
+      "forks": 4476,
       "license": "Apache-2.0",
       "pushedAt": "10/17/2026 16:41:00",
       "tags": [
@@ -381,8 +381,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 40333,
-      "totalStars": 73637,
-      "forks": 8055,
+      "totalStars": 73742,
+      "forks": 8067,
       "license": "AGPL-3.0",
       "pushedAt": "10/18/2026 01:17:51",
       "tags": [
@@ -426,8 +426,8 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 27228,
-      "totalStars": 50920,
-      "forks": 6132,
+      "totalStars": 50942,
+      "forks": 6134,
       "license": "MIT",
       "pushedAt": "10/17/2026 14:59:44",
       "tags": [
@@ -474,8 +474,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 23023,
-      "totalStars": 282636,
-      "forks": 41995,
+      "totalStars": 282696,
+      "forks": 42001,
       "license": "MIT",
       "pushedAt": "10/15/2026 19:17:01",
       "tags": [
@@ -535,10 +535,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 22891,
-      "totalStars": 103717,
-      "forks": 17344,
+      "totalStars": 103748,
+      "forks": 17349,
       "license": "MIT",
-      "pushedAt": "10/18/2026 04:12:33",
+      "pushedAt": "10/18/2026 05:49:11",
       "tags": [
         "agent",
         "llm",
@@ -575,8 +575,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 22054,
-      "totalStars": 30760,
-      "forks": 1923,
+      "totalStars": 30781,
+      "forks": 1925,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -634,10 +634,10 @@
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 16014,
-      "totalStars": 70718,
-      "forks": 12445,
+      "totalStars": 70745,
+      "forks": 12449,
       "license": "MIT",
-      "pushedAt": "10/18/2026 01:08:36",
+      "pushedAt": "10/18/2026 05:38:04",
       "tags": [
         "agent",
         "llm",
@@ -685,10 +685,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 15041,
-      "totalStars": 66079,
-      "forks": 5968,
+      "totalStars": 66118,
+      "forks": 5972,
       "license": "Apache-2.0",
-      "pushedAt": "10/18/2026 03:50:37",
+      "pushedAt": "10/18/2026 05:50:00",
       "tags": [
         "agent"
       ],
@@ -730,8 +730,8 @@
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 12605,
-      "totalStars": 107893,
-      "forks": 11242,
+      "totalStars": 107917,
+      "forks": 11246,
       "license": "MIT",
       "pushedAt": "10/13/2026 20:24:07",
       "tags": [
@@ -743,8 +743,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Agent Skills",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -755,7 +755,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
         ]
       }
     },
@@ -770,8 +771,8 @@
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 9863,
-      "totalStars": 36686,
-      "forks": 4966,
+      "totalStars": 36710,
+      "forks": 4971,
       "license": "MIT",
       "pushedAt": "10/17/2026 19:16:10",
       "tags": [
@@ -803,24 +804,46 @@
       "url": "https://github.com/Tencent/WeKnora",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "homepage": "https://weknora.weixin.qq.com",
       "language": "Go",
       "starsGained": 8870,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 34547,
+      "forks": 4599,
+      "license": "NOASSERTION",
+      "pushedAt": "10/17/2026 15:52:23",
       "tags": [
         "agent",
         "llm",
-        "rag"
+        "rag",
+        "generation"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.3), or keep latest",
         "category": "rag-search",
         "zhTitle": "RAG / 语义检索工具",
         "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
@@ -831,7 +854,8 @@
           "帮助把外部资料转成大模型可查询的上下文。"
         ],
         "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
+          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
         ]
       }
     },
@@ -846,8 +870,8 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7956,
-      "totalStars": 16553,
-      "forks": 1807,
+      "totalStars": 16562,
+      "forks": 1808,
       "license": "Apache-2.0",
       "pushedAt": "10/17/2026 22:08:05",
       "tags": [
@@ -901,10 +925,10 @@
       "homepage": "https://cua.ai",
       "language": "Rust",
       "starsGained": 7435,
-      "totalStars": 30048,
-      "forks": 2154,
+      "totalStars": 30052,
+      "forks": 2157,
       "license": "MIT",
-      "pushedAt": "10/18/2026 04:13:06",
+      "pushedAt": "10/18/2026 05:04:40",
       "tags": [
         "agent",
         "ml"
