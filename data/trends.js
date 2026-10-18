@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-17T08:30:47.6493763+00:00",
+  "generatedAt": "2026-10-18T04:18:39.9144407+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -33,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 248962,
-      "totalStars": 296193,
-      "forks": 74798,
+      "starsGained": 239923,
+      "totalStars": 309736,
+      "forks": 78398,
       "license": "MIT",
-      "pushedAt": "10/17/2026 08:21:49",
+      "pushedAt": "10/18/2026 03:42:01",
       "tags": [
         "agent",
         "llm",
@@ -80,9 +80,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://getartcraft.com",
       "language": "Rust",
-      "starsGained": 20267,
-      "totalStars": 30987,
-      "forks": 4918,
+      "starsGained": 18479,
+      "totalStars": 31903,
+      "forks": 5058,
       "license": "Apache-2.0",
       "pushedAt": "10/15/2026 02:48:37",
       "tags": [
@@ -117,9 +117,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 11937,
-      "totalStars": 294378,
-      "forks": 24681,
+      "starsGained": 11272,
+      "totalStars": 295243,
+      "forks": 24761,
       "license": "MIT",
       "pushedAt": "10/13/2026 08:46:40",
       "tags": [
@@ -164,9 +164,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
-      "starsGained": 9024,
-      "totalStars": 56597,
-      "forks": 3598,
+      "starsGained": 8382,
+      "totalStars": 57114,
+      "forks": 3634,
       "license": "MIT",
       "pushedAt": "10/16/2026 19:42:46",
       "tags": [
@@ -216,11 +216,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 5601,
-      "totalStars": 65513,
-      "forks": 5905,
+      "starsGained": 5639,
+      "totalStars": 66079,
+      "forks": 5968,
       "license": "Apache-2.0",
-      "pushedAt": "10/17/2026 07:55:43",
+      "pushedAt": "10/18/2026 03:50:37",
       "tags": [
         "agent"
       ],
@@ -275,11 +275,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://context-mode.com",
       "language": "TypeScript",
-      "starsGained": 4207,
-      "totalStars": 30352,
-      "forks": 2156,
+      "starsGained": 4438,
+      "totalStars": 30545,
+      "forks": 2212,
       "license": "NOASSERTION",
-      "pushedAt": "10/17/2026 07:51:40",
+      "pushedAt": "10/18/2026 04:16:40",
       "tags": [
         "agent",
         "llm",
@@ -319,11 +319,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
-      "starsGained": 2328,
-      "totalStars": 40969,
-      "forks": 4424,
+      "starsGained": 3581,
+      "totalStars": 41918,
+      "forks": 4472,
       "license": "Apache-2.0",
-      "pushedAt": "10/17/2026 07:36:42",
+      "pushedAt": "10/17/2026 16:41:00",
       "tags": [
         "agent",
         "llm",
@@ -345,54 +345,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-      "description": "Give your agent CAD superpowers.",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "homepage": "https://www.texttocad.dev",
-      "language": "Python",
-      "starsGained": 2286,
-      "totalStars": 21095,
-      "forks": 2084,
-      "license": "MIT",
-      "pushedAt": "10/17/2026 07:05:48",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "text-to-cad",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     }
@@ -428,11 +380,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 38923,
-      "totalStars": 71853,
-      "forks": 7852,
+      "starsGained": 40333,
+      "totalStars": 73637,
+      "forks": 8055,
       "license": "AGPL-3.0",
-      "pushedAt": "10/17/2026 07:57:30",
+      "pushedAt": "10/18/2026 01:17:51",
       "tags": [
         "agent",
         "llm",
@@ -473,11 +425,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
-      "starsGained": 26912,
-      "totalStars": 50618,
-      "forks": 6117,
+      "starsGained": 27228,
+      "totalStars": 50920,
+      "forks": 6132,
       "license": "MIT",
-      "pushedAt": "10/16/2026 21:57:15",
+      "pushedAt": "10/17/2026 14:59:44",
       "tags": [
         "agent",
         "learning"
@@ -503,44 +455,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "topics": [],
-      "homepage": "",
-      "language": "JavaScript",
-      "starsGained": 24844,
-      "totalStars": 30369,
-      "forks": 1889,
-      "license": "MIT",
-      "pushedAt": "09/14/2026 19:29:02",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "security-audit",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
-        ]
-      }
-    },
-    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
@@ -559,9 +473,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 23005,
-      "totalStars": 281787,
-      "forks": 41901,
+      "starsGained": 23023,
+      "totalStars": 282636,
+      "forks": 41995,
       "license": "MIT",
       "pushedAt": "10/15/2026 19:17:01",
       "tags": [
@@ -620,11 +534,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
-      "starsGained": 22617,
-      "totalStars": 103305,
-      "forks": 17276,
+      "starsGained": 22891,
+      "totalStars": 103717,
+      "forks": 17344,
       "license": "MIT",
-      "pushedAt": "10/17/2026 08:26:03",
+      "pushedAt": "10/18/2026 04:12:33",
       "tags": [
         "agent",
         "llm",
@@ -647,6 +561,44 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：Open source. Self-hosted. No Paperclip account required. Follow the guided quickstart to set up your first agent."
+        ]
+      }
+    },
+    {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 22054,
+      "totalStars": 30760,
+      "forks": 1923,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 19:29:02",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "security-audit",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -681,11 +633,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
-      "starsGained": 15672,
-      "totalStars": 70438,
-      "forks": 12389,
+      "starsGained": 16014,
+      "totalStars": 70718,
+      "forks": 12445,
       "license": "MIT",
-      "pushedAt": "10/17/2026 07:44:21",
+      "pushedAt": "10/18/2026 01:08:36",
       "tags": [
         "agent",
         "llm",
@@ -732,11 +684,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
-      "starsGained": 14754,
-      "totalStars": 65513,
-      "forks": 5905,
+      "starsGained": 15041,
+      "totalStars": 66079,
+      "forks": 5968,
       "license": "Apache-2.0",
-      "pushedAt": "10/17/2026 07:55:43",
+      "pushedAt": "10/18/2026 03:50:37",
       "tags": [
         "agent"
       ],
@@ -777,9 +729,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 12847,
-      "totalStars": 107547,
-      "forks": 11202,
+      "starsGained": 12605,
+      "totalStars": 107893,
+      "forks": 11242,
       "license": "MIT",
       "pushedAt": "10/13/2026 20:24:07",
       "tags": [
@@ -791,8 +743,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Agent Skills",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -803,70 +755,7 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
-        ]
-      }
-    },
-    {
-      "owner": "Tencent",
-      "repo": "WeKnora",
-      "fullName": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
-        "golang",
-        "knowledge-base",
-        "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
-        "rag",
-        "reranking",
-        "semantic-search",
-        "vector-search",
-        "wiki"
-      ],
-      "homepage": "https://weknora.weixin.qq.com",
-      "language": "Go",
-      "starsGained": 9769,
-      "totalStars": 34449,
-      "forks": 4592,
-      "license": "NOASSERTION",
-      "pushedAt": "10/17/2026 07:25:09",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Set WEKNORAVERSION in .env to the target release (e.g. 0.8.3), or keep latest",
-        "category": "rag-search",
-        "zhTitle": "RAG / 语义检索工具",
-        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
-        "featurePoints": [
-          "支持向量、语义搜索、知识库或文档检索相关能力。",
-          "可作为 RAG 管道中的索引、召回或知识组织组件。",
-          "帮助把外部资料转成大模型可查询的上下文。"
-        ],
-        "scenarioPoints": [
-          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。",
-          "适用线索：Deploy WeKnora from an application template and run it on your own cloud server."
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -880,11 +769,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 9724,
-      "totalStars": 36335,
-      "forks": 4903,
+      "starsGained": 9863,
+      "totalStars": 36686,
+      "forks": 4966,
       "license": "MIT",
-      "pushedAt": "10/16/2026 18:40:09",
+      "pushedAt": "10/17/2026 19:16:10",
       "tags": [
         "llm",
         "ml"
@@ -908,6 +797,45 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "topics": [],
+      "homepage": "",
+      "language": "Go",
+      "starsGained": 8870,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "rag-search",
+        "zhTitle": "RAG / 语义检索工具",
+        "zhIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "projectIntro": "围绕向量索引、语义搜索、知识库或文档问答构建检索能力，让大模型更方便使用外部知识。",
+        "featurePoints": [
+          "支持向量、语义搜索、知识库或文档检索相关能力。",
+          "可作为 RAG 管道中的索引、召回或知识组织组件。",
+          "帮助把外部资料转成大模型可查询的上下文。"
+        ],
+        "scenarioPoints": [
+          "适合企业知识库、资料检索、文档问答和 RAG 原型验证。"
+        ]
+      }
+    },
+    {
       "owner": "NVIDIA",
       "repo": "OpenShell",
       "fullName": "NVIDIA/OpenShell",
@@ -917,11 +845,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
-      "starsGained": 7885,
-      "totalStars": 16483,
-      "forks": 1805,
+      "starsGained": 7956,
+      "totalStars": 16553,
+      "forks": 1807,
       "license": "Apache-2.0",
-      "pushedAt": "10/17/2026 02:36:56",
+      "pushedAt": "10/17/2026 22:08:05",
       "tags": [
         "agent"
       ],
@@ -949,7 +877,7 @@ window.GITHUB_AI_TRENDS = {
       "fullName": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "topics": [
         "agent",
         "ai-agent",
@@ -972,11 +900,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://cua.ai",
       "language": "Rust",
-      "starsGained": 7397,
-      "totalStars": 29988,
-      "forks": 2149,
+      "starsGained": 7435,
+      "totalStars": 30048,
+      "forks": 2154,
       "license": "MIT",
-      "pushedAt": "10/17/2026 06:55:51",
+      "pushedAt": "10/18/2026 04:13:06",
       "tags": [
         "agent",
         "ml"
@@ -988,10 +916,10 @@ window.GITHUB_AI_TRENDS = {
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "projectIntro": "该项目的 GitHub 简介是：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "zhIntro": "该项目的 GitHub 简介是：Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+        "projectIntro": "该项目的 GitHub 简介是：Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
         "featurePoints": [
-          "核心线索：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+          "核心线索：Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
