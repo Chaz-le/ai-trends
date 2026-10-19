@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-19T04:29:15.0801278+00:00",
+  "generatedAt": "2026-10-19T06:07:28.9150427+00:00",
   "weekly": [
     {
       "owner": "morluto",
@@ -34,10 +34,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 229268,
-      "totalStars": 324913,
-      "forks": 82286,
+      "totalStars": 326050,
+      "forks": 82575,
       "license": "MIT",
-      "pushedAt": "10/19/2026 04:27:27",
+      "pushedAt": "10/19/2026 06:05:32",
       "tags": [
         "agent",
         "llm",
@@ -81,8 +81,8 @@
       "homepage": "https://getartcraft.com",
       "language": "Rust",
       "starsGained": 16379,
-      "totalStars": 32919,
-      "forks": 5210,
+      "totalStars": 32982,
+      "forks": 5222,
       "license": "Apache-2.0",
       "pushedAt": "10/18/2026 19:26:55",
       "tags": [
@@ -127,8 +127,8 @@
       "homepage": "https://diagramdesign.dev",
       "language": "HTML",
       "starsGained": 7901,
-      "totalStars": 57854,
-      "forks": 3708,
+      "totalStars": 57892,
+      "forks": 3714,
       "license": "MIT",
       "pushedAt": "10/16/2026 19:42:46",
       "tags": [
@@ -179,10 +179,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 5883,
-      "totalStars": 66903,
-      "forks": 6065,
+      "totalStars": 66952,
+      "forks": 6069,
       "license": "Apache-2.0",
-      "pushedAt": "10/19/2026 04:19:28",
+      "pushedAt": "10/19/2026 04:56:52",
       "tags": [
         "agent"
       ],
@@ -230,8 +230,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 5742,
-      "totalStars": 53886,
-      "forks": 17493,
+      "totalStars": 54129,
+      "forks": 17541,
       "license": "MIT",
       "pushedAt": "10/18/2026 19:38:41",
       "tags": [
@@ -273,7 +273,7 @@
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
       "starsGained": 4774,
-      "totalStars": 42819,
+      "totalStars": 42869,
       "forks": 4541,
       "license": "Apache-2.0",
       "pushedAt": "10/18/2026 17:04:56",
@@ -333,10 +333,10 @@
       "homepage": "https://context-mode.com",
       "language": "TypeScript",
       "starsGained": 4138,
-      "totalStars": 30824,
-      "forks": 2286,
+      "totalStars": 30840,
+      "forks": 2292,
       "license": "NOASSERTION",
-      "pushedAt": "10/19/2026 04:27:05",
+      "pushedAt": "10/19/2026 06:07:34",
       "tags": [
         "agent",
         "llm",
@@ -373,10 +373,10 @@
       "homepage": "",
       "language": "TypeScript",
       "starsGained": 1717,
-      "totalStars": 12815,
-      "forks": 1260,
+      "totalStars": 12846,
+      "forks": 1264,
       "license": "",
-      "pushedAt": "10/19/2026 03:58:14",
+      "pushedAt": "10/19/2026 05:35:28",
       "tags": [
         "agent"
       ],
@@ -430,10 +430,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 42036,
-      "totalStars": 75834,
-      "forks": 8304,
+      "totalStars": 76026,
+      "forks": 8321,
       "license": "AGPL-3.0",
-      "pushedAt": "10/19/2026 04:11:02",
+      "pushedAt": "10/19/2026 04:33:13",
       "tags": [
         "agent",
         "llm",
@@ -475,7 +475,7 @@
       "homepage": "https://hindsight.vectorize.io/",
       "language": "Python",
       "starsGained": 27550,
-      "totalStars": 51310,
+      "totalStars": 51338,
       "forks": 6154,
       "license": "MIT",
       "pushedAt": "10/17/2026 14:59:44",
@@ -535,10 +535,10 @@
       "homepage": "https://paperclip.ing",
       "language": "TypeScript",
       "starsGained": 23340,
-      "totalStars": 104232,
-      "forks": 17408,
+      "totalStars": 104263,
+      "forks": 17411,
       "license": "MIT",
-      "pushedAt": "10/19/2026 03:54:37",
+      "pushedAt": "10/19/2026 05:59:36",
       "tags": [
         "agent",
         "llm",
@@ -584,10 +584,10 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 23080,
-      "totalStars": 283408,
-      "forks": 42100,
+      "totalStars": 283450,
+      "forks": 42104,
       "license": "MIT",
-      "pushedAt": "10/15/2026 19:17:01",
+      "pushedAt": "10/19/2026 05:03:15",
       "tags": [
         "agent",
         "llm",
@@ -624,8 +624,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 19109,
-      "totalStars": 31229,
-      "forks": 1957,
+      "totalStars": 31254,
+      "forks": 1958,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -658,22 +658,45 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "dsh",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "python",
+        "rea",
+        "reinforcement-learning",
+        "rust",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "homepage": "https://aiengineeringfromscratch.com",
       "language": "Python",
       "starsGained": 16300,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 71122,
+      "forks": 12515,
+      "license": "MIT",
+      "pushedAt": "10/18/2026 22:27:25",
       "tags": [
         "agent",
+        "llm",
+        "generation",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -683,7 +706,8 @@
           "核心线索：Learn AI Engineering! Learn it. Build it. Ship it for others."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Choose the host and scope when the installer asks. Use start-learning in Codex, /start-learning in Claude Code, or ask your host to use the skill by name."
         ]
       }
     },
@@ -710,10 +734,10 @@
       "homepage": "https://hyperframes.dev",
       "language": "TypeScript",
       "starsGained": 15429,
-      "totalStars": 66903,
-      "forks": 6065,
+      "totalStars": 66952,
+      "forks": 6069,
       "license": "Apache-2.0",
-      "pushedAt": "10/19/2026 04:19:28",
+      "pushedAt": "10/19/2026 04:56:52",
       "tags": [
         "agent"
       ],
@@ -745,13 +769,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 10063,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 37193,
+      "forks": 5022,
+      "license": "MIT",
+      "pushedAt": "10/19/2026 00:55:32",
       "tags": [
         "llm",
         "ml"
@@ -759,8 +783,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -769,7 +793,8 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -784,10 +809,10 @@
       "homepage": "https://docs.nvidia.com/openshell/latest/",
       "language": "Rust",
       "starsGained": 7995,
-      "totalStars": 16640,
+      "totalStars": 16649,
       "forks": 1813,
       "license": "Apache-2.0",
-      "pushedAt": "10/19/2026 02:33:36",
+      "pushedAt": "10/19/2026 05:22:09",
       "tags": [
         "agent"
       ],
@@ -841,10 +866,10 @@
       "homepage": "https://context-mode.com",
       "language": "TypeScript",
       "starsGained": 7319,
-      "totalStars": 30824,
-      "forks": 2286,
+      "totalStars": 30840,
+      "forks": 2292,
       "license": "NOASSERTION",
-      "pushedAt": "10/19/2026 04:27:05",
+      "pushedAt": "10/19/2026 06:07:34",
       "tags": [
         "agent",
         "llm",
@@ -877,14 +902,33 @@
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
+      ],
+      "homepage": "https://cua.ai",
       "language": "Rust",
       "starsGained": 7211,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 30169,
+      "forks": 2170,
+      "license": "MIT",
+      "pushedAt": "10/19/2026 06:07:29",
       "tags": [
         "agent",
         "ml"
@@ -892,7 +936,7 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
@@ -913,22 +957,30 @@
       "url": "https://github.com/TencentCloud/Octop",
       "avatarUrl": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "local-first",
+        "long-term-memory"
+      ],
+      "homepage": "https://octop.cloud",
       "language": "Python",
       "starsGained": 6138,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 9957,
+      "forks": 1277,
+      "license": "MIT",
+      "pushedAt": "10/18/2026 15:10:49",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "or",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：A smarter, self-hosted AI assistant — multi-user, multi-agent.",
@@ -937,7 +989,8 @@
           "核心线索：A smarter, self-hosted AI assistant — multi-user, multi-agent."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：macOS / Linux / Windows"
         ]
       }
     }
