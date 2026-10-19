@@ -1,104 +1,6 @@
 {
-  "generatedAt": "2026-10-18T08:49:18.293Z",
+  "generatedAt": "2026-10-19T04:29:35.218Z",
   "snapshots": [
-    {
-      "date": "2026-08-19",
-      "generatedAt": "2026-08-19T04:49:12.3326311+00:00",
-      "repos": {
-        "cathrynlavery/diagram-design": {
-          "stars": 22105,
-          "periodGain": 15812
-        },
-        "semantica-agi/semantica": {
-          "stars": 9138,
-          "periodGain": 4304
-        },
-        "cactus-compute/needle": {
-          "stars": 7575,
-          "periodGain": 3772
-        },
-        "unslothai/unsloth": {
-          "stars": 73643,
-          "periodGain": 3636
-        },
-        "PrimeIntellect-ai/prime-agent": {
-          "stars": 17237,
-          "periodGain": 3475
-        },
-        "macro-inc/macro": {
-          "stars": 3695,
-          "periodGain": 2627
-        },
-        "lightningpixel/modly": {
-          "stars": 6737,
-          "periodGain": 1600
-        },
-        "AlexsJones/llmfit": {
-          "stars": 32773,
-          "periodGain": 1316
-        },
-        "vitali87/code-graph-rag": {
-          "stars": 4637,
-          "periodGain": 910
-        },
-        "Lightricks/LTX-2": {
-          "stars": 9142,
-          "periodGain": 556
-        },
-        "superradcompany/microsandbox": {
-          "stars": 7698,
-          "periodGain": 350
-        },
-        "mattpocock/skills": {
-          "stars": 221887,
-          "periodGain": 46007
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 50582,
-          "periodGain": 32029
-        },
-        "stablyai/orca": {
-          "stars": 48473,
-          "periodGain": 26771
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 22037,
-          "periodGain": 21447
-        },
-        "koala73/worldmonitor": {
-          "stars": 83022,
-          "periodGain": 21286
-        },
-        "earendil-works/pi": {
-          "stars": 93310,
-          "periodGain": 20985
-        },
-        "zhaoxuya520/reverse-skill": {
-          "stars": 26430,
-          "periodGain": 18059
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 22921,
-          "periodGain": 14079
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 23038,
-          "periodGain": 13944
-        },
-        "microsoft/AI-For-Beginners": {
-          "stars": 65483,
-          "periodGain": 13156
-        },
-        "oblien/openship": {
-          "stars": 11051,
-          "periodGain": 10646
-        },
-        "1jehuang/jcode": {
-          "stars": 17956,
-          "periodGain": 9593
-        }
-      }
-    },
     {
       "date": "2026-08-20",
       "generatedAt": "2026-08-20T04:49:47.1316267+00:00",
@@ -4422,6 +4324,68 @@
         "trycua/cua": {
           "stars": 30064,
           "periodGain": 7435
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "generatedAt": "2026-10-19T04:29:15.0801278+00:00",
+      "repos": {
+        "morluto/rea": {
+          "stars": 324913,
+          "periodGain": 229268
+        },
+        "storytold/artcraft": {
+          "stars": 32919,
+          "periodGain": 16379
+        },
+        "cathrynlavery/diagram-design": {
+          "stars": 57854,
+          "periodGain": 7901
+        },
+        "heygen-com/hyperframes": {
+          "stars": 66903,
+          "periodGain": 15429
+        },
+        "MadsLorentzen/ai-job-search": {
+          "stars": 53886,
+          "periodGain": 5742
+        },
+        "anthropics/claude-plugins-official": {
+          "stars": 42819,
+          "periodGain": 4774
+        },
+        "mksglu/context-mode": {
+          "stars": 30824,
+          "periodGain": 7319
+        },
+        "cursor/plugins": {
+          "stars": 12815,
+          "periodGain": 1717
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 75834,
+          "periodGain": 42036
+        },
+        "vectorize-io/hindsight": {
+          "stars": 51310,
+          "periodGain": 27550
+        },
+        "paperclipai/paperclip": {
+          "stars": 104232,
+          "periodGain": 23340
+        },
+        "affaan-m/ECC": {
+          "stars": 283408,
+          "periodGain": 23080
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 31229,
+          "periodGain": 19109
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 16640,
+          "periodGain": 7995
         }
       }
     }
