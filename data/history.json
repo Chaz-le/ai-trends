@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:07:53.184Z",
+  "generatedAt": "2026-10-19T09:50:08.403Z",
   "snapshots": [
     {
       "date": "2026-08-20",
@@ -4329,78 +4329,78 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T06:07:28.9150427+00:00",
+      "generatedAt": "2026-10-19T09:49:47.0212779+00:00",
       "repos": {
         "morluto/rea": {
-          "stars": 326050,
+          "stars": 329074,
           "periodGain": 229268
         },
         "storytold/artcraft": {
-          "stars": 32982,
+          "stars": 33185,
           "periodGain": 16379
         },
         "cathrynlavery/diagram-design": {
-          "stars": 57892,
+          "stars": 58046,
           "periodGain": 7901
         },
         "heygen-com/hyperframes": {
-          "stars": 66952,
+          "stars": 67134,
           "periodGain": 15429
         },
         "MadsLorentzen/ai-job-search": {
-          "stars": 54129,
+          "stars": 54870,
           "periodGain": 5742
         },
         "anthropics/claude-plugins-official": {
-          "stars": 42869,
+          "stars": 43000,
           "periodGain": 4774
         },
         "mksglu/context-mode": {
-          "stars": 30840,
+          "stars": 30894,
           "periodGain": 7319
         },
         "cursor/plugins": {
-          "stars": 12846,
+          "stars": 12912,
           "periodGain": 1717
         },
         "debpalash/VoiceStudio": {
-          "stars": 76026,
+          "stars": 76461,
           "periodGain": 42036
         },
         "vectorize-io/hindsight": {
-          "stars": 51338,
+          "stars": 51419,
           "periodGain": 27550
         },
         "paperclipai/paperclip": {
-          "stars": 104263,
+          "stars": 104374,
           "periodGain": 23340
         },
         "affaan-m/ECC": {
-          "stars": 283450,
+          "stars": 283576,
           "periodGain": 23080
         },
         "cloudflare/security-audit-skill": {
-          "stars": 31254,
+          "stars": 31347,
           "periodGain": 19109
         },
         "rohitg00/ai-engineering-from-scratch": {
-          "stars": 71122,
+          "stars": 71219,
           "periodGain": 16300
         },
         "tashfeenahmed/freellmapi": {
-          "stars": 37193,
+          "stars": 37295,
           "periodGain": 10063
         },
         "NVIDIA/OpenShell": {
-          "stars": 16649,
+          "stars": 16666,
           "periodGain": 7995
         },
         "trycua/cua": {
-          "stars": 30169,
+          "stars": 30188,
           "periodGain": 7211
         },
         "TencentCloud/Octop": {
-          "stars": 9957,
+          "stars": 10039,
           "periodGain": 6138
         }
       }
