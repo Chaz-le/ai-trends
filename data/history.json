@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:36:13.160Z",
+  "generatedAt": "2026-10-23T06:00:07.280Z",
   "snapshots": [
     {
       "date": "2026-08-24",
@@ -4257,27 +4257,83 @@
     },
     {
       "date": "2026-10-23",
-      "generatedAt": "2026-10-23T04:35:54.8402033+00:00",
+      "generatedAt": "2026-10-23T05:59:48.2286463+00:00",
       "repos": {
         "morluto/rea": {
-          "stars": 367455,
+          "stars": 367878,
           "periodGain": 106341
         },
+        "debpalash/VoiceStudio": {
+          "stars": 82034,
+          "periodGain": 47620
+        },
+        "stablyai/orca": {
+          "stars": 103042,
+          "periodGain": 9401
+        },
         "anomalyco/opencode": {
-          "stars": 220279,
+          "stars": 220301,
           "periodGain": 6750
         },
+        "heygen-com/hyperframes": {
+          "stars": 70167,
+          "periodGain": 17770
+        },
         "anthropics/claude-plugins-official": {
-          "stars": 43941,
+          "stars": 43953,
           "periodGain": 7380
         },
+        "Comfy-Org/ComfyUI": {
+          "stars": 142091,
+          "periodGain": 4375
+        },
         "K-Dense-AI/scientific-agent-skills": {
-          "stars": 53948,
+          "stars": 53970,
           "periodGain": 3967
         },
         "ruvnet/ruflo": {
-          "stars": 78528,
+          "stars": 78547,
           "periodGain": 3708
+        },
+        "akitaonrails/ai-memory": {
+          "stars": 12839,
+          "periodGain": 3322
+        },
+        "HKUDS/CLI-Anything": {
+          "stars": 56336,
+          "periodGain": 3275
+        },
+        "mksglu/context-mode": {
+          "stars": 31866,
+          "periodGain": 8015
+        },
+        "vectorize-io/hindsight": {
+          "stars": 52848,
+          "periodGain": 28067
+        },
+        "paperclipai/paperclip": {
+          "stars": 106261,
+          "periodGain": 25127
+        },
+        "affaan-m/ECC": {
+          "stars": 286676,
+          "periodGain": 22715
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 40031,
+          "periodGain": 18566
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 72543,
+          "periodGain": 17489
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 39721,
+          "periodGain": 11569
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 17986,
+          "periodGain": 8473
         }
       }
     }
