@@ -1,68 +1,6 @@
 {
-  "generatedAt": "2026-10-23T09:18:29.777Z",
+  "generatedAt": "2026-10-24T04:26:03.863Z",
   "snapshots": [
-    {
-      "date": "2026-08-24",
-      "generatedAt": "2026-08-24T04:58:41.1619212+00:00",
-      "repos": {
-        "harry0703/MoneyPrinterTurbo": {
-          "stars": 115459,
-          "periodGain": 11167
-        },
-        "volcengine/OpenViking": {
-          "stars": 32595,
-          "periodGain": 3799
-        },
-        "modular/modular": {
-          "stars": 29003,
-          "periodGain": 2176
-        },
-        "cursor/plugins": {
-          "stars": 4841,
-          "periodGain": 1761
-        },
-        "jundot/omlx": {
-          "stars": 20460,
-          "periodGain": 1671
-        },
-        "apache/maka": {
-          "stars": 2427,
-          "periodGain": 859
-        },
-        "anthropics/claude-plugins-community": {
-          "stars": 1049,
-          "periodGain": 406
-        },
-        "diegosouzapw/OmniRoute": {
-          "stars": 53969,
-          "periodGain": 27573
-        },
-        "zhaoxuya520/reverse-skill": {
-          "stars": 28090,
-          "periodGain": 19063
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 24798,
-          "periodGain": 15086
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 24082,
-          "periodGain": 14878
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 23530,
-          "periodGain": 14450
-        },
-        "microsoft/AI-For-Beginners": {
-          "stars": 66582,
-          "periodGain": 13993
-        },
-        "citrolabs/ego-lite": {
-          "stars": 13026,
-          "periodGain": 11598
-        }
-      }
-    },
     {
       "date": "2026-08-25",
       "generatedAt": "2026-08-25T04:50:54.4765082+00:00",
@@ -4330,6 +4268,92 @@
         "NVIDIA/OpenShell": {
           "stars": 18150,
           "periodGain": 8473
+        }
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "generatedAt": "2026-10-24T04:25:50.0403417+00:00",
+      "repos": {
+        "morluto/rea": {
+          "stars": 373924,
+          "periodGain": 88243
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 83574,
+          "periodGain": 48343
+        },
+        "stablyai/orca": {
+          "stars": 104039,
+          "periodGain": 9545
+        },
+        "anomalyco/opencode": {
+          "stars": 220689,
+          "periodGain": 6765
+        },
+        "heygen-com/hyperframes": {
+          "stars": 70906,
+          "periodGain": 18268
+        },
+        "Comfy-Org/ComfyUI": {
+          "stars": 142396,
+          "periodGain": 4531
+        },
+        "anthropics/claude-plugins-official": {
+          "stars": 44162,
+          "periodGain": 4250
+        },
+        "akitaonrails/ai-memory": {
+          "stars": 13090,
+          "periodGain": 3449
+        },
+        "ruvnet/ruflo": {
+          "stars": 78822,
+          "periodGain": 3349
+        },
+        "HKUDS/CLI-Anything": {
+          "stars": 56650,
+          "periodGain": 3303
+        },
+        "K-Dense-AI/scientific-agent-skills": {
+          "stars": 54275,
+          "periodGain": 3077
+        },
+        "cursor/plugins": {
+          "stars": 13805,
+          "periodGain": 1946
+        },
+        "vectorize-io/hindsight": {
+          "stars": 53190,
+          "periodGain": 28115
+        },
+        "paperclipai/paperclip": {
+          "stars": 106645,
+          "periodGain": 25543
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 42411,
+          "periodGain": 20554
+        },
+        "rohitg00/ai-engineering-from-scratch": {
+          "stars": 72850,
+          "periodGain": 17479
+        },
+        "pbakaus/impeccable": {
+          "stars": 85632,
+          "periodGain": 15614
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 40342,
+          "periodGain": 12006
+        },
+        "NVIDIA/OpenShell": {
+          "stars": 18903,
+          "periodGain": 9666
+        },
+        "mksglu/context-mode": {
+          "stars": 32016,
+          "periodGain": 8135
         }
       }
     }
