@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-29T07:00:09.8350485+00:00",
+  "generatedAt": "2026-10-29T10:51:29.4225054+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 16002,
-      "totalStars": 51975,
-      "forks": 3320,
+      "totalStars": 52202,
+      "forks": 3341,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -57,8 +57,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 7283,
-      "totalStars": 93489,
-      "forks": 5517,
+      "totalStars": 94037,
+      "forks": 5557,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 04:51:37",
       "tags": [
@@ -86,68 +86,6 @@
       }
     },
     {
-      "owner": "Graphify-Labs",
-      "repo": "graphify",
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "topics": [
-        "ai-agents",
-        "antigravity",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-search",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "gemini",
-        "graphify",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "llm",
-        "mcp",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "homepage": "https://www.graphify.com",
-      "language": "Python",
-      "starsGained": 6662,
-      "totalStars": 138075,
-      "forks": 13165,
-      "license": "Apache-2.0",
-      "pushedAt": "10/27/2026 18:15:35",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "or install uv:",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
       "owner": "TauricResearch",
       "repo": "TradingAgents",
       "fullName": "TauricResearch/TradingAgents",
@@ -164,8 +102,8 @@
       "homepage": "https://arxiv.org/pdf/2412.20138",
       "language": "Python",
       "starsGained": 5322,
-      "totalStars": 118012,
-      "forks": 22572,
+      "totalStars": 118102,
+      "forks": 22586,
       "license": "Apache-2.0",
       "pushedAt": "10/27/2026 08:43:04",
       "tags": [
@@ -193,6 +131,54 @@
       }
     },
     {
+      "owner": "obra",
+      "repo": "superpowers",
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "homepage": "",
+      "language": "Shell",
+      "starsGained": 4655,
+      "totalStars": 307854,
+      "forks": 27378,
+      "license": "MIT",
+      "pushedAt": "10/23/2026 03:48:57",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Superpowers",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：using-git-worktrees - Activates after design approval. Creates isolated workspace on new branch, runs project setup, verifies clean test baseline."
+        ]
+      }
+    },
+    {
       "owner": "multica-ai",
       "repo": "andrej-karpathy-skills",
       "fullName": "multica-ai/andrej-karpathy-skills",
@@ -203,8 +189,8 @@
       "homepage": "",
       "language": "",
       "starsGained": 4293,
-      "totalStars": 226085,
-      "forks": 22583,
+      "totalStars": 226184,
+      "forks": 22586,
       "license": "",
       "pushedAt": "04/20/2026 10:05:04",
       "tags": [
@@ -253,10 +239,10 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 3940,
-      "totalStars": 104809,
-      "forks": 7089,
+      "totalStars": 105013,
+      "forks": 7102,
       "license": "MIT",
-      "pushedAt": "10/29/2026 03:44:25",
+      "pushedAt": "10/29/2026 08:49:32",
       "tags": [
         "agent",
         "llm",
@@ -301,8 +287,8 @@
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 3516,
-      "totalStars": 23542,
-      "forks": 3171,
+      "totalStars": 23667,
+      "forks": 3178,
       "license": "MIT",
       "pushedAt": "10/22/2026 16:47:40",
       "tags": [
@@ -330,44 +316,6 @@
       }
     },
     {
-      "owner": "anomalyco",
-      "repo": "opencode",
-      "fullName": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
-      "description": "The open source coding agent.",
-      "topics": [],
-      "homepage": "https://opencode.ai",
-      "language": "TypeScript",
-      "starsGained": 3498,
-      "totalStars": 222840,
-      "forks": 29865,
-      "license": "MIT",
-      "pushedAt": "10/29/2026 06:28:20",
-      "tags": [
-        "agent",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "YOLO",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "knowledge-work-plugins",
       "fullName": "anthropics/knowledge-work-plugins",
@@ -378,10 +326,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2612,
-      "totalStars": 33710,
-      "forks": 3711,
+      "totalStars": 33746,
+      "forks": 3712,
       "license": "Apache-2.0",
-      "pushedAt": "10/28/2026 07:28:08",
+      "pushedAt": "10/29/2026 07:28:50",
       "tags": [
         "llm"
       ],
@@ -434,8 +382,8 @@
       "homepage": "https://Cognitum.One",
       "language": "TypeScript",
       "starsGained": 1930,
-      "totalStars": 80025,
-      "forks": 9386,
+      "totalStars": 80051,
+      "forks": 9391,
       "license": "MIT",
       "pushedAt": "10/29/2026 06:31:16",
       "tags": [
@@ -474,8 +422,8 @@
       "homepage": "https://jakub.kr/skills",
       "language": "Markdown",
       "starsGained": 776,
-      "totalStars": 9050,
-      "forks": 344,
+      "totalStars": 9089,
+      "forks": 346,
       "license": "MIT",
       "pushedAt": "10/25/2026 13:26:17",
       "tags": [
@@ -534,8 +482,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 51430,
-      "totalStars": 93336,
-      "forks": 10326,
+      "totalStars": 93591,
+      "forks": 10346,
       "license": "AGPL-3.0",
       "pushedAt": "10/29/2026 06:07:44",
       "tags": [
@@ -584,8 +532,8 @@
       "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 32691,
-      "totalStars": 179434,
-      "forks": 9833,
+      "totalStars": 179629,
+      "forks": 9846,
       "license": "MIT",
       "pushedAt": "10/29/2026 03:06:08",
       "tags": [
@@ -624,8 +572,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 28617,
-      "totalStars": 51975,
-      "forks": 3320,
+      "totalStars": 52202,
+      "forks": 3341,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -671,8 +619,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 24428,
-      "totalStars": 292001,
-      "forks": 43230,
+      "totalStars": 292157,
+      "forks": 43245,
       "license": "MIT",
       "pushedAt": "10/26/2026 04:56:56",
       "tags": [
@@ -727,10 +675,10 @@
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 21015,
-      "totalStars": 74943,
-      "forks": 6812,
+      "totalStars": 75107,
+      "forks": 6821,
       "license": "Apache-2.0",
-      "pushedAt": "10/29/2026 06:55:52",
+      "pushedAt": "10/29/2026 10:50:33",
       "tags": [
         "agent",
         "llm"
@@ -784,8 +732,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 20047,
-      "totalStars": 105817,
-      "forks": 9384,
+      "totalStars": 105944,
+      "forks": 9394,
       "license": "MIT",
       "pushedAt": "10/25/2026 04:37:26",
       "tags": [
@@ -828,8 +776,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 19821,
-      "totalStars": 93489,
-      "forks": 5517,
+      "totalStars": 94037,
+      "forks": 5557,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 04:51:37",
       "tags": [
@@ -867,10 +815,10 @@
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 13983,
-      "totalStars": 43525,
-      "forks": 5890,
+      "totalStars": 43632,
+      "forks": 5905,
       "license": "MIT",
-      "pushedAt": "10/28/2026 09:37:25",
+      "pushedAt": "10/29/2026 09:09:40",
       "tags": [
         "llm",
         "ml"
@@ -916,10 +864,10 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 13933,
-      "totalStars": 104809,
-      "forks": 7089,
+      "totalStars": 105013,
+      "forks": 7102,
       "license": "MIT",
-      "pushedAt": "10/29/2026 03:44:25",
+      "pushedAt": "10/29/2026 08:49:32",
       "tags": [
         "agent",
         "llm",
@@ -946,42 +894,6 @@
       }
     },
     {
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "fullName": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "topics": [],
-      "homepage": "https://docs.nvidia.com/openshell/latest/",
-      "language": "Rust",
-      "starsGained": 11650,
-      "totalStars": 20625,
-      "forks": 2022,
-      "license": "Apache-2.0",
-      "pushedAt": "10/29/2026 04:30:13",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "projectIntro": "该项目的 GitHub 简介是：OpenShell is the safe, private runtime for autonomous AI agents.",
-        "featurePoints": [
-          "核心线索：OpenShell is the safe, private runtime for autonomous AI agents."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：The default sandbox image is minimal Ubuntu with no agent installed."
-        ]
-      }
-    },
-    {
       "owner": "Nutlope",
       "repo": "hallmark",
       "fullName": "Nutlope/hallmark",
@@ -992,8 +904,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 10841,
-      "totalStars": 41081,
-      "forks": 2133,
+      "totalStars": 41395,
+      "forks": 2152,
       "license": "MIT",
       "pushedAt": "10/28/2026 14:52:03",
       "tags": [
@@ -1003,8 +915,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Hallmark",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -1049,8 +961,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 9592,
-      "totalStars": 104114,
-      "forks": 9187,
+      "totalStars": 104155,
+      "forks": 9190,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 00:48:27",
       "tags": [
@@ -1077,6 +989,67 @@
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
           "适用线索：Or install for OpenCode:"
+        ]
+      }
+    },
+    {
+      "owner": "mksglu",
+      "repo": "context-mode",
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "homepage": "https://contextmode.ai",
+      "language": "TypeScript",
+      "starsGained": 8679,
+      "totalStars": 32775,
+      "forks": 2266,
+      "license": "NOASSERTION",
+      "pushedAt": "10/28/2026 22:03:53",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Context Mode",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     }
