@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-10-30T05:35:09.5533357+00:00",
+  "generatedAt": "2026-10-30T07:02:47.8905069+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 14320,
-      "totalStars": 53071,
-      "forks": 3407,
+      "totalStars": 53144,
+      "forks": 3413,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -57,8 +57,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 9713,
-      "totalStars": 95774,
-      "forks": 5643,
+      "totalStars": 95915,
+      "forks": 5650,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 18:41:45",
       "tags": [
@@ -102,8 +102,8 @@
       "homepage": "https://arxiv.org/pdf/2412.20138",
       "language": "Python",
       "starsGained": 5557,
-      "totalStars": 118415,
-      "forks": 22647,
+      "totalStars": 118438,
+      "forks": 22653,
       "license": "Apache-2.0",
       "pushedAt": "10/27/2026 08:43:04",
       "tags": [
@@ -131,54 +131,6 @@
       }
     },
     {
-      "owner": "hugohe3",
-      "repo": "ppt-master",
-      "fullName": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "topics": [
-        "ai-agent",
-        "aippt",
-        "office",
-        "powerpoint",
-        "powerpoint-generation",
-        "ppt",
-        "pptx",
-        "presentation",
-        "slide",
-        "slides"
-      ],
-      "homepage": "https://hugohe3.github.io/ppt-master-examples/",
-      "language": "Python",
-      "starsGained": 4980,
-      "totalStars": 70978,
-      "forks": 5536,
-      "license": "MIT",
-      "pushedAt": "10/29/2026 13:58:25",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "PPT Master — AI generates native PowerPoint from any document",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
       "owner": "obra",
       "repo": "superpowers",
       "fullName": "obra/superpowers",
@@ -198,8 +150,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 4894,
-      "totalStars": 308775,
-      "forks": 27466,
+      "totalStars": 308857,
+      "forks": 27470,
       "license": "MIT",
       "pushedAt": "10/29/2026 23:35:34",
       "tags": [
@@ -249,10 +201,10 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 4359,
-      "totalStars": 105711,
-      "forks": 7143,
+      "totalStars": 105769,
+      "forks": 7149,
       "license": "MIT",
-      "pushedAt": "10/29/2026 17:14:24",
+      "pushedAt": "10/30/2026 06:21:31",
       "tags": [
         "agent",
         "llm",
@@ -289,8 +241,8 @@
       "homepage": "",
       "language": "",
       "starsGained": 4250,
-      "totalStars": 226530,
-      "forks": 22621,
+      "totalStars": 226556,
+      "forks": 22625,
       "license": "",
       "pushedAt": "04/20/2026 10:05:04",
       "tags": [
@@ -335,8 +287,8 @@
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 4110,
-      "totalStars": 24094,
-      "forks": 3228,
+      "totalStars": 24130,
+      "forks": 3232,
       "license": "MIT",
       "pushedAt": "10/22/2026 16:47:40",
       "tags": [
@@ -374,8 +326,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2504,
-      "totalStars": 33889,
-      "forks": 3726,
+      "totalStars": 33900,
+      "forks": 3727,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 07:28:50",
       "tags": [
@@ -430,10 +382,10 @@
       "homepage": "https://Cognitum.One",
       "language": "TypeScript",
       "starsGained": 1854,
-      "totalStars": 80175,
+      "totalStars": 80188,
       "forks": 9402,
       "license": "MIT",
-      "pushedAt": "10/30/2026 02:55:45",
+      "pushedAt": "10/30/2026 06:37:01",
       "tags": [
         "agent",
         "llm",
@@ -470,7 +422,7 @@
       "homepage": "https://jakub.kr/skills",
       "language": "Markdown",
       "starsGained": 980,
-      "totalStars": 9212,
+      "totalStars": 9238,
       "forks": 349,
       "license": "MIT",
       "pushedAt": "10/25/2026 13:26:17",
@@ -530,8 +482,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 47778,
-      "totalStars": 94575,
-      "forks": 10462,
+      "totalStars": 94664,
+      "forks": 10469,
       "license": "AGPL-3.0",
       "pushedAt": "10/29/2026 19:47:23",
       "tags": [
@@ -565,31 +517,47 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
       "language": "JavaScript",
       "starsGained": 33063,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 180413,
+      "forks": 9906,
+      "license": "MIT",
+      "pushedAt": "10/29/2026 11:59:31",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "generation",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "projectIntro": "该项目的 GitHub 简介是：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "核心线索：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -604,8 +572,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 29622,
-      "totalStars": 53071,
-      "forks": 3407,
+      "totalStars": 53144,
+      "forks": 3413,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -638,14 +606,23 @@
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 24663,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 292889,
+      "forks": 43343,
+      "license": "MIT",
+      "pushedAt": "10/30/2026 03:06:42",
       "tags": [
         "agent",
         "llm",
@@ -654,8 +631,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "ECC",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -666,7 +643,8 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Define interfaces first"
         ]
       }
     },
@@ -687,8 +665,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 22473,
-      "totalStars": 95774,
-      "forks": 5643,
+      "totalStars": 95915,
+      "forks": 5650,
       "license": "Apache-2.0",
       "pushedAt": "10/29/2026 18:41:45",
       "tags": [
@@ -742,10 +720,10 @@
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 21520,
-      "totalStars": 75576,
-      "forks": 6877,
+      "totalStars": 75618,
+      "forks": 6884,
       "license": "Apache-2.0",
-      "pushedAt": "10/30/2026 05:34:14",
+      "pushedAt": "10/30/2026 07:02:03",
       "tags": [
         "agent",
         "llm"
@@ -777,21 +755,40 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "topics": [],
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
       "homepage": "",
       "language": "Python",
       "starsGained": 20593,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 106455,
+      "forks": 9451,
+      "license": "MIT",
+      "pushedAt": "10/25/2026 04:37:26",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "agent-web-reach",
         "zhTitle": "Agent 互联网检索工具",
@@ -830,10 +827,10 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 14568,
-      "totalStars": 105711,
-      "forks": 7143,
+      "totalStars": 105769,
+      "forks": 7149,
       "license": "MIT",
-      "pushedAt": "10/29/2026 17:14:24",
+      "pushedAt": "10/30/2026 06:21:31",
       "tags": [
         "agent",
         "llm",
@@ -867,13 +864,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 14488,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 44172,
+      "forks": 5994,
+      "license": "MIT",
+      "pushedAt": "10/29/2026 09:09:40",
       "tags": [
         "llm",
         "ml"
@@ -881,8 +878,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -891,7 +888,8 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -906,8 +904,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 12501,
-      "totalStars": 42228,
-      "forks": 2188,
+      "totalStars": 42282,
+      "forks": 2191,
       "license": "MIT",
       "pushedAt": "10/29/2026 16:50:04",
       "tags": [
@@ -963,8 +961,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 9911,
-      "totalStars": 105011,
-      "forks": 9256,
+      "totalStars": 105065,
+      "forks": 9262,
       "license": "Apache-2.0",
       "pushedAt": "10/30/2026 03:07:33",
       "tags": [
@@ -1026,10 +1024,10 @@
       "homepage": "https://contextmode.ai",
       "language": "TypeScript",
       "starsGained": 8800,
-      "totalStars": 32865,
-      "forks": 2271,
+      "totalStars": 32877,
+      "forks": 2272,
       "license": "NOASSERTION",
-      "pushedAt": "10/30/2026 05:11:28",
+      "pushedAt": "10/30/2026 06:23:06",
       "tags": [
         "agent",
         "llm",
