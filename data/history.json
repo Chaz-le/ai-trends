@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:56:45.050Z",
+  "generatedAt": "2026-10-31T10:20:42.251Z",
   "snapshots": [
     {
       "date": "2026-09-01",
@@ -4273,82 +4273,86 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T06:56:26.8316620+00:00",
+      "generatedAt": "2026-10-31T10:20:23.3993710+00:00",
       "repos": {
         "cloudflare/security-audit-skill": {
-          "stars": 54408,
+          "stars": 54616,
           "periodGain": 30721
         },
         "pbakaus/impeccable": {
-          "stars": 97390,
+          "stars": 97580,
           "periodGain": 24624
         },
         "affaan-m/ECC": {
-          "stars": 293540,
+          "stars": 293644,
           "periodGain": 25494
         },
         "TauricResearch/TradingAgents": {
-          "stars": 118784,
+          "stars": 118819,
           "periodGain": 5490
         },
         "obra/superpowers": {
-          "stars": 309575,
+          "stars": 309667,
           "periodGain": 5474
         },
         "Leonxlnx/taste-skill": {
-          "stars": 106490,
+          "stars": 106587,
           "periodGain": 15496
         },
         "AgriciDaniel/claude-seo": {
-          "stars": 24638,
+          "stars": 24727,
           "periodGain": 4478
         },
         "multica-ai/andrej-karpathy-skills": {
-          "stars": 227012,
+          "stars": 227107,
           "periodGain": 4178
         },
         "anthropics/knowledge-work-plugins": {
-          "stars": 34085,
+          "stars": 34106,
           "periodGain": 2083
         },
         "anthropics/skills": {
-          "stars": 185517,
+          "stars": 185632,
           "periodGain": 1888
         },
         "ruvnet/ruflo": {
-          "stars": 80336,
+          "stars": 80351,
           "periodGain": 1723
         },
         "jakubkrehel/skills": {
-          "stars": 9417,
+          "stars": 9456,
           "periodGain": 1107
         },
         "debpalash/VoiceStudio": {
-          "stars": 96003,
+          "stars": 96180,
           "periodGain": 49116
         },
         "heygen-com/hyperframes": {
-          "stars": 76167,
+          "stars": 76242,
           "periodGain": 22149
         },
         "Panniantong/Agent-Reach": {
-          "stars": 106932,
+          "stars": 107018,
           "periodGain": 21207
         },
+        "tashfeenahmed/freellmapi": {
+          "stars": 44904,
+          "periodGain": 15157
+        },
         "Nutlope/hallmark": {
-          "stars": 43229,
+          "stars": 43354,
           "periodGain": 13397
         },
         "thedotmack/claude-mem": {
-          "stars": 106681,
+          "stars": 106898,
           "periodGain": 11124
         },
         "mksglu/context-mode": {
-          "stars": 32965,
+          "stars": 32978,
           "periodGain": 8913
         },
         "anthropics/claude-plugins-official": {
-          "stars": 45473,
+          "stars": 45489,
           "periodGain": 8442
         }
       }
