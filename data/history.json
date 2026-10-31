@@ -1,84 +1,6 @@
 {
-  "generatedAt": "2026-10-30T10:50:18.040Z",
+  "generatedAt": "2026-10-31T05:24:10.084Z",
   "snapshots": [
-    {
-      "date": "2026-08-31",
-      "generatedAt": "2026-08-31T10:48:20.1344108+00:00",
-      "repos": {
-        "tt-a1i/archify": {
-          "stars": 36644,
-          "periodGain": 25275
-        },
-        "freestylefly/awesome-gpt-image-2": {
-          "stars": 26126,
-          "periodGain": 16908
-        },
-        "MadsLorentzen/ai-job-search": {
-          "stars": 38807,
-          "periodGain": 5348
-        },
-        "K-Dense-AI/scientific-agent-skills": {
-          "stars": 40287,
-          "periodGain": 4309
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 51466,
-          "periodGain": 3720
-        },
-        "tashfeenahmed/freellmapi": {
-          "stars": 23156,
-          "periodGain": 3037
-        },
-        "tinyhumansai/openhuman": {
-          "stars": 39119,
-          "periodGain": 2526
-        },
-        "anthropics/claude-plugins-community": {
-          "stars": 2981,
-          "periodGain": 2162
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 25560,
-          "periodGain": 2085
-        },
-        "apache/maka": {
-          "stars": 4268,
-          "periodGain": 3257
-        },
-        "anthropics/claude-plugins-official": {
-          "stars": 35681,
-          "periodGain": 1940
-        },
-        "every-app/open-seo": {
-          "stars": 15451,
-          "periodGain": 1881
-        },
-        "zhaoxuya520/reverse-skill": {
-          "stars": 32587,
-          "periodGain": 21984
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 25364,
-          "periodGain": 15913
-        },
-        "virgiliojr94/book-to-skill": {
-          "stars": 27462,
-          "periodGain": 13879
-        },
-        "volcengine/OpenViking": {
-          "stars": 34597,
-          "periodGain": 6903
-        },
-        "cactus-compute/needle": {
-          "stars": 9835,
-          "periodGain": 6450
-        },
-        "akitaonrails/ai-memory": {
-          "stars": 5290,
-          "periodGain": 3902
-        }
-      }
-    },
     {
       "date": "2026-09-01",
       "generatedAt": "2026-09-01T09:22:33.0426251+00:00",
@@ -4346,6 +4268,32 @@
         "anthropics/claude-plugins-official": {
           "stars": 45368,
           "periodGain": 8277
+        }
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "generatedAt": "2026-10-31T05:24:01.6010365+00:00",
+      "repos": {
+        "cloudflare/security-audit-skill": {
+          "stars": 54331,
+          "periodGain": 30721
+        },
+        "pbakaus/impeccable": {
+          "stars": 97299,
+          "periodGain": 24624
+        },
+        "TauricResearch/TradingAgents": {
+          "stars": 118767,
+          "periodGain": 5490
+        },
+        "obra/superpowers": {
+          "stars": 309541,
+          "periodGain": 5474
+        },
+        "AgriciDaniel/claude-seo": {
+          "stars": 24612,
+          "periodGain": 4478
         }
       }
     }
