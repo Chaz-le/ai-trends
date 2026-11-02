@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:50:44.631Z",
+  "generatedAt": "2026-11-02T07:37:17.032Z",
   "snapshots": [
     {
       "date": "2026-09-03",
@@ -4281,55 +4281,63 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T05:50:32.7272211+00:00",
+      "generatedAt": "2026-11-02T07:37:04.7559059+00:00",
       "repos": {
         "pbakaus/impeccable": {
-          "stars": 99620,
+          "stars": 99720,
           "periodGain": 26119
         },
         "Nutlope/hallmark": {
-          "stars": 45142,
+          "stars": 45238,
           "periodGain": 15201
         },
         "cloudflare/security-audit-skill": {
-          "stars": 56579,
+          "stars": 56656,
           "periodGain": 32599
         },
         "YuJunZhiXue/dsh-purge": {
-          "stars": 15613,
+          "stars": 15712,
           "periodGain": 6644
         },
         "affaan-m/ECC": {
-          "stars": 294944,
+          "stars": 294994,
           "periodGain": 6299
         },
         "obra/superpowers": {
-          "stars": 310761,
+          "stars": 310807,
           "periodGain": 5896
         },
         "thedotmack/claude-mem": {
-          "stars": 109699,
+          "stars": 109872,
           "periodGain": 14011
         },
         "JetBrains/thinkrail": {
-          "stars": 7031,
+          "stars": 7062,
           "periodGain": 5760
         },
         "TauricResearch/TradingAgents": {
-          "stars": 119648,
+          "stars": 119695,
           "periodGain": 5432
         },
         "Leonxlnx/taste-skill": {
-          "stars": 108012,
+          "stars": 108087,
           "periodGain": 16333
         },
         "AgriciDaniel/claude-seo": {
-          "stars": 25651,
+          "stars": 25699,
           "periodGain": 5034
         },
         "multica-ai/andrej-karpathy-skills": {
-          "stars": 228124,
+          "stars": 228176,
           "periodGain": 4459
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 98274,
+          "periodGain": 47055
+        },
+        "heygen-com/hyperframes": {
+          "stars": 77301,
+          "periodGain": 22225
         }
       }
     }
