@@ -1,88 +1,6 @@
 {
-  "generatedAt": "2026-11-02T12:17:58.752Z",
+  "generatedAt": "2026-11-03T06:34:09.127Z",
   "snapshots": [
-    {
-      "date": "2026-09-03",
-      "generatedAt": "2026-09-03T08:54:02.3771417+00:00",
-      "repos": {
-        "tt-a1i/archify": {
-          "stars": 44661,
-          "periodGain": 35312
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 30783,
-          "periodGain": 10080
-        },
-        "K-Dense-AI/scientific-agent-skills": {
-          "stars": 42220,
-          "periodGain": 7558
-        },
-        "freestylefly/awesome-gpt-image-2": {
-          "stars": 27591,
-          "periodGain": 18715
-        },
-        "calesthio/OpenMontage": {
-          "stars": 55830,
-          "periodGain": 5078
-        },
-        "MadsLorentzen/ai-job-search": {
-          "stars": 40428,
-          "periodGain": 4172
-        },
-        "tashfeenahmed/freellmapi": {
-          "stars": 23984,
-          "periodGain": 3366
-        },
-        "rohitg00/ai-engineering-from-scratch": {
-          "stars": 52150,
-          "periodGain": 2843
-        },
-        "every-app/open-seo": {
-          "stars": 16492,
-          "periodGain": 2767
-        },
-        "jingyaogong/minimind": {
-          "stars": 58033,
-          "periodGain": 2669
-        },
-        "p-e-w/heretic": {
-          "stars": 30232,
-          "periodGain": 2045
-        },
-        "cursor/plugins": {
-          "stars": 6697,
-          "periodGain": 1333
-        },
-        "TencentCloud/TencentDB-Agent-Memory": {
-          "stars": 25770,
-          "periodGain": 15189
-        },
-        "ayghri/i-have-adhd": {
-          "stars": 26820,
-          "periodGain": 11252
-        },
-        "semantica-agi/semantica": {
-          "stars": 11788,
-          "periodGain": 9973
-        },
-        "cloudflare/computer": {
-          "stars": 8936,
-          "periodGain": 8868
-        },
-        "volcengine/OpenViking": {
-          "stars": 35264,
-          "periodGain": 7539
-        },
-        "cactus-compute/needle": {
-          "stars": 10136,
-          "periodGain": 6771
-        },
-        "huangruiteng/loopx": {
-          "stars": 5500,
-          "periodGain": 5297
-        }
-      }
-    },
     {
       "date": "2026-09-04",
       "generatedAt": "2026-09-04T08:49:14.8443722+00:00",
@@ -4354,6 +4272,84 @@
         "anthropics/knowledge-work-plugins": {
           "stars": 34431,
           "periodGain": 8486
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "generatedAt": "2026-11-03T06:33:51.4531542+00:00",
+      "repos": {
+        "pbakaus/impeccable": {
+          "stars": 100746,
+          "periodGain": 26586
+        },
+        "Nutlope/hallmark": {
+          "stars": 46220,
+          "periodGain": 16306
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 57603,
+          "periodGain": 33474
+        },
+        "thedotmack/claude-mem": {
+          "stars": 111036,
+          "periodGain": 15681
+        },
+        "affaan-m/ECC": {
+          "stars": 295859,
+          "periodGain": 6201
+        },
+        "obra/superpowers": {
+          "stars": 311369,
+          "periodGain": 5956
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 108958,
+          "periodGain": 16952
+        },
+        "heygen-com/hyperframes": {
+          "stars": 77877,
+          "periodGain": 22290
+        },
+        "JetBrains/thinkrail": {
+          "stars": 7249,
+          "periodGain": 4812
+        },
+        "TauricResearch/TradingAgents": {
+          "stars": 120064,
+          "periodGain": 4603
+        },
+        "multica-ai/andrej-karpathy-skills": {
+          "stars": 228677,
+          "periodGain": 4397
+        },
+        "AgriciDaniel/claude-seo": {
+          "stars": 26072,
+          "periodGain": 4091
+        },
+        "morluto/rea": {
+          "stars": 423943,
+          "periodGain": 422104
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 99330,
+          "periodGain": 47605
+        },
+        "tashfeenahmed/freellmapi": {
+          "stars": 46562,
+          "periodGain": 16329
+        },
+        "anthropics/claude-plugins-official": {
+          "stars": 45884,
+          "periodGain": 8715
+        },
+        "anthropics/knowledge-work-plugins": {
+          "stars": 34511,
+          "periodGain": 8614
+        },
+        "earthtojake/text-to-cad": {
+          "stars": 25076,
+          "periodGain": 8535
         }
       }
     }

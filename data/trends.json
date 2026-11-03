@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-02T12:17:38.1941046+00:00",
+  "generatedAt": "2026-11-03T06:33:51.4531542+00:00",
   "weekly": [
     {
       "owner": "pbakaus",
@@ -18,11 +18,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 12017,
-      "totalStars": 99986,
-      "forks": 5916,
+      "starsGained": 11754,
+      "totalStars": 100746,
+      "forks": 5950,
       "license": "Apache-2.0",
-      "pushedAt": "11/01/2026 18:04:59",
+      "pushedAt": "11/02/2026 22:39:39",
       "tags": [
         "agent",
         "coding",
@@ -57,9 +57,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 11566,
-      "totalStars": 45515,
-      "forks": 2417,
+      "starsGained": 10517,
+      "totalStars": 46220,
+      "forks": 2452,
       "license": "MIT",
       "pushedAt": "10/29/2026 16:50:04",
       "tags": [
@@ -93,9 +93,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 10069,
-      "totalStars": 56892,
-      "forks": 3704,
+      "starsGained": 9155,
+      "totalStars": 57603,
+      "forks": 3749,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -122,6 +122,69 @@
       }
     },
     {
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "fullName": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "homepage": "https://claude-mem.ai",
+      "language": "TypeScript",
+      "starsGained": 7255,
+      "totalStars": 111036,
+      "forks": 9680,
+      "license": "Apache-2.0",
+      "pushedAt": "11/03/2026 03:52:52",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Or install for OpenCode:"
+        ]
+      }
+    },
+    {
       "owner": "affaan-m",
       "repo": "ECC",
       "fullName": "affaan-m/ECC",
@@ -140,9 +203,9 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 6299,
-      "totalStars": 295150,
-      "forks": 43686,
+      "starsGained": 6201,
+      "totalStars": 295859,
+      "forks": 43780,
       "license": "MIT",
       "pushedAt": "11/02/2026 04:56:08",
       "tags": [
@@ -189,11 +252,11 @@
       ],
       "homepage": "",
       "language": "Shell",
-      "starsGained": 5896,
-      "totalStars": 310943,
-      "forks": 27673,
+      "starsGained": 5956,
+      "totalStars": 311369,
+      "forks": 27706,
       "license": "MIT",
-      "pushedAt": "10/29/2026 23:35:34",
+      "pushedAt": "11/03/2026 02:51:39",
       "tags": [
         "agent",
         "learning"
@@ -219,166 +282,6 @@
       }
     },
     {
-      "owner": "thedotmack",
-      "repo": "claude-mem",
-      "fullName": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "anthropic",
-        "artificial-intelligence",
-        "chromadb",
-        "claude",
-        "claude-agent-sdk",
-        "claude-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "embeddings",
-        "long-term-memory",
-        "mem0",
-        "memory-engine",
-        "openmemory",
-        "rag",
-        "sqlite",
-        "supermemory"
-      ],
-      "homepage": "https://claude-mem.ai",
-      "language": "TypeScript",
-      "starsGained": 5852,
-      "totalStars": 110220,
-      "forks": 9614,
-      "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 10:09:11",
-      "tags": [
-        "agent",
-        "llm",
-        "rag",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
-          "适用线索：Or install for OpenCode:"
-        ]
-      }
-    },
-    {
-      "owner": "JetBrains",
-      "repo": "thinkrail",
-      "fullName": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "agentic-ai",
-        "agentic-workflow",
-        "ai-coding",
-        "ai-tools",
-        "pi-agent",
-        "pi-agent-extension",
-        "spec-driven",
-        "spec-driven-coding",
-        "spec-driven-development",
-        "vibe-coding",
-        "vibecoding"
-      ],
-      "homepage": "https://thinkrail.ai/",
-      "language": "TypeScript",
-      "starsGained": 5760,
-      "totalStars": 7093,
-      "forks": 409,
-      "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 11:51:40",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "ThinkRail",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "TauricResearch",
-      "repo": "TradingAgents",
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "homepage": "https://arxiv.org/pdf/2412.20138",
-      "language": "Python",
-      "starsGained": 5432,
-      "totalStars": 119790,
-      "forks": 22914,
-      "license": "Apache-2.0",
-      "pushedAt": "10/27/2026 08:43:04",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：To run without questions, for a scheduled job or a script, answer the per-run steps with flags and the rest with TRADINGAGENTS variables:"
-        ]
-      }
-    },
-    {
       "owner": "Leonxlnx",
       "repo": "taste-skill",
       "fullName": "Leonxlnx/taste-skill",
@@ -400,11 +303,11 @@
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 5336,
-      "totalStars": 108288,
-      "forks": 7300,
+      "starsGained": 5729,
+      "totalStars": 108958,
+      "forks": 7338,
       "license": "MIT",
-      "pushedAt": "10/31/2026 07:59:58",
+      "pushedAt": "11/03/2026 01:53:39",
       "tags": [
         "agent",
         "llm",
@@ -456,11 +359,11 @@
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 5153,
-      "totalStars": 77428,
-      "forks": 7097,
+      "starsGained": 4924,
+      "totalStars": 77877,
+      "forks": 7166,
       "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 12:17:38",
+      "pushedAt": "11/03/2026 06:07:21",
       "tags": [
         "agent",
         "llm"
@@ -486,6 +389,141 @@
       }
     },
     {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "fullName": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-coding",
+        "ai-tools",
+        "pi-agent",
+        "pi-agent-extension",
+        "spec-driven",
+        "spec-driven-coding",
+        "spec-driven-development",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "homepage": "https://thinkrail.ai/",
+      "language": "TypeScript",
+      "starsGained": 4812,
+      "totalStars": 7249,
+      "forks": 426,
+      "license": "Apache-2.0",
+      "pushedAt": "11/02/2026 16:45:53",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "ThinkRail",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "homepage": "https://arxiv.org/pdf/2412.20138",
+      "language": "Python",
+      "starsGained": 4603,
+      "totalStars": 120064,
+      "forks": 22964,
+      "license": "Apache-2.0",
+      "pushedAt": "10/27/2026 08:43:04",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：To run without questions, for a scheduled job or a script, answer the per-run steps with flags and the rest with TRADINGAGENTS variables:"
+        ]
+      }
+    },
+    {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "topics": [],
+      "homepage": "",
+      "language": "",
+      "starsGained": 4397,
+      "totalStars": 228677,
+      "forks": 22802,
+      "license": "",
+      "pushedAt": "04/20/2026 10:05:04",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Karpathy-Inspired Claude Code Guidelines",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "projectIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "featurePoints": [
+          "核心线索：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Fewer unnecessary changes in diffs — Only requested changes appear"
+        ]
+      }
+    },
+    {
       "owner": "AgriciDaniel",
       "repo": "claude-seo",
       "fullName": "AgriciDaniel/claude-seo",
@@ -503,9 +541,9 @@
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 5034,
-      "totalStars": 25811,
-      "forks": 3377,
+      "starsGained": 4091,
+      "totalStars": 26072,
+      "forks": 3409,
       "license": "MIT",
       "pushedAt": "11/01/2026 06:07:26",
       "tags": [
@@ -529,44 +567,6 @@
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "topics": [],
-      "homepage": "",
-      "language": "",
-      "starsGained": 4459,
-      "totalStars": 228293,
-      "forks": 22762,
-      "license": "",
-      "pushedAt": "04/20/2026 10:05:04",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Karpathy-Inspired Claude Code Guidelines",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "projectIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "featurePoints": [
-          "核心线索：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Fewer unnecessary changes in diffs — Only requested changes appear"
         ]
       }
     }
@@ -603,11 +603,11 @@
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 422016,
-      "totalStars": 420923,
-      "forks": 105069,
+      "starsGained": 422104,
+      "totalStars": 423943,
+      "forks": 105667,
       "license": "MIT",
-      "pushedAt": "11/02/2026 10:31:51",
+      "pushedAt": "11/03/2026 06:32:29",
       "tags": [
         "agent",
         "llm",
@@ -663,11 +663,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 47055,
-      "totalStars": 98516,
-      "forks": 10932,
+      "starsGained": 47605,
+      "totalStars": 99330,
+      "forks": 11018,
       "license": "AGPL-3.0",
-      "pushedAt": "11/02/2026 11:21:55",
+      "pushedAt": "11/02/2026 20:48:18",
       "tags": [
         "agent",
         "llm",
@@ -702,9 +702,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 32599,
-      "totalStars": 56892,
-      "forks": 3704,
+      "starsGained": 33474,
+      "totalStars": 57603,
+      "forks": 3749,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -746,11 +746,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 26119,
-      "totalStars": 99986,
-      "forks": 5916,
+      "starsGained": 26586,
+      "totalStars": 100746,
+      "forks": 5950,
       "license": "Apache-2.0",
-      "pushedAt": "11/01/2026 18:04:59",
+      "pushedAt": "11/02/2026 22:39:39",
       "tags": [
         "agent",
         "coding",
@@ -801,11 +801,11 @@
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 22225,
-      "totalStars": 77428,
-      "forks": 7097,
+      "starsGained": 22290,
+      "totalStars": 77877,
+      "forks": 7166,
       "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 12:17:38",
+      "pushedAt": "11/03/2026 06:07:21",
       "tags": [
         "agent",
         "llm"
@@ -852,11 +852,11 @@
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 16333,
-      "totalStars": 108288,
-      "forks": 7300,
+      "starsGained": 16952,
+      "totalStars": 108958,
+      "forks": 7338,
       "license": "MIT",
-      "pushedAt": "10/31/2026 07:59:58",
+      "pushedAt": "11/03/2026 01:53:39",
       "tags": [
         "agent",
         "llm",
@@ -892,11 +892,11 @@
       "topics": [],
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
-      "starsGained": 15908,
-      "totalStars": 46047,
-      "forks": 6283,
+      "starsGained": 16329,
+      "totalStars": 46562,
+      "forks": 6357,
       "license": "MIT",
-      "pushedAt": "11/01/2026 22:35:59",
+      "pushedAt": "11/02/2026 19:37:21",
       "tags": [
         "llm",
         "ml"
@@ -929,9 +929,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 15201,
-      "totalStars": 45515,
-      "forks": 2417,
+      "starsGained": 16306,
+      "totalStars": 46220,
+      "forks": 2452,
       "license": "MIT",
       "pushedAt": "10/29/2026 16:50:04",
       "tags": [
@@ -986,11 +986,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 14011,
-      "totalStars": 110220,
-      "forks": 9614,
+      "starsGained": 15681,
+      "totalStars": 111036,
+      "forks": 9680,
       "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 10:09:11",
+      "pushedAt": "11/03/2026 03:52:52",
       "tags": [
         "agent",
         "llm",
@@ -1019,67 +1019,6 @@
       }
     },
     {
-      "owner": "mksglu",
-      "repo": "context-mode",
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "topics": [
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugins",
-        "claude-code-skill",
-        "codex",
-        "codex-cli",
-        "context-mode",
-        "copilot",
-        "cursor-plugin",
-        "kiro",
-        "mcp",
-        "mcp-server",
-        "mcp-tools",
-        "openclaw",
-        "opencode",
-        "pi-agent",
-        "skills",
-        "zed-extension"
-      ],
-      "homepage": "https://contextmode.ai",
-      "language": "TypeScript",
-      "starsGained": 8666,
-      "totalStars": 33221,
-      "forks": 2292,
-      "license": "NOASSERTION",
-      "pushedAt": "11/02/2026 12:04:21",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Context Mode",
-        "category": "context-compression",
-        "zhTitle": "LLM 上下文压缩工具",
-        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
-        "featurePoints": [
-          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
-          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
-          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
-        ],
-        "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "claude-plugins-official",
       "fullName": "anthropics/claude-plugins-official",
@@ -1093,9 +1032,9 @@
       ],
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
-      "starsGained": 8625,
-      "totalStars": 45774,
-      "forks": 4766,
+      "starsGained": 8715,
+      "totalStars": 45884,
+      "forks": 4778,
       "license": "Apache-2.0",
       "pushedAt": "11/02/2026 07:29:13",
       "tags": [
@@ -1132,9 +1071,9 @@
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 8486,
-      "totalStars": 34431,
-      "forks": 3809,
+      "starsGained": 8614,
+      "totalStars": 34511,
+      "forks": 3819,
       "license": "Apache-2.0",
       "pushedAt": "11/02/2026 07:26:44",
       "tags": [
@@ -1154,6 +1093,55 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
+      "description": "Design physical products with AI",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "cad",
+        "mechanical-engineering",
+        "robotics",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad"
+      ],
+      "homepage": "https://www.texttocad.dev",
+      "language": "Python",
+      "starsGained": 8535,
+      "totalStars": 25076,
+      "forks": 2389,
+      "license": "MIT",
+      "pushedAt": "11/03/2026 00:39:45",
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "text-to-cad",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
+          "适用线索：It installs uv if it is missing, then sets up text-to-cad in every agent app on"
         ]
       }
     }
