@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-03T07:51:40.2814578+00:00",
+  "generatedAt": "2026-11-03T11:52:36.2743505+00:00",
   "weekly": [
     {
       "owner": "pbakaus",
@@ -19,8 +19,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 11754,
-      "totalStars": 100836,
-      "forks": 5959,
+      "totalStars": 101041,
+      "forks": 5975,
       "license": "Apache-2.0",
       "pushedAt": "11/02/2026 22:39:39",
       "tags": [
@@ -58,10 +58,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 10517,
-      "totalStars": 46285,
-      "forks": 2454,
+      "totalStars": 46483,
+      "forks": 2463,
       "license": "MIT",
-      "pushedAt": "10/29/2026 16:50:04",
+      "pushedAt": "11/03/2026 09:01:00",
       "tags": [
         "agent",
         "llm"
@@ -94,8 +94,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 9155,
-      "totalStars": 57645,
-      "forks": 3754,
+      "totalStars": 57789,
+      "forks": 3768,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -153,8 +153,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 7255,
-      "totalStars": 111093,
-      "forks": 9683,
+      "totalStars": 111304,
+      "forks": 9698,
       "license": "Apache-2.0",
       "pushedAt": "11/03/2026 03:52:52",
       "tags": [
@@ -204,8 +204,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6201,
-      "totalStars": 295923,
-      "forks": 43784,
+      "totalStars": 296093,
+      "forks": 43803,
       "license": "MIT",
       "pushedAt": "11/02/2026 04:56:08",
       "tags": [
@@ -253,8 +253,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 5956,
-      "totalStars": 311409,
-      "forks": 27711,
+      "totalStars": 311543,
+      "forks": 27722,
       "license": "MIT",
       "pushedAt": "11/03/2026 02:51:39",
       "tags": [
@@ -278,113 +278,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：using-git-worktrees - Activates after design approval. Creates isolated workspace on new branch, runs project setup, verifies clean test baseline."
-        ]
-      }
-    },
-    {
-      "owner": "Leonxlnx",
-      "repo": "taste-skill",
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "anti-slop",
-        "claude-code",
-        "codex",
-        "cursor",
-        "design-system",
-        "frontend",
-        "landing-page",
-        "ui-design",
-        "web-design"
-      ],
-      "homepage": "https://tasteskill.dev",
-      "language": "JavaScript",
-      "starsGained": 5729,
-      "totalStars": 109028,
-      "forks": 7342,
-      "license": "MIT",
-      "pushedAt": "11/03/2026 01:53:39",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "taste-skill",
-        "zhTitle": "AI 生成质量约束技能",
-        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "featurePoints": [
-          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
-          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
-          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
-        ],
-        "scenarioPoints": [
-          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
-        ]
-      }
-    },
-    {
-      "owner": "heygen-com",
-      "repo": "hyperframes",
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
-      "description": "Write HTML. Render video. Built for agents.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "animation",
-        "claude-code",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "html-to-video",
-        "mcp",
-        "motion-graphics",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video-editor"
-      ],
-      "homepage": "https://hyperframes.heygen.com",
-      "language": "TypeScript",
-      "starsGained": 4924,
-      "totalStars": 77924,
-      "forks": 7172,
-      "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 07:49:53",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：For Claude Code, install the versioned plugin:"
         ]
       }
     },
@@ -413,10 +306,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://thinkrail.ai/",
       "language": "TypeScript",
       "starsGained": 4812,
-      "totalStars": 7277,
-      "forks": 429,
+      "totalStars": 7324,
+      "forks": 435,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 06:53:36",
+      "pushedAt": "11/03/2026 11:24:32",
       "tags": [
         "agent",
         "learning"
@@ -457,8 +350,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://arxiv.org/pdf/2412.20138",
       "language": "Python",
       "starsGained": 4603,
-      "totalStars": 120088,
-      "forks": 22970,
+      "totalStars": 120140,
+      "forks": 22984,
       "license": "Apache-2.0",
       "pushedAt": "10/27/2026 08:43:04",
       "tags": [
@@ -496,8 +389,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "",
       "starsGained": 4397,
-      "totalStars": 228717,
-      "forks": 22807,
+      "totalStars": 228826,
+      "forks": 22819,
       "license": "",
       "pushedAt": "04/20/2026 10:05:04",
       "tags": [
@@ -542,8 +435,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 4091,
-      "totalStars": 26094,
-      "forks": 3410,
+      "totalStars": 26163,
+      "forks": 3416,
       "license": "MIT",
       "pushedAt": "11/01/2026 06:07:26",
       "tags": [
@@ -567,6 +460,86 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "skills",
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+      "description": "Public repository for Agent Skills",
+      "topics": [
+        "agent-skills"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 2828,
+      "totalStars": 186964,
+      "forks": 22080,
+      "license": "",
+      "pushedAt": "10/28/2026 19:20:39",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "可按 README 示例落地：Example usage 1"
+        ]
+      }
+    },
+    {
+      "owner": "jakubkrehel",
+      "repo": "skills",
+      "fullName": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "topics": [],
+      "homepage": "https://jakub.kr/skills",
+      "language": "Markdown",
+      "starsGained": 1707,
+      "totalStars": 10492,
+      "forks": 403,
+      "license": "MIT",
+      "pushedAt": "11/02/2026 01:29:43",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
@@ -604,10 +577,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 422104,
-      "totalStars": 424224,
-      "forks": 105725,
+      "totalStars": 425058,
+      "forks": 105880,
       "license": "MIT",
-      "pushedAt": "11/03/2026 07:48:15",
+      "pushedAt": "11/03/2026 11:42:50",
       "tags": [
         "agent",
         "llm",
@@ -664,10 +637,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 47605,
-      "totalStars": 99410,
-      "forks": 11026,
+      "totalStars": 99620,
+      "forks": 11047,
       "license": "AGPL-3.0",
-      "pushedAt": "11/03/2026 06:59:44",
+      "pushedAt": "11/03/2026 11:24:06",
       "tags": [
         "agent",
         "llm",
@@ -703,8 +676,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 33474,
-      "totalStars": 57645,
-      "forks": 3754,
+      "totalStars": 57789,
+      "forks": 3768,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -747,8 +720,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 26586,
-      "totalStars": 100836,
-      "forks": 5959,
+      "totalStars": 101041,
+      "forks": 5975,
       "license": "Apache-2.0",
       "pushedAt": "11/02/2026 22:39:39",
       "tags": [
@@ -802,10 +775,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22290,
-      "totalStars": 77924,
-      "forks": 7172,
+      "totalStars": 78050,
+      "forks": 7192,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 07:49:53",
+      "pushedAt": "11/03/2026 11:51:39",
       "tags": [
         "agent",
         "llm"
@@ -831,58 +804,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Leonxlnx",
-      "repo": "taste-skill",
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "anti-slop",
-        "claude-code",
-        "codex",
-        "cursor",
-        "design-system",
-        "frontend",
-        "landing-page",
-        "ui-design",
-        "web-design"
-      ],
-      "homepage": "https://tasteskill.dev",
-      "language": "JavaScript",
-      "starsGained": 16952,
-      "totalStars": 109028,
-      "forks": 7342,
-      "license": "MIT",
-      "pushedAt": "11/03/2026 01:53:39",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "taste-skill",
-        "zhTitle": "AI 生成质量约束技能",
-        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "featurePoints": [
-          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
-          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
-          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
-        ],
-        "scenarioPoints": [
-          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
-        ]
-      }
-    },
-    {
       "owner": "tashfeenahmed",
       "repo": "freellmapi",
       "fullName": "tashfeenahmed/freellmapi",
@@ -893,8 +814,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://freellmapi.co",
       "language": "TypeScript",
       "starsGained": 16329,
-      "totalStars": 46608,
-      "forks": 6366,
+      "totalStars": 46720,
+      "forks": 6385,
       "license": "MIT",
       "pushedAt": "11/02/2026 19:37:21",
       "tags": [
@@ -930,10 +851,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 16306,
-      "totalStars": 46285,
-      "forks": 2454,
+      "totalStars": 46483,
+      "forks": 2463,
       "license": "MIT",
-      "pushedAt": "10/29/2026 16:50:04",
+      "pushedAt": "11/03/2026 09:01:00",
       "tags": [
         "agent",
         "llm"
@@ -987,8 +908,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 15681,
-      "totalStars": 111093,
-      "forks": 9683,
+      "totalStars": 111304,
+      "forks": 9698,
       "license": "Apache-2.0",
       "pushedAt": "11/03/2026 03:52:52",
       "tags": [
@@ -1033,8 +954,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
       "starsGained": 8715,
-      "totalStars": 45897,
-      "forks": 4779,
+      "totalStars": 45917,
+      "forks": 4782,
       "license": "Apache-2.0",
       "pushedAt": "11/03/2026 07:28:56",
       "tags": [
@@ -1072,8 +993,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 8614,
-      "totalStars": 34523,
-      "forks": 3821,
+      "totalStars": 34545,
+      "forks": 3824,
       "license": "Apache-2.0",
       "pushedAt": "11/03/2026 07:25:49",
       "tags": [
@@ -1117,8 +1038,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 8535,
-      "totalStars": 25091,
-      "forks": 2390,
+      "totalStars": 25134,
+      "forks": 2392,
       "license": "MIT",
       "pushedAt": "11/03/2026 00:39:45",
       "tags": [
@@ -1142,6 +1063,67 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：It installs uv if it is missing, then sets up text-to-cad in every agent app on"
+        ]
+      }
+    },
+    {
+      "owner": "mksglu",
+      "repo": "context-mode",
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about",
+      "language": "TypeScript",
+      "starsGained": 8531,
+      "totalStars": 33327,
+      "forks": 2296,
+      "license": "NOASSERTION",
+      "pushedAt": "11/03/2026 11:30:08",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Context Mode",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
         ]
       }
     }
