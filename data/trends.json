@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-03T11:52:36.2743505+00:00",
+  "generatedAt": "2026-11-04T06:02:10.6591903+00:00",
   "weekly": [
     {
       "owner": "pbakaus",
@@ -18,11 +18,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 11754,
-      "totalStars": 101041,
-      "forks": 5975,
+      "starsGained": 11405,
+      "totalStars": 101760,
+      "forks": 5997,
       "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 22:39:39",
+      "pushedAt": "11/04/2026 05:30:23",
       "tags": [
         "agent",
         "coding",
@@ -57,9 +57,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 10517,
-      "totalStars": 46483,
-      "forks": 2463,
+      "starsGained": 8765,
+      "totalStars": 47187,
+      "forks": 2493,
       "license": "MIT",
       "pushedAt": "11/03/2026 09:01:00",
       "tags": [
@@ -93,9 +93,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 9155,
-      "totalStars": 57789,
-      "forks": 3768,
+      "starsGained": 8598,
+      "totalStars": 58355,
+      "forks": 3796,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -152,11 +152,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 7255,
-      "totalStars": 111304,
-      "forks": 9698,
+      "starsGained": 7995,
+      "totalStars": 112152,
+      "forks": 9757,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 03:52:52",
+      "pushedAt": "11/04/2026 05:53:40",
       "tags": [
         "agent",
         "llm",
@@ -203,9 +203,9 @@
       ],
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
-      "starsGained": 6201,
-      "totalStars": 296093,
-      "forks": 43803,
+      "starsGained": 6053,
+      "totalStars": 296685,
+      "forks": 43871,
       "license": "MIT",
       "pushedAt": "11/02/2026 04:56:08",
       "tags": [
@@ -252,11 +252,11 @@
       ],
       "homepage": "",
       "language": "Shell",
-      "starsGained": 5956,
-      "totalStars": 311543,
-      "forks": 27722,
+      "starsGained": 5994,
+      "totalStars": 311996,
+      "forks": 27751,
       "license": "MIT",
-      "pushedAt": "11/03/2026 02:51:39",
+      "pushedAt": "11/03/2026 23:24:58",
       "tags": [
         "agent",
         "learning"
@@ -278,6 +278,44 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "适用线索：using-git-worktrees - Activates after design approval. Creates isolated workspace on new branch, runs project setup, verifies clean test baseline."
+        ]
+      }
+    },
+    {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "topics": [],
+      "homepage": "",
+      "language": "",
+      "starsGained": 3921,
+      "totalStars": 229195,
+      "forks": 22840,
+      "license": "",
+      "pushedAt": "04/20/2026 10:05:04",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Karpathy-Inspired Claude Code Guidelines",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "projectIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "featurePoints": [
+          "核心线索：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Fewer unnecessary changes in diffs — Only requested changes appear"
         ]
       }
     },
@@ -305,11 +343,11 @@
       ],
       "homepage": "https://thinkrail.ai/",
       "language": "TypeScript",
-      "starsGained": 4812,
-      "totalStars": 7324,
-      "forks": 435,
+      "starsGained": 3898,
+      "totalStars": 7475,
+      "forks": 448,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 11:24:32",
+      "pushedAt": "11/04/2026 00:31:39",
       "tags": [
         "agent",
         "learning"
@@ -334,89 +372,6 @@
       }
     },
     {
-      "owner": "TauricResearch",
-      "repo": "TradingAgents",
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
-      ],
-      "homepage": "https://arxiv.org/pdf/2412.20138",
-      "language": "Python",
-      "starsGained": 4603,
-      "totalStars": 120140,
-      "forks": 22984,
-      "license": "Apache-2.0",
-      "pushedAt": "10/27/2026 08:43:04",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：To run without questions, for a scheduled job or a script, answer the per-run steps with flags and the rest with TRADINGAGENTS variables:"
-        ]
-      }
-    },
-    {
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "topics": [],
-      "homepage": "",
-      "language": "",
-      "starsGained": 4397,
-      "totalStars": 228826,
-      "forks": 22819,
-      "license": "",
-      "pushedAt": "04/20/2026 10:05:04",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Karpathy-Inspired Claude Code Guidelines",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "projectIntro": "该项目的 GitHub 简介是：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "featurePoints": [
-          "核心线索：A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Fewer unnecessary changes in diffs — Only requested changes appear"
-        ]
-      }
-    },
-    {
       "owner": "AgriciDaniel",
       "repo": "claude-seo",
       "fullName": "AgriciDaniel/claude-seo",
@@ -434,9 +389,9 @@
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 4091,
-      "totalStars": 26163,
-      "forks": 3416,
+      "starsGained": 3751,
+      "totalStars": 26404,
+      "forks": 3437,
       "license": "MIT",
       "pushedAt": "11/01/2026 06:07:26",
       "tags": [
@@ -464,6 +419,51 @@
       }
     },
     {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "homepage": "https://arxiv.org/pdf/2412.20138",
+      "language": "Python",
+      "starsGained": 3336,
+      "totalStars": 120437,
+      "forks": 23023,
+      "license": "Apache-2.0",
+      "pushedAt": "10/27/2026 08:43:04",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：To run without questions, for a scheduled job or a script, answer the per-run steps with flags and the rest with TRADINGAGENTS variables:"
+        ]
+      }
+    },
+    {
       "owner": "anthropics",
       "repo": "skills",
       "fullName": "anthropics/skills",
@@ -475,9 +475,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2828,
-      "totalStars": 186964,
-      "forks": 22080,
+      "starsGained": 2969,
+      "totalStars": 187181,
+      "forks": 22089,
       "license": "",
       "pushedAt": "10/28/2026 19:20:39",
       "tags": [
@@ -515,9 +515,9 @@
       "topics": [],
       "homepage": "https://jakub.kr/skills",
       "language": "Markdown",
-      "starsGained": 1707,
-      "totalStars": 10492,
-      "forks": 403,
+      "starsGained": 1761,
+      "totalStars": 10661,
+      "forks": 410,
       "license": "MIT",
       "pushedAt": "11/02/2026 01:29:43",
       "tags": [
@@ -576,11 +576,11 @@
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 422104,
-      "totalStars": 425058,
-      "forks": 105880,
+      "starsGained": 426427,
+      "totalStars": 427947,
+      "forks": 106495,
       "license": "MIT",
-      "pushedAt": "11/03/2026 11:42:50",
+      "pushedAt": "11/04/2026 05:55:52",
       "tags": [
         "agent",
         "llm",
@@ -636,11 +636,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 47605,
-      "totalStars": 99620,
-      "forks": 11047,
+      "starsGained": 48168,
+      "totalStars": 100279,
+      "forks": 11106,
       "license": "AGPL-3.0",
-      "pushedAt": "11/03/2026 11:24:06",
+      "pushedAt": "11/04/2026 03:08:36",
       "tags": [
         "agent",
         "llm",
@@ -675,9 +675,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 33474,
-      "totalStars": 57789,
-      "forks": 3768,
+      "starsGained": 34248,
+      "totalStars": 58355,
+      "forks": 3796,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -719,11 +719,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 26586,
-      "totalStars": 101041,
-      "forks": 5975,
+      "starsGained": 26980,
+      "totalStars": 101760,
+      "forks": 5997,
       "license": "Apache-2.0",
-      "pushedAt": "11/02/2026 22:39:39",
+      "pushedAt": "11/04/2026 05:30:23",
       "tags": [
         "agent",
         "coding",
@@ -774,11 +774,11 @@
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 22290,
-      "totalStars": 78050,
-      "forks": 7192,
+      "starsGained": 22387,
+      "totalStars": 78493,
+      "forks": 7224,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 11:51:39",
+      "pushedAt": "11/04/2026 05:59:23",
       "tags": [
         "agent",
         "llm"
@@ -804,43 +804,6 @@
       }
     },
     {
-      "owner": "tashfeenahmed",
-      "repo": "freellmapi",
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "topics": [],
-      "homepage": "https://freellmapi.co",
-      "language": "TypeScript",
-      "starsGained": 16329,
-      "totalStars": 46720,
-      "forks": 6385,
-      "license": "MIT",
-      "pushedAt": "11/02/2026 19:37:21",
-      "tags": [
-        "llm",
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "projectIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-        "featurePoints": [
-          "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
-        ]
-      }
-    },
-    {
       "owner": "Nutlope",
       "repo": "hallmark",
       "fullName": "Nutlope/hallmark",
@@ -850,9 +813,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 16306,
-      "totalStars": 46483,
-      "forks": 2463,
+      "starsGained": 17314,
+      "totalStars": 47187,
+      "forks": 2493,
       "license": "MIT",
       "pushedAt": "11/03/2026 09:01:00",
       "tags": [
@@ -873,6 +836,43 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "topics": [],
+      "homepage": "https://freellmapi.co",
+      "language": "TypeScript",
+      "starsGained": 16812,
+      "totalStars": 47174,
+      "forks": 6447,
+      "license": "MIT",
+      "pushedAt": "11/03/2026 23:39:10",
+      "tags": [
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "projectIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "featurePoints": [
+          "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -907,11 +907,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 15681,
-      "totalStars": 111304,
-      "forks": 9698,
+      "starsGained": 16740,
+      "totalStars": 112152,
+      "forks": 9757,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 03:52:52",
+      "pushedAt": "11/04/2026 05:53:40",
       "tags": [
         "agent",
         "llm",
@@ -953,11 +953,11 @@
       ],
       "homepage": "https://code.claude.com/docs/en/plugins",
       "language": "Python",
-      "starsGained": 8715,
-      "totalStars": 45917,
-      "forks": 4782,
+      "starsGained": 8845,
+      "totalStars": 46020,
+      "forks": 4790,
       "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 07:28:56",
+      "pushedAt": "11/04/2026 02:41:17",
       "tags": [
         "agent",
         "llm",
@@ -983,41 +983,6 @@
       }
     },
     {
-      "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 8614,
-      "totalStars": 34545,
-      "forks": 3824,
-      "license": "Apache-2.0",
-      "pushedAt": "11/03/2026 07:25:49",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Knowledge Work Plugins",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "projectIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "featurePoints": [
-          "核心线索：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "fullName": "earthtojake/text-to-cad",
@@ -1037,11 +1002,11 @@
       ],
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
-      "starsGained": 8535,
-      "totalStars": 25134,
-      "forks": 2392,
+      "starsGained": 8708,
+      "totalStars": 25282,
+      "forks": 2402,
       "license": "MIT",
-      "pushedAt": "11/03/2026 00:39:45",
+      "pushedAt": "11/04/2026 05:37:29",
       "tags": [
         "agent",
         "multimodal"
@@ -1063,6 +1028,41 @@
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：It installs uv if it is missing, then sets up text-to-cad in every agent app on"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 8685,
+      "totalStars": 34639,
+      "forks": 3831,
+      "license": "Apache-2.0",
+      "pushedAt": "11/04/2026 02:50:59",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Knowledge Work Plugins",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "projectIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "featurePoints": [
+          "核心线索：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1097,11 +1097,11 @@
       ],
       "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about",
       "language": "TypeScript",
-      "starsGained": 8531,
-      "totalStars": 33327,
-      "forks": 2296,
+      "starsGained": 8397,
+      "totalStars": 33407,
+      "forks": 2300,
       "license": "NOASSERTION",
-      "pushedAt": "11/03/2026 11:30:08",
+      "pushedAt": "11/04/2026 00:08:04",
       "tags": [
         "agent",
         "llm",
