@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-04T06:02:10.6591903+00:00",
+  "generatedAt": "2026-11-04T07:27:25.0315351+00:00",
   "weekly": [
     {
       "owner": "pbakaus",
@@ -19,10 +19,10 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 11405,
-      "totalStars": 101760,
-      "forks": 5997,
+      "totalStars": 101818,
+      "forks": 6001,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 05:30:23",
+      "pushedAt": "11/04/2026 06:13:39",
       "tags": [
         "agent",
         "coding",
@@ -58,8 +58,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 8765,
-      "totalStars": 47187,
-      "forks": 2493,
+      "totalStars": 47247,
+      "forks": 2495,
       "license": "MIT",
       "pushedAt": "11/03/2026 09:01:00",
       "tags": [
@@ -94,8 +94,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 8598,
-      "totalStars": 58355,
-      "forks": 3796,
+      "totalStars": 58407,
+      "forks": 3803,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -153,10 +153,10 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 7995,
-      "totalStars": 112152,
-      "forks": 9757,
+      "totalStars": 112227,
+      "forks": 9760,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 05:53:40",
+      "pushedAt": "11/04/2026 06:33:07",
       "tags": [
         "agent",
         "llm",
@@ -204,8 +204,8 @@
       "homepage": "https://ecc.tools",
       "language": "JavaScript",
       "starsGained": 6053,
-      "totalStars": 296685,
-      "forks": 43871,
+      "totalStars": 296728,
+      "forks": 43873,
       "license": "MIT",
       "pushedAt": "11/02/2026 04:56:08",
       "tags": [
@@ -253,8 +253,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 5994,
-      "totalStars": 311996,
-      "forks": 27751,
+      "totalStars": 312014,
+      "forks": 27756,
       "license": "MIT",
       "pushedAt": "11/03/2026 23:24:58",
       "tags": [
@@ -292,8 +292,8 @@
       "homepage": "",
       "language": "",
       "starsGained": 3921,
-      "totalStars": 229195,
-      "forks": 22840,
+      "totalStars": 229211,
+      "forks": 22839,
       "license": "",
       "pushedAt": "04/20/2026 10:05:04",
       "tags": [
@@ -344,8 +344,8 @@
       "homepage": "https://thinkrail.ai/",
       "language": "TypeScript",
       "starsGained": 3898,
-      "totalStars": 7475,
-      "forks": 448,
+      "totalStars": 7488,
+      "forks": 450,
       "license": "Apache-2.0",
       "pushedAt": "11/04/2026 00:31:39",
       "tags": [
@@ -390,8 +390,8 @@
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 3751,
-      "totalStars": 26404,
-      "forks": 3437,
+      "totalStars": 26420,
+      "forks": 3438,
       "license": "MIT",
       "pushedAt": "11/01/2026 06:07:26",
       "tags": [
@@ -435,8 +435,8 @@
       "homepage": "https://arxiv.org/pdf/2412.20138",
       "language": "Python",
       "starsGained": 3336,
-      "totalStars": 120437,
-      "forks": 23023,
+      "totalStars": 120462,
+      "forks": 23027,
       "license": "Apache-2.0",
       "pushedAt": "10/27/2026 08:43:04",
       "tags": [
@@ -476,8 +476,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2969,
-      "totalStars": 187181,
-      "forks": 22089,
+      "totalStars": 187199,
+      "forks": 22090,
       "license": "",
       "pushedAt": "10/28/2026 19:20:39",
       "tags": [
@@ -516,7 +516,7 @@
       "homepage": "https://jakub.kr/skills",
       "language": "Markdown",
       "starsGained": 1761,
-      "totalStars": 10661,
+      "totalStars": 10673,
       "forks": 410,
       "license": "MIT",
       "pushedAt": "11/02/2026 01:29:43",
@@ -577,10 +577,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 426427,
-      "totalStars": 427947,
-      "forks": 106495,
+      "totalStars": 428235,
+      "forks": 106544,
       "license": "MIT",
-      "pushedAt": "11/04/2026 05:55:52",
+      "pushedAt": "11/04/2026 06:37:47",
       "tags": [
         "agent",
         "llm",
@@ -637,8 +637,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 48168,
-      "totalStars": 100279,
-      "forks": 11106,
+      "totalStars": 100339,
+      "forks": 11117,
       "license": "AGPL-3.0",
       "pushedAt": "11/04/2026 03:08:36",
       "tags": [
@@ -676,8 +676,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 34248,
-      "totalStars": 58355,
-      "forks": 3796,
+      "totalStars": 58407,
+      "forks": 3803,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -720,10 +720,10 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 26980,
-      "totalStars": 101760,
-      "forks": 5997,
+      "totalStars": 101818,
+      "forks": 6001,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 05:30:23",
+      "pushedAt": "11/04/2026 06:13:39",
       "tags": [
         "agent",
         "coding",
@@ -775,10 +775,10 @@
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22387,
-      "totalStars": 78493,
-      "forks": 7224,
+      "totalStars": 78521,
+      "forks": 7225,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 05:59:23",
+      "pushedAt": "11/04/2026 07:11:58",
       "tags": [
         "agent",
         "llm"
@@ -814,8 +814,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 17314,
-      "totalStars": 47187,
-      "forks": 2493,
+      "totalStars": 47247,
+      "forks": 2495,
       "license": "MIT",
       "pushedAt": "11/03/2026 09:01:00",
       "tags": [
@@ -847,13 +847,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "topics": [],
-      "homepage": "https://freellmapi.co",
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 16812,
-      "totalStars": 47174,
-      "forks": 6447,
-      "license": "MIT",
-      "pushedAt": "11/03/2026 23:39:10",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm",
         "ml"
@@ -861,8 +861,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "FreeLLMAPI",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
@@ -871,8 +871,7 @@
           "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
         ],
         "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -908,10 +907,10 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 16740,
-      "totalStars": 112152,
-      "forks": 9757,
+      "totalStars": 112227,
+      "forks": 9760,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 05:53:40",
+      "pushedAt": "11/04/2026 06:33:07",
       "tags": [
         "agent",
         "llm",
@@ -946,39 +945,32 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "homepage": "https://code.claude.com/docs/en/plugins",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 8845,
-      "totalStars": 46020,
-      "forks": 4790,
-      "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 02:41:17",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Code Plugins Directory",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "projectIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：Official, Anthropic-managed directory of high quality Claude Code Plugins."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     },
@@ -1003,7 +995,7 @@
       "homepage": "https://www.texttocad.dev",
       "language": "Python",
       "starsGained": 8708,
-      "totalStars": 25282,
+      "totalStars": 25297,
       "forks": 2402,
       "license": "MIT",
       "pushedAt": "11/04/2026 05:37:29",
@@ -1014,8 +1006,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "text-to-cad",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -1026,8 +1018,7 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：It installs uv if it is missing, then sets up text-to-cad in every agent app on"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -1042,10 +1033,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 8685,
-      "totalStars": 34639,
+      "totalStars": 34648,
       "forks": 3831,
       "license": "Apache-2.0",
-      "pushedAt": "11/04/2026 02:50:59",
+      "pushedAt": "11/04/2026 07:26:14",
       "tags": [
         "llm"
       ],
@@ -1073,46 +1064,24 @@
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
       "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
-      "topics": [
-        "antigravity",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugins",
-        "claude-code-skill",
-        "codex",
-        "codex-cli",
-        "context-mode",
-        "copilot",
-        "cursor-plugin",
-        "kiro",
-        "mcp",
-        "mcp-server",
-        "mcp-tools",
-        "openclaw",
-        "opencode",
-        "pi-agent",
-        "skills",
-        "zed-extension"
-      ],
-      "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 8397,
-      "totalStars": 33407,
-      "forks": 2300,
-      "license": "NOASSERTION",
-      "pushedAt": "11/04/2026 00:08:04",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Context Mode",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
         "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
