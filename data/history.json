@@ -1,32 +1,6 @@
 {
-  "generatedAt": "2026-11-04T12:02:29.645Z",
+  "generatedAt": "2026-11-05T06:30:13.298Z",
   "snapshots": [
-    {
-      "date": "2026-09-05",
-      "generatedAt": "2026-09-05T08:19:41.3317338+00:00",
-      "repos": {
-        "tt-a1i/archify": {
-          "stars": 48562,
-          "periodGain": 38699
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 31640,
-          "periodGain": 11020
-        },
-        "jingyaogong/minimind": {
-          "stars": 58631,
-          "periodGain": 3390
-        },
-        "google-research/timesfm": {
-          "stars": 31157,
-          "periodGain": 2653
-        },
-        "Gitlawb/openclaude": {
-          "stars": 32631,
-          "periodGain": 1679
-        }
-      }
-    },
     {
       "date": "2026-09-06",
       "generatedAt": "2026-09-06T08:38:25.7438957+00:00",
@@ -4366,6 +4340,84 @@
         "mksglu/context-mode": {
           "stars": 33425,
           "periodGain": 8397
+        }
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "generatedAt": "2026-11-05T06:29:56.7975308+00:00",
+      "repos": {
+        "pbakaus/impeccable": {
+          "stars": 103106,
+          "periodGain": 26803
+        },
+        "thedotmack/claude-mem": {
+          "stars": 113072,
+          "periodGain": 17262
+        },
+        "Nutlope/hallmark": {
+          "stars": 48150,
+          "periodGain": 18210
+        },
+        "obra/superpowers": {
+          "stars": 312576,
+          "periodGain": 5565
+        },
+        "multica-ai/andrej-karpathy-skills": {
+          "stars": 229588,
+          "periodGain": 3808
+        },
+        "calesthio/OpenMontage": {
+          "stars": 76712,
+          "periodGain": 3743
+        },
+        "AgriciDaniel/claude-seo": {
+          "stars": 26747,
+          "periodGain": 3531
+        },
+        "JetBrains/thinkrail": {
+          "stars": 7661,
+          "periodGain": 3031
+        },
+        "anthropics/skills": {
+          "stars": 187501,
+          "periodGain": 3003
+        },
+        "jakubkrehel/skills": {
+          "stars": 10863,
+          "periodGain": 1865
+        },
+        "max-sixty/worktrunk": {
+          "stars": 11179,
+          "periodGain": 1261
+        },
+        "morluto/rea": {
+          "stars": 431847,
+          "periodGain": 430285
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 101220,
+          "periodGain": 48420
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 59780,
+          "periodGain": 34859
+        },
+        "heygen-com/hyperframes": {
+          "stars": 79095,
+          "periodGain": 22621
+        },
+        "anthropics/claude-plugins-official": {
+          "stars": 46159,
+          "periodGain": 8948
+        },
+        "earthtojake/text-to-cad": {
+          "stars": 25489,
+          "periodGain": 8831
+        },
+        "anthropics/knowledge-work-plugins": {
+          "stars": 34764,
+          "periodGain": 8764
         }
       }
     }
