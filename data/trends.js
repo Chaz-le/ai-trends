@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-05T07:52:17.4991351+00:00",
+  "generatedAt": "2026-11-05T12:14:39.8730844+00:00",
   "weekly": [
     {
       "owner": "pbakaus",
@@ -19,8 +19,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 10921,
-      "totalStars": 103162,
-      "forks": 6105,
+      "totalStars": 103394,
+      "forks": 6121,
       "license": "Apache-2.0",
       "pushedAt": "11/05/2026 07:26:35",
       "tags": [
@@ -79,10 +79,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 8822,
-      "totalStars": 113123,
-      "forks": 9820,
+      "totalStars": 113273,
+      "forks": 9825,
       "license": "Apache-2.0",
-      "pushedAt": "11/05/2026 02:03:51",
+      "pushedAt": "11/05/2026 12:13:30",
       "tags": [
         "agent",
         "llm",
@@ -121,8 +121,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 7622,
-      "totalStars": 48206,
-      "forks": 2557,
+      "totalStars": 48388,
+      "forks": 2565,
       "license": "MIT",
       "pushedAt": "11/04/2026 11:37:25",
       "tags": [
@@ -147,6 +147,159 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 7512,
+      "totalStars": 55238,
+      "forks": 6774,
+      "license": "Apache-2.0",
+      "pushedAt": "11/05/2026 11:40:48",
+      "tags": [
+        "agent",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "One shot, machine-readable",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design-system",
+        "frontend",
+        "landing-page",
+        "ui-design",
+        "web-design"
+      ],
+      "homepage": "https://tasteskill.dev",
+      "language": "JavaScript",
+      "starsGained": 5935,
+      "totalStars": 110347,
+      "forks": 7417,
+      "license": "MIT",
+      "pushedAt": "11/05/2026 01:12:12",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "taste-skill",
+        "zhTitle": "AI 生成质量约束技能",
+        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
+        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
+        "featurePoints": [
+          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
+          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
+          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
+        ],
+        "scenarioPoints": [
+          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
+        ]
+      }
+    },
+    {
+      "owner": "milind-soni",
+      "repo": "OpenMausBot",
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "homepage": "https://www.openmausbot.com/",
+      "language": "TypeScript",
+      "starsGained": 5847,
+      "totalStars": 12537,
+      "forks": 1737,
+      "license": "Apache-2.0",
+      "pushedAt": "11/05/2026 09:31:40",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "OpenMausBot",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
+        ]
+      }
+    },
+    {
       "owner": "obra",
       "repo": "superpowers",
       "fullName": "obra/superpowers",
@@ -166,8 +319,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 5565,
-      "totalStars": 312597,
-      "forks": 27811,
+      "totalStars": 312730,
+      "forks": 27819,
       "license": "MIT",
       "pushedAt": "11/03/2026 23:24:58",
       "tags": [
@@ -205,8 +358,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "",
       "starsGained": 3808,
-      "totalStars": 229612,
-      "forks": 22862,
+      "totalStars": 229691,
+      "forks": 22865,
       "license": "",
       "pushedAt": "04/20/2026 10:05:04",
       "tags": [
@@ -263,8 +416,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.openmontage.video/",
       "language": "Python",
       "starsGained": 3743,
-      "totalStars": 76750,
-      "forks": 10175,
+      "totalStars": 76882,
+      "forks": 10199,
       "license": "AGPL-3.0",
       "pushedAt": "11/03/2026 17:42:02",
       "tags": [
@@ -294,105 +447,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "AgriciDaniel",
-      "repo": "claude-seo",
-      "fullName": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "topics": [
-        "ai",
-        "ai-seo",
-        "claude-code",
-        "claude-code-skill",
-        "marketing-automation",
-        "open-source",
-        "seo"
-      ],
-      "homepage": "skool.com/ai-marketing-hub-pro",
-      "language": "Python",
-      "starsGained": 3531,
-      "totalStars": 26778,
-      "forks": 3480,
-      "license": "MIT",
-      "pushedAt": "11/01/2026 06:07:26",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Schema Markup Report: rankenstein.pro/about",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "JetBrains",
-      "repo": "thinkrail",
-      "fullName": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "agentic-ai",
-        "agentic-workflow",
-        "ai-coding",
-        "ai-tools",
-        "pi-agent",
-        "pi-agent-extension",
-        "spec-driven",
-        "spec-driven-coding",
-        "spec-driven-development",
-        "vibe-coding",
-        "vibecoding"
-      ],
-      "homepage": "https://thinkrail.ai/",
-      "language": "TypeScript",
-      "starsGained": 3031,
-      "totalStars": 7678,
-      "forks": 468,
-      "license": "Apache-2.0",
-      "pushedAt": "11/05/2026 06:55:05",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "ThinkRail",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "skills",
       "fullName": "anthropics/skills",
@@ -405,8 +459,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3003,
-      "totalStars": 187523,
-      "forks": 22121,
+      "totalStars": 187603,
+      "forks": 22131,
       "license": "",
       "pushedAt": "10/28/2026 19:20:39",
       "tags": [
@@ -445,8 +499,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://jakub.kr/skills",
       "language": "Markdown",
       "starsGained": 1865,
-      "totalStars": 10871,
-      "forks": 420,
+      "totalStars": 10907,
+      "forks": 421,
       "license": "MIT",
       "pushedAt": "11/02/2026 01:29:43",
       "tags": [
@@ -490,10 +544,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://worktrunk.dev",
       "language": "Rust",
       "starsGained": 1261,
-      "totalStars": 11217,
-      "forks": 420,
+      "totalStars": 11314,
+      "forks": 424,
       "license": "NOASSERTION",
-      "pushedAt": "11/05/2026 06:48:00",
+      "pushedAt": "11/05/2026 08:57:29",
       "tags": [
         "agent",
         "llm"
@@ -552,10 +606,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 430285,
-      "totalStars": 432095,
-      "forks": 107366,
+      "totalStars": 432780,
+      "forks": 107505,
       "license": "MIT",
-      "pushedAt": "11/05/2026 07:45:17",
+      "pushedAt": "11/05/2026 10:41:15",
       "tags": [
         "agent",
         "llm",
@@ -612,8 +666,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 48420,
-      "totalStars": 101289,
-      "forks": 11215,
+      "totalStars": 101477,
+      "forks": 11246,
       "license": "AGPL-3.0",
       "pushedAt": "11/05/2026 05:52:11",
       "tags": [
@@ -651,8 +705,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 34859,
-      "totalStars": 59874,
-      "forks": 3897,
+      "totalStars": 60230,
+      "forks": 3916,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -695,8 +749,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 26803,
-      "totalStars": 103162,
-      "forks": 6105,
+      "totalStars": 103394,
+      "forks": 6121,
       "license": "Apache-2.0",
       "pushedAt": "11/05/2026 07:26:35",
       "tags": [
@@ -750,10 +804,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22621,
-      "totalStars": 79144,
-      "forks": 7286,
+      "totalStars": 79263,
+      "forks": 7296,
       "license": "Apache-2.0",
-      "pushedAt": "11/05/2026 07:47:20",
+      "pushedAt": "11/05/2026 12:13:48",
       "tags": [
         "agent",
         "llm"
@@ -789,8 +843,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 18210,
-      "totalStars": 48206,
-      "forks": 2557,
+      "totalStars": 48388,
+      "forks": 2565,
       "license": "MIT",
       "pushedAt": "11/04/2026 11:37:25",
       "tags": [
@@ -846,10 +900,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17262,
-      "totalStars": 113123,
-      "forks": 9820,
+      "totalStars": 113273,
+      "forks": 9825,
       "license": "Apache-2.0",
-      "pushedAt": "11/05/2026 02:03:51",
+      "pushedAt": "11/05/2026 12:13:30",
       "tags": [
         "agent",
         "llm",
@@ -878,94 +932,51 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
       ],
-      "homepage": "https://code.claude.com/docs/en/plugins",
+      "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 8948,
-      "totalStars": 46175,
-      "forks": 4797,
+      "starsGained": 14543,
+      "totalStars": 55238,
+      "forks": 6774,
       "license": "Apache-2.0",
-      "pushedAt": "11/05/2026 07:28:35",
+      "pushedAt": "11/05/2026 11:40:48",
       "tags": [
         "agent",
-        "llm",
+        "rag",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Claude Code Plugins Directory",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "readmeTitle": "One shot, machine-readable",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
-      "description": "Design physical products with AI",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "cad",
-        "mechanical-engineering",
-        "robotics",
-        "step",
-        "stl",
-        "stp",
-        "text-to-cad"
-      ],
-      "homepage": "https://www.texttocad.dev",
-      "language": "Python",
-      "starsGained": 8831,
-      "totalStars": 25514,
-      "forks": 2418,
-      "license": "MIT",
-      "pushedAt": "11/05/2026 07:14:42",
-      "tags": [
-        "agent",
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "text-to-cad",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：It installs uv if it is missing, then sets up text-to-cad in every agent app on"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -980,8 +991,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 8764,
-      "totalStars": 34779,
-      "forks": 3833,
+      "totalStars": 34799,
+      "forks": 3835,
       "license": "Apache-2.0",
       "pushedAt": "11/04/2026 07:26:14",
       "tags": [
