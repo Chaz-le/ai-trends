@@ -1,60 +1,6 @@
 {
-  "generatedAt": "2026-11-05T12:14:59.356Z",
+  "generatedAt": "2026-11-06T06:26:00.981Z",
   "snapshots": [
-    {
-      "date": "2026-09-06",
-      "generatedAt": "2026-09-06T08:38:25.7438957+00:00",
-      "repos": {
-        "tt-a1i/archify": {
-          "stars": 49894,
-          "periodGain": 40038
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 32119,
-          "periodGain": 11420
-        },
-        "debpalash/VoiceStudio": {
-          "stars": 19246,
-          "periodGain": 9208
-        },
-        "K-Dense-AI/scientific-agent-skills": {
-          "stars": 43086,
-          "periodGain": 5491
-        },
-        "affaan-m/ECC": {
-          "stars": 250303,
-          "periodGain": 5445
-        },
-        "jingyaogong/minimind": {
-          "stars": 58936,
-          "periodGain": 3649
-        },
-        "google-research/timesfm": {
-          "stars": 31388,
-          "periodGain": 2968
-        },
-        "every-app/open-seo": {
-          "stars": 17327,
-          "periodGain": 2755
-        },
-        "p-e-w/heretic": {
-          "stars": 30644,
-          "periodGain": 2010
-        },
-        "Gitlawb/openclaude": {
-          "stars": 32751,
-          "periodGain": 1839
-        },
-        "magnitudedev/magnitude": {
-          "stars": 3350,
-          "periodGain": 1396
-        },
-        "punkpeye/awesome-mcp-servers": {
-          "stars": 94373,
-          "periodGain": 1287
-        }
-      }
-    },
     {
       "date": "2026-09-07",
       "generatedAt": "2026-09-07T09:17:15.1141284+00:00",
@@ -4414,6 +4360,60 @@
         "anthropics/knowledge-work-plugins": {
           "stars": 34799,
           "periodGain": 8764
+        }
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "generatedAt": "2026-11-06T06:25:48.5473715+00:00",
+      "repos": {
+        "thedotmack/claude-mem": {
+          "stars": 113667,
+          "periodGain": 9318
+        },
+        "pbakaus/impeccable": {
+          "stars": 104151,
+          "periodGain": 9303
+        },
+        "Nutlope/hallmark": {
+          "stars": 48964,
+          "periodGain": 6994
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 55588,
+          "periodGain": 6229
+        },
+        "milind-soni/OpenMausBot": {
+          "stars": 13809,
+          "periodGain": 5580
+        },
+        "Leonxlnx/taste-skill": {
+          "stars": 110848,
+          "periodGain": 5426
+        },
+        "obra/superpowers": {
+          "stars": 313151,
+          "periodGain": 5131
+        },
+        "calesthio/OpenMontage": {
+          "stars": 77299,
+          "periodGain": 4132
+        },
+        "multica-ai/andrej-karpathy-skills": {
+          "stars": 229981,
+          "periodGain": 3713
+        },
+        "anthropics/skills": {
+          "stars": 187853,
+          "periodGain": 3072
+        },
+        "jakubkrehel/skills": {
+          "stars": 11098,
+          "periodGain": 1840
+        },
+        "max-sixty/worktrunk": {
+          "stars": 11628,
+          "periodGain": 1802
         }
       }
     }
