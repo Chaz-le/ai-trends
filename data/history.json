@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:26:00.981Z",
+  "generatedAt": "2026-11-06T07:53:02.904Z",
   "snapshots": [
     {
       "date": "2026-09-07",
@@ -4365,55 +4365,75 @@
     },
     {
       "date": "2026-11-06",
-      "generatedAt": "2026-11-06T06:25:48.5473715+00:00",
+      "generatedAt": "2026-11-06T07:52:49.5298519+00:00",
       "repos": {
         "thedotmack/claude-mem": {
-          "stars": 113667,
-          "periodGain": 9318
+          "stars": 113693,
+          "periodGain": 17621
         },
         "pbakaus/impeccable": {
-          "stars": 104151,
-          "periodGain": 9303
+          "stars": 104225,
+          "periodGain": 27205
         },
         "Nutlope/hallmark": {
-          "stars": 48964,
-          "periodGain": 6994
+          "stars": 49033,
+          "periodGain": 19070
         },
         "HKUDS/DeepTutor": {
-          "stars": 55588,
-          "periodGain": 6229
+          "stars": 55631,
+          "periodGain": 14748
         },
         "milind-soni/OpenMausBot": {
-          "stars": 13809,
+          "stars": 13905,
           "periodGain": 5580
         },
         "Leonxlnx/taste-skill": {
-          "stars": 110848,
+          "stars": 110903,
           "periodGain": 5426
         },
         "obra/superpowers": {
-          "stars": 313151,
+          "stars": 313201,
           "periodGain": 5131
         },
         "calesthio/OpenMontage": {
-          "stars": 77299,
+          "stars": 77337,
           "periodGain": 4132
         },
         "multica-ai/andrej-karpathy-skills": {
-          "stars": 229981,
+          "stars": 230003,
           "periodGain": 3713
         },
         "anthropics/skills": {
-          "stars": 187853,
+          "stars": 187887,
           "periodGain": 3072
         },
         "jakubkrehel/skills": {
-          "stars": 11098,
+          "stars": 11119,
           "periodGain": 1840
         },
         "max-sixty/worktrunk": {
-          "stars": 11628,
+          "stars": 11663,
           "periodGain": 1802
+        },
+        "morluto/rea": {
+          "stars": 435568,
+          "periodGain": 430792
+        },
+        "debpalash/VoiceStudio": {
+          "stars": 102219,
+          "periodGain": 48803
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 62253,
+          "periodGain": 35956
+        },
+        "heygen-com/hyperframes": {
+          "stars": 79750,
+          "periodGain": 22694
+        },
+        "anthropics/knowledge-work-plugins": {
+          "stars": 34913,
+          "periodGain": 8823
         }
       }
     }
