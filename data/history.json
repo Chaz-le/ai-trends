@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:03:31.680Z",
+  "generatedAt": "2026-11-07T11:00:27.475Z",
   "snapshots": [
     {
       "date": "2026-09-08",
@@ -4361,62 +4361,70 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T07:03:12.5301813+00:00",
+      "generatedAt": "2026-11-07T11:00:12.8086675+00:00",
       "repos": {
+        "mattpocock/skills": {
+          "stars": 317125,
+          "periodGain": 9589
+        },
         "thedotmack/claude-mem": {
-          "stars": 114129,
+          "stars": 114210,
           "periodGain": 17612
         },
         "D4Vinci/Scrapling": {
-          "stars": 98963,
+          "stars": 99043,
           "periodGain": 8372
         },
         "pbakaus/impeccable": {
-          "stars": 104981,
+          "stars": 105086,
           "periodGain": 27610
         },
         "Nutlope/hallmark": {
-          "stars": 49775,
+          "stars": 49884,
           "periodGain": 19792
         },
         "milind-soni/OpenMausBot": {
-          "stars": 15851,
+          "stars": 16128,
           "periodGain": 6395
         },
         "Donchitos/Claude-Code-Game-Studios": {
-          "stars": 36211,
+          "stars": 36289,
           "periodGain": 6018
         },
-        "HKUDS/DeepTutor": {
-          "stars": 56091,
-          "periodGain": 15214
-        },
         "obra/superpowers": {
-          "stars": 313735,
+          "stars": 313821,
           "periodGain": 4577
         },
         "calesthio/OpenMontage": {
-          "stars": 77847,
+          "stars": 77947,
           "periodGain": 4405
         },
-        "multica-ai/andrej-karpathy-skills": {
-          "stars": 230368,
-          "periodGain": 3671
+        "github/spec-kit": {
+          "stars": 148289,
+          "periodGain": 4202
         },
         "anthropics/skills": {
-          "stars": 188270,
+          "stars": 188322,
           "periodGain": 3159
         },
         "shiyu-coder/Kronos": {
-          "stars": 47108,
+          "stars": 47134,
           "periodGain": 2984
         },
         "morluto/rea": {
-          "stars": 438755,
+          "stars": 439298,
           "periodGain": 431436
         },
+        "debpalash/VoiceStudio": {
+          "stars": 103283,
+          "periodGain": 49078
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 64694,
+          "periodGain": 38004
+        },
         "storytold/artcraft": {
-          "stars": 39337,
+          "stars": 39384,
           "periodGain": 36600
         }
       }
