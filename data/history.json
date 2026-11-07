@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:48:41.990Z",
+  "generatedAt": "2026-11-07T07:03:31.680Z",
   "snapshots": [
     {
       "date": "2026-09-08",
@@ -4361,47 +4361,63 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T05:48:27.8522124+00:00",
+      "generatedAt": "2026-11-07T07:03:12.5301813+00:00",
       "repos": {
         "thedotmack/claude-mem": {
-          "stars": 114103,
+          "stars": 114129,
           "periodGain": 17612
         },
+        "D4Vinci/Scrapling": {
+          "stars": 98963,
+          "periodGain": 8372
+        },
         "pbakaus/impeccable": {
-          "stars": 104944,
+          "stars": 104981,
           "periodGain": 27610
         },
         "Nutlope/hallmark": {
-          "stars": 49748,
+          "stars": 49775,
           "periodGain": 19792
         },
         "milind-soni/OpenMausBot": {
-          "stars": 15718,
+          "stars": 15851,
           "periodGain": 6395
         },
         "Donchitos/Claude-Code-Game-Studios": {
-          "stars": 36193,
+          "stars": 36211,
           "periodGain": 6018
         },
         "HKUDS/DeepTutor": {
-          "stars": 56052,
+          "stars": 56091,
           "periodGain": 15214
         },
         "obra/superpowers": {
-          "stars": 313708,
+          "stars": 313735,
           "periodGain": 4577
         },
         "calesthio/OpenMontage": {
-          "stars": 77824,
+          "stars": 77847,
           "periodGain": 4405
         },
+        "multica-ai/andrej-karpathy-skills": {
+          "stars": 230368,
+          "periodGain": 3671
+        },
         "anthropics/skills": {
-          "stars": 188256,
+          "stars": 188270,
           "periodGain": 3159
         },
-        "max-sixty/worktrunk": {
-          "stars": 11830,
-          "periodGain": 2184
+        "shiyu-coder/Kronos": {
+          "stars": 47108,
+          "periodGain": 2984
+        },
+        "morluto/rea": {
+          "stars": 438755,
+          "periodGain": 431436
+        },
+        "storytold/artcraft": {
+          "stars": 39337,
+          "periodGain": 36600
         }
       }
     }
