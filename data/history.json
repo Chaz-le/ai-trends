@@ -1,76 +1,6 @@
 {
-  "generatedAt": "2026-11-07T11:00:27.475Z",
+  "generatedAt": "2026-11-08T05:51:27.465Z",
   "snapshots": [
-    {
-      "date": "2026-09-08",
-      "generatedAt": "2026-09-08T08:50:05.7204401+00:00",
-      "repos": {
-        "tt-a1i/archify": {
-          "stars": 53774,
-          "periodGain": 42314
-        },
-        "DietrichGebert/ponytail": {
-          "stars": 131466,
-          "periodGain": 12834
-        },
-        "debpalash/VoiceStudio": {
-          "stars": 20977,
-          "periodGain": 10716
-        },
-        "affaan-m/ECC": {
-          "stars": 253391,
-          "periodGain": 7735
-        },
-        "THU-MAIC/OpenMAIC": {
-          "stars": 33320,
-          "periodGain": 12423
-        },
-        "jingyaogong/minimind": {
-          "stars": 59703,
-          "periodGain": 3633
-        },
-        "google-research/timesfm": {
-          "stars": 31903,
-          "periodGain": 3506
-        },
-        "magnitudedev/magnitude": {
-          "stars": 4128,
-          "periodGain": 2430
-        },
-        "Imbad0202/academic-research-skills": {
-          "stars": 46930,
-          "periodGain": 2406
-        },
-        "every-app/open-seo": {
-          "stars": 17781,
-          "periodGain": 2137
-        },
-        "Gitlawb/openclaude": {
-          "stars": 32986,
-          "periodGain": 2040
-        },
-        "pollen-robotics/microduck_rl": {
-          "stars": 1927,
-          "periodGain": 828
-        },
-        "cathrynlavery/diagram-design": {
-          "stars": 33525,
-          "periodGain": 29958
-        },
-        "semantica-agi/semantica": {
-          "stars": 12345,
-          "periodGain": 10142
-        },
-        "volcengine/OpenViking": {
-          "stars": 36004,
-          "periodGain": 7993
-        },
-        "anthropics/claude-plugins-community": {
-          "stars": 3606,
-          "periodGain": 3285
-        }
-      }
-    },
     {
       "date": "2026-09-09",
       "generatedAt": "2026-09-09T08:56:32.2949150+00:00",
@@ -4426,6 +4356,72 @@
         "storytold/artcraft": {
           "stars": 39384,
           "periodGain": 36600
+        }
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "generatedAt": "2026-11-08T05:51:14.6889024+00:00",
+      "repos": {
+        "mattpocock/skills": {
+          "stars": 317901,
+          "periodGain": 9664
+        },
+        "D4Vinci/Scrapling": {
+          "stars": 99417,
+          "periodGain": 8712
+        },
+        "pbakaus/impeccable": {
+          "stars": 105686,
+          "periodGain": 27680
+        },
+        "thedotmack/claude-mem": {
+          "stars": 114585,
+          "periodGain": 17493
+        },
+        "milind-soni/OpenMausBot": {
+          "stars": 17254,
+          "periodGain": 7077
+        },
+        "Nutlope/hallmark": {
+          "stars": 50403,
+          "periodGain": 20523
+        },
+        "Donchitos/Claude-Code-Game-Studios": {
+          "stars": 36671,
+          "periodGain": 5719
+        },
+        "obra/superpowers": {
+          "stars": 314204,
+          "periodGain": 4466
+        },
+        "github/spec-kit": {
+          "stars": 148483,
+          "periodGain": 4280
+        },
+        "shiyu-coder/Kronos": {
+          "stars": 47274,
+          "periodGain": 2937
+        },
+        "anthropics/skills": {
+          "stars": 188917,
+          "periodGain": 2796
+        },
+        "max-sixty/worktrunk": {
+          "stars": 11981,
+          "periodGain": 2292
+        },
+        "morluto/rea": {
+          "stars": 441549,
+          "periodGain": 429845
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 66003,
+          "periodGain": 39571
+        },
+        "storytold/artcraft": {
+          "stars": 39628,
+          "periodGain": 35633
         }
       }
     }
