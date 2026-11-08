@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-08T05:51:14.6889024+00:00",
+  "generatedAt": "2026-11-08T07:15:37.1993374+00:00",
   "weekly": [
     {
       "owner": "mattpocock",
@@ -13,8 +13,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 9664,
-      "totalStars": 317901,
-      "forks": 26598,
+      "totalStars": 317959,
+      "forks": 26605,
       "license": "MIT",
       "pushedAt": "11/05/2026 10:40:01",
       "tags": [
@@ -72,8 +72,8 @@
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
       "starsGained": 8712,
-      "totalStars": 99417,
-      "forks": 10409,
+      "totalStars": 99441,
+      "forks": 10411,
       "license": "BSD-3-Clause",
       "pushedAt": "11/05/2026 18:01:47",
       "tags": [
@@ -113,8 +113,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 7623,
-      "totalStars": 105686,
-      "forks": 6280,
+      "totalStars": 105723,
+      "forks": 6285,
       "license": "Apache-2.0",
       "pushedAt": "11/08/2026 03:02:02",
       "tags": [
@@ -173,8 +173,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 7482,
-      "totalStars": 114585,
-      "forks": 9940,
+      "totalStars": 114608,
+      "forks": 9942,
       "license": "Apache-2.0",
       "pushedAt": "11/08/2026 03:51:42",
       "tags": [
@@ -228,10 +228,10 @@
       "homepage": "https://www.openmausbot.com/",
       "language": "TypeScript",
       "starsGained": 7077,
-      "totalStars": 17254,
-      "forks": 2434,
+      "totalStars": 17343,
+      "forks": 2442,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 03:29:55",
+      "pushedAt": "11/08/2026 07:05:10",
       "tags": [
         "agent",
         "llm"
@@ -267,8 +267,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 6624,
-      "totalStars": 50403,
-      "forks": 2671,
+      "totalStars": 50430,
+      "forks": 2675,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -316,8 +316,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 5719,
-      "totalStars": 36671,
-      "forks": 4840,
+      "totalStars": 36697,
+      "forks": 4843,
       "license": "MIT",
       "pushedAt": "10/19/2026 02:43:42",
       "tags": [
@@ -365,8 +365,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 4466,
-      "totalStars": 314204,
-      "forks": 27961,
+      "totalStars": 314237,
+      "forks": 27963,
       "license": "MIT",
       "pushedAt": "11/03/2026 23:24:58",
       "tags": [
@@ -412,8 +412,8 @@
       "homepage": "https://github.github.com/spec-kit/",
       "language": "Python",
       "starsGained": 4280,
-      "totalStars": 148483,
-      "forks": 13346,
+      "totalStars": 148497,
+      "forks": 13348,
       "license": "MIT",
       "pushedAt": "11/07/2026 04:09:22",
       "tags": [
@@ -448,8 +448,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2937,
-      "totalStars": 47274,
-      "forks": 7815,
+      "totalStars": 47281,
+      "forks": 7817,
       "license": "MIT",
       "pushedAt": "04/13/2026 12:38:49",
       "tags": [
@@ -486,8 +486,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 2796,
-      "totalStars": 188917,
-      "forks": 22268,
+      "totalStars": 188959,
+      "forks": 22274,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -533,10 +533,10 @@
       "homepage": "https://worktrunk.dev",
       "language": "Rust",
       "starsGained": 2292,
-      "totalStars": 11981,
+      "totalStars": 11984,
       "forks": 464,
       "license": "NOASSERTION",
-      "pushedAt": "11/07/2026 08:25:14",
+      "pushedAt": "11/08/2026 07:13:37",
       "tags": [
         "agent",
         "llm"
@@ -595,10 +595,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 429845,
-      "totalStars": 441549,
-      "forks": 109233,
+      "totalStars": 441701,
+      "forks": 109257,
       "license": "MIT",
-      "pushedAt": "11/08/2026 05:47:04",
+      "pushedAt": "11/08/2026 07:14:13",
       "tags": [
         "agent",
         "llm",
@@ -631,21 +631,43 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 49671,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 104145,
+      "forks": 11580,
+      "license": "AGPL-3.0",
+      "pushedAt": "11/08/2026 06:24:47",
       "tags": [
+        "agent",
+        "llm",
         "multimodal"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
@@ -672,8 +694,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 39571,
-      "totalStars": 66003,
-      "forks": 4295,
+      "totalStars": 66064,
+      "forks": 4298,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -682,8 +704,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "security-audit",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -694,7 +716,8 @@
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
         ]
       }
     },
@@ -715,8 +738,8 @@
       "homepage": "https://getartcraft.com",
       "language": "Rust",
       "starsGained": 35633,
-      "totalStars": 39628,
-      "forks": 6228,
+      "totalStars": 39643,
+      "forks": 6231,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 03:48:03",
       "tags": [
@@ -758,8 +781,8 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 27680,
-      "totalStars": 105686,
-      "forks": 6280,
+      "totalStars": 105723,
+      "forks": 6285,
       "license": "Apache-2.0",
       "pushedAt": "11/08/2026 03:02:02",
       "tags": [
@@ -793,22 +816,39 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "Write HTML. Render video. Built for agents.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "animation",
+        "claude-code",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "html-to-video",
+        "mcp",
+        "motion-graphics",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video-editor"
+      ],
+      "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22531,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 80691,
+      "forks": 7449,
+      "license": "Apache-2.0",
+      "pushedAt": "11/08/2026 07:03:47",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "macOS",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -819,7 +859,8 @@
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：For Claude Code, install the versioned plugin:"
         ]
       }
     },
@@ -834,8 +875,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 20523,
-      "totalStars": 50403,
-      "forks": 2671,
+      "totalStars": 50430,
+      "forks": 2675,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -891,8 +932,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17493,
-      "totalStars": 114585,
-      "forks": 9940,
+      "totalStars": 114608,
+      "forks": 9942,
       "license": "Apache-2.0",
       "pushedAt": "11/08/2026 03:51:42",
       "tags": [
