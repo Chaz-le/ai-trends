@@ -1,7 +1,96 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-08T11:14:08.9027782+00:00",
+  "generatedAt": "2026-11-09T12:46:30.5858702+00:00",
   "weekly": [
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "fullName": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+      "description": "Computer use CLI for AI agents",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "homepage": "https://agent-browser.dev/desktop",
+      "language": "Rust",
+      "starsGained": 13712,
+      "totalStars": 20038,
+      "forks": 1486,
+      "license": "Apache-2.0",
+      "pushedAt": "11/08/2026 20:44:28",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-desktop",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Refs belong to their snapshot. A bare @e8 is rejected with INVALIDARGS. When the UI changes, an action"
+        ]
+      }
+    },
+    {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "topics": [],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 10600,
+      "totalStars": 67463,
+      "forks": 4414,
+      "license": "MIT",
+      "pushedAt": "09/14/2026 19:29:02",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "security-audit",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Start your coding agent in (or pointed at) the codebase you want to audit, then ask it to do a security audit:"
+        ]
+      }
+    },
     {
       "owner": "mattpocock",
       "repo": "skills",
@@ -12,9 +101,9 @@
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 9664,
-      "totalStars": 318110,
-      "forks": 26625,
+      "starsGained": 9635,
+      "totalStars": 319173,
+      "forks": 26715,
       "license": "MIT",
       "pushedAt": "11/05/2026 10:40:01",
       "tags": [
@@ -37,6 +126,46 @@
         ],
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "fullName": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 9327,
+      "totalStars": 10803,
+      "forks": 883,
+      "license": "Apache-2.0",
+      "pushedAt": "11/07/2026 21:54:29",
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Auto Ontology",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "适用线索：Clone the repository and create .env:"
         ]
       }
     },
@@ -71,11 +200,11 @@
       ],
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
-      "starsGained": 8712,
-      "totalStars": 99540,
-      "forks": 10418,
+      "starsGained": 8342,
+      "totalStars": 100237,
+      "forks": 10480,
       "license": "BSD-3-Clause",
-      "pushedAt": "11/05/2026 18:01:47",
+      "pushedAt": "11/09/2026 10:36:37",
       "tags": [
         "agent"
       ],
@@ -97,47 +226,53 @@
       }
     },
     {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "owner": "milind-soni",
+      "repo": "OpenMausBot",
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "topics": [
-        "agent-skills",
-        "ai",
-        "anti-slop",
-        "design",
-        "slop"
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
       ],
-      "homepage": "https://impeccable.style",
-      "language": "Rust",
-      "starsGained": 7623,
-      "totalStars": 105853,
-      "forks": 6295,
+      "homepage": "https://www.mausbot.com/",
+      "language": "TypeScript",
+      "starsGained": 7621,
+      "totalStars": 19209,
+      "forks": 2644,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 11:02:18",
+      "pushedAt": "11/09/2026 12:29:21",
       "tags": [
         "agent",
-        "coding",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Impeccable",
-        "category": "taste-skill",
-        "zhTitle": "AI 生成质量约束技能",
-        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
+        "readmeTitle": "OpenMausBot",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
         "featurePoints": [
-          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
-          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
-          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
         ]
       }
     },
@@ -172,11 +307,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 7482,
-      "totalStars": 114666,
-      "forks": 9949,
+      "starsGained": 6443,
+      "totalStars": 115187,
+      "forks": 10007,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 08:59:55",
+      "pushedAt": "11/09/2026 11:26:08",
       "tags": [
         "agent",
         "llm",
@@ -205,57 +340,6 @@
       }
     },
     {
-      "owner": "milind-soni",
-      "repo": "OpenMausBot",
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-use",
-        "docker",
-        "electron",
-        "grok",
-        "grok-bot",
-        "grok-bot-alternative",
-        "self-hosted",
-        "typescript"
-      ],
-      "homepage": "https://www.mausbot.com/",
-      "language": "TypeScript",
-      "starsGained": 7077,
-      "totalStars": 17564,
-      "forks": 2458,
-      "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 11:11:56",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "OpenMausBot",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
-        ]
-      }
-    },
-    {
       "owner": "Nutlope",
       "repo": "hallmark",
       "fullName": "Nutlope/hallmark",
@@ -265,9 +349,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 6624,
-      "totalStars": 50554,
-      "forks": 2683,
+      "starsGained": 6356,
+      "totalStars": 51413,
+      "forks": 2738,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -314,9 +398,9 @@
       ],
       "homepage": "",
       "language": "Shell",
-      "starsGained": 5719,
-      "totalStars": 36769,
-      "forks": 4852,
+      "starsGained": 5235,
+      "totalStars": 37285,
+      "forks": 4898,
       "license": "MIT",
       "pushedAt": "10/19/2026 02:43:42",
       "tags": [
@@ -345,134 +429,6 @@
       }
     },
     {
-      "owner": "obra",
-      "repo": "superpowers",
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 4466,
-      "totalStars": 314339,
-      "forks": 27969,
-      "license": "MIT",
-      "pushedAt": "11/03/2026 23:24:58",
-      "tags": [
-        "agent",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Superpowers",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：using-git-worktrees - Activates after design approval. Creates isolated workspace on new branch, runs project setup, verifies clean test baseline."
-        ]
-      }
-    },
-    {
-      "owner": "github",
-      "repo": "spec-kit",
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "topics": [
-        "ai",
-        "copilot",
-        "development",
-        "engineering",
-        "prd",
-        "spec",
-        "spec-driven"
-      ],
-      "homepage": "https://github.github.com/spec-kit/",
-      "language": "Python",
-      "starsGained": 4280,
-      "totalStars": 148548,
-      "forks": 13353,
-      "license": "MIT",
-      "pushedAt": "11/07/2026 04:09:22",
-      "tags": [
-        "agent",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：💫 Toolkit to help you get started with SDD or any other process!",
-        "projectIntro": "该项目的 GitHub 简介是：💫 Toolkit to help you get started with SDD or any other process!",
-        "featurePoints": [
-          "核心线索：💫 Toolkit to help you get started with SDD or any other process!"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 2937,
-      "totalStars": 47305,
-      "forks": 7820,
-      "license": "MIT",
-      "pushedAt": "04/13/2026 12:38:49",
-      "tags": [
-        "ml"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Load from Hugging Face Hub",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Kronos: A Foundation Model for the Language of Financial Markets",
-        "projectIntro": "该项目的 GitHub 简介是：Kronos: A Foundation Model for the Language of Financial Markets",
-        "featurePoints": [
-          "核心线索：Kronos: A Foundation Model for the Language of Financial Markets"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：We have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours."
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "skills",
       "fullName": "anthropics/skills",
@@ -484,9 +440,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 2796,
-      "totalStars": 189088,
-      "forks": 22292,
+      "starsGained": 3169,
+      "totalStars": 190202,
+      "forks": 22392,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -531,11 +487,11 @@
       ],
       "homepage": "https://worktrunk.dev",
       "language": "Rust",
-      "starsGained": 2292,
-      "totalStars": 12018,
-      "forks": 465,
+      "starsGained": 2313,
+      "totalStars": 12208,
+      "forks": 472,
       "license": "NOASSERTION",
-      "pushedAt": "11/08/2026 08:27:09",
+      "pushedAt": "11/09/2026 10:26:38",
       "tags": [
         "agent",
         "llm"
@@ -557,6 +513,44 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：PR workflow — commit, push, open a PR, merge via GitHub/GitLab, then clean up:"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 2190,
+      "totalStars": 48137,
+      "forks": 3286,
+      "license": "Apache-2.0",
+      "pushedAt": "11/09/2026 06:47:44",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-browser",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     }
@@ -593,11 +587,11 @@
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 429845,
-      "totalStars": 442182,
-      "forks": 109349,
+      "starsGained": 425123,
+      "totalStars": 445519,
+      "forks": 109981,
       "license": "MIT",
-      "pushedAt": "11/08/2026 07:16:34",
+      "pushedAt": "11/09/2026 12:46:05",
       "tags": [
         "agent",
         "llm",
@@ -653,11 +647,11 @@
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 49671,
-      "totalStars": 104320,
-      "forks": 11610,
+      "starsGained": 50169,
+      "totalStars": 105604,
+      "forks": 11739,
       "license": "AGPL-3.0",
-      "pushedAt": "11/08/2026 11:08:41",
+      "pushedAt": "11/09/2026 12:36:40",
       "tags": [
         "agent",
         "llm",
@@ -692,9 +686,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 39571,
-      "totalStars": 66284,
-      "forks": 4317,
+      "starsGained": 40289,
+      "totalStars": 67463,
+      "forks": 4414,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -736,11 +730,11 @@
       ],
       "homepage": "https://getartcraft.com",
       "language": "Rust",
-      "starsGained": 35633,
-      "totalStars": 39702,
-      "forks": 6237,
+      "starsGained": 33780,
+      "totalStars": 40119,
+      "forks": 6265,
       "license": "Apache-2.0",
-      "pushedAt": "11/07/2026 03:48:03",
+      "pushedAt": "11/09/2026 11:20:15",
       "tags": [
         "agent"
       ],
@@ -779,11 +773,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 27680,
-      "totalStars": 105853,
-      "forks": 6295,
+      "starsGained": 28008,
+      "totalStars": 106551,
+      "forks": 6333,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 11:02:18",
+      "pushedAt": "11/09/2026 12:46:26",
       "tags": [
         "agent",
         "coding",
@@ -834,11 +828,11 @@
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 22531,
-      "totalStars": 80787,
-      "forks": 7455,
+      "starsGained": 22360,
+      "totalStars": 81391,
+      "forks": 7516,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 11:14:08",
+      "pushedAt": "11/09/2026 12:08:23",
       "tags": [
         "agent",
         "llm"
@@ -873,9 +867,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 20523,
-      "totalStars": 50554,
-      "forks": 2683,
+      "starsGained": 21146,
+      "totalStars": 51413,
+      "forks": 2738,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -930,11 +924,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17493,
-      "totalStars": 114666,
-      "forks": 9949,
+      "starsGained": 17296,
+      "totalStars": 115187,
+      "forks": 10007,
       "license": "Apache-2.0",
-      "pushedAt": "11/08/2026 08:59:55",
+      "pushedAt": "11/09/2026 11:26:08",
       "tags": [
         "agent",
         "llm",
@@ -959,6 +953,98 @@
         "scenarioPoints": [
           "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
           "可按 README 示例落地：Your memory lives in /.claude-mem on your machine. Cloud sync is opt-in. Anonymous usage analytics are on by default; npx claude-mem telemetry disable turns them off (what's collected)."
+        ]
+      }
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 16065,
+      "totalStars": 57414,
+      "forks": 7007,
+      "license": "Apache-2.0",
+      "pushedAt": "11/07/2026 15:18:10",
+      "tags": [
+        "agent",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "One shot, machine-readable",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "homepage": "https://code.claude.com/docs/en/plugins",
+      "language": "Python",
+      "starsGained": 9152,
+      "totalStars": 46541,
+      "forks": 4851,
+      "license": "Apache-2.0",
+      "pushedAt": "11/08/2026 07:28:26",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Claude Code Plugins Directory",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
