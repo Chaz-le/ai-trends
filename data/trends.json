@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-10T08:21:52.6244473+00:00",
+  "generatedAt": "2026-11-10T12:32:46.6175995+00:00",
   "weekly": [
     {
       "owner": "vercel-labs",
@@ -26,10 +26,10 @@
       "homepage": "https://agent-browser.dev/desktop",
       "language": "Rust",
       "starsGained": 12120,
-      "totalStars": 20858,
-      "forks": 1547,
+      "totalStars": 21032,
+      "forks": 1560,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 07:25:41",
+      "pushedAt": "11/10/2026 10:47:38",
       "tags": [
         "agent"
       ],
@@ -64,8 +64,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 10695,
-      "totalStars": 68440,
-      "forks": 4497,
+      "totalStars": 68616,
+      "forks": 4519,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -102,10 +102,10 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 10159,
-      "totalStars": 11194,
-      "forks": 916,
+      "totalStars": 11294,
+      "forks": 925,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 07:12:56",
+      "pushedAt": "11/10/2026 11:49:36",
       "tags": [
         "agent",
         "llm",
@@ -142,8 +142,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 9800,
-      "totalStars": 320124,
-      "forks": 26806,
+      "totalStars": 320340,
+      "forks": 26823,
       "license": "MIT",
       "pushedAt": "11/09/2026 14:03:07",
       "tags": [
@@ -192,10 +192,10 @@
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 8325,
-      "totalStars": 20172,
-      "forks": 2758,
+      "totalStars": 20360,
+      "forks": 2817,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 08:02:11",
+      "pushedAt": "11/10/2026 11:01:58",
       "tags": [
         "agent",
         "llm"
@@ -252,8 +252,8 @@
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
       "starsGained": 8226,
-      "totalStars": 100769,
-      "forks": 10526,
+      "totalStars": 100879,
+      "forks": 10535,
       "license": "BSD-3-Clause",
       "pushedAt": "11/09/2026 10:36:37",
       "tags": [
@@ -270,42 +270,6 @@
         "projectIntro": "该项目的 GitHub 简介是：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
         "featurePoints": [
           "核心线索：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "topics": [],
-      "homepage": "https://www.usehallmark.com/",
-      "language": "CSS",
-      "starsGained": 5987,
-      "totalStars": 52033,
-      "forks": 2771,
-      "license": "MIT",
-      "pushedAt": "11/05/2026 13:16:31",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Hallmark",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "projectIntro": "该项目的 GitHub 简介是：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "featurePoints": [
-          "核心线索：Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
@@ -344,10 +308,10 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 5130,
-      "totalStars": 115543,
-      "forks": 10027,
+      "totalStars": 115624,
+      "forks": 10038,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 07:59:48",
+      "pushedAt": "11/10/2026 10:44:40",
       "tags": [
         "agent",
         "llm",
@@ -399,8 +363,8 @@
       "homepage": "",
       "language": "Shell",
       "starsGained": 4324,
-      "totalStars": 37766,
-      "forks": 4947,
+      "totalStars": 37861,
+      "forks": 4954,
       "license": "MIT",
       "pushedAt": "11/09/2026 23:33:14",
       "tags": [
@@ -441,8 +405,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3796,
-      "totalStars": 191514,
-      "forks": 22479,
+      "totalStars": 191789,
+      "forks": 22532,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -481,8 +445,8 @@
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 2994,
-      "totalStars": 48765,
-      "forks": 3321,
+      "totalStars": 48900,
+      "forks": 3387,
       "license": "Apache-2.0",
       "pushedAt": "11/10/2026 01:45:24",
       "tags": [
@@ -526,10 +490,10 @@
       "homepage": "https://worktrunk.dev",
       "language": "Rust",
       "starsGained": 2395,
-      "totalStars": 12319,
-      "forks": 480,
+      "totalStars": 12339,
+      "forks": 482,
       "license": "NOASSERTION",
-      "pushedAt": "11/10/2026 08:03:37",
+      "pushedAt": "11/10/2026 12:18:54",
       "tags": [
         "agent",
         "llm"
@@ -551,6 +515,52 @@
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：PR workflow — commit, push, open a PR, merge via GitHub/GitLab, then clean up:"
+        ]
+      }
+    },
+    {
+      "owner": "anomalyco",
+      "repo": "hex",
+      "fullName": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
+      "description": "Local voice dictation for mac, windows and linux",
+      "topics": [
+        "dictation",
+        "linux",
+        "local-first",
+        "macos",
+        "rust",
+        "speech-recognition",
+        "speech-to-text",
+        "voice-control"
+      ],
+      "homepage": "https://anoma.ly/hex",
+      "language": "Rust",
+      "starsGained": 2031,
+      "totalStars": 6061,
+      "forks": 371,
+      "license": "MIT",
+      "pushedAt": "11/10/2026 12:22:32",
+      "tags": [
+        "multimodal"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Hex",
+        "category": "multimodal-generation",
+        "zhTitle": "AI 多模态内容生成工具",
+        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
+        "featurePoints": [
+          "支持围绕视频、图像或语音素材的生成与自动化处理。",
+          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
+          "适合内容生产型 AI 应用原型。"
+        ],
+        "scenarioPoints": [
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     }
@@ -588,10 +598,10 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 413718,
-      "totalStars": 448039,
-      "forks": 110455,
+      "totalStars": 448654,
+      "forks": 110564,
       "license": "MIT",
-      "pushedAt": "11/10/2026 06:59:29",
+      "pushedAt": "11/10/2026 12:28:29",
       "tags": [
         "agent",
         "llm",
@@ -648,10 +658,10 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 50585,
-      "totalStars": 106565,
-      "forks": 11822,
+      "totalStars": 106777,
+      "forks": 11838,
       "license": "AGPL-3.0",
-      "pushedAt": "11/10/2026 08:17:42",
+      "pushedAt": "11/10/2026 12:22:51",
       "tags": [
         "agent",
         "llm",
@@ -687,8 +697,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 40994,
-      "totalStars": 68440,
-      "forks": 4497,
+      "totalStars": 68616,
+      "forks": 4519,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -715,49 +725,6 @@
       }
     },
     {
-      "owner": "storytold",
-      "repo": "artcraft",
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "topics": [
-        "3d-graphics",
-        "ai",
-        "aivideo",
-        "filmmaking",
-        "imagegeneration"
-      ],
-      "homepage": "https://getartcraft.com",
-      "language": "Rust",
-      "starsGained": 30753,
-      "totalStars": 40375,
-      "forks": 6283,
-      "license": "Apache-2.0",
-      "pushedAt": "11/09/2026 15:09:13",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
-        ]
-      }
-    },
-    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -774,10 +741,10 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 28285,
-      "totalStars": 107125,
-      "forks": 6364,
+      "totalStars": 107238,
+      "forks": 6369,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 08:09:47",
+      "pushedAt": "11/10/2026 12:24:00",
       "tags": [
         "agent",
         "coding",
@@ -829,10 +796,10 @@
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22344,
-      "totalStars": 81903,
-      "forks": 7564,
+      "totalStars": 82013,
+      "forks": 7580,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 08:19:10",
+      "pushedAt": "11/10/2026 12:17:54",
       "tags": [
         "agent",
         "llm"
@@ -868,8 +835,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 21862,
-      "totalStars": 52033,
-      "forks": 2771,
+      "totalStars": 52162,
+      "forks": 2777,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -890,6 +857,43 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "fullName": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "topics": [],
+      "homepage": "https://freellmapi.co",
+      "language": "TypeScript",
+      "starsGained": 17544,
+      "totalStars": 49959,
+      "forks": 6921,
+      "license": "MIT",
+      "pushedAt": "11/10/2026 12:19:11",
+      "tags": [
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "FreeLLMAPI",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "projectIntro": "该项目的 GitHub 简介是：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "featurePoints": [
+          "核心线索：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Everything else — Docker Compose, local development, declarative startup config, production builds, LAN access, and backups — is in docs/en/install/01-install.md."
         ]
       }
     },
@@ -925,10 +929,10 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17008,
-      "totalStars": 115543,
-      "forks": 10027,
+      "totalStars": 115624,
+      "forks": 10038,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 07:59:48",
+      "pushedAt": "11/10/2026 10:44:40",
       "tags": [
         "agent",
         "llm",
@@ -977,8 +981,8 @@
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 16710,
-      "totalStars": 57762,
-      "forks": 7041,
+      "totalStars": 57836,
+      "forks": 7047,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -1012,29 +1016,71 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "homepage": "https://code.claude.com/docs/en/plugins",
+      "language": "Python",
+      "starsGained": 9215,
+      "totalStars": 46703,
+      "forks": 4861,
+      "license": "Apache-2.0",
+      "pushedAt": "11/10/2026 07:29:08",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Claude Code Plugins Directory",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 9215,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 7322,
+      "totalStars": 35303,
+      "forks": 3914,
+      "license": "Apache-2.0",
+      "pushedAt": "11/10/2026 07:25:22",
       "tags": [
-        "agent",
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Knowledge Work Plugins",
         "category": "other",
         "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "projectIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "projectIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "featurePoints": [
-          "核心线索：Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          "核心线索：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
