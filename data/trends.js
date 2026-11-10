@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-10T07:05:26.9497534+00:00",
+  "generatedAt": "2026-11-10T08:21:52.6244473+00:00",
   "weekly": [
     {
       "owner": "vercel-labs",
@@ -26,10 +26,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev/desktop",
       "language": "Rust",
       "starsGained": 12120,
-      "totalStars": 20790,
-      "forks": 1541,
+      "totalStars": 20858,
+      "forks": 1547,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 00:42:54",
+      "pushedAt": "11/10/2026 07:25:41",
       "tags": [
         "agent"
       ],
@@ -64,8 +64,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 10695,
-      "totalStars": 68364,
-      "forks": 4494,
+      "totalStars": 68440,
+      "forks": 4497,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -102,10 +102,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 10159,
-      "totalStars": 11157,
-      "forks": 913,
+      "totalStars": 11194,
+      "forks": 916,
       "license": "Apache-2.0",
-      "pushedAt": "11/09/2026 23:51:56",
+      "pushedAt": "11/10/2026 07:12:56",
       "tags": [
         "agent",
         "llm",
@@ -142,8 +142,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 9800,
-      "totalStars": 320042,
-      "forks": 26798,
+      "totalStars": 320124,
+      "forks": 26806,
       "license": "MIT",
       "pushedAt": "11/09/2026 14:03:07",
       "tags": [
@@ -192,10 +192,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 8325,
-      "totalStars": 20082,
-      "forks": 2744,
+      "totalStars": 20172,
+      "forks": 2758,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 06:55:42",
+      "pushedAt": "11/10/2026 08:02:11",
       "tags": [
         "agent",
         "llm"
@@ -252,8 +252,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
       "starsGained": 8226,
-      "totalStars": 100733,
-      "forks": 10520,
+      "totalStars": 100769,
+      "forks": 10526,
       "license": "BSD-3-Clause",
       "pushedAt": "11/09/2026 10:36:37",
       "tags": [
@@ -287,8 +287,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 5987,
-      "totalStars": 51984,
-      "forks": 2769,
+      "totalStars": 52033,
+      "forks": 2771,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -344,10 +344,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 5130,
-      "totalStars": 115524,
+      "totalStars": 115543,
       "forks": 10027,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 06:50:02",
+      "pushedAt": "11/10/2026 07:59:48",
       "tags": [
         "agent",
         "llm",
@@ -399,8 +399,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Shell",
       "starsGained": 4324,
-      "totalStars": 37719,
-      "forks": 4942,
+      "totalStars": 37766,
+      "forks": 4947,
       "license": "MIT",
       "pushedAt": "11/09/2026 23:33:14",
       "tags": [
@@ -441,8 +441,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 3796,
-      "totalStars": 191415,
-      "forks": 22472,
+      "totalStars": 191514,
+      "forks": 22479,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -481,8 +481,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 2994,
-      "totalStars": 48717,
-      "forks": 3320,
+      "totalStars": 48765,
+      "forks": 3321,
       "license": "Apache-2.0",
       "pushedAt": "11/10/2026 01:45:24",
       "tags": [
@@ -526,10 +526,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://worktrunk.dev",
       "language": "Rust",
       "starsGained": 2395,
-      "totalStars": 12312,
+      "totalStars": 12319,
       "forks": 480,
       "license": "NOASSERTION",
-      "pushedAt": "11/10/2026 06:55:59",
+      "pushedAt": "11/10/2026 08:03:37",
       "tags": [
         "agent",
         "llm"
@@ -588,8 +588,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 413718,
-      "totalStars": 447812,
-      "forks": 110413,
+      "totalStars": 448039,
+      "forks": 110455,
       "license": "MIT",
       "pushedAt": "11/10/2026 06:59:29",
       "tags": [
@@ -648,10 +648,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 50585,
-      "totalStars": 106485,
-      "forks": 11820,
+      "totalStars": 106565,
+      "forks": 11822,
       "license": "AGPL-3.0",
-      "pushedAt": "11/10/2026 07:00:10",
+      "pushedAt": "11/10/2026 08:17:42",
       "tags": [
         "agent",
         "llm",
@@ -687,8 +687,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 40994,
-      "totalStars": 68364,
-      "forks": 4494,
+      "totalStars": 68440,
+      "forks": 4497,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -731,8 +731,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://getartcraft.com",
       "language": "Rust",
       "starsGained": 30753,
-      "totalStars": 40346,
-      "forks": 6281,
+      "totalStars": 40375,
+      "forks": 6283,
       "license": "Apache-2.0",
       "pushedAt": "11/09/2026 15:09:13",
       "tags": [
@@ -741,7 +741,7 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
+        "source": "metadata",
         "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
@@ -774,10 +774,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 28285,
-      "totalStars": 107075,
-      "forks": 6362,
+      "totalStars": 107125,
+      "forks": 6364,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 06:52:25",
+      "pushedAt": "11/10/2026 08:09:47",
       "tags": [
         "agent",
         "coding",
@@ -829,10 +829,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22344,
-      "totalStars": 81859,
-      "forks": 7561,
+      "totalStars": 81903,
+      "forks": 7564,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 07:02:27",
+      "pushedAt": "11/10/2026 08:19:10",
       "tags": [
         "agent",
         "llm"
@@ -868,8 +868,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 21862,
-      "totalStars": 51984,
-      "forks": 2769,
+      "totalStars": 52033,
+      "forks": 2771,
       "license": "MIT",
       "pushedAt": "11/05/2026 13:16:31",
       "tags": [
@@ -925,10 +925,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17008,
-      "totalStars": 115524,
+      "totalStars": 115543,
       "forks": 10027,
       "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 06:50:02",
+      "pushedAt": "11/10/2026 07:59:48",
       "tags": [
         "agent",
         "llm",
@@ -977,8 +977,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 16710,
-      "totalStars": 57736,
-      "forks": 7039,
+      "totalStars": 57762,
+      "forks": 7041,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -1012,39 +1012,32 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "homepage": "https://code.claude.com/docs/en/plugins",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 9215,
-      "totalStars": 46680,
-      "forks": 4860,
-      "license": "Apache-2.0",
-      "pushedAt": "11/10/2026 02:52:13",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "llm",
-        "learning"
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Code Plugins Directory",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "projectIntro": "该项目的 GitHub 简介是：Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+          "核心线索：Official, Anthropic-managed directory of high quality Claude Code Plugins."
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
