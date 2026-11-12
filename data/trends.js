@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-12T08:14:10.8849429+00:00",
+  "generatedAt": "2026-11-12T12:37:13.1888069+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 11507,
-      "totalStars": 70594,
-      "forks": 4687,
+      "totalStars": 70782,
+      "forks": 4705,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -51,10 +51,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 9575,
-      "totalStars": 322344,
-      "forks": 27037,
+      "totalStars": 322560,
+      "forks": 27054,
       "license": "MIT",
-      "pushedAt": "11/11/2026 14:40:17",
+      "pushedAt": "11/12/2026 12:11:43",
       "tags": [
         "agent",
         "learning"
@@ -101,8 +101,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 9257,
-      "totalStars": 21425,
-      "forks": 2990,
+      "totalStars": 21536,
+      "forks": 2998,
       "license": "Apache-2.0",
       "pushedAt": "11/12/2026 07:08:53",
       "tags": [
@@ -140,10 +140,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 7947,
-      "totalStars": 12012,
-      "forks": 986,
+      "totalStars": 12102,
+      "forks": 995,
       "license": "Apache-2.0",
-      "pushedAt": "11/11/2026 14:31:18",
+      "pushedAt": "11/12/2026 11:52:04",
       "tags": [
         "agent",
         "llm",
@@ -193,8 +193,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev/desktop",
       "language": "Rust",
       "starsGained": 7772,
-      "totalStars": 22344,
-      "forks": 1662,
+      "totalStars": 22476,
+      "forks": 1667,
       "license": "Apache-2.0",
       "pushedAt": "11/11/2026 06:09:45",
       "tags": [
@@ -252,8 +252,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
       "starsGained": 5814,
-      "totalStars": 101820,
-      "forks": 10604,
+      "totalStars": 101935,
+      "forks": 10611,
       "license": "BSD-3-Clause",
       "pushedAt": "11/11/2026 19:16:10",
       "tags": [
@@ -289,8 +289,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5738,
-      "totalStars": 193340,
-      "forks": 22750,
+      "totalStars": 193470,
+      "forks": 22765,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -329,8 +329,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 4183,
-      "totalStars": 50075,
-      "forks": 3494,
+      "totalStars": 50174,
+      "forks": 3497,
       "license": "Apache-2.0",
       "pushedAt": "11/12/2026 07:39:18",
       "tags": [
@@ -357,117 +357,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Donchitos",
-      "repo": "Claude-Code-Game-Studios",
-      "fullName": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "topics": [
-        "ai-agents",
-        "ai-assisted-development",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "game-design",
-        "game-development",
-        "gamedev",
-        "godot",
-        "indie-game-dev",
-        "unity",
-        "unreal-engine"
-      ],
-      "homepage": "",
-      "language": "Shell",
-      "starsGained": 3150,
-      "totalStars": 38593,
-      "forks": 5018,
-      "license": "MIT",
-      "pushedAt": "11/09/2026 23:33:14",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Claude Code — the native installer is recommended (npm install -g @anthropic-ai/claude-code also works, on Node.js 22+)"
-        ]
-      }
-    },
-    {
-      "owner": "herdrdev",
-      "repo": "herdr",
-      "fullName": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
-      "description": "the runtime your coding agents live on",
-      "topics": [
-        "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "devtools",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-multiplexer",
-        "terminal-ui",
-        "tmux",
-        "tui",
-        "workspace-manager"
-      ],
-      "homepage": "https://herdr.dev",
-      "language": "Rust",
-      "starsGained": 2213,
-      "totalStars": 50444,
-      "forks": 4072,
-      "license": "Apache-2.0",
-      "pushedAt": "11/07/2026 12:32:55",
-      "tags": [
-        "agent",
-        "llm",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "herdr",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "google",
       "repo": "skills",
       "fullName": "google/skills",
@@ -482,10 +371,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 2013,
-      "totalStars": 23983,
-      "forks": 1998,
+      "totalStars": 24006,
+      "forks": 1999,
       "license": "Apache-2.0",
-      "pushedAt": "11/11/2026 22:59:18",
+      "pushedAt": "11/12/2026 11:23:37",
       "tags": [
         "agent",
         "learning"
@@ -543,10 +432,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 366818,
-      "totalStars": 453607,
-      "forks": 111487,
+      "totalStars": 454188,
+      "forks": 111601,
       "license": "MIT",
-      "pushedAt": "11/12/2026 02:45:58",
+      "pushedAt": "11/12/2026 10:18:28",
       "tags": [
         "agent",
         "llm",
@@ -603,10 +492,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 50619,
-      "totalStars": 108602,
-      "forks": 12029,
+      "totalStars": 108779,
+      "forks": 12046,
       "license": "AGPL-3.0",
-      "pushedAt": "11/12/2026 08:12:12",
+      "pushedAt": "11/12/2026 12:37:10",
       "tags": [
         "agent",
         "llm",
@@ -642,8 +531,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 42138,
-      "totalStars": 70594,
-      "forks": 4687,
+      "totalStars": 70782,
+      "forks": 4705,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -670,6 +559,53 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "topics": [
+        "agent-orchestration",
+        "agents",
+        "ai",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "code",
+        "vibe-coding"
+      ],
+      "homepage": "https://t3.codes",
+      "language": "TypeScript",
+      "starsGained": 29814,
+      "totalStars": 57751,
+      "forks": 10593,
+      "license": "MIT",
+      "pushedAt": "11/12/2026 12:35:44",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
       "owner": "pbakaus",
       "repo": "impeccable",
       "fullName": "pbakaus/impeccable",
@@ -686,10 +622,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 28902,
-      "totalStars": 108556,
-      "forks": 6454,
+      "totalStars": 108683,
+      "forks": 6462,
       "license": "Apache-2.0",
-      "pushedAt": "11/12/2026 08:03:25",
+      "pushedAt": "11/12/2026 11:35:10",
       "tags": [
         "agent",
         "coding",
@@ -725,8 +661,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 23478,
-      "totalStars": 53620,
-      "forks": 2856,
+      "totalStars": 53733,
+      "forks": 2861,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -777,10 +713,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22422,
-      "totalStars": 83094,
-      "forks": 7665,
+      "totalStars": 83198,
+      "forks": 7678,
       "license": "Apache-2.0",
-      "pushedAt": "11/12/2026 07:51:04",
+      "pushedAt": "11/12/2026 12:29:00",
       "tags": [
         "agent",
         "llm"
@@ -828,8 +764,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 19310,
-      "totalStars": 113803,
-      "forks": 7659,
+      "totalStars": 113918,
+      "forks": 7666,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -878,8 +814,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 17406,
-      "totalStars": 58471,
-      "forks": 7107,
+      "totalStars": 58540,
+      "forks": 7113,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -938,8 +874,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17247,
-      "totalStars": 116339,
-      "forks": 10093,
+      "totalStars": 116416,
+      "forks": 10100,
       "license": "Apache-2.0",
       "pushedAt": "11/12/2026 08:04:02",
       "tags": [
@@ -982,8 +918,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 13018,
-      "totalStars": 193340,
-      "forks": 22750,
+      "totalStars": 193470,
+      "forks": 22765,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -1030,8 +966,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 9470,
-      "totalStars": 28368,
-      "forks": 3655,
+      "totalStars": 28450,
+      "forks": 3662,
       "license": "MIT",
       "pushedAt": "11/11/2026 16:25:46",
       "tags": [
@@ -1055,49 +991,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "topics": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "homepage": "https://code.claude.com/docs/en/plugins",
-      "language": "Python",
-      "starsGained": 9448,
-      "totalStars": 46960,
-      "forks": 4881,
-      "license": "Apache-2.0",
-      "pushedAt": "11/12/2026 07:29:02",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Plugins",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     }
