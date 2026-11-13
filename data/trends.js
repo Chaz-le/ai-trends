@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-13T07:52:09.8607350+00:00",
+  "generatedAt": "2026-11-13T12:07:27.5141065+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 10700,
-      "totalStars": 71403,
-      "forks": 4757,
+      "totalStars": 71518,
+      "forks": 4763,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -63,10 +63,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 9104,
-      "totalStars": 21873,
-      "forks": 3038,
+      "totalStars": 21977,
+      "forks": 3047,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 07:32:50",
+      "pushedAt": "11/13/2026 11:35:29",
       "tags": [
         "agent",
         "llm"
@@ -102,10 +102,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 8731,
-      "totalStars": 323260,
-      "forks": 27121,
+      "totalStars": 323414,
+      "forks": 27141,
       "license": "MIT",
-      "pushedAt": "11/12/2026 12:11:43",
+      "pushedAt": "11/13/2026 11:39:31",
       "tags": [
         "agent",
         "learning"
@@ -153,8 +153,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev/desktop",
       "language": "Rust",
       "starsGained": 6414,
-      "totalStars": 22918,
-      "forks": 1698,
+      "totalStars": 23031,
+      "forks": 1706,
       "license": "Apache-2.0",
       "pushedAt": "11/13/2026 07:18:38",
       "tags": [
@@ -193,8 +193,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6055,
-      "totalStars": 193841,
-      "forks": 22807,
+      "totalStars": 193932,
+      "forks": 22811,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -233,10 +233,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5802,
-      "totalStars": 12363,
+      "totalStars": 12415,
       "forks": 1017,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 04:12:37",
+      "pushedAt": "11/13/2026 07:54:28",
       "tags": [
         "agent",
         "llm",
@@ -263,62 +263,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "D4Vinci",
-      "repo": "Scrapling",
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "topics": [
-        "ai",
-        "ai-scraping",
-        "automation",
-        "crawler",
-        "crawling",
-        "crawling-python",
-        "data",
-        "data-extraction",
-        "mcp",
-        "mcp-server",
-        "playwright",
-        "python",
-        "scraping",
-        "selectors",
-        "stealth",
-        "web-scraper",
-        "web-scraping",
-        "web-scraping-python",
-        "webscraping",
-        "xpath"
-      ],
-      "homepage": "https://scrapling.readthedocs.io/en/latest/",
-      "language": "Python",
-      "starsGained": 4743,
-      "totalStars": 102298,
-      "forks": 10648,
-      "license": "BSD-3-Clause",
-      "pushedAt": "11/11/2026 19:16:10",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Platinum Sponsors",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "projectIntro": "该项目的 GitHub 简介是：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "featurePoints": [
-          "核心线索：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "vercel-labs",
       "repo": "agent-browser",
       "fullName": "vercel-labs/agent-browser",
@@ -329,8 +273,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 4601,
-      "totalStars": 50451,
-      "forks": 3511,
+      "totalStars": 50513,
+      "forks": 3514,
       "license": "Apache-2.0",
       "pushedAt": "11/13/2026 06:29:09",
       "tags": [
@@ -357,26 +301,75 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "google",
-      "repo": "skills",
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
-      "description": "Agent Skills for Google products and technologies",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "topics": [
-        "google",
-        "googlecloud",
-        "skills"
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
       ],
-      "homepage": "",
+      "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
-      "starsGained": 1933,
-      "totalStars": 24103,
-      "forks": 2006,
-      "license": "Apache-2.0",
-      "pushedAt": "11/12/2026 23:00:01",
+      "starsGained": 3569,
+      "totalStars": 71233,
+      "forks": 57210,
+      "license": "MIT",
+      "pushedAt": "11/13/2026 01:43:19",
       "tags": [
         "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "📈 股票智能分析系统",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "featurePoints": [
+          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "homepage": "https://skills.addy.ie",
+      "language": "JavaScript",
+      "starsGained": 3199,
+      "totalStars": 116983,
+      "forks": 12226,
+      "license": "MIT",
+      "pushedAt": "11/01/2026 19:24:49",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
         "learning"
       ],
       "zhSummary": "",
@@ -394,7 +387,94 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Fastest path — any agent, one command. The open skills CLI installs into 70+ agents (Claude Code, Cursor, Codex, Copilot, Cline, and more):"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "claude-quickstarts",
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 1710,
+      "totalStars": 20823,
+      "forks": 3492,
+      "license": "MIT",
+      "pushedAt": "11/06/2026 19:37:57",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Claude Quickstarts",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "projectIntro": "该项目的 GitHub 简介是：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "featurePoints": [
+          "核心线索：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "可按 README 示例落地：Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API."
+        ]
+      }
+    },
+    {
+      "owner": "lobehub",
+      "repo": "lobehub",
+      "fullName": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",
+      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+      "topics": [
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "loop-engineering",
+        "mcp",
+        "personal-assistant",
+        "proactive-agent",
+        "skills",
+        "super-agent",
+        "task-management"
+      ],
+      "homepage": "https://lobehub.com",
+      "language": "TypeScript",
+      "starsGained": 1186,
+      "totalStars": 85251,
+      "forks": 16274,
+      "license": "NOASSERTION",
+      "pushedAt": "11/13/2026 12:05:07",
+      "tags": [
+        "agent",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "LobeHub",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "适用线索：Whether for users or professional developers, LobeHub will be your AI Agent playground."
         ]
       }
     }
@@ -432,10 +512,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 325178,
-      "totalStars": 456050,
-      "forks": 111992,
+      "totalStars": 456482,
+      "forks": 112080,
       "license": "MIT",
-      "pushedAt": "11/13/2026 05:52:37",
+      "pushedAt": "11/13/2026 11:52:26",
       "tags": [
         "agent",
         "llm",
@@ -492,10 +572,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 49960,
-      "totalStars": 109432,
-      "forks": 12127,
+      "totalStars": 109575,
+      "forks": 12149,
       "license": "AGPL-3.0",
-      "pushedAt": "11/13/2026 02:29:40",
+      "pushedAt": "11/13/2026 11:07:22",
       "tags": [
         "agent",
         "llm",
@@ -531,8 +611,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 42602,
-      "totalStars": 71403,
-      "forks": 4757,
+      "totalStars": 71518,
+      "forks": 4763,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -578,10 +658,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 30926,
-      "totalStars": 58762,
-      "forks": 10724,
+      "totalStars": 59002,
+      "forks": 10748,
       "license": "MIT",
-      "pushedAt": "11/13/2026 07:49:46",
+      "pushedAt": "11/13/2026 12:01:02",
       "tags": [
         "agent",
         "llm"
@@ -622,10 +702,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 29165,
-      "totalStars": 109180,
-      "forks": 6506,
+      "totalStars": 109274,
+      "forks": 6513,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 07:34:01",
+      "pushedAt": "11/13/2026 12:05:10",
       "tags": [
         "agent",
         "coding",
@@ -661,8 +741,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 24106,
-      "totalStars": 54186,
-      "forks": 2891,
+      "totalStars": 54280,
+      "forks": 2895,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -713,10 +793,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22251,
-      "totalStars": 83592,
-      "forks": 7713,
+      "totalStars": 83665,
+      "forks": 7721,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 07:48:49",
+      "pushedAt": "11/13/2026 11:14:26",
       "tags": [
         "agent",
         "llm"
@@ -764,8 +844,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 19580,
-      "totalStars": 114546,
-      "forks": 7703,
+      "totalStars": 114670,
+      "forks": 7707,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -814,8 +894,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 17692,
-      "totalStars": 58754,
-      "forks": 7140,
+      "totalStars": 58816,
+      "forks": 7141,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -874,8 +954,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17162,
-      "totalStars": 116653,
-      "forks": 10120,
+      "totalStars": 116710,
+      "forks": 10123,
       "license": "Apache-2.0",
       "pushedAt": "11/13/2026 05:15:01",
       "tags": [
@@ -918,8 +998,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 13440,
-      "totalStars": 193841,
-      "forks": 22807,
+      "totalStars": 193932,
+      "forks": 22811,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -966,8 +1046,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 9819,
-      "totalStars": 28801,
-      "forks": 3678,
+      "totalStars": 28872,
+      "forks": 3683,
       "license": "MIT",
       "pushedAt": "11/11/2026 16:25:46",
       "tags": [
