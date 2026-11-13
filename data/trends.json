@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-13T06:26:05.4160045+00:00",
+  "generatedAt": "2026-11-13T07:52:09.8607350+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -13,8 +13,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 10700,
-      "totalStars": 71355,
-      "forks": 4747,
+      "totalStars": 71403,
+      "forks": 4757,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -63,10 +63,10 @@
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 9104,
-      "totalStars": 21838,
-      "forks": 3034,
+      "totalStars": 21873,
+      "forks": 3038,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 06:19:14",
+      "pushedAt": "11/13/2026 07:32:50",
       "tags": [
         "agent",
         "llm"
@@ -102,8 +102,8 @@
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
       "starsGained": 8731,
-      "totalStars": 323199,
-      "forks": 27115,
+      "totalStars": 323260,
+      "forks": 27121,
       "license": "MIT",
       "pushedAt": "11/12/2026 12:11:43",
       "tags": [
@@ -153,10 +153,10 @@
       "homepage": "https://agent-browser.dev/desktop",
       "language": "Rust",
       "starsGained": 6414,
-      "totalStars": 22875,
-      "forks": 1695,
+      "totalStars": 22918,
+      "forks": 1698,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 03:29:48",
+      "pushedAt": "11/13/2026 07:18:38",
       "tags": [
         "agent"
       ],
@@ -193,8 +193,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 6055,
-      "totalStars": 193819,
-      "forks": 22805,
+      "totalStars": 193841,
+      "forks": 22807,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -233,8 +233,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 5802,
-      "totalStars": 12330,
-      "forks": 1014,
+      "totalStars": 12363,
+      "forks": 1017,
       "license": "Apache-2.0",
       "pushedAt": "11/13/2026 04:12:37",
       "tags": [
@@ -294,8 +294,8 @@
       "homepage": "https://scrapling.readthedocs.io/en/latest/",
       "language": "Python",
       "starsGained": 4743,
-      "totalStars": 102261,
-      "forks": 10643,
+      "totalStars": 102298,
+      "forks": 10648,
       "license": "BSD-3-Clause",
       "pushedAt": "11/11/2026 19:16:10",
       "tags": [
@@ -329,10 +329,10 @@
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 4601,
-      "totalStars": 50417,
-      "forks": 3510,
+      "totalStars": 50451,
+      "forks": 3511,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 06:09:23",
+      "pushedAt": "11/13/2026 06:29:09",
       "tags": [
         "agent"
       ],
@@ -371,7 +371,7 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 1933,
-      "totalStars": 24099,
+      "totalStars": 24103,
       "forks": 2006,
       "license": "Apache-2.0",
       "pushedAt": "11/12/2026 23:00:01",
@@ -432,8 +432,8 @@
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 325178,
-      "totalStars": 455879,
-      "forks": 111951,
+      "totalStars": 456050,
+      "forks": 111992,
       "license": "MIT",
       "pushedAt": "11/13/2026 05:52:37",
       "tags": [
@@ -492,8 +492,8 @@
       "homepage": "https://voicestudio.sh",
       "language": "Python",
       "starsGained": 49960,
-      "totalStars": 109383,
-      "forks": 12118,
+      "totalStars": 109432,
+      "forks": 12127,
       "license": "AGPL-3.0",
       "pushedAt": "11/13/2026 02:29:40",
       "tags": [
@@ -531,8 +531,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 42602,
-      "totalStars": 71355,
-      "forks": 4747,
+      "totalStars": 71403,
+      "forks": 4757,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -578,10 +578,10 @@
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 30926,
-      "totalStars": 58683,
-      "forks": 10710,
+      "totalStars": 58762,
+      "forks": 10724,
       "license": "MIT",
-      "pushedAt": "11/13/2026 06:26:10",
+      "pushedAt": "11/13/2026 07:49:46",
       "tags": [
         "agent",
         "llm"
@@ -622,10 +622,10 @@
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 29165,
-      "totalStars": 109133,
+      "totalStars": 109180,
       "forks": 6506,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 06:19:05",
+      "pushedAt": "11/13/2026 07:34:01",
       "tags": [
         "agent",
         "coding",
@@ -661,8 +661,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 24106,
-      "totalStars": 54145,
-      "forks": 2890,
+      "totalStars": 54186,
+      "forks": 2891,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -713,10 +713,10 @@
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 22251,
-      "totalStars": 83554,
-      "forks": 7712,
+      "totalStars": 83592,
+      "forks": 7713,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 05:40:53",
+      "pushedAt": "11/13/2026 07:48:49",
       "tags": [
         "agent",
         "llm"
@@ -764,8 +764,8 @@
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 19580,
-      "totalStars": 114491,
-      "forks": 7700,
+      "totalStars": 114546,
+      "forks": 7703,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -814,8 +814,8 @@
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 17692,
-      "totalStars": 58733,
-      "forks": 7137,
+      "totalStars": 58754,
+      "forks": 7140,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -874,8 +874,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17162,
-      "totalStars": 116637,
-      "forks": 10118,
+      "totalStars": 116653,
+      "forks": 10120,
       "license": "Apache-2.0",
       "pushedAt": "11/13/2026 05:15:01",
       "tags": [
@@ -918,8 +918,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 13440,
-      "totalStars": 193819,
-      "forks": 22805,
+      "totalStars": 193841,
+      "forks": 22807,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -966,8 +966,8 @@
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 9819,
-      "totalStars": 28770,
-      "forks": 3676,
+      "totalStars": 28801,
+      "forks": 3678,
       "license": "MIT",
       "pushedAt": "11/11/2026 16:25:46",
       "tags": [
