@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-13T12:07:27.5141065+00:00",
+  "generatedAt": "2026-11-14T06:06:22.6415728+00:00",
   "weekly": [
     {
       "owner": "cloudflare",
@@ -12,9 +12,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 10700,
-      "totalStars": 71518,
-      "forks": 4763,
+      "starsGained": 8829,
+      "totalStars": 72052,
+      "forks": 4803,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -62,11 +62,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 9104,
-      "totalStars": 21977,
-      "forks": 3047,
+      "starsGained": 7763,
+      "totalStars": 22299,
+      "forks": 3099,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 11:35:29",
+      "pushedAt": "11/14/2026 05:58:11",
       "tags": [
         "agent",
         "llm"
@@ -101,11 +101,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://aihero.dev/skills",
       "language": "Shell",
-      "starsGained": 8731,
-      "totalStars": 323414,
-      "forks": 27141,
+      "starsGained": 7599,
+      "totalStars": 323941,
+      "forks": 27188,
       "license": "MIT",
-      "pushedAt": "11/13/2026 11:39:31",
+      "pushedAt": "11/13/2026 12:30:31",
       "tags": [
         "agent",
         "learning"
@@ -130,57 +130,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "vercel-labs",
-      "repo": "agent-desktop",
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
-      "description": "Computer use CLI for AI agents",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "homepage": "https://agent-browser.dev/desktop",
-      "language": "Rust",
-      "starsGained": 6414,
-      "totalStars": 23031,
-      "forks": 1706,
-      "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 07:18:38",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-desktop",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Refs belong to their snapshot. A bare @e8 is rejected with INVALIDARGS. When the UI changes, an action"
-        ]
-      }
-    },
-    {
       "owner": "anthropics",
       "repo": "skills",
       "fullName": "anthropics/skills",
@@ -192,9 +141,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6055,
-      "totalStars": 193932,
-      "forks": 22811,
+      "starsGained": 6169,
+      "totalStars": 194222,
+      "forks": 22849,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -223,6 +172,153 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "google",
+      "repo": "elephant-goldfish-model",
+      "fullName": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-plugin",
+        "coding-agents",
+        "context-engineering",
+        "developer-tools",
+        "gemini",
+        "llm",
+        "multi-agent",
+        "prompt-engineering",
+        "spec-driven-development"
+      ],
+      "homepage": "https://egm.dev",
+      "language": "Python",
+      "starsGained": 5560,
+      "totalStars": 18721,
+      "forks": 1398,
+      "license": "Apache-2.0",
+      "pushedAt": "11/14/2026 03:30:16",
+      "tags": [
+        "agent",
+        "llm",
+        "ml",
+        "generation",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "fullName": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
+      "description": "Computer use CLI for AI agents",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "homepage": "https://agent-browser.dev/desktop",
+      "language": "Rust",
+      "starsGained": 5408,
+      "totalStars": 23409,
+      "forks": 1732,
+      "license": "Apache-2.0",
+      "pushedAt": "11/13/2026 23:43:44",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-desktop",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Refs belong to their snapshot. A bare @e8 is rejected with INVALIDARGS. When the UI changes, an action"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 4360,
+      "totalStars": 50805,
+      "forks": 3535,
+      "license": "Apache-2.0",
+      "pushedAt": "11/14/2026 04:29:22",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-browser",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
+        ]
+      }
+    },
+    {
       "owner": "NVIDIA",
       "repo": "auto-ontology",
       "fullName": "NVIDIA/auto-ontology",
@@ -232,11 +328,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5802,
-      "totalStars": 12415,
-      "forks": 1017,
+      "starsGained": 4108,
+      "totalStars": 12627,
+      "forks": 1038,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 07:54:28",
+      "pushedAt": "11/14/2026 00:17:41",
       "tags": [
         "agent",
         "llm",
@@ -263,44 +359,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-      "description": "Browser automation CLI for AI agents",
-      "topics": [],
-      "homepage": "https://agent-browser.dev",
-      "language": "Rust",
-      "starsGained": 4601,
-      "totalStars": 50513,
-      "forks": 3514,
-      "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 06:29:09",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-browser",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
-        ]
-      }
-    },
-    {
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "fullName": "ZhuLinsen/daily_stock_analysis",
@@ -318,11 +376,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
-      "starsGained": 3569,
-      "totalStars": 71233,
-      "forks": 57210,
+      "starsGained": 3778,
+      "totalStars": 71840,
+      "forks": 57355,
       "license": "MIT",
-      "pushedAt": "11/13/2026 01:43:19",
+      "pushedAt": "11/14/2026 05:03:48",
       "tags": [
         "agent",
         "llm"
@@ -361,11 +419,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 3199,
-      "totalStars": 116983,
-      "forks": 12226,
+      "starsGained": 3502,
+      "totalStars": 117226,
+      "forks": 12260,
       "license": "MIT",
-      "pushedAt": "11/01/2026 19:24:49",
+      "pushedAt": "11/14/2026 04:33:56",
       "tags": [
         "agent",
         "llm",
@@ -402,9 +460,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 1710,
-      "totalStars": 20823,
-      "forks": 3492,
+      "starsGained": 1731,
+      "totalStars": 20885,
+      "forks": 3490,
       "license": "MIT",
       "pushedAt": "11/06/2026 19:37:57",
       "tags": [
@@ -449,11 +507,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://lobehub.com",
       "language": "TypeScript",
-      "starsGained": 1186,
-      "totalStars": 85251,
-      "forks": 16274,
+      "starsGained": 1126,
+      "totalStars": 85448,
+      "forks": 16303,
       "license": "NOASSERTION",
-      "pushedAt": "11/13/2026 12:05:07",
+      "pushedAt": "11/14/2026 06:05:48",
       "tags": [
         "agent",
         "learning"
@@ -511,11 +569,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://rea.tools",
       "language": "TypeScript",
-      "starsGained": 325178,
-      "totalStars": 456482,
-      "forks": 112080,
+      "starsGained": 271084,
+      "totalStars": 458092,
+      "forks": 112378,
       "license": "MIT",
-      "pushedAt": "11/13/2026 11:52:26",
+      "pushedAt": "11/14/2026 06:01:42",
       "tags": [
         "agent",
         "llm",
@@ -571,11 +629,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://voicestudio.sh",
       "language": "Python",
-      "starsGained": 49960,
-      "totalStars": 109575,
-      "forks": 12149,
+      "starsGained": 48848,
+      "totalStars": 110117,
+      "forks": 12204,
       "license": "AGPL-3.0",
-      "pushedAt": "11/13/2026 11:07:22",
+      "pushedAt": "11/14/2026 01:06:32",
       "tags": [
         "agent",
         "llm",
@@ -610,9 +668,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 42602,
-      "totalStars": 71518,
-      "forks": 4763,
+      "starsGained": 42839,
+      "totalStars": 72052,
+      "forks": 4803,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -657,11 +715,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 30926,
-      "totalStars": 59002,
-      "forks": 10748,
+      "starsGained": 32057,
+      "totalStars": 59787,
+      "forks": 10829,
       "license": "MIT",
-      "pushedAt": "11/13/2026 12:01:02",
+      "pushedAt": "11/14/2026 06:05:56",
       "tags": [
         "agent",
         "llm"
@@ -701,11 +759,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 29165,
-      "totalStars": 109274,
-      "forks": 6513,
+      "starsGained": 29328,
+      "totalStars": 109743,
+      "forks": 6548,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 12:05:10",
+      "pushedAt": "11/14/2026 06:05:03",
       "tags": [
         "agent",
         "coding",
@@ -740,9 +798,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 24106,
-      "totalStars": 54280,
-      "forks": 2895,
+      "starsGained": 24631,
+      "totalStars": 54610,
+      "forks": 2916,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -792,11 +850,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 22251,
-      "totalStars": 83665,
-      "forks": 7721,
+      "starsGained": 21924,
+      "totalStars": 84033,
+      "forks": 7769,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 11:14:26",
+      "pushedAt": "11/14/2026 06:00:41",
       "tags": [
         "agent",
         "llm"
@@ -843,9 +901,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 19580,
-      "totalStars": 114670,
-      "forks": 7707,
+      "starsGained": 19948,
+      "totalStars": 115161,
+      "forks": 7725,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -893,9 +951,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 17692,
-      "totalStars": 58816,
-      "forks": 7141,
+      "starsGained": 17913,
+      "totalStars": 59003,
+      "forks": 7161,
       "license": "Apache-2.0",
       "pushedAt": "11/07/2026 15:18:10",
       "tags": [
@@ -953,11 +1011,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17162,
-      "totalStars": 116710,
-      "forks": 10123,
+      "starsGained": 17120,
+      "totalStars": 116899,
+      "forks": 10145,
       "license": "Apache-2.0",
-      "pushedAt": "11/13/2026 05:15:01",
+      "pushedAt": "11/13/2026 18:56:42",
       "tags": [
         "agent",
         "llm",
@@ -997,9 +1055,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13440,
-      "totalStars": 193932,
-      "forks": 22811,
+      "starsGained": 13734,
+      "totalStars": 194222,
+      "forks": 22849,
       "license": "",
       "pushedAt": "11/06/2026 22:32:32",
       "tags": [
@@ -1045,9 +1103,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 9819,
-      "totalStars": 28872,
-      "forks": 3683,
+      "starsGained": 10190,
+      "totalStars": 29121,
+      "forks": 3705,
       "license": "MIT",
       "pushedAt": "11/11/2026 16:25:46",
       "tags": [
