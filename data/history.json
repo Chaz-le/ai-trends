@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:34:00.673Z",
+  "generatedAt": "2026-11-14T11:25:20.970Z",
   "snapshots": [
     {
       "date": "2026-09-16",
@@ -4485,94 +4485,94 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T07:33:47.8931639+00:00",
+      "generatedAt": "2026-11-14T11:24:55.7813407+00:00",
       "repos": {
         "cloudflare/security-audit-skill": {
-          "stars": 72085,
+          "stars": 72201,
           "periodGain": 42839
         },
         "milind-soni/OpenMausBot": {
-          "stars": 22340,
+          "stars": 22463,
           "periodGain": 7763
         },
         "mattpocock/skills": {
-          "stars": 323987,
+          "stars": 324122,
           "periodGain": 7599
         },
         "anthropics/skills": {
-          "stars": 194254,
+          "stars": 194334,
           "periodGain": 13734
         },
         "google/elephant-goldfish-model": {
-          "stars": 18740,
+          "stars": 18816,
           "periodGain": 5560
         },
         "vercel-labs/agent-desktop": {
-          "stars": 23446,
+          "stars": 23547,
           "periodGain": 5408
         },
         "vercel-labs/agent-browser": {
-          "stars": 50833,
+          "stars": 50923,
           "periodGain": 4360
         },
         "NVIDIA/auto-ontology": {
-          "stars": 12640,
+          "stars": 12694,
           "periodGain": 4108
         },
         "ZhuLinsen/daily_stock_analysis": {
-          "stars": 71891,
+          "stars": 72046,
           "periodGain": 3778
         },
         "addyosmani/agent-skills": {
-          "stars": 117255,
+          "stars": 117330,
           "periodGain": 3502
         },
         "anthropics/claude-quickstarts": {
-          "stars": 20891,
+          "stars": 20910,
           "periodGain": 1731
         },
         "lobehub/lobehub": {
-          "stars": 85463,
+          "stars": 85498,
           "periodGain": 1126
         },
         "morluto/rea": {
-          "stars": 458236,
+          "stars": 458612,
           "periodGain": 271084
         },
         "debpalash/VoiceStudio": {
-          "stars": 110162,
+          "stars": 110292,
           "periodGain": 48848
         },
         "pingdotgg/t3code": {
-          "stars": 59838,
+          "stars": 60027,
           "periodGain": 32057
         },
         "pbakaus/impeccable": {
-          "stars": 109779,
+          "stars": 109877,
           "periodGain": 29328
         },
         "Nutlope/hallmark": {
-          "stars": 54640,
+          "stars": 54721,
           "periodGain": 24631
         },
         "heygen-com/hyperframes": {
-          "stars": 84054,
+          "stars": 84129,
           "periodGain": 21924
         },
         "Leonxlnx/taste-skill": {
-          "stars": 115192,
+          "stars": 115293,
           "periodGain": 19948
         },
         "HKUDS/DeepTutor": {
-          "stars": 59025,
+          "stars": 59090,
           "periodGain": 17913
         },
         "thedotmack/claude-mem": {
-          "stars": 116912,
+          "stars": 116955,
           "periodGain": 17120
         },
         "AgriciDaniel/claude-seo": {
-          "stars": 29134,
+          "stars": 29173,
           "periodGain": 10190
         }
       }
