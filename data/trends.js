@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-15T07:47:49.7903220+00:00",
+  "generatedAt": "2026-11-15T11:54:39.4372624+00:00",
   "weekly": [
     {
       "owner": "meta",
@@ -13,10 +13,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 13660,
-      "totalStars": 28328,
-      "forks": 2204,
+      "totalStars": 28455,
+      "forks": 2222,
       "license": "MIT",
-      "pushedAt": "11/15/2026 07:45:52",
+      "pushedAt": "11/15/2026 11:53:48",
       "tags": [
         "agent"
       ],
@@ -60,10 +60,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 6413,
-      "totalStars": 22916,
-      "forks": 3194,
+      "totalStars": 23009,
+      "forks": 3204,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 07:42:52",
+      "pushedAt": "11/15/2026 11:44:52",
       "tags": [
         "agent",
         "llm"
@@ -101,8 +101,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6220,
-      "totalStars": 194766,
-      "forks": 22913,
+      "totalStars": 194975,
+      "forks": 22931,
       "license": "",
       "pushedAt": "11/14/2026 21:52:49",
       "tags": [
@@ -158,8 +158,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://egm.dev",
       "language": "Python",
       "starsGained": 5539,
-      "totalStars": 19318,
-      "forks": 1434,
+      "totalStars": 19407,
+      "forks": 1442,
       "license": "Apache-2.0",
       "pushedAt": "11/14/2026 09:40:03",
       "tags": [
@@ -199,10 +199,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 4601,
-      "totalStars": 51320,
-      "forks": 3584,
+      "totalStars": 51384,
+      "forks": 3590,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 03:21:45",
+      "pushedAt": "11/15/2026 11:28:02",
       "tags": [
         "agent"
       ],
@@ -245,10 +245,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 4526,
-      "totalStars": 72325,
-      "forks": 57507,
+      "totalStars": 72372,
+      "forks": 57527,
       "license": "MIT",
-      "pushedAt": "11/14/2026 14:48:39",
+      "pushedAt": "11/15/2026 08:27:24",
       "tags": [
         "agent",
         "llm"
@@ -288,8 +288,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3670,
-      "totalStars": 117674,
-      "forks": 12314,
+      "totalStars": 117730,
+      "forks": 12323,
       "license": "MIT",
       "pushedAt": "11/14/2026 04:33:56",
       "tags": [
@@ -329,8 +329,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 1794,
-      "totalStars": 21008,
-      "forks": 3499,
+      "totalStars": 21023,
+      "forks": 3500,
       "license": "MIT",
       "pushedAt": "11/06/2026 19:37:57",
       "tags": [
@@ -375,10 +375,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 818,
-      "totalStars": 11383,
-      "forks": 983,
+      "totalStars": 11535,
+      "forks": 1017,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 07:46:49",
+      "pushedAt": "11/15/2026 11:33:15",
       "tags": [
         "agent",
         "llm",
@@ -437,10 +437,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://rea.tools",
       "language": "TypeScript",
       "starsGained": 236618,
-      "totalStars": 460476,
-      "forks": 112849,
+      "totalStars": 460861,
+      "forks": 112911,
       "license": "MIT",
-      "pushedAt": "11/15/2026 07:47:31",
+      "pushedAt": "11/15/2026 11:54:41",
       "tags": [
         "agent",
         "llm",
@@ -514,8 +514,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 43171,
-      "totalStars": 72788,
-      "forks": 4867,
+      "totalStars": 72873,
+      "forks": 4879,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -561,10 +561,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 32857,
-      "totalStars": 60844,
-      "forks": 10946,
+      "totalStars": 60976,
+      "forks": 10969,
       "license": "MIT",
-      "pushedAt": "11/15/2026 07:47:26",
+      "pushedAt": "11/15/2026 11:54:44",
       "tags": [
         "agent",
         "llm"
@@ -595,34 +595,41 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 29487,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 110461,
+      "forks": 6601,
+      "license": "Apache-2.0",
+      "pushedAt": "11/15/2026 11:52:16",
       "tags": [
         "agent",
-        "coding"
+        "coding",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "source": "readme",
+        "readmeTitle": "Impeccable",
+        "category": "taste-skill",
+        "zhTitle": "AI 生成质量约束技能",
+        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
+        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
         "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
+          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
+          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
         ]
       }
     },
@@ -637,8 +644,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 25013,
-      "totalStars": 55156,
-      "forks": 2951,
+      "totalStars": 55230,
+      "forks": 2962,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -669,22 +676,39 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "Write HTML. Render video. Built for agents.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "animation",
+        "claude-code",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "html-to-video",
+        "mcp",
+        "motion-graphics",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video-editor"
+      ],
+      "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 21361,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 84520,
+      "forks": 7822,
+      "license": "Apache-2.0",
+      "pushedAt": "11/15/2026 11:51:47",
       "tags": [
-        "agent"
+        "agent",
+        "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "macOS",
         "category": "academic-research",
         "zhTitle": "学术研究写作技能集",
         "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
@@ -695,7 +719,8 @@ window.GITHUB_AI_TRENDS = {
           "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：For Claude Code, install the versioned plugin:"
         ]
       }
     },
@@ -739,29 +764,101 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "thedotmack",
-      "repo": "claude-mem",
-      "fullName": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 17051,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 18077,
+      "totalStars": 59358,
+      "forks": 7192,
+      "license": "Apache-2.0",
+      "pushedAt": "11/07/2026 15:18:10",
       "tags": [
         "agent",
-        "llm",
-        "coding"
+        "rag",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "metadata",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+        ]
+      }
+    },
+    {
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "fullName": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "homepage": "https://claude-mem.ai",
+      "language": "TypeScript",
+      "starsGained": 17051,
+      "totalStars": 117230,
+      "forks": 10177,
+      "license": "Apache-2.0",
+      "pushedAt": "11/15/2026 06:04:45",
+      "tags": [
+        "agent",
+        "llm",
+        "rag",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
         "readmeTitle": "",
         "category": "context-compression",
         "zhTitle": "LLM 上下文压缩工具",
@@ -773,7 +870,8 @@ window.GITHUB_AI_TRENDS = {
           "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
         ],
         "scenarioPoints": [
-          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。",
+          "可按 README 示例落地：Your memory lives in /.claude-mem on your machine. Cloud sync is opt-in. Anonymous usage analytics are on by default; npx claude-mem telemetry disable turns them off (what's collected)."
         ]
       }
     },
@@ -790,8 +888,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 13927,
-      "totalStars": 194766,
-      "forks": 22913,
+      "totalStars": 194975,
+      "forks": 22931,
       "license": "",
       "pushedAt": "11/14/2026 21:52:49",
       "tags": [
@@ -855,44 +953,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "Vincentwei1021",
-      "repo": "video-shotcraft",
-      "fullName": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-      "topics": [],
-      "homepage": "",
-      "language": "TypeScript",
-      "starsGained": 7617,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     }
