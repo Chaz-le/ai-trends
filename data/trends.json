@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-15T11:54:39.4372624+00:00",
+  "generatedAt": "2026-11-16T06:10:36.3691751+00:00",
   "weekly": [
     {
       "owner": "meta",
@@ -12,11 +12,11 @@
       "topics": [],
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
-      "starsGained": 13660,
-      "totalStars": 28455,
-      "forks": 2222,
+      "starsGained": 13501,
+      "totalStars": 29077,
+      "forks": 2275,
       "license": "MIT",
-      "pushedAt": "11/15/2026 11:53:48",
+      "pushedAt": "11/16/2026 06:10:28",
       "tags": [
         "agent"
       ],
@@ -34,6 +34,48 @@
         ],
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "skills",
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+      "description": "Public repository for Agent Skills",
+      "topics": [
+        "agent-skills"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 6077,
+      "totalStars": 195496,
+      "forks": 22976,
+      "license": "",
+      "pushedAt": "11/14/2026 21:52:49",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Skills",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "可按 README 示例落地：Example usage 1"
         ]
       }
     },
@@ -59,11 +101,11 @@
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 6413,
-      "totalStars": 23009,
-      "forks": 3204,
+      "starsGained": 5463,
+      "totalStars": 23639,
+      "forks": 3287,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 11:44:52",
+      "pushedAt": "11/16/2026 06:08:20",
       "tags": [
         "agent",
         "llm"
@@ -85,48 +127,6 @@
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
           "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
-        ]
-      }
-    },
-    {
-      "owner": "anthropics",
-      "repo": "skills",
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
-      "description": "Public repository for Agent Skills",
-      "topics": [
-        "agent-skills"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 6220,
-      "totalStars": 194975,
-      "forks": 22931,
-      "license": "",
-      "pushedAt": "11/14/2026 21:52:49",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Skills",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "可按 README 示例落地：Example usage 1"
         ]
       }
     },
@@ -157,11 +157,11 @@
       ],
       "homepage": "https://egm.dev",
       "language": "Python",
-      "starsGained": 5539,
-      "totalStars": 19407,
-      "forks": 1442,
+      "starsGained": 5060,
+      "totalStars": 19935,
+      "forks": 1481,
       "license": "Apache-2.0",
-      "pushedAt": "11/14/2026 09:40:03",
+      "pushedAt": "11/15/2026 18:47:38",
       "tags": [
         "agent",
         "llm",
@@ -189,6 +189,50 @@
       }
     },
     {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "homepage": "https://dsa.zhulinsen.tech",
+      "language": "Python",
+      "starsGained": 4548,
+      "totalStars": 72594,
+      "forks": 57598,
+      "license": "MIT",
+      "pushedAt": "11/15/2026 15:47:25",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "📈 股票智能分析系统",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "featurePoints": [
+          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "vercel-labs",
       "repo": "agent-browser",
       "fullName": "vercel-labs/agent-browser",
@@ -198,11 +242,11 @@
       "topics": [],
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
-      "starsGained": 4601,
-      "totalStars": 51384,
-      "forks": 3590,
+      "starsGained": 4217,
+      "totalStars": 51734,
+      "forks": 3620,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 11:28:02",
+      "pushedAt": "11/15/2026 12:43:23",
       "tags": [
         "agent"
       ],
@@ -227,50 +271,6 @@
       }
     },
     {
-      "owner": "ZhuLinsen",
-      "repo": "daily_stock_analysis",
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "llm",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading"
-      ],
-      "homepage": "https://dsa.zhulinsen.tech",
-      "language": "Python",
-      "starsGained": 4526,
-      "totalStars": 72372,
-      "forks": 57527,
-      "license": "MIT",
-      "pushedAt": "11/15/2026 08:27:24",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "📈 股票智能分析系统",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "featurePoints": [
-          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "addyosmani",
       "repo": "agent-skills",
       "fullName": "addyosmani/agent-skills",
@@ -287,9 +287,9 @@
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 3670,
-      "totalStars": 117730,
-      "forks": 12323,
+      "starsGained": 3889,
+      "totalStars": 118035,
+      "forks": 12349,
       "license": "MIT",
       "pushedAt": "11/14/2026 04:33:56",
       "tags": [
@@ -319,42 +319,6 @@
       }
     },
     {
-      "owner": "anthropics",
-      "repo": "claude-quickstarts",
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 1794,
-      "totalStars": 21023,
-      "forks": 3500,
-      "license": "MIT",
-      "pushedAt": "11/06/2026 19:37:57",
-      "tags": [
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Claude Quickstarts",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "projectIntro": "该项目的 GitHub 简介是：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "featurePoints": [
-          "核心线索：A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "可按 README 示例落地：Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API."
-        ]
-      }
-    },
-    {
       "owner": "backnotprop",
       "repo": "plannotator",
       "fullName": "backnotprop/plannotator",
@@ -374,11 +338,11 @@
       ],
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
-      "starsGained": 818,
-      "totalStars": 11535,
-      "forks": 1017,
+      "starsGained": 1719,
+      "totalStars": 12030,
+      "forks": 1113,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 11:33:15",
+      "pushedAt": "11/16/2026 06:08:04",
       "tags": [
         "agent",
         "llm",
@@ -406,104 +370,6 @@
   ],
   "monthly": [
     {
-      "owner": "morluto",
-      "repo": "rea",
-      "fullName": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "android",
-        "claude-code",
-        "cli",
-        "cpp",
-        "dsh-plugin",
-        "html",
-        "java",
-        "javascript",
-        "linux",
-        "mcp",
-        "nodejs",
-        "python",
-        "rea",
-        "react",
-        "rust",
-        "security",
-        "touhou",
-        "typescript"
-      ],
-      "homepage": "https://rea.tools",
-      "language": "TypeScript",
-      "starsGained": 236618,
-      "totalStars": 460861,
-      "forks": 112911,
-      "license": "MIT",
-      "pushedAt": "11/15/2026 11:54:41",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "REA: Reverse Engineer Anything",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Choose your agents, review the proposed changes, and approve them. Setup adds"
-        ]
-      }
-    },
-    {
-      "owner": "debpalash",
-      "repo": "VoiceStudio",
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "topics": [],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 46324,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
-      "tags": [
-        "multimodal"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "multimodal-generation",
-        "zhTitle": "AI 多模态内容生成工具",
-        "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "projectIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
-        "featurePoints": [
-          "支持围绕视频、图像或语音素材的生成与自动化处理。",
-          "把大模型、脚本和媒体处理流程组合成一键式内容生成。",
-          "适合内容生产型 AI 应用原型。"
-        ],
-        "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
-        ]
-      }
-    },
-    {
       "owner": "cloudflare",
       "repo": "security-audit-skill",
       "fullName": "cloudflare/security-audit-skill",
@@ -513,9 +379,9 @@
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 43171,
-      "totalStars": 72873,
-      "forks": 4879,
+      "starsGained": 43540,
+      "totalStars": 73370,
+      "forks": 4913,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -560,11 +426,11 @@
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 32857,
-      "totalStars": 60976,
-      "forks": 10969,
+      "starsGained": 33583,
+      "totalStars": 61812,
+      "forks": 11063,
       "license": "MIT",
-      "pushedAt": "11/15/2026 11:54:44",
+      "pushedAt": "11/16/2026 06:09:45",
       "tags": [
         "agent",
         "llm"
@@ -604,11 +470,11 @@
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 29487,
-      "totalStars": 110461,
-      "forks": 6601,
+      "starsGained": 29631,
+      "totalStars": 110902,
+      "forks": 6631,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 11:52:16",
+      "pushedAt": "11/16/2026 06:00:19",
       "tags": [
         "agent",
         "coding",
@@ -643,9 +509,9 @@
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 25013,
-      "totalStars": 55230,
-      "forks": 2962,
+      "starsGained": 25448,
+      "totalStars": 55632,
+      "forks": 2986,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -695,11 +561,11 @@
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 21361,
-      "totalStars": 84520,
-      "forks": 7822,
+      "starsGained": 20878,
+      "totalStars": 84852,
+      "forks": 7857,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 11:51:47",
+      "pushedAt": "11/16/2026 06:02:34",
       "tags": [
         "agent",
         "llm"
@@ -731,23 +597,36 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "cursor",
+        "design-system",
+        "frontend",
+        "landing-page",
+        "ui-design",
+        "web-design"
+      ],
+      "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 20043,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 19546,
+      "totalStars": 116366,
+      "forks": 7802,
+      "license": "MIT",
+      "pushedAt": "11/08/2026 21:51:50",
       "tags": [
         "agent",
+        "llm",
         "coding",
         "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
+        "source": "readme",
         "readmeTitle": "",
         "category": "taste-skill",
         "zhTitle": "AI 生成质量约束技能",
@@ -783,11 +662,11 @@
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 18077,
-      "totalStars": 59358,
-      "forks": 7192,
+      "starsGained": 18278,
+      "totalStars": 59555,
+      "forks": 7214,
       "license": "Apache-2.0",
-      "pushedAt": "11/07/2026 15:18:10",
+      "pushedAt": "11/15/2026 20:11:05",
       "tags": [
         "agent",
         "rag",
@@ -796,8 +675,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "One shot, machine-readable",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -843,11 +722,11 @@
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17051,
-      "totalStars": 117230,
-      "forks": 10177,
+      "starsGained": 17038,
+      "totalStars": 117444,
+      "forks": 10202,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 06:04:45",
+      "pushedAt": "11/16/2026 02:16:56",
       "tags": [
         "agent",
         "llm",
@@ -887,9 +766,9 @@
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13927,
-      "totalStars": 194975,
-      "forks": 22931,
+      "starsGained": 14332,
+      "totalStars": 195496,
+      "forks": 22976,
       "license": "",
       "pushedAt": "11/14/2026 21:52:49",
       "tags": [
@@ -924,14 +803,22 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "ai",
+        "ai-seo",
+        "claude-code",
+        "claude-code-skill",
+        "marketing-automation",
+        "open-source",
+        "seo"
+      ],
+      "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 10402,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 10672,
+      "totalStars": 29792,
+      "forks": 3750,
+      "license": "MIT",
+      "pushedAt": "11/15/2026 10:10:39",
       "tags": [
         "agent",
         "llm",
@@ -940,8 +827,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "Schema Markup Report: rankenstein.pro/about",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -953,6 +840,98 @@
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
+        ]
+      }
+    },
+    {
+      "owner": "Vincentwei1021",
+      "repo": "video-shotcraft",
+      "fullName": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ],
+      "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
+      "language": "TypeScript",
+      "starsGained": 7937,
+      "totalStars": 20214,
+      "forks": 1883,
+      "license": "Apache-2.0",
+      "pushedAt": "11/15/2026 13:34:28",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "video-shotcraft",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 7545,
+      "totalStars": 51734,
+      "forks": 3620,
+      "license": "Apache-2.0",
+      "pushedAt": "11/15/2026 12:43:23",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-browser",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     }
