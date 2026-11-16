@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-16T07:55:41.8740428+00:00",
+  "generatedAt": "2026-11-16T12:39:59.3380052+00:00",
   "weekly": [
     {
       "owner": "meta",
@@ -13,10 +13,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 13501,
-      "totalStars": 29142,
-      "forks": 2276,
+      "totalStars": 29303,
+      "forks": 2292,
       "license": "MIT",
-      "pushedAt": "11/16/2026 07:53:28",
+      "pushedAt": "11/16/2026 12:36:26",
       "tags": [
         "agent"
       ],
@@ -50,8 +50,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 6077,
-      "totalStars": 195540,
-      "forks": 22979,
+      "totalStars": 195676,
+      "forks": 22990,
       "license": "",
       "pushedAt": "11/14/2026 21:52:49",
       "tags": [
@@ -80,41 +80,29 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "milind-soni",
-      "repo": "OpenMausBot",
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "computer-use",
-        "docker",
-        "electron",
-        "grok",
-        "grok-bot",
-        "grok-bot-alternative",
-        "self-hosted",
-        "typescript"
-      ],
-      "homepage": "https://www.mausbot.com/",
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "topics": [],
+      "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
-      "starsGained": 5463,
-      "totalStars": 23708,
-      "forks": 3303,
+      "starsGained": 5692,
+      "totalStars": 7738,
+      "forks": 682,
       "license": "Apache-2.0",
-      "pushedAt": "11/16/2026 07:53:39",
+      "pushedAt": "11/16/2026 12:23:48",
       "tags": [
         "agent",
-        "llm"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "OpenMausBot",
+        "readmeTitle": "Modern Web Guidance (Source)",
         "category": "agent-skills",
         "zhTitle": "AI 编程 Agent 技能库",
         "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
@@ -125,8 +113,7 @@ window.GITHUB_AI_TRENDS = {
           "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
         ],
         "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
-          "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
         ]
       }
     },
@@ -158,8 +145,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://egm.dev",
       "language": "Python",
       "starsGained": 5060,
-      "totalStars": 19979,
-      "forks": 1483,
+      "totalStars": 20117,
+      "forks": 1490,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 18:47:38",
       "tags": [
@@ -207,8 +194,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 4548,
-      "totalStars": 72623,
-      "forks": 57616,
+      "totalStars": 72693,
+      "forks": 57643,
       "license": "MIT",
       "pushedAt": "11/15/2026 15:47:25",
       "tags": [
@@ -243,8 +230,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 4217,
-      "totalStars": 51769,
-      "forks": 3622,
+      "totalStars": 51842,
+      "forks": 3628,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 12:43:23",
       "tags": [
@@ -288,8 +275,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3889,
-      "totalStars": 118069,
-      "forks": 12349,
+      "totalStars": 118148,
+      "forks": 12355,
       "license": "MIT",
       "pushedAt": "11/14/2026 04:33:56",
       "tags": [
@@ -319,6 +306,109 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "openai",
+      "repo": "codex-security",
+      "fullName": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "topics": [
+        "ai-security",
+        "application-security",
+        "cli",
+        "code-scanning",
+        "codex",
+        "codex-security",
+        "cybersecurity",
+        "devsecops",
+        "nodejs",
+        "npm",
+        "openai",
+        "sdk",
+        "security",
+        "typescript",
+        "vulnerability-scanning"
+      ],
+      "homepage": "https://developers.openai.com/codex/security",
+      "language": "TypeScript",
+      "starsGained": 2294,
+      "totalStars": 13667,
+      "forks": 1068,
+      "license": "Apache-2.0",
+      "pushedAt": "11/16/2026 11:02:06",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Codex Security",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "featurePoints": [
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
+        ],
+        "scenarioPoints": [
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：cs and codex-security run the same CLI. If the short name conflicts with"
+        ]
+      }
+    },
+    {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "homepage": "https://open-codereview.ai",
+      "language": "Go",
+      "starsGained": 2238,
+      "totalStars": 52655,
+      "forks": 4229,
+      "license": "Apache-2.0",
+      "pushedAt": "11/16/2026 12:12:40",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：You must configure an LLM before reviewing code, unless you use Delegation Mode."
+        ]
+      }
+    },
+    {
       "owner": "backnotprop",
       "repo": "plannotator",
       "fullName": "backnotprop/plannotator",
@@ -339,10 +429,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 1719,
-      "totalStars": 12082,
-      "forks": 1135,
+      "totalStars": 12215,
+      "forks": 1147,
       "license": "Apache-2.0",
-      "pushedAt": "11/16/2026 07:42:50",
+      "pushedAt": "11/16/2026 12:38:10",
       "tags": [
         "agent",
         "llm",
@@ -366,6 +456,59 @@ window.GITHUB_AI_TRENDS = {
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
+    },
+    {
+      "owner": "QwenLM",
+      "repo": "qwen-code",
+      "fullName": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
+      "language": "TypeScript",
+      "starsGained": 1469,
+      "totalStars": 30582,
+      "forks": 3543,
+      "license": "Apache-2.0",
+      "pushedAt": "11/16/2026 12:37:20",
+      "tags": [
+        "agent",
+        "llm",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "适用线索：Open a terminal in your project and start Qwen Code:"
+        ]
+      }
     }
   ],
   "monthly": [
@@ -380,8 +523,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 43540,
-      "totalStars": 73407,
-      "forks": 4915,
+      "totalStars": 73544,
+      "forks": 4927,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -427,10 +570,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 33583,
-      "totalStars": 61915,
-      "forks": 11069,
+      "totalStars": 62220,
+      "forks": 11099,
       "license": "MIT",
-      "pushedAt": "11/16/2026 07:55:36",
+      "pushedAt": "11/16/2026 12:13:21",
       "tags": [
         "agent",
         "llm"
@@ -471,8 +614,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 29631,
-      "totalStars": 110944,
-      "forks": 6635,
+      "totalStars": 111105,
+      "forks": 6640,
       "license": "Apache-2.0",
       "pushedAt": "11/16/2026 07:22:59",
       "tags": [
@@ -510,8 +653,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 25448,
-      "totalStars": 55697,
-      "forks": 2993,
+      "totalStars": 55836,
+      "forks": 3004,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -562,10 +705,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 20878,
-      "totalStars": 84886,
-      "forks": 7861,
+      "totalStars": 84995,
+      "forks": 7873,
       "license": "Apache-2.0",
-      "pushedAt": "11/16/2026 07:55:15",
+      "pushedAt": "11/16/2026 12:37:34",
       "tags": [
         "agent",
         "llm"
@@ -613,8 +756,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 19546,
-      "totalStars": 116421,
-      "forks": 7804,
+      "totalStars": 116563,
+      "forks": 7806,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -663,8 +806,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 18278,
-      "totalStars": 59590,
-      "forks": 7222,
+      "totalStars": 59662,
+      "forks": 7226,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 20:11:05",
       "tags": [
@@ -723,10 +866,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17038,
-      "totalStars": 117466,
-      "forks": 10206,
+      "totalStars": 117533,
+      "forks": 10211,
       "license": "Apache-2.0",
-      "pushedAt": "11/16/2026 02:16:56",
+      "pushedAt": "11/16/2026 11:12:56",
       "tags": [
         "agent",
         "llm",
@@ -767,8 +910,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 14332,
-      "totalStars": 195540,
-      "forks": 22979,
+      "totalStars": 195676,
+      "forks": 22990,
       "license": "",
       "pushedAt": "11/14/2026 21:52:49",
       "tags": [
@@ -815,8 +958,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 10672,
-      "totalStars": 29817,
-      "forks": 3754,
+      "totalStars": 29885,
+      "forks": 3764,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -869,10 +1012,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
       "language": "TypeScript",
       "starsGained": 7937,
-      "totalStars": 20259,
-      "forks": 1883,
+      "totalStars": 20370,
+      "forks": 1891,
       "license": "Apache-2.0",
-      "pushedAt": "11/15/2026 13:34:28",
+      "pushedAt": "11/16/2026 09:23:36",
       "tags": [
         "agent",
         "llm",
@@ -908,8 +1051,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 7545,
-      "totalStars": 51769,
-      "forks": 3622,
+      "totalStars": 51842,
+      "forks": 3628,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 12:43:23",
       "tags": [
