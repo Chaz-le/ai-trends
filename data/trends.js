@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-17T09:08:43.0853660+00:00",
+  "generatedAt": "2026-11-17T13:15:21.6903189+00:00",
   "weekly": [
     {
       "owner": "meta",
@@ -13,10 +13,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 10939,
-      "totalStars": 29846,
-      "forks": 2325,
+      "totalStars": 29923,
+      "forks": 2332,
       "license": "MIT",
-      "pushedAt": "11/17/2026 09:08:25",
+      "pushedAt": "11/17/2026 13:14:10",
       "tags": [
         "agent"
       ],
@@ -48,10 +48,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
       "starsGained": 6542,
-      "totalStars": 8195,
-      "forks": 710,
+      "totalStars": 8260,
+      "forks": 711,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 08:57:53",
+      "pushedAt": "11/17/2026 13:12:53",
       "tags": [
         "agent",
         "coding"
@@ -88,8 +88,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 5666,
-      "totalStars": 196308,
-      "forks": 23038,
+      "totalStars": 196444,
+      "forks": 23045,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -136,8 +136,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
       "starsGained": 4355,
-      "totalStars": 72948,
-      "forks": 57719,
+      "totalStars": 72996,
+      "forks": 57743,
       "license": "MIT",
       "pushedAt": "11/16/2026 13:20:41",
       "tags": [
@@ -162,64 +162,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "google",
-      "repo": "elephant-goldfish-model",
-      "fullName": "google/elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex",
-        "codex-plugin",
-        "coding-agents",
-        "context-engineering",
-        "developer-tools",
-        "gemini",
-        "llm",
-        "multi-agent",
-        "prompt-engineering",
-        "spec-driven-development"
-      ],
-      "homepage": "https://egm.dev",
-      "language": "Python",
-      "starsGained": 4249,
-      "totalStars": 20544,
-      "forks": 1521,
-      "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 05:18:35",
-      "tags": [
-        "agent",
-        "llm",
-        "ml",
-        "generation",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "addyosmani",
       "repo": "agent-skills",
       "fullName": "addyosmani/agent-skills",
@@ -237,8 +179,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
       "starsGained": 3960,
-      "totalStars": 118470,
-      "forks": 12362,
+      "totalStars": 118526,
+      "forks": 12366,
       "license": "MIT",
       "pushedAt": "11/14/2026 04:33:56",
       "tags": [
@@ -278,8 +220,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 3760,
-      "totalStars": 52191,
-      "forks": 3649,
+      "totalStars": 52237,
+      "forks": 3652,
       "license": "Apache-2.0",
       "pushedAt": "11/17/2026 02:41:48",
       "tags": [
@@ -323,10 +265,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 3056,
-      "totalStars": 53255,
-      "forks": 4362,
+      "totalStars": 53415,
+      "forks": 4388,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 09:08:35",
+      "pushedAt": "11/17/2026 12:46:22",
       "tags": [
         "agent",
         "llm",
@@ -350,6 +292,94 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
           "适用线索：Run in the project you want to review, then select the skills you need and your agent in the installer:"
+        ]
+      }
+    },
+    {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
+      "description": "Chrome DevTools for coding agents",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "homepage": "https://developer.chrome.com/docs/devtools/agents",
+      "language": "TypeScript",
+      "starsGained": 2593,
+      "totalStars": 57936,
+      "forks": 4865,
+      "license": "Apache-2.0",
+      "pushedAt": "11/17/2026 12:39:01",
+      "tags": [
+        "agent",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Chrome DevTools for agents",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
+          "可按 README 示例落地：Google collects usage statistics (such as tool invocation success rates, latency, and environment information) to improve the reliability and performance of Chrome DevTools MCP."
+        ]
+      }
+    },
+    {
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "topics": [],
+      "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+      "language": "Python",
+      "starsGained": 2407,
+      "totalStars": 6741,
+      "forks": 1390,
+      "license": "MIT",
+      "pushedAt": "11/17/2026 07:23:54",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Claude Trading Skills",
+        "category": "pm-skills",
+        "zhTitle": "产品经理 Agent 技能市场",
+        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "featurePoints": [
+          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
+          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
+          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
+        ],
+        "scenarioPoints": [
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
+          "可按 README 示例落地：Choose a workflow: Trading Skills Navigator recommends a starting path from your goal."
         ]
       }
     },
@@ -380,10 +410,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://developers.openai.com/codex/security",
       "language": "TypeScript",
       "starsGained": 2352,
-      "totalStars": 13848,
-      "forks": 1086,
+      "totalStars": 13878,
+      "forks": 1088,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 08:53:36",
+      "pushedAt": "11/17/2026 09:18:39",
       "tags": [
         "agent",
         "llm"
@@ -429,10 +459,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 2325,
-      "totalStars": 12832,
-      "forks": 1273,
+      "totalStars": 12903,
+      "forks": 1294,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 09:03:34",
+      "pushedAt": "11/17/2026 10:48:35",
       "tags": [
         "agent",
         "llm",
@@ -458,55 +488,59 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "QwenLM",
-      "repo": "qwen-code",
-      "fullName": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
-      "description": "An open-source AI coding agent that lives in your terminal.",
+      "owner": "elementalsouls",
+      "repo": "Claude-BugHunter",
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "topics": [
-        "agentic",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "coding-agent",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "qwen",
-        "terminal",
-        "typescript"
+        "ai-security",
+        "anthropic",
+        "application-security",
+        "bug-bounty",
+        "bugbounty",
+        "bugcrowd",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "ethical-hacking",
+        "hackerone",
+        "offensive-security",
+        "pentesting",
+        "red-team",
+        "security-tools",
+        "web-security"
       ],
-      "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
-      "language": "TypeScript",
-      "starsGained": 1497,
-      "totalStars": 30696,
-      "forks": 3554,
-      "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 09:08:52",
+      "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
+      "language": "Python",
+      "starsGained": 1747,
+      "totalStars": 8239,
+      "forks": 1269,
+      "license": "MIT",
+      "pushedAt": "11/16/2026 23:40:07",
       "tags": [
         "agent",
         "llm",
-        "coding"
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "readmeTitle": "claude-bughunter",
+        "category": "security-scanner",
+        "zhTitle": "AI Agent 技能安全扫描器",
+        "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
+        "projectIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
         "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+          "扫描 Git 仓库、URL、压缩包、目录或单文件中的 Agent 技能内容。",
+          "结合静态规则和可选 LLM 语义分析，识别恶意指令、危险权限和供应链风险。",
+          "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "适用线索：Open a terminal in your project and start Qwen Code:"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Option A — install as a Claude Code plugin (recommended). From inside Claude Code:"
         ]
       }
     }
@@ -523,8 +557,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 43924,
-      "totalStars": 74227,
-      "forks": 4974,
+      "totalStars": 74411,
+      "forks": 4982,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -570,10 +604,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 34691,
-      "totalStars": 63296,
-      "forks": 11204,
+      "totalStars": 63585,
+      "forks": 11228,
       "license": "MIT",
-      "pushedAt": "11/17/2026 09:05:41",
+      "pushedAt": "11/17/2026 13:14:57",
       "tags": [
         "agent",
         "llm"
@@ -614,10 +648,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 29881,
-      "totalStars": 111657,
-      "forks": 6669,
+      "totalStars": 111828,
+      "forks": 6676,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 08:57:25",
+      "pushedAt": "11/17/2026 12:24:45",
       "tags": [
         "agent",
         "coding",
@@ -653,8 +687,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 25988,
-      "totalStars": 56413,
-      "forks": 3035,
+      "totalStars": 56566,
+      "forks": 3044,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -705,10 +739,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 20459,
-      "totalStars": 85485,
-      "forks": 7923,
+      "totalStars": 85640,
+      "forks": 7936,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 09:08:29",
+      "pushedAt": "11/17/2026 13:11:24",
       "tags": [
         "agent",
         "llm"
@@ -756,8 +790,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
       "starsGained": 19384,
-      "totalStars": 117200,
-      "forks": 7841,
+      "totalStars": 117386,
+      "forks": 7854,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -806,8 +840,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 18533,
-      "totalStars": 59911,
-      "forks": 7255,
+      "totalStars": 59956,
+      "forks": 7261,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 20:11:05",
       "tags": [
@@ -866,10 +900,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17074,
-      "totalStars": 117810,
-      "forks": 10237,
+      "totalStars": 117850,
+      "forks": 10241,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 08:31:57",
+      "pushedAt": "11/17/2026 12:28:31",
       "tags": [
         "agent",
         "llm",
@@ -910,8 +944,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 14817,
-      "totalStars": 196308,
-      "forks": 23038,
+      "totalStars": 196444,
+      "forks": 23045,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -958,8 +992,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 10989,
-      "totalStars": 30170,
-      "forks": 3790,
+      "totalStars": 30229,
+      "forks": 3791,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -987,60 +1021,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "Vincentwei1021",
-      "repo": "video-shotcraft",
-      "fullName": "Vincentwei1021/video-shotcraft",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills",
-        "claude-skills",
-        "codex",
-        "motion-design",
-        "motion-graphics",
-        "product-video",
-        "promo-video",
-        "remotion",
-        "video-generation",
-        "video-production"
-      ],
-      "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
-      "language": "TypeScript",
-      "starsGained": 8363,
-      "totalStars": 20816,
-      "forks": 1920,
-      "license": "Apache-2.0",
-      "pushedAt": "11/16/2026 09:23:36",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "video-shotcraft",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
-        ]
-      }
-    },
-    {
       "owner": "vercel-labs",
       "repo": "agent-browser",
       "fullName": "vercel-labs/agent-browser",
@@ -1051,8 +1031,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 7943,
-      "totalStars": 52191,
-      "forks": 3649,
+      "totalStars": 52237,
+      "forks": 3652,
       "license": "Apache-2.0",
       "pushedAt": "11/17/2026 02:41:48",
       "tags": [
@@ -1075,6 +1055,41 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
           "可按 README 示例落地：The snapshot for example.com:"
+        ]
+      }
+    },
+    {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "topics": [],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 6537,
+      "totalStars": 36370,
+      "forks": 4017,
+      "license": "Apache-2.0",
+      "pushedAt": "11/17/2026 07:27:02",
+      "tags": [
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Knowledge Work Plugins",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "projectIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "featurePoints": [
+          "核心线索：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
         ]
       }
     }
