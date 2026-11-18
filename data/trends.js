@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-17T13:15:21.6903189+00:00",
+  "generatedAt": "2026-11-18T07:11:28.1083979+00:00",
   "weekly": [
     {
       "owner": "meta",
@@ -12,11 +12,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
-      "starsGained": 10939,
-      "totalStars": 29923,
-      "forks": 2332,
+      "starsGained": 8700,
+      "totalStars": 30299,
+      "forks": 2366,
       "license": "MIT",
-      "pushedAt": "11/17/2026 13:14:10",
+      "pushedAt": "11/18/2026 07:09:42",
       "tags": [
         "agent"
       ],
@@ -47,11 +47,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
-      "starsGained": 6542,
-      "totalStars": 8260,
-      "forks": 711,
+      "starsGained": 7015,
+      "totalStars": 8558,
+      "forks": 731,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 13:12:53",
+      "pushedAt": "11/18/2026 06:21:11",
       "tags": [
         "agent",
         "coding"
@@ -87,9 +87,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5666,
-      "totalStars": 196444,
-      "forks": 23045,
+      "starsGained": 4847,
+      "totalStars": 196890,
+      "forks": 23074,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -118,50 +118,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "ZhuLinsen",
-      "repo": "daily_stock_analysis",
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "topics": [
-        "a-stock",
-        "ai-agent",
-        "aigc",
-        "llm",
-        "quant",
-        "quantitative-finance",
-        "quantitative-trading"
-      ],
-      "homepage": "https://dsa.zhulinsen.tech",
-      "language": "Python",
-      "starsGained": 4355,
-      "totalStars": 72996,
-      "forks": 57743,
-      "license": "MIT",
-      "pushedAt": "11/16/2026 13:20:41",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "📈 股票智能分析系统",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "featurePoints": [
-          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "addyosmani",
       "repo": "agent-skills",
       "fullName": "addyosmani/agent-skills",
@@ -178,9 +134,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://skills.addy.ie",
       "language": "JavaScript",
-      "starsGained": 3960,
-      "totalStars": 118526,
-      "forks": 12366,
+      "starsGained": 3884,
+      "totalStars": 118734,
+      "forks": 12378,
       "license": "MIT",
       "pushedAt": "11/14/2026 04:33:56",
       "tags": [
@@ -210,44 +166,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-      "description": "Browser automation CLI for AI agents",
-      "topics": [],
-      "homepage": "https://agent-browser.dev",
-      "language": "Rust",
-      "starsGained": 3760,
-      "totalStars": 52237,
-      "forks": 3652,
-      "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 02:41:48",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-browser",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
-        ]
-      }
-    },
-    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -264,11 +182,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 3056,
-      "totalStars": 53415,
-      "forks": 4388,
+      "starsGained": 3675,
+      "totalStars": 53950,
+      "forks": 4449,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 12:46:22",
+      "pushedAt": "11/18/2026 06:57:07",
       "tags": [
         "agent",
         "llm",
@@ -296,6 +214,128 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "homepage": "https://dsa.zhulinsen.tech",
+      "language": "Python",
+      "starsGained": 3653,
+      "totalStars": 73175,
+      "forks": 57822,
+      "license": "MIT",
+      "pushedAt": "11/17/2026 14:41:08",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "📈 股票智能分析系统",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "projectIntro": "该项目的 GitHub 简介是：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "featurePoints": [
+          "核心线索：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 3429,
+      "totalStars": 52461,
+      "forks": 3669,
+      "license": "Apache-2.0",
+      "pushedAt": "11/18/2026 05:34:17",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-browser",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
+        ]
+      }
+    },
+    {
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "topics": [],
+      "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+      "language": "Python",
+      "starsGained": 2985,
+      "totalStars": 6936,
+      "forks": 1414,
+      "license": "MIT",
+      "pushedAt": "11/17/2026 16:06:07",
+      "tags": [
+        "agent",
+        "llm",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Claude Trading Skills",
+        "category": "pm-skills",
+        "zhTitle": "产品经理 Agent 技能市场",
+        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "featurePoints": [
+          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
+          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
+          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
+        ],
+        "scenarioPoints": [
+          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
+          "可按 README 示例落地：Choose a workflow: Trading Skills Navigator recommends a starting path from your goal."
+        ]
+      }
+    },
+    {
       "owner": "ChromeDevTools",
       "repo": "chrome-devtools-mcp",
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
@@ -314,11 +354,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
-      "starsGained": 2593,
-      "totalStars": 57936,
-      "forks": 4865,
+      "starsGained": 2948,
+      "totalStars": 58111,
+      "forks": 4874,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 12:39:01",
+      "pushedAt": "11/18/2026 05:14:01",
       "tags": [
         "agent",
         "coding"
@@ -344,20 +384,30 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "tradermonty",
-      "repo": "claude-trading-skills",
-      "fullName": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "topics": [],
-      "homepage": "https://tradermonty.github.io/claude-trading-skills/",
-      "language": "Python",
-      "starsGained": 2407,
-      "totalStars": 6741,
-      "forks": 1390,
-      "license": "MIT",
-      "pushedAt": "11/17/2026 07:23:54",
+      "owner": "backnotprop",
+      "repo": "plannotator",
+      "fullName": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "homepage": "https://plannotator.ai",
+      "language": "TypeScript",
+      "starsGained": 2926,
+      "totalStars": 13180,
+      "forks": 1320,
+      "license": "Apache-2.0",
+      "pushedAt": "11/18/2026 06:59:33",
       "tags": [
         "agent",
         "llm",
@@ -367,19 +417,18 @@ window.GITHUB_AI_TRENDS = {
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Claude Trading Skills",
-        "category": "pm-skills",
-        "zhTitle": "产品经理 Agent 技能市场",
-        "zhIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
-        "projectIntro": "面向产品发现、策略、路线图、执行、发布和增长的 Agent 技能集合，把产品经理工作流拆成可复用命令和插件。",
+        "readmeTitle": "Plannotator",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
         "featurePoints": [
-          "覆盖产品调研、策略制定、路线图、上线和增长等 PM 常见任务。",
-          "用技能、命令和插件组织工作流，让 Agent 按产品阶段连续执行。",
-          "适合把产品决策过程结构化，而不是只让 AI 做零散问答。"
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合产品经理、创业团队或独立开发者用 AI 辅助做需求判断、发布计划和增长分析。",
-          "可按 README 示例落地：Choose a workflow: Trading Skills Navigator recommends a starting path from your goal."
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -409,11 +458,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developers.openai.com/codex/security",
       "language": "TypeScript",
-      "starsGained": 2352,
-      "totalStars": 13878,
-      "forks": 1088,
+      "starsGained": 2531,
+      "totalStars": 14012,
+      "forks": 1095,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 09:18:39",
+      "pushedAt": "11/18/2026 06:53:09",
       "tags": [
         "agent",
         "llm"
@@ -435,55 +484,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
           "适用线索：cs and codex-security run the same CLI. If the short name conflicts with"
-        ]
-      }
-    },
-    {
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
-      "topics": [
-        "agents",
-        "claude-code",
-        "code-review",
-        "codex",
-        "obsidian",
-        "opencode",
-        "pi-mono",
-        "plan-mode",
-        "skills"
-      ],
-      "homepage": "https://plannotator.ai",
-      "language": "TypeScript",
-      "starsGained": 2325,
-      "totalStars": 12903,
-      "forks": 1294,
-      "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 10:48:35",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Plannotator",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -514,11 +514,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
       "language": "Python",
-      "starsGained": 1747,
-      "totalStars": 8239,
-      "forks": 1269,
+      "starsGained": 2508,
+      "totalStars": 9879,
+      "forks": 1398,
       "license": "MIT",
-      "pushedAt": "11/16/2026 23:40:07",
+      "pushedAt": "11/17/2026 13:33:22",
       "tags": [
         "agent",
         "llm",
@@ -556,9 +556,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 43924,
-      "totalStars": 74411,
-      "forks": 4982,
+      "starsGained": 44314,
+      "totalStars": 74979,
+      "forks": 5031,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -603,11 +603,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 34691,
-      "totalStars": 63585,
-      "forks": 11228,
+      "starsGained": 35748,
+      "totalStars": 64469,
+      "forks": 11339,
       "license": "MIT",
-      "pushedAt": "11/17/2026 13:14:57",
+      "pushedAt": "11/18/2026 07:08:42",
       "tags": [
         "agent",
         "llm"
@@ -647,11 +647,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 29881,
-      "totalStars": 111828,
-      "forks": 6676,
+      "starsGained": 30177,
+      "totalStars": 112420,
+      "forks": 6700,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 12:24:45",
+      "pushedAt": "11/18/2026 07:05:20",
       "tags": [
         "agent",
         "coding",
@@ -686,9 +686,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 25988,
-      "totalStars": 56566,
-      "forks": 3044,
+      "starsGained": 26594,
+      "totalStars": 57112,
+      "forks": 3092,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -738,11 +738,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 20459,
-      "totalStars": 85640,
-      "forks": 7936,
+      "starsGained": 20425,
+      "totalStars": 86146,
+      "forks": 7981,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 13:11:24",
+      "pushedAt": "11/18/2026 07:07:45",
       "tags": [
         "agent",
         "llm"
@@ -789,9 +789,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 19384,
-      "totalStars": 117386,
-      "forks": 7854,
+      "starsGained": 19688,
+      "totalStars": 117961,
+      "forks": 7892,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -839,9 +839,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 18533,
-      "totalStars": 59956,
-      "forks": 7261,
+      "starsGained": 18753,
+      "totalStars": 60197,
+      "forks": 7288,
       "license": "Apache-2.0",
       "pushedAt": "11/15/2026 20:11:05",
       "tags": [
@@ -899,11 +899,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17074,
-      "totalStars": 117850,
-      "forks": 10241,
+      "starsGained": 17236,
+      "totalStars": 118070,
+      "forks": 10258,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 12:28:31",
+      "pushedAt": "11/18/2026 05:00:37",
       "tags": [
         "agent",
         "llm",
@@ -943,9 +943,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 14817,
-      "totalStars": 196444,
-      "forks": 23045,
+      "starsGained": 15351,
+      "totalStars": 196890,
+      "forks": 23074,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -991,9 +991,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 10989,
-      "totalStars": 30229,
-      "forks": 3791,
+      "starsGained": 11246,
+      "totalStars": 30473,
+      "forks": 3803,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -1004,8 +1004,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Schema Markup Report: rankenstein.pro/about",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -1030,11 +1030,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
-      "starsGained": 7943,
-      "totalStars": 52237,
-      "forks": 3652,
+      "starsGained": 8282,
+      "totalStars": 52461,
+      "forks": 3669,
       "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 02:41:48",
+      "pushedAt": "11/18/2026 05:34:17",
       "tags": [
         "agent"
       ],
@@ -1068,19 +1068,19 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 6537,
-      "totalStars": 36370,
-      "forks": 4017,
-      "license": "Apache-2.0",
-      "pushedAt": "11/17/2026 07:27:02",
+      "starsGained": 6565,
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "llm"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Knowledge Work Plugins",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "other",
         "zhTitle": "AI 开源工具",
         "zhIntro": "该项目的 GitHub 简介是：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
