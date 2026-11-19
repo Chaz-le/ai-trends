@@ -1,42 +1,7 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-18T12:58:34.3785175+00:00",
+  "generatedAt": "2026-11-19T07:11:54.6872554+00:00",
   "weekly": [
-    {
-      "owner": "meta",
-      "repo": "astryx",
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "topics": [],
-      "homepage": "http://astryx.atmeta.com",
-      "language": "TypeScript",
-      "starsGained": 8700,
-      "totalStars": 30424,
-      "forks": 2375,
-      "license": "MIT",
-      "pushedAt": "11/18/2026 12:57:34",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Astryx",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
-        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
-        "featurePoints": [
-          "核心线索：An open source design system that's fully customizable and agent ready"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
     {
       "owner": "GoogleChrome",
       "repo": "modern-web-guidance-src",
@@ -47,11 +12,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
-      "starsGained": 7015,
-      "totalStars": 8676,
-      "forks": 731,
+      "starsGained": 7257,
+      "totalStars": 8928,
+      "forks": 744,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 11:07:35",
+      "pushedAt": "11/19/2026 05:13:17",
       "tags": [
         "agent",
         "coding"
@@ -106,11 +71,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://univer.ai",
       "language": "TypeScript",
-      "starsGained": 5845,
-      "totalStars": 29789,
-      "forks": 2667,
+      "starsGained": 6840,
+      "totalStars": 30024,
+      "forks": 2713,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:56:04",
+      "pushedAt": "11/19/2026 06:35:39",
       "tags": [
         "agent"
       ],
@@ -135,6 +100,89 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "meta",
+      "repo": "astryx",
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "topics": [],
+      "homepage": "http://astryx.atmeta.com",
+      "language": "TypeScript",
+      "starsGained": 6250,
+      "totalStars": 30688,
+      "forks": 2404,
+      "license": "MIT",
+      "pushedAt": "11/19/2026 07:11:37",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Astryx",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "featurePoints": [
+          "核心线索：An open source design system that's fully customizable and agent ready"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "homepage": "https://open-codereview.ai",
+      "language": "Go",
+      "starsGained": 4383,
+      "totalStars": 54239,
+      "forks": 4487,
+      "license": "Apache-2.0",
+      "pushedAt": "11/19/2026 07:10:10",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "featurePoints": [
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
+        ],
+        "scenarioPoints": [
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
+          "适用线索：Run in the project you want to review, then select the skills you need and your agent in the installer:"
+        ]
+      }
+    },
+    {
       "owner": "anthropics",
       "repo": "skills",
       "fullName": "anthropics/skills",
@@ -146,9 +194,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 4847,
-      "totalStars": 197014,
-      "forks": 23081,
+      "starsGained": 4381,
+      "totalStars": 197355,
+      "forks": 23110,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -177,54 +225,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "homepage": "https://open-codereview.ai",
-      "language": "Go",
-      "starsGained": 3675,
-      "totalStars": 54088,
-      "forks": 4469,
-      "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:48:04",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Workspace mode — review all staged, unstaged, and untracked changes",
-        "category": "academic-research",
-        "zhTitle": "学术研究写作技能集",
-        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
-        "featurePoints": [
-          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
-          "把开放式研究任务拆成可重复执行的技能流程。",
-          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
-        ],
-        "scenarioPoints": [
-          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。",
-          "适用线索：Run in the project you want to review, then select the skills you need and your agent in the installer:"
-        ]
-      }
-    },
-    {
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "fullName": "ZhuLinsen/daily_stock_analysis",
@@ -242,11 +242,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://dsa.zhulinsen.tech",
       "language": "Python",
-      "starsGained": 3653,
-      "totalStars": 73266,
-      "forks": 57863,
+      "starsGained": 3566,
+      "totalStars": 73408,
+      "forks": 57919,
       "license": "MIT",
-      "pushedAt": "11/18/2026 12:54:37",
+      "pushedAt": "11/18/2026 15:38:50",
       "tags": [
         "agent",
         "llm"
@@ -269,28 +269,40 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-      "description": "Browser automation CLI for AI agents",
-      "topics": [],
-      "homepage": "https://agent-browser.dev",
-      "language": "Rust",
-      "starsGained": 3429,
-      "totalStars": 52534,
-      "forks": 3672,
+      "owner": "backnotprop",
+      "repo": "plannotator",
+      "fullName": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "homepage": "https://plannotator.ai",
+      "language": "TypeScript",
+      "starsGained": 3290,
+      "totalStars": 13528,
+      "forks": 1363,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 05:34:17",
+      "pushedAt": "11/19/2026 07:10:05",
       "tags": [
-        "agent"
+        "agent",
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "agent-browser",
+        "readmeTitle": "Plannotator",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -301,8 +313,7 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -316,11 +327,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
-      "starsGained": 2985,
-      "totalStars": 6993,
-      "forks": 1426,
+      "starsGained": 3242,
+      "totalStars": 7113,
+      "forks": 1445,
       "license": "MIT",
-      "pushedAt": "11/18/2026 12:13:21",
+      "pushedAt": "11/19/2026 05:02:51",
       "tags": [
         "agent",
         "llm",
@@ -347,6 +358,48 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "fullName": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "homepage": "https://ag-ui.com",
+      "language": "TypeScript",
+      "starsGained": 3221,
+      "totalStars": 20510,
+      "forks": 2109,
+      "license": "MIT",
+      "pushedAt": "11/19/2026 07:05:09",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "server.py",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "featurePoints": [
+          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
+        ]
+      }
+    },
+    {
       "owner": "ChromeDevTools",
       "repo": "chrome-devtools-mcp",
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
@@ -365,11 +418,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
-      "starsGained": 2948,
-      "totalStars": 58151,
-      "forks": 4874,
+      "starsGained": 3143,
+      "totalStars": 58254,
+      "forks": 4879,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 11:24:58",
+      "pushedAt": "11/19/2026 05:13:36",
       "tags": [
         "agent",
         "coding"
@@ -395,40 +448,28 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
-      "topics": [
-        "agents",
-        "claude-code",
-        "code-review",
-        "codex",
-        "obsidian",
-        "opencode",
-        "pi-mono",
-        "plan-mode",
-        "skills"
-      ],
-      "homepage": "https://plannotator.ai",
-      "language": "TypeScript",
-      "starsGained": 2926,
-      "totalStars": 13274,
-      "forks": 1336,
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 2987,
+      "totalStars": 52715,
+      "forks": 3691,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:44:38",
+      "pushedAt": "11/19/2026 04:58:11",
       "tags": [
-        "agent",
-        "llm",
-        "learning"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "Plannotator",
+        "readmeTitle": "agent-browser",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -439,49 +480,8 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "topics": [
-        "ag-ui-protocol",
-        "agent-frontend",
-        "agent-ui",
-        "agentic-workflow",
-        "ai-agents"
-      ],
-      "homepage": "https://ag-ui.com",
-      "language": "TypeScript",
-      "starsGained": 2773,
-      "totalStars": 20286,
-      "forks": 2086,
-      "license": "MIT",
-      "pushedAt": "11/18/2026 04:02:03",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "server.py",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "featurePoints": [
-          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     },
@@ -511,11 +511,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developers.openai.com/codex/security",
       "language": "TypeScript",
-      "starsGained": 2531,
-      "totalStars": 14044,
-      "forks": 1096,
+      "starsGained": 2630,
+      "totalStars": 14141,
+      "forks": 1104,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 09:18:04",
+      "pushedAt": "11/19/2026 05:28:48",
       "tags": [
         "agent",
         "llm"
@@ -552,9 +552,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 44314,
-      "totalStars": 75115,
-      "forks": 5042,
+      "starsGained": 44600,
+      "totalStars": 75486,
+      "forks": 5070,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -599,11 +599,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 35748,
-      "totalStars": 64770,
-      "forks": 11364,
+      "starsGained": 36872,
+      "totalStars": 65562,
+      "forks": 11478,
       "license": "MIT",
-      "pushedAt": "11/18/2026 12:48:46",
+      "pushedAt": "11/19/2026 07:11:35",
       "tags": [
         "agent",
         "llm"
@@ -643,11 +643,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 30177,
-      "totalStars": 112620,
-      "forks": 6709,
+      "starsGained": 30662,
+      "totalStars": 113048,
+      "forks": 6732,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 11:27:09",
+      "pushedAt": "11/18/2026 23:31:14",
       "tags": [
         "agent",
         "coding",
@@ -682,9 +682,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 26594,
-      "totalStars": 57263,
-      "forks": 3101,
+      "starsGained": 27295,
+      "totalStars": 57683,
+      "forks": 3131,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -734,11 +734,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 20425,
-      "totalStars": 86279,
-      "forks": 7998,
+      "starsGained": 20375,
+      "totalStars": 86674,
+      "forks": 8051,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:56:00",
+      "pushedAt": "11/19/2026 07:06:30",
       "tags": [
         "agent",
         "llm"
@@ -785,11 +785,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 20211,
-      "totalStars": 25161,
-      "forks": 3554,
+      "starsGained": 20270,
+      "totalStars": 25525,
+      "forks": 3614,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 11:12:09",
+      "pushedAt": "11/18/2026 19:55:35",
       "tags": [
         "agent",
         "llm"
@@ -836,9 +836,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://tasteskill.dev",
       "language": "JavaScript",
-      "starsGained": 19688,
-      "totalStars": 118125,
-      "forks": 7906,
+      "starsGained": 20055,
+      "totalStars": 118596,
+      "forks": 7933,
       "license": "MIT",
       "pushedAt": "11/08/2026 21:51:50",
       "tags": [
@@ -886,9 +886,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 18753,
-      "totalStars": 60309,
-      "forks": 7305,
+      "starsGained": 19065,
+      "totalStars": 60616,
+      "forks": 7335,
       "license": "Apache-2.0",
       "pushedAt": "11/18/2026 08:16:21",
       "tags": [
@@ -946,11 +946,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17236,
-      "totalStars": 118136,
-      "forks": 10265,
+      "starsGained": 17311,
+      "totalStars": 118293,
+      "forks": 10285,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:25:13",
+      "pushedAt": "11/19/2026 04:25:28",
       "tags": [
         "agent",
         "llm",
@@ -990,9 +990,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 15351,
-      "totalStars": 197014,
-      "forks": 23081,
+      "starsGained": 15769,
+      "totalStars": 197355,
+      "forks": 23110,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -1038,9 +1038,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 11246,
-      "totalStars": 30550,
-      "forks": 3813,
+      "starsGained": 11532,
+      "totalStars": 30746,
+      "forks": 3829,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -1092,11 +1092,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
       "language": "TypeScript",
-      "starsGained": 8794,
-      "totalStars": 21142,
-      "forks": 1948,
+      "starsGained": 8934,
+      "totalStars": 21460,
+      "forks": 1977,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 12:15:01",
+      "pushedAt": "11/19/2026 03:44:14",
       "tags": [
         "agent",
         "llm",
