@@ -1,6 +1,6 @@
 {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-20T06:59:55.9489351+00:00",
+  "generatedAt": "2026-11-20T08:28:07.9841293+00:00",
   "weekly": [
     {
       "owner": "dream-num",
@@ -34,10 +34,10 @@
       "homepage": "https://univer.ai",
       "language": "TypeScript",
       "starsGained": 7248,
-      "totalStars": 30442,
-      "forks": 2765,
+      "totalStars": 30629,
+      "forks": 2770,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:50:54",
+      "pushedAt": "11/20/2026 08:19:15",
       "tags": [
         "agent"
       ],
@@ -72,10 +72,10 @@
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
       "starsGained": 6858,
-      "totalStars": 9291,
-      "forks": 761,
+      "totalStars": 9315,
+      "forks": 763,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:42:01",
+      "pushedAt": "11/20/2026 08:02:44",
       "tags": [
         "agent",
         "coding"
@@ -110,10 +110,10 @@
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 4977,
-      "totalStars": 31111,
-      "forks": 2441,
+      "totalStars": 31141,
+      "forks": 2443,
       "license": "MIT",
-      "pushedAt": "11/20/2026 06:59:59",
+      "pushedAt": "11/20/2026 08:24:32",
       "tags": [
         "agent"
       ],
@@ -152,10 +152,10 @@
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 4492,
-      "totalStars": 54472,
-      "forks": 4511,
+      "totalStars": 54486,
+      "forks": 4512,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 05:11:18",
+      "pushedAt": "11/20/2026 07:55:56",
       "tags": [
         "agent",
         "llm",
@@ -203,10 +203,10 @@
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 3468,
-      "totalStars": 13733,
-      "forks": 1389,
+      "totalStars": 13746,
+      "forks": 1391,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:56:32",
+      "pushedAt": "11/20/2026 07:33:08",
       "tags": [
         "agent",
         "llm",
@@ -248,7 +248,7 @@
       "homepage": "https://ag-ui.com",
       "language": "TypeScript",
       "starsGained": 3455,
-      "totalStars": 20687,
+      "totalStars": 20701,
       "forks": 2125,
       "license": "MIT",
       "pushedAt": "11/19/2026 22:12:16",
@@ -284,8 +284,8 @@
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
       "starsGained": 3385,
-      "totalStars": 7302,
-      "forks": 1466,
+      "totalStars": 7314,
+      "forks": 1468,
       "license": "MIT",
       "pushedAt": "11/19/2026 16:01:27",
       "tags": [
@@ -333,8 +333,8 @@
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
       "starsGained": 3229,
-      "totalStars": 58414,
-      "forks": 4880,
+      "totalStars": 58434,
+      "forks": 4881,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 05:14:01",
       "tags": [
@@ -393,8 +393,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 3179,
-      "totalStars": 70996,
-      "forks": 6321,
+      "totalStars": 71050,
+      "forks": 6326,
       "license": "MIT",
       "pushedAt": "11/20/2026 05:45:47",
       "tags": [
@@ -453,10 +453,10 @@
       "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
       "language": "Python",
       "starsGained": 2998,
-      "totalStars": 8488,
-      "forks": 787,
+      "totalStars": 8528,
+      "forks": 789,
       "license": "MIT",
-      "pushedAt": "11/20/2026 06:49:11",
+      "pushedAt": "11/20/2026 08:06:50",
       "tags": [
         "agent",
         "llm",
@@ -495,8 +495,8 @@
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
       "starsGained": 1829,
-      "totalStars": 10814,
-      "forks": 1393,
+      "totalStars": 10831,
+      "forks": 1394,
       "license": "Apache-2.0",
       "pushedAt": "11/18/2026 05:00:25",
       "tags": [
@@ -538,8 +538,8 @@
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 44608,
-      "totalStars": 75957,
-      "forks": 5107,
+      "totalStars": 75984,
+      "forks": 5110,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -585,10 +585,10 @@
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 37642,
-      "totalStars": 66756,
-      "forks": 11613,
+      "totalStars": 66851,
+      "forks": 11626,
       "license": "MIT",
-      "pushedAt": "11/20/2026 06:50:33",
+      "pushedAt": "11/20/2026 08:27:33",
       "tags": [
         "agent",
         "llm"
@@ -619,41 +619,34 @@
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "anti-slop",
-        "design",
-        "slop"
-      ],
-      "homepage": "https://impeccable.style",
+      "topics": [],
+      "homepage": "",
       "language": "Rust",
       "starsGained": 30843,
-      "totalStars": 113637,
-      "forks": 6772,
-      "license": "Apache-2.0",
-      "pushedAt": "11/19/2026 17:42:37",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
-        "coding",
-        "learning"
+        "coding"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Impeccable",
-        "category": "taste-skill",
-        "zhTitle": "AI 生成质量约束技能",
-        "zhIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
-        "projectIntro": "给 AI 编程或设计 Agent 增加审美和输出质量约束，重点减少模板化、粗糙、空泛的前端与文案结果。",
+        "source": "metadata",
+        "readmeTitle": "",
+        "category": "academic-research",
+        "zhTitle": "学术研究写作技能集",
+        "zhIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
+        "projectIntro": "把学术研究中的调研、写作、审阅、修改和定稿流程拆成 Claude Code 可调用的技能。",
         "featurePoints": [
-          "通过技能规则约束 AI 的 UI、文案和产品表达，避免生成千篇一律的界面。",
-          "强调前端品味、信息层级和细节打磨，适合作为 AI 生成界面的质量门槛。",
-          "不是通用 Agent 框架，而是专门改善 AI 生成结果质感的提示与规范集合。"
+          "覆盖研究资料整理、论文写作、审稿式检查和修改迭代。",
+          "把开放式研究任务拆成可重复执行的技能流程。",
+          "强调研究输出质量和可审阅流程，而不是通用聊天问答。"
         ],
         "scenarioPoints": [
-          "适合用 AI 快速做页面、组件、产品原型时，提升第一版输出的可用性和观感。"
+          "适合科研写作、文献综述、论文初稿打磨和研究项目管理。"
         ]
       }
     },
@@ -668,8 +661,8 @@
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 27756,
-      "totalStars": 58189,
-      "forks": 3171,
+      "totalStars": 58235,
+      "forks": 3173,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -716,10 +709,10 @@
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 20640,
-      "totalStars": 25930,
-      "forks": 3688,
+      "totalStars": 25971,
+      "forks": 3695,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:54:37",
+      "pushedAt": "11/20/2026 07:54:30",
       "tags": [
         "agent",
         "llm"
@@ -751,39 +744,22 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "animation",
-        "claude-code",
-        "ffmpeg",
-        "framework",
-        "gsap",
-        "html",
-        "html-to-video",
-        "mcp",
-        "motion-graphics",
-        "puppeteer",
-        "rendering",
-        "typescript",
-        "video-editor"
-      ],
-      "homepage": "https://hyperframes.heygen.com",
+      "topics": [],
+      "homepage": "",
       "language": "TypeScript",
       "starsGained": 20032,
-      "totalStars": 87154,
-      "forks": 8107,
-      "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:59:31",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
-        "agent",
-        "llm"
+        "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "macOS",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -794,57 +770,7 @@
           "适合内容生产型 AI 应用原型。"
         ],
         "scenarioPoints": [
-          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "clawbot",
-        "cli-tool",
-        "deepresearch",
-        "interactive-learning",
-        "learning",
-        "multi-agent-systems",
-        "rag"
-      ],
-      "homepage": "http://arxiv.org/abs/2604.26962",
-      "language": "Python",
-      "starsGained": 19312,
-      "totalStars": 60909,
-      "forks": 7366,
-      "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:28:11",
-      "tags": [
-        "agent",
-        "rag",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "One shot, machine-readable",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。"
         ]
       }
     },
@@ -880,8 +806,8 @@
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17313,
-      "totalStars": 118505,
-      "forks": 10311,
+      "totalStars": 118514,
+      "forks": 10312,
       "license": "Apache-2.0",
       "pushedAt": "11/19/2026 18:36:00",
       "tags": [
@@ -924,8 +850,8 @@
       "homepage": "",
       "language": "Python",
       "starsGained": 16003,
-      "totalStars": 197812,
-      "forks": 23171,
+      "totalStars": 197832,
+      "forks": 23173,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -960,22 +886,14 @@
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "topics": [
-        "ai",
-        "ai-seo",
-        "claude-code",
-        "claude-code-skill",
-        "marketing-automation",
-        "open-source",
-        "seo"
-      ],
-      "homepage": "skool.com/ai-marketing-hub-pro",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 11706,
-      "totalStars": 30995,
-      "forks": 3849,
-      "license": "MIT",
-      "pushedAt": "11/16/2026 06:16:01",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -984,8 +902,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "Schema Markup Report: rankenstein.pro/about",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "document-markdown",
         "zhTitle": "文档转 Markdown 工具",
         "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
@@ -1008,21 +926,21 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
       "description": "Browser automation CLI for AI agents",
       "topics": [],
-      "homepage": "https://agent-browser.dev",
+      "homepage": "",
       "language": "Rust",
       "starsGained": 8717,
-      "totalStars": 52935,
-      "forks": 3702,
-      "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 06:34:51",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-browser",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1033,8 +951,7 @@
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -1045,31 +962,14 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "topics": [
-        "ai-security",
-        "anthropic",
-        "application-security",
-        "bug-bounty",
-        "bugbounty",
-        "bugcrowd",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "ethical-hacking",
-        "hackerone",
-        "offensive-security",
-        "pentesting",
-        "red-team",
-        "security-tools",
-        "web-security"
-      ],
-      "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
+      "topics": [],
+      "homepage": "",
       "language": "Python",
       "starsGained": 6708,
-      "totalStars": 12961,
-      "forks": 1619,
-      "license": "MIT",
-      "pushedAt": "11/19/2026 13:21:35",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent",
         "llm",
@@ -1078,8 +978,8 @@
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "claude-bughunter",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -1090,8 +990,70 @@
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
-          "适用线索：Option A — install as a Claude Code plugin (recommended). From inside Claude Code:"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+        ]
+      }
+    },
+    {
+      "owner": "kajisho5",
+      "repo": "ffmpeg-skill",
+      "fullName": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "audio-processing",
+        "captions",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "ffmpeg",
+        "gemini-cli-extension",
+        "loudness-normalization",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "subtitles",
+        "transcoding",
+        "video",
+        "video-editing",
+        "whisper"
+      ],
+      "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
+      "language": "Python",
+      "starsGained": 6206,
+      "totalStars": 8528,
+      "forks": 789,
+      "license": "MIT",
+      "pushedAt": "11/20/2026 08:06:50",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "multimodal",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "FFmpeg itself, once (Ubuntu/Debian shown; macOS and Windows are in the Install table below)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
