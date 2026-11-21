@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-20T12:48:49.0911183+00:00",
+  "generatedAt": "2026-11-21T06:55:17.7818811+00:00",
   "weekly": [
     {
       "owner": "dream-num",
@@ -33,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://univer.ai",
       "language": "TypeScript",
-      "starsGained": 7248,
-      "totalStars": 30839,
-      "forks": 2784,
+      "starsGained": 7539,
+      "totalStars": 30991,
+      "forks": 2827,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 12:48:09",
+      "pushedAt": "11/21/2026 06:34:40",
       "tags": [
         "agent"
       ],
@@ -71,11 +71,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
-      "starsGained": 6858,
-      "totalStars": 9398,
-      "forks": 769,
+      "starsGained": 5224,
+      "totalStars": 9603,
+      "forks": 770,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 08:02:44",
+      "pushedAt": "11/20/2026 22:14:50",
       "tags": [
         "agent",
         "coding"
@@ -100,41 +100,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "meta",
-      "repo": "astryx",
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "topics": [],
-      "homepage": "http://astryx.atmeta.com",
-      "language": "TypeScript",
-      "starsGained": 4977,
-      "totalStars": 31198,
-      "forks": 2451,
-      "license": "MIT",
-      "pushedAt": "11/20/2026 12:47:32",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Astryx",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
-        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
-        "featurePoints": [
-          "核心线索：An open source design system that's fully customizable and agent ready"
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
-        ]
-      }
-    },
-    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -151,11 +116,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 4492,
-      "totalStars": 54529,
-      "forks": 4518,
+      "starsGained": 4457,
+      "totalStars": 54870,
+      "forks": 4531,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 09:58:20",
+      "pushedAt": "11/21/2026 06:45:44",
       "tags": [
         "agent",
         "llm",
@@ -183,6 +148,143 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "meta",
+      "repo": "astryx",
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "topics": [],
+      "homepage": "http://astryx.atmeta.com",
+      "language": "TypeScript",
+      "starsGained": 4131,
+      "totalStars": 31458,
+      "forks": 2470,
+      "license": "MIT",
+      "pushedAt": "11/21/2026 06:54:12",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Astryx",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "projectIntro": "该项目的 GitHub 简介是：An open source design system that's fully customizable and agent ready",
+        "featurePoints": [
+          "核心线索：An open source design system that's fully customizable and agent ready"
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。"
+        ]
+      }
+    },
+    {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 3788,
+      "totalStars": 71580,
+      "forks": 6342,
+      "license": "MIT",
+      "pushedAt": "11/20/2026 05:45:47",
+      "tags": [
+        "agent",
+        "llm",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "/last30days",
+        "category": "trend-research",
+        "zhTitle": "近 30 天热点研究技能",
+        "zhIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
+        "projectIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
+        "featurePoints": [
+          "跨社区和网页搜索近期内容，优先捕捉真实用户讨论、投票、热度和市场信号。",
+          "把过去 30 天的信息汇总成可引用的研究摘要，减少手动翻多个平台的成本。",
+          "以 Agent skill 的形式运行，可接入支持技能机制的 AI 工具。"
+        ],
+        "scenarioPoints": [
+          "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
+        ]
+      }
+    },
+    {
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "fullName": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "homepage": "https://ag-ui.com",
+      "language": "TypeScript",
+      "starsGained": 3621,
+      "totalStars": 20855,
+      "forks": 2128,
+      "license": "MIT",
+      "pushedAt": "11/20/2026 23:29:54",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "server.py",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "featurePoints": [
+          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
+        ]
+      }
+    },
+    {
       "owner": "backnotprop",
       "repo": "plannotator",
       "fullName": "backnotprop/plannotator",
@@ -202,11 +304,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
-      "starsGained": 3468,
-      "totalStars": 13786,
-      "forks": 1394,
+      "starsGained": 3555,
+      "totalStars": 13964,
+      "forks": 1393,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 07:33:08",
+      "pushedAt": "11/21/2026 06:52:50",
       "tags": [
         "agent",
         "llm",
@@ -232,48 +334,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "topics": [
-        "ag-ui-protocol",
-        "agent-frontend",
-        "agent-ui",
-        "agentic-workflow",
-        "ai-agents"
-      ],
-      "homepage": "https://ag-ui.com",
-      "language": "TypeScript",
-      "starsGained": 3455,
-      "totalStars": 20736,
-      "forks": 2129,
-      "license": "MIT",
-      "pushedAt": "11/20/2026 12:46:06",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "server.py",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "featurePoints": [
-          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
-        ]
-      }
-    },
-    {
       "owner": "tradermonty",
       "repo": "claude-trading-skills",
       "fullName": "tradermonty/claude-trading-skills",
@@ -283,11 +343,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
-      "starsGained": 3385,
-      "totalStars": 7353,
-      "forks": 1472,
+      "starsGained": 3471,
+      "totalStars": 7477,
+      "forks": 1471,
       "license": "MIT",
-      "pushedAt": "11/19/2026 16:01:27",
+      "pushedAt": "11/20/2026 17:38:00",
       "tags": [
         "agent",
         "llm",
@@ -332,11 +392,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
-      "starsGained": 3229,
-      "totalStars": 58456,
-      "forks": 4884,
+      "starsGained": 3306,
+      "totalStars": 58581,
+      "forks": 4888,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 11:10:32",
+      "pushedAt": "11/20/2026 22:52:36",
       "tags": [
         "agent",
         "coding"
@@ -358,66 +418,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
           "可按 README 示例落地：Google collects usage statistics (such as tool invocation success rates, latency, and environment information) to improve the reliability and performance of Chrome DevTools MCP."
-        ]
-      }
-    },
-    {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "topics": [
-        "ai-prompts",
-        "ai-skill",
-        "bluesky",
-        "claude",
-        "claude-code",
-        "clawhub",
-        "deep-research",
-        "hackernews",
-        "instagram",
-        "openclaw",
-        "polymarket",
-        "recency",
-        "reddit",
-        "research",
-        "social-media",
-        "tiktok",
-        "trends",
-        "twitter",
-        "web-search",
-        "youtube"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 3179,
-      "totalStars": 71172,
-      "forks": 6336,
-      "license": "MIT",
-      "pushedAt": "11/20/2026 05:45:47",
-      "tags": [
-        "agent",
-        "llm",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "/last30days",
-        "category": "trend-research",
-        "zhTitle": "近 30 天热点研究技能",
-        "zhIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "projectIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "featurePoints": [
-          "跨社区和网页搜索近期内容，优先捕捉真实用户讨论、投票、热度和市场信号。",
-          "把过去 30 天的信息汇总成可引用的研究摘要，减少手动翻多个平台的成本。",
-          "以 Agent skill 的形式运行，可接入支持技能机制的 AI 工具。"
-        ],
-        "scenarioPoints": [
-          "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
         ]
       }
     },
@@ -452,11 +452,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
       "language": "Python",
-      "starsGained": 2998,
-      "totalStars": 8615,
-      "forks": 795,
+      "starsGained": 3268,
+      "totalStars": 8981,
+      "forks": 819,
       "license": "MIT",
-      "pushedAt": "11/20/2026 11:32:40",
+      "pushedAt": "11/21/2026 05:13:12",
       "tags": [
         "agent",
         "llm",
@@ -494,11 +494,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
-      "starsGained": 1829,
-      "totalStars": 10883,
-      "forks": 1397,
+      "starsGained": 2152,
+      "totalStars": 11126,
+      "forks": 1413,
       "license": "Apache-2.0",
-      "pushedAt": "11/18/2026 05:00:25",
+      "pushedAt": "11/20/2026 18:08:01",
       "tags": [
         "agent",
         "llm",
@@ -537,9 +537,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 44608,
-      "totalStars": 76064,
-      "forks": 5116,
+      "starsGained": 43310,
+      "totalStars": 76392,
+      "forks": 5144,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -584,11 +584,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 37642,
-      "totalStars": 67130,
-      "forks": 11654,
+      "starsGained": 38744,
+      "totalStars": 68275,
+      "forks": 11765,
       "license": "MIT",
-      "pushedAt": "11/20/2026 12:47:41",
+      "pushedAt": "11/21/2026 06:54:52",
       "tags": [
         "agent",
         "llm"
@@ -628,11 +628,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 30843,
-      "totalStars": 113778,
-      "forks": 6776,
+      "starsGained": 30831,
+      "totalStars": 114178,
+      "forks": 6788,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 12:48:19",
+      "pushedAt": "11/21/2026 01:57:22",
       "tags": [
         "agent",
         "coding",
@@ -667,9 +667,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 27756,
-      "totalStars": 58333,
-      "forks": 3177,
+      "starsGained": 28266,
+      "totalStars": 58728,
+      "forks": 3198,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -715,11 +715,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 20640,
-      "totalStars": 26045,
-      "forks": 3712,
+      "starsGained": 21024,
+      "totalStars": 26289,
+      "forks": 3747,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 12:18:18",
+      "pushedAt": "11/21/2026 06:54:44",
       "tags": [
         "agent",
         "llm"
@@ -770,11 +770,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 20032,
-      "totalStars": 87265,
-      "forks": 8119,
+      "starsGained": 19612,
+      "totalStars": 87562,
+      "forks": 8134,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 12:38:59",
+      "pushedAt": "11/21/2026 06:55:06",
       "tags": [
         "agent",
         "llm"
@@ -819,9 +819,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 19312,
-      "totalStars": 60982,
-      "forks": 7377,
+      "starsGained": 19469,
+      "totalStars": 61173,
+      "forks": 7388,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 09:35:27",
       "tags": [
@@ -879,11 +879,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17313,
-      "totalStars": 118551,
+      "starsGained": 17381,
+      "totalStars": 118708,
       "forks": 10314,
       "license": "Apache-2.0",
-      "pushedAt": "11/19/2026 18:36:00",
+      "pushedAt": "11/21/2026 03:04:47",
       "tags": [
         "agent",
         "llm",
@@ -923,9 +923,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 16003,
-      "totalStars": 197902,
-      "forks": 23178,
+      "starsGained": 16149,
+      "totalStars": 198156,
+      "forks": 23193,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -971,9 +971,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 11706,
-      "totalStars": 31050,
-      "forks": 3852,
+      "starsGained": 11786,
+      "totalStars": 31228,
+      "forks": 3861,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -1010,11 +1010,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://agent-browser.dev",
       "language": "Rust",
-      "starsGained": 8717,
-      "totalStars": 52990,
-      "forks": 3706,
+      "starsGained": 8855,
+      "totalStars": 53121,
+      "forks": 3715,
       "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 08:47:07",
+      "pushedAt": "11/21/2026 06:11:04",
       "tags": [
         "agent"
       ],
@@ -1065,11 +1065,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
       "language": "Python",
-      "starsGained": 6708,
-      "totalStars": 13405,
-      "forks": 1645,
+      "starsGained": 8329,
+      "totalStars": 14697,
+      "forks": 1726,
       "license": "MIT",
-      "pushedAt": "11/20/2026 07:46:59",
+      "pushedAt": "11/21/2026 04:24:41",
       "tags": [
         "agent",
         "llm",
