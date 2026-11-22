@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-21T12:33:54.0098862+00:00",
+  "generatedAt": "2026-11-22T06:32:19.0885830+00:00",
   "weekly": [
     {
       "owner": "dream-num",
@@ -33,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://univer.ai",
       "language": "TypeScript",
-      "starsGained": 7539,
-      "totalStars": 31017,
-      "forks": 2829,
+      "starsGained": 7240,
+      "totalStars": 31131,
+      "forks": 2838,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 12:02:29",
+      "pushedAt": "11/22/2026 05:45:07",
       "tags": [
         "agent"
       ],
@@ -71,9 +71,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
-      "starsGained": 5224,
-      "totalStars": 9702,
-      "forks": 777,
+      "starsGained": 4400,
+      "totalStars": 9961,
+      "forks": 798,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 22:14:50",
       "tags": [
@@ -100,6 +100,66 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "homepage": "",
+      "language": "Python",
+      "starsGained": 4198,
+      "totalStars": 72163,
+      "forks": 6390,
+      "license": "MIT",
+      "pushedAt": "11/22/2026 04:30:42",
+      "tags": [
+        "agent",
+        "llm",
+        "generation"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "/last30days",
+        "category": "trend-research",
+        "zhTitle": "近 30 天热点研究技能",
+        "zhIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
+        "projectIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
+        "featurePoints": [
+          "跨社区和网页搜索近期内容，优先捕捉真实用户讨论、投票、热度和市场信号。",
+          "把过去 30 天的信息汇总成可引用的研究摘要，减少手动翻多个平台的成本。",
+          "以 Agent skill 的形式运行，可接入支持技能机制的 AI 工具。"
+        ],
+        "scenarioPoints": [
+          "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
+        ]
+      }
+    },
+    {
       "owner": "alibaba",
       "repo": "open-code-review",
       "fullName": "alibaba/open-code-review",
@@ -116,11 +176,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 4457,
-      "totalStars": 54947,
-      "forks": 4540,
+      "starsGained": 4032,
+      "totalStars": 55177,
+      "forks": 4574,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 08:41:09",
+      "pushedAt": "11/22/2026 04:47:12",
       "tags": [
         "agent",
         "llm",
@@ -157,11 +217,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
-      "starsGained": 4131,
-      "totalStars": 31589,
-      "forks": 2483,
+      "starsGained": 3967,
+      "totalStars": 31916,
+      "forks": 2505,
       "license": "MIT",
-      "pushedAt": "11/21/2026 12:30:47",
+      "pushedAt": "11/22/2026 06:28:35",
       "tags": [
         "agent"
       ],
@@ -183,66 +243,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "topics": [
-        "ai-prompts",
-        "ai-skill",
-        "bluesky",
-        "claude",
-        "claude-code",
-        "clawhub",
-        "deep-research",
-        "hackernews",
-        "instagram",
-        "openclaw",
-        "polymarket",
-        "recency",
-        "reddit",
-        "research",
-        "social-media",
-        "tiktok",
-        "trends",
-        "twitter",
-        "web-search",
-        "youtube"
-      ],
-      "homepage": "",
-      "language": "Python",
-      "starsGained": 3788,
-      "totalStars": 71701,
-      "forks": 6352,
-      "license": "MIT",
-      "pushedAt": "11/20/2026 05:45:47",
-      "tags": [
-        "agent",
-        "llm",
-        "generation"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "/last30days",
-        "category": "trend-research",
-        "zhTitle": "近 30 天热点研究技能",
-        "zhIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "projectIntro": "让 AI Agent 围绕一个主题检索 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，并整理近期真实讨论与趋势结论。",
-        "featurePoints": [
-          "跨社区和网页搜索近期内容，优先捕捉真实用户讨论、投票、热度和市场信号。",
-          "把过去 30 天的信息汇总成可引用的研究摘要，减少手动翻多个平台的成本。",
-          "以 Agent skill 的形式运行，可接入支持技能机制的 AI 工具。"
-        ],
-        "scenarioPoints": [
-          "适合做产品调研、竞品观察、热点复盘、市场信号收集和会议前背景梳理。"
-        ]
-      }
-    },
-    {
       "owner": "ag-ui-protocol",
       "repo": "ag-ui",
       "fullName": "ag-ui-protocol/ag-ui",
@@ -258,11 +258,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://ag-ui.com",
       "language": "TypeScript",
-      "starsGained": 3621,
-      "totalStars": 20915,
-      "forks": 2134,
+      "starsGained": 3792,
+      "totalStars": 21060,
+      "forks": 2149,
       "license": "MIT",
-      "pushedAt": "11/20/2026 23:29:54",
+      "pushedAt": "11/21/2026 18:51:48",
       "tags": [
         "agent"
       ],
@@ -281,6 +281,69 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
           "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
+        ]
+      }
+    },
+    {
+      "owner": "kajisho5",
+      "repo": "ffmpeg-skill",
+      "fullName": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "audio-processing",
+        "captions",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "ffmpeg",
+        "gemini-cli-extension",
+        "loudness-normalization",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "subtitles",
+        "transcoding",
+        "video",
+        "video-editing",
+        "whisper"
+      ],
+      "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
+      "language": "Python",
+      "starsGained": 3598,
+      "totalStars": 9376,
+      "forks": 843,
+      "license": "MIT",
+      "pushedAt": "11/22/2026 06:06:00",
+      "tags": [
+        "agent",
+        "llm",
+        "coding",
+        "multimodal",
+        "ml",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "FFmpeg itself, once (Ubuntu/Debian shown; macOS and Windows are in the Install table below)",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -304,11 +367,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
-      "starsGained": 3555,
-      "totalStars": 14031,
-      "forks": 1402,
+      "starsGained": 3396,
+      "totalStars": 14220,
+      "forks": 1414,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 07:54:03",
+      "pushedAt": "11/22/2026 06:24:23",
       "tags": [
         "agent",
         "llm",
@@ -343,11 +406,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
-      "starsGained": 3471,
-      "totalStars": 7525,
-      "forks": 1474,
+      "starsGained": 3113,
+      "totalStars": 7667,
+      "forks": 1485,
       "license": "MIT",
-      "pushedAt": "11/21/2026 07:25:14",
+      "pushedAt": "11/22/2026 06:19:26",
       "tags": [
         "agent",
         "llm",
@@ -392,11 +455,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
-      "starsGained": 3306,
-      "totalStars": 58610,
-      "forks": 4895,
+      "starsGained": 2795,
+      "totalStars": 58724,
+      "forks": 4906,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 11:30:19",
+      "pushedAt": "11/22/2026 01:06:14",
       "tags": [
         "agent",
         "coding"
@@ -422,69 +485,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "kajisho5",
-      "repo": "ffmpeg-skill",
-      "fullName": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "audio-processing",
-        "captions",
-        "claude-code",
-        "codex",
-        "coding-agent",
-        "cursor",
-        "ffmpeg",
-        "gemini-cli-extension",
-        "loudness-normalization",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "python",
-        "subtitles",
-        "transcoding",
-        "video",
-        "video-editing",
-        "whisper"
-      ],
-      "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
-      "language": "Python",
-      "starsGained": 3268,
-      "totalStars": 9088,
-      "forks": 827,
-      "license": "MIT",
-      "pushedAt": "11/21/2026 12:29:16",
-      "tags": [
-        "agent",
-        "llm",
-        "coding",
-        "multimodal",
-        "ml",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "FFmpeg itself, once (Ubuntu/Debian shown; macOS and Windows are in the Install table below)",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
-        ]
-      }
-    },
-    {
       "owner": "google-labs-code",
       "repo": "stitch-skills",
       "fullName": "google-labs-code/stitch-skills",
@@ -494,9 +494,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
-      "starsGained": 2152,
-      "totalStars": 11202,
-      "forks": 1421,
+      "starsGained": 2431,
+      "totalStars": 11570,
+      "forks": 1449,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 18:08:01",
       "tags": [
@@ -537,9 +537,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 43310,
-      "totalStars": 76479,
-      "forks": 5152,
+      "starsGained": 41810,
+      "totalStars": 76780,
+      "forks": 5176,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -584,11 +584,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 38744,
-      "totalStars": 68718,
-      "forks": 11801,
+      "starsGained": 40025,
+      "totalStars": 69977,
+      "forks": 11939,
       "license": "MIT",
-      "pushedAt": "11/21/2026 12:33:52",
+      "pushedAt": "11/22/2026 06:27:02",
       "tags": [
         "agent",
         "llm"
@@ -628,11 +628,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 30831,
-      "totalStars": 114279,
-      "forks": 6796,
+      "starsGained": 30698,
+      "totalStars": 114633,
+      "forks": 6825,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 07:54:59",
+      "pushedAt": "11/22/2026 05:25:26",
       "tags": [
         "agent",
         "coding",
@@ -667,9 +667,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 28266,
-      "totalStars": 58843,
-      "forks": 3208,
+      "starsGained": 28684,
+      "totalStars": 59166,
+      "forks": 3234,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -715,11 +715,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 21024,
-      "totalStars": 26364,
-      "forks": 3759,
+      "starsGained": 21249,
+      "totalStars": 26597,
+      "forks": 3791,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 12:25:09",
+      "pushedAt": "11/22/2026 06:28:11",
       "tags": [
         "agent",
         "llm"
@@ -741,6 +741,55 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。",
           "适用线索：Requirements: macOS, Windows, or Ubuntu 24.04 x64, Node 24+, pnpm, and at least one agent CLI — claude,"
+        ]
+      }
+    },
+    {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "homepage": "http://arxiv.org/abs/2604.26962",
+      "language": "Python",
+      "starsGained": 19602,
+      "totalStars": 61407,
+      "forks": 7416,
+      "license": "Apache-2.0",
+      "pushedAt": "11/20/2026 09:35:27",
+      "tags": [
+        "agent",
+        "rag",
+        "learning"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "One shot, machine-readable",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -770,11 +819,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 19612,
-      "totalStars": 87658,
-      "forks": 8151,
+      "starsGained": 19243,
+      "totalStars": 87927,
+      "forks": 8183,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 12:32:57",
+      "pushedAt": "11/22/2026 06:31:46",
       "tags": [
         "agent",
         "llm"
@@ -796,55 +845,6 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
           "适用线索：For Claude Code, install the versioned plugin:"
-        ]
-      }
-    },
-    {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "topics": [
-        "ai-agents",
-        "ai-tutor",
-        "clawbot",
-        "cli-tool",
-        "deepresearch",
-        "interactive-learning",
-        "learning",
-        "multi-agent-systems",
-        "rag"
-      ],
-      "homepage": "http://arxiv.org/abs/2604.26962",
-      "language": "Python",
-      "starsGained": 19469,
-      "totalStars": 61231,
-      "forks": 7399,
-      "license": "Apache-2.0",
-      "pushedAt": "11/20/2026 09:35:27",
-      "tags": [
-        "agent",
-        "rag",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "One shot, machine-readable",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     },
@@ -879,11 +879,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17381,
-      "totalStars": 118753,
-      "forks": 10320,
+      "starsGained": 17400,
+      "totalStars": 118886,
+      "forks": 10336,
       "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 03:04:47",
+      "pushedAt": "11/21/2026 20:56:19",
       "tags": [
         "agent",
         "llm",
@@ -923,9 +923,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 16149,
-      "totalStars": 198257,
-      "forks": 23207,
+      "starsGained": 16259,
+      "totalStars": 198611,
+      "forks": 23244,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -971,9 +971,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
-      "starsGained": 11786,
-      "totalStars": 31287,
-      "forks": 3869,
+      "starsGained": 11925,
+      "totalStars": 31445,
+      "forks": 3882,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -997,44 +997,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
-        ]
-      }
-    },
-    {
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-      "description": "Browser automation CLI for AI agents",
-      "topics": [],
-      "homepage": "https://agent-browser.dev",
-      "language": "Rust",
-      "starsGained": 8855,
-      "totalStars": 53157,
-      "forks": 3719,
-      "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 09:14:32",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-browser",
-        "category": "terminal-coding-agent",
-        "zhTitle": "终端 AI 编码 Agent",
-        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
-        "featurePoints": [
-          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
-          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
-          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
-        ],
-        "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     },
@@ -1065,11 +1027,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
       "language": "Python",
-      "starsGained": 8329,
-      "totalStars": 15161,
-      "forks": 1761,
+      "starsGained": 10053,
+      "totalStars": 16405,
+      "forks": 1860,
       "license": "MIT",
-      "pushedAt": "11/21/2026 04:24:41",
+      "pushedAt": "11/22/2026 04:24:52",
       "tags": [
         "agent",
         "llm",
@@ -1092,6 +1054,44 @@ window.GITHUB_AI_TRENDS = {
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
           "适用线索：Option A — install as a Claude Code plugin (recommended). From inside Claude Code:"
+        ]
+      }
+    },
+    {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "description": "Browser automation CLI for AI agents",
+      "topics": [],
+      "homepage": "https://agent-browser.dev",
+      "language": "Rust",
+      "starsGained": 8977,
+      "totalStars": 53269,
+      "forks": 3730,
+      "license": "Apache-2.0",
+      "pushedAt": "11/21/2026 17:51:55",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "agent-browser",
+        "category": "terminal-coding-agent",
+        "zhTitle": "终端 AI 编码 Agent",
+        "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "projectIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
+        "featurePoints": [
+          "在终端中完成代码理解、编辑、运行工具和多 Agent 协作。",
+          "通过 hash 锚定等方式提高代码改动定位和应用的可靠性。",
+          "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
+        ],
+        "scenarioPoints": [
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     }
