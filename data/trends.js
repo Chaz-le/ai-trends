@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-22T06:32:19.0885830+00:00",
+  "generatedAt": "2026-11-22T07:57:10.1415697+00:00",
   "weekly": [
     {
       "owner": "dream-num",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://univer.ai",
       "language": "TypeScript",
       "starsGained": 7240,
-      "totalStars": 31131,
+      "totalStars": 31143,
       "forks": 2838,
       "license": "Apache-2.0",
-      "pushedAt": "11/22/2026 05:45:07",
+      "pushedAt": "11/22/2026 07:32:11",
       "tags": [
         "agent"
       ],
@@ -72,7 +72,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
       "starsGained": 4400,
-      "totalStars": 9961,
+      "totalStars": 9984,
       "forks": 798,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 22:14:50",
@@ -131,8 +131,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4198,
-      "totalStars": 72163,
-      "forks": 6390,
+      "totalStars": 72213,
+      "forks": 6393,
       "license": "MIT",
       "pushedAt": "11/22/2026 04:30:42",
       "tags": [
@@ -177,8 +177,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 4032,
-      "totalStars": 55177,
-      "forks": 4574,
+      "totalStars": 55198,
+      "forks": 4575,
       "license": "Apache-2.0",
       "pushedAt": "11/22/2026 04:47:12",
       "tags": [
@@ -218,10 +218,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 3967,
-      "totalStars": 31916,
-      "forks": 2505,
+      "totalStars": 31943,
+      "forks": 2507,
       "license": "MIT",
-      "pushedAt": "11/22/2026 06:28:35",
+      "pushedAt": "11/22/2026 07:47:46",
       "tags": [
         "agent"
       ],
@@ -259,8 +259,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ag-ui.com",
       "language": "TypeScript",
       "starsGained": 3792,
-      "totalStars": 21060,
-      "forks": 2149,
+      "totalStars": 21069,
+      "forks": 2150,
       "license": "MIT",
       "pushedAt": "11/21/2026 18:51:48",
       "tags": [
@@ -316,10 +316,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
       "language": "Python",
       "starsGained": 3598,
-      "totalStars": 9376,
-      "forks": 843,
+      "totalStars": 9399,
+      "forks": 846,
       "license": "MIT",
-      "pushedAt": "11/22/2026 06:06:00",
+      "pushedAt": "11/22/2026 07:25:37",
       "tags": [
         "agent",
         "llm",
@@ -368,10 +368,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 3396,
-      "totalStars": 14220,
-      "forks": 1414,
+      "totalStars": 14236,
+      "forks": 1417,
       "license": "Apache-2.0",
-      "pushedAt": "11/22/2026 06:24:23",
+      "pushedAt": "11/22/2026 06:55:39",
       "tags": [
         "agent",
         "llm",
@@ -407,10 +407,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
       "starsGained": 3113,
-      "totalStars": 7667,
+      "totalStars": 7676,
       "forks": 1485,
       "license": "MIT",
-      "pushedAt": "11/22/2026 06:19:26",
+      "pushedAt": "11/22/2026 07:48:03",
       "tags": [
         "agent",
         "llm",
@@ -456,8 +456,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
       "starsGained": 2795,
-      "totalStars": 58724,
-      "forks": 4906,
+      "totalStars": 58736,
+      "forks": 4908,
       "license": "Apache-2.0",
       "pushedAt": "11/22/2026 01:06:14",
       "tags": [
@@ -495,8 +495,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
       "starsGained": 2431,
-      "totalStars": 11570,
-      "forks": 1449,
+      "totalStars": 11608,
+      "forks": 1454,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 18:08:01",
       "tags": [
@@ -538,8 +538,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 41810,
-      "totalStars": 76780,
-      "forks": 5176,
+      "totalStars": 76806,
+      "forks": 5178,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -585,10 +585,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 40025,
-      "totalStars": 69977,
-      "forks": 11939,
+      "totalStars": 70129,
+      "forks": 11949,
       "license": "MIT",
-      "pushedAt": "11/22/2026 06:27:02",
+      "pushedAt": "11/22/2026 07:52:24",
       "tags": [
         "agent",
         "llm"
@@ -629,8 +629,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 30698,
-      "totalStars": 114633,
-      "forks": 6825,
+      "totalStars": 114664,
+      "forks": 6830,
       "license": "Apache-2.0",
       "pushedAt": "11/22/2026 05:25:26",
       "tags": [
@@ -668,8 +668,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 28684,
-      "totalStars": 59166,
-      "forks": 3234,
+      "totalStars": 59189,
+      "forks": 3235,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -716,10 +716,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 21249,
-      "totalStars": 26597,
-      "forks": 3791,
+      "totalStars": 26613,
+      "forks": 3795,
       "license": "Apache-2.0",
-      "pushedAt": "11/22/2026 06:28:11",
+      "pushedAt": "11/22/2026 07:42:34",
       "tags": [
         "agent",
         "llm"
@@ -765,8 +765,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 19602,
-      "totalStars": 61407,
-      "forks": 7416,
+      "totalStars": 61425,
+      "forks": 7417,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 09:35:27",
       "tags": [
@@ -820,10 +820,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 19243,
-      "totalStars": 87927,
-      "forks": 8183,
+      "totalStars": 87952,
+      "forks": 8186,
       "license": "Apache-2.0",
-      "pushedAt": "11/22/2026 06:31:46",
+      "pushedAt": "11/22/2026 07:55:22",
       "tags": [
         "agent",
         "llm"
@@ -832,7 +832,7 @@ window.GITHUB_AI_TRENDS = {
       "summarySource": "pending",
       "insight": {
         "source": "readme",
-        "readmeTitle": "macOS",
+        "readmeTitle": "or, with no picker (scripts, CI):",
         "category": "multimodal-generation",
         "zhTitle": "AI 多模态内容生成工具",
         "zhIntro": "围绕图像、视频、语音或多模态内容生成提供自动化能力，适合把大模型输出转成可发布素材。",
@@ -844,7 +844,7 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合短视频生成、营销素材自动化、图文转视频和多媒体内容实验。",
-          "适用线索：For Claude Code, install the versioned plugin:"
+          "适用线索：Using Claude Code, Codex, Cursor, or another coding agent? Install the skills once, then ask your agent to make a video."
         ]
       }
     },
@@ -880,8 +880,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17400,
-      "totalStars": 118886,
-      "forks": 10336,
+      "totalStars": 118905,
+      "forks": 10337,
       "license": "Apache-2.0",
       "pushedAt": "11/21/2026 20:56:19",
       "tags": [
@@ -924,8 +924,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 16259,
-      "totalStars": 198611,
-      "forks": 23244,
+      "totalStars": 198648,
+      "forks": 23246,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -972,8 +972,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 11925,
-      "totalStars": 31445,
-      "forks": 3882,
+      "totalStars": 31463,
+      "forks": 3883,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
       "tags": [
@@ -1028,8 +1028,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
       "language": "Python",
       "starsGained": 10053,
-      "totalStars": 16405,
-      "forks": 1860,
+      "totalStars": 16500,
+      "forks": 1872,
       "license": "MIT",
       "pushedAt": "11/22/2026 04:24:52",
       "tags": [
@@ -1065,21 +1065,21 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
       "description": "Browser automation CLI for AI agents",
       "topics": [],
-      "homepage": "https://agent-browser.dev",
+      "homepage": "",
       "language": "Rust",
       "starsGained": 8977,
-      "totalStars": 53269,
-      "forks": 3730,
-      "license": "Apache-2.0",
-      "pushedAt": "11/21/2026 17:51:55",
+      "totalStars": 0,
+      "forks": 0,
+      "license": "",
+      "pushedAt": "",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "readme",
-        "readmeTitle": "agent-browser",
+        "source": "metadata",
+        "readmeTitle": "",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1090,8 +1090,7 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
-          "可按 README 示例落地：The snapshot for example.com:"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
         ]
       }
     }
