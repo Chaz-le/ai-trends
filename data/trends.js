@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-23T07:22:05.9813400+00:00",
+  "generatedAt": "2026-11-23T08:57:23.6358198+00:00",
   "weekly": [
     {
       "owner": "dream-num",
@@ -34,10 +34,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://univer.ai",
       "language": "TypeScript",
       "starsGained": 6436,
-      "totalStars": 31338,
+      "totalStars": 31358,
       "forks": 2845,
       "license": "Apache-2.0",
-      "pushedAt": "11/23/2026 07:08:10",
+      "pushedAt": "11/23/2026 08:49:31",
       "tags": [
         "agent"
       ],
@@ -93,7 +93,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 4731,
-      "totalStars": 72973,
+      "totalStars": 73024,
       "forks": 6453,
       "license": "MIT",
       "pushedAt": "11/23/2026 01:00:01",
@@ -152,8 +152,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
       "language": "Python",
       "starsGained": 3748,
-      "totalStars": 9895,
-      "forks": 874,
+      "totalStars": 9931,
+      "forks": 876,
       "license": "MIT",
       "pushedAt": "11/23/2026 00:22:10",
       "tags": [
@@ -201,8 +201,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://open-codereview.ai",
       "language": "Go",
       "starsGained": 3700,
-      "totalStars": 55505,
-      "forks": 4612,
+      "totalStars": 55527,
+      "forks": 4614,
       "license": "Apache-2.0",
       "pushedAt": "11/23/2026 03:49:55",
       "tags": [
@@ -242,10 +242,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
       "starsGained": 3626,
-      "totalStars": 32330,
-      "forks": 2540,
+      "totalStars": 32356,
+      "forks": 2541,
       "license": "MIT",
-      "pushedAt": "11/23/2026 07:09:24",
+      "pushedAt": "11/23/2026 08:35:58",
       "tags": [
         "agent"
       ],
@@ -283,8 +283,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://ag-ui.com",
       "language": "TypeScript",
       "starsGained": 3620,
-      "totalStars": 21255,
-      "forks": 2160,
+      "totalStars": 21273,
+      "forks": 2164,
       "license": "MIT",
       "pushedAt": "11/22/2026 21:50:14",
       "tags": [
@@ -319,8 +319,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://goo.gle/modern-web-guidance",
       "language": "TypeScript",
       "starsGained": 3575,
-      "totalStars": 10300,
-      "forks": 813,
+      "totalStars": 10323,
+      "forks": 816,
       "license": "Apache-2.0",
       "pushedAt": "11/23/2026 05:15:01",
       "tags": [
@@ -367,10 +367,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
       "starsGained": 2815,
-      "totalStars": 14515,
-      "forks": 1433,
+      "totalStars": 14533,
+      "forks": 1435,
       "license": "Apache-2.0",
-      "pushedAt": "11/23/2026 07:08:23",
+      "pushedAt": "11/23/2026 08:50:07",
       "tags": [
         "agent",
         "llm",
@@ -406,8 +406,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
       "starsGained": 2683,
-      "totalStars": 12040,
-      "forks": 1493,
+      "totalStars": 12065,
+      "forks": 1498,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 18:08:01",
       "tags": [
@@ -447,8 +447,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
       "starsGained": 2616,
-      "totalStars": 7841,
-      "forks": 1502,
+      "totalStars": 7854,
+      "forks": 1505,
       "license": "MIT",
       "pushedAt": "11/23/2026 06:39:33",
       "tags": [
@@ -496,8 +496,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
       "starsGained": 2268,
-      "totalStars": 58905,
-      "forks": 4920,
+      "totalStars": 58922,
+      "forks": 4921,
       "license": "Apache-2.0",
       "pushedAt": "11/23/2026 05:21:32",
       "tags": [
@@ -546,10 +546,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://t3.codes",
       "language": "TypeScript",
       "starsGained": 41514,
-      "totalStars": 72707,
-      "forks": 12206,
+      "totalStars": 73034,
+      "forks": 12231,
       "license": "MIT",
-      "pushedAt": "11/23/2026 07:20:15",
+      "pushedAt": "11/23/2026 08:56:32",
       "tags": [
         "agent",
         "llm"
@@ -584,8 +584,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "JavaScript",
       "starsGained": 39307,
-      "totalStars": 77219,
-      "forks": 5203,
+      "totalStars": 77251,
+      "forks": 5205,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -628,8 +628,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://impeccable.style",
       "language": "Rust",
       "starsGained": 30634,
-      "totalStars": 115208,
-      "forks": 6868,
+      "totalStars": 115250,
+      "forks": 6869,
       "license": "Apache-2.0",
       "pushedAt": "11/23/2026 06:45:54",
       "tags": [
@@ -667,8 +667,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
       "starsGained": 29000,
-      "totalStars": 59687,
-      "forks": 3266,
+      "totalStars": 59740,
+      "forks": 3267,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -715,10 +715,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
       "starsGained": 21485,
-      "totalStars": 26953,
-      "forks": 3846,
+      "totalStars": 26987,
+      "forks": 3849,
       "license": "Apache-2.0",
-      "pushedAt": "11/23/2026 06:51:49",
+      "pushedAt": "11/23/2026 08:13:09",
       "tags": [
         "agent",
         "llm"
@@ -764,8 +764,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
       "starsGained": 19718,
-      "totalStars": 61716,
-      "forks": 7438,
+      "totalStars": 61750,
+      "forks": 7442,
       "license": "Apache-2.0",
       "pushedAt": "11/20/2026 09:35:27",
       "tags": [
@@ -824,10 +824,10 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
       "starsGained": 18847,
-      "totalStars": 88474,
-      "forks": 8236,
+      "totalStars": 88535,
+      "forks": 8240,
       "license": "Apache-2.0",
-      "pushedAt": "11/23/2026 07:22:10",
+      "pushedAt": "11/23/2026 08:54:11",
       "tags": [
         "agent",
         "llm",
@@ -885,7 +885,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
       "starsGained": 17416,
-      "totalStars": 119148,
+      "totalStars": 119160,
       "forks": 10353,
       "license": "Apache-2.0",
       "pushedAt": "11/23/2026 05:09:45",
@@ -929,8 +929,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "",
       "language": "Python",
       "starsGained": 16473,
-      "totalStars": 199148,
-      "forks": 23311,
+      "totalStars": 199174,
+      "forks": 23315,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -977,7 +977,7 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "skool.com/ai-marketing-hub-pro",
       "language": "Python",
       "starsGained": 12006,
-      "totalStars": 31718,
+      "totalStars": 31736,
       "forks": 3904,
       "license": "MIT",
       "pushedAt": "11/16/2026 06:16:01",
@@ -1033,8 +1033,8 @@ window.GITHUB_AI_TRENDS = {
       "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
       "language": "Python",
       "starsGained": 11667,
-      "totalStars": 18402,
-      "forks": 2020,
+      "totalStars": 18560,
+      "forks": 2030,
       "license": "MIT",
       "pushedAt": "11/23/2026 04:27:51",
       "tags": [
@@ -1045,8 +1045,8 @@ window.GITHUB_AI_TRENDS = {
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "claude-bughunter",
         "category": "security-scanner",
         "zhTitle": "AI Agent 技能安全扫描器",
         "zhIntro": "用于扫描 AI Agent 技能中的漏洞、恶意模式和安全风险，帮助判断第三方技能是否值得安装和执行。",
@@ -1057,7 +1057,8 @@ window.GITHUB_AI_TRENDS = {
           "可查询漏洞数据源，帮助发现依赖或代码中的已知安全问题。"
         ],
         "scenarioPoints": [
-          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
+          "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。",
+          "适用线索：Option A — install as a Claude Code plugin (recommended). From inside Claude Code:"
         ]
       }
     },
@@ -1069,21 +1070,21 @@ window.GITHUB_AI_TRENDS = {
       "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
       "description": "Browser automation CLI for AI agents",
       "topics": [],
-      "homepage": "",
+      "homepage": "https://agent-browser.dev",
       "language": "Rust",
       "starsGained": 9083,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "totalStars": 53495,
+      "forks": 3747,
+      "license": "Apache-2.0",
+      "pushedAt": "11/23/2026 01:46:38",
       "tags": [
         "agent"
       ],
       "zhSummary": "",
       "summarySource": "pending",
       "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
+        "source": "readme",
+        "readmeTitle": "agent-browser",
         "category": "terminal-coding-agent",
         "zhTitle": "终端 AI 编码 Agent",
         "zhIntro": "在命令行里运行的 AI 编码 Agent，集成代码编辑、LSP、浏览器、Python、子 Agent 和更可靠的改动定位能力。",
@@ -1094,7 +1095,8 @@ window.GITHUB_AI_TRENDS = {
           "把浏览器、Python、语言服务和子任务代理整合进编码工作台。"
         ],
         "scenarioPoints": [
-          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。"
+          "适合习惯命令行开发、希望用 AI 处理代码修改、调试和多步骤工程任务的开发者。",
+          "可按 README 示例落地：The snapshot for example.com:"
         ]
       }
     }
