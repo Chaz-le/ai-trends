@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:51:56.901Z",
+  "generatedAt": "2026-11-24T14:47:59.219Z",
   "snapshots": [
     {
       "date": "2026-09-26",
@@ -4741,94 +4741,90 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T10:51:42.3473803+00:00",
+      "generatedAt": "2026-11-24T14:47:37.0441664+00:00",
       "repos": {
         "mvanhorn/last30days-skill": {
-          "stars": 73764,
+          "stars": 73887,
           "periodGain": 5448
         },
         "dream-num/univer": {
-          "stars": 31607,
+          "stars": 31638,
           "periodGain": 4324
         },
         "kajisho5/ffmpeg-skill": {
-          "stars": 10452,
+          "stars": 10522,
           "periodGain": 3891
         },
         "meta/astryx": {
-          "stars": 32724,
+          "stars": 32776,
           "periodGain": 3165
         },
         "alibaba/open-code-review": {
-          "stars": 55911,
+          "stars": 55964,
           "periodGain": 3015
         },
         "ag-ui-protocol/ag-ui": {
-          "stars": 21470,
+          "stars": 21509,
           "periodGain": 2966
         },
         "GoogleChrome/modern-web-guidance-src": {
-          "stars": 10673,
+          "stars": 10731,
           "periodGain": 2694
         },
         "google-labs-code/stitch-skills": {
-          "stars": 12477,
+          "stars": 12535,
           "periodGain": 2572
         },
         "backnotprop/plannotator": {
-          "stars": 14788,
+          "stars": 14822,
           "periodGain": 2395
         },
         "tradermonty/claude-trading-skills": {
-          "stars": 8195,
+          "stars": 8233,
           "periodGain": 1903
         },
         "ChromeDevTools/chrome-devtools-mcp": {
-          "stars": 59122,
+          "stars": 59156,
           "periodGain": 1581
         },
         "pingdotgg/t3code": {
-          "stars": 76273,
+          "stars": 76725,
           "periodGain": 44453
         },
         "cloudflare/security-audit-skill": {
-          "stars": 77711,
+          "stars": 77777,
           "periodGain": 36869
         },
         "pbakaus/impeccable": {
-          "stars": 115911,
+          "stars": 116044,
           "periodGain": 30675
         },
         "Nutlope/hallmark": {
-          "stars": 60309,
+          "stars": 60383,
           "periodGain": 29144
         },
         "milind-soni/OpenMausBot": {
-          "stars": 27350,
+          "stars": 27406,
           "periodGain": 21809
         },
         "yetone/magpie": {
-          "stars": 40838,
+          "stars": 40935,
           "periodGain": 20747
         },
         "HKUDS/DeepTutor": {
-          "stars": 62138,
+          "stars": 62209,
           "periodGain": 19919
         },
-        "heygen-com/hyperframes": {
-          "stars": 89230,
-          "periodGain": 18679
-        },
         "thedotmack/claude-mem": {
-          "stars": 119421,
+          "stars": 119461,
           "periodGain": 17492
         },
         "anthropics/skills": {
-          "stars": 199660,
+          "stars": 199746,
           "periodGain": 16727
         },
         "AgriciDaniel/claude-seo": {
-          "stars": 32051,
+          "stars": 32090,
           "periodGain": 12148
         }
       }
