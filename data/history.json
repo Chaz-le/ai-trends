@@ -1,56 +1,6 @@
 {
-  "generatedAt": "2026-11-24T14:47:59.219Z",
+  "generatedAt": "2026-11-25T08:16:45.248Z",
   "snapshots": [
-    {
-      "date": "2026-09-26",
-      "generatedAt": "2026-09-26T09:19:25.0614072+00:00",
-      "repos": {
-        "cloudflare/security-audit-skill": {
-          "stars": 21782,
-          "periodGain": 18769
-        },
-        "stablyai/orca": {
-          "stars": 78562,
-          "periodGain": 6537
-        },
-        "affaan-m/ECC": {
-          "stars": 267670,
-          "periodGain": 6037
-        },
-        "alibaba/open-code-review": {
-          "stars": 41466,
-          "periodGain": 20100
-        },
-        "vectorize-io/hindsight": {
-          "stars": 30392,
-          "periodGain": 4869
-        },
-        "Tencent/WeKnora": {
-          "stars": 30190,
-          "periodGain": 9591
-        },
-        "addyosmani/agent-skills": {
-          "stars": 99163,
-          "periodGain": 2911
-        },
-        "anthropics/financial-services": {
-          "stars": 37603,
-          "periodGain": 2623
-        },
-        "paperclipai/paperclip": {
-          "stars": 85676,
-          "periodGain": 2616
-        },
-        "anthropics/claude-code": {
-          "stars": 148143,
-          "periodGain": 2102
-        },
-        "superdesigndev/treg": {
-          "stars": 3425,
-          "periodGain": 1687
-        }
-      }
-    },
     {
       "date": "2026-09-27",
       "generatedAt": "2026-09-27T09:58:46.8254626+00:00",
@@ -4826,6 +4776,100 @@
         "AgriciDaniel/claude-seo": {
           "stars": 32090,
           "periodGain": 12148
+        }
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T08:16:27.3905879+00:00",
+      "repos": {
+        "mvanhorn/last30days-skill": {
+          "stars": 74566,
+          "periodGain": 5369
+        },
+        "dream-num/univer": {
+          "stars": 31767,
+          "periodGain": 3278
+        },
+        "kajisho5/ffmpeg-skill": {
+          "stars": 10834,
+          "periodGain": 2993
+        },
+        "meta/astryx": {
+          "stars": 32955,
+          "periodGain": 2890
+        },
+        "alibaba/open-code-review": {
+          "stars": 56161,
+          "periodGain": 2638
+        },
+        "google-labs-code/stitch-skills": {
+          "stars": 12779,
+          "periodGain": 2626
+        },
+        "GoogleChrome/modern-web-guidance-src": {
+          "stars": 10905,
+          "periodGain": 2494
+        },
+        "backnotprop/plannotator": {
+          "stars": 14963,
+          "periodGain": 1956
+        },
+        "ag-ui-protocol/ag-ui": {
+          "stars": 21636,
+          "periodGain": 1753
+        },
+        "tradermonty/claude-trading-skills": {
+          "stars": 8362,
+          "periodGain": 1504
+        },
+        "ChromeDevTools/chrome-devtools-mcp": {
+          "stars": 59268,
+          "periodGain": 1258
+        },
+        "Ebony-Vinyl/dsh-our-free-model": {
+          "stars": 86534,
+          "periodGain": 48193
+        },
+        "pingdotgg/t3code": {
+          "stars": 78328,
+          "periodGain": 47147
+        },
+        "cloudflare/security-audit-skill": {
+          "stars": 78096,
+          "periodGain": 35068
+        },
+        "pbakaus/impeccable": {
+          "stars": 116482,
+          "periodGain": 30688
+        },
+        "Nutlope/hallmark": {
+          "stars": 60746,
+          "periodGain": 29170
+        },
+        "milind-soni/OpenMausBot": {
+          "stars": 27653,
+          "periodGain": 22073
+        },
+        "yetone/magpie": {
+          "stars": 41234,
+          "periodGain": 20773
+        },
+        "HKUDS/DeepTutor": {
+          "stars": 62507,
+          "periodGain": 20099
+        },
+        "heygen-com/hyperframes": {
+          "stars": 89765,
+          "periodGain": 18583
+        },
+        "thedotmack/claude-mem": {
+          "stars": 119624,
+          "periodGain": 17462
+        },
+        "anthropics/skills": {
+          "stars": 200148,
+          "periodGain": 16946
         }
       }
     }

@@ -1,6 +1,6 @@
 window.GITHUB_AI_TRENDS = {
   "source": "GitHub Trending + GitHub Repo API",
-  "generatedAt": "2026-11-24T14:47:37.0441664+00:00",
+  "generatedAt": "2026-11-25T08:16:27.3905879+00:00",
   "weekly": [
     {
       "owner": "mvanhorn",
@@ -33,11 +33,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 5448,
-      "totalStars": 73887,
-      "forks": 6520,
+      "starsGained": 5369,
+      "totalStars": 74566,
+      "forks": 6573,
       "license": "MIT",
-      "pushedAt": "11/24/2026 14:16:34",
+      "pushedAt": "11/25/2026 06:31:14",
       "tags": [
         "agent",
         "learning"
@@ -92,11 +92,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://univer.ai",
       "language": "TypeScript",
-      "starsGained": 4324,
-      "totalStars": 31638,
-      "forks": 2854,
+      "starsGained": 3278,
+      "totalStars": 31767,
+      "forks": 2865,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 14:28:43",
+      "pushedAt": "11/25/2026 08:16:02",
       "tags": [
         "agent"
       ],
@@ -125,7 +125,7 @@ window.GITHUB_AI_TRENDS = {
       "repo": "ffmpeg-skill",
       "fullName": "kajisho5/ffmpeg-skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20648875?s=40&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "topics": [
         "agent-skills",
@@ -151,9 +151,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
       "language": "Python",
-      "starsGained": 3891,
-      "totalStars": 10522,
-      "forks": 911,
+      "starsGained": 2993,
+      "totalStars": 10834,
+      "forks": 925,
       "license": "MIT",
       "pushedAt": "11/24/2026 09:13:58",
       "tags": [
@@ -193,11 +193,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "http://astryx.atmeta.com",
       "language": "TypeScript",
-      "starsGained": 3165,
-      "totalStars": 32776,
-      "forks": 2571,
+      "starsGained": 2890,
+      "totalStars": 32955,
+      "forks": 2582,
       "license": "MIT",
-      "pushedAt": "11/24/2026 14:46:46",
+      "pushedAt": "11/25/2026 08:06:57",
       "tags": [
         "agent"
       ],
@@ -235,11 +235,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://open-codereview.ai",
       "language": "Go",
-      "starsGained": 3015,
-      "totalStars": 55964,
-      "forks": 4625,
+      "starsGained": 2638,
+      "totalStars": 56161,
+      "forks": 4633,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 13:42:11",
+      "pushedAt": "11/24/2026 16:19:18",
       "tags": [
         "agent",
         "llm",
@@ -267,86 +267,6 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "topics": [
-        "ag-ui-protocol",
-        "agent-frontend",
-        "agent-ui",
-        "agentic-workflow",
-        "ai-agents"
-      ],
-      "homepage": "https://ag-ui.com",
-      "language": "TypeScript",
-      "starsGained": 2966,
-      "totalStars": 21509,
-      "forks": 2168,
-      "license": "MIT",
-      "pushedAt": "11/24/2026 11:47:05",
-      "tags": [
-        "agent"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "server.py",
-        "category": "other",
-        "zhTitle": "AI 开源工具",
-        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "featurePoints": [
-          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
-        ],
-        "scenarioPoints": [
-          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
-          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
-        ]
-      }
-    },
-    {
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "fullName": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "topics": [],
-      "homepage": "https://goo.gle/modern-web-guidance",
-      "language": "TypeScript",
-      "starsGained": 2694,
-      "totalStars": 10731,
-      "forks": 819,
-      "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 14:12:16",
-      "tags": [
-        "agent",
-        "coding"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "readme",
-        "readmeTitle": "Modern Web Guidance (Source)",
-        "category": "agent-skills",
-        "zhTitle": "AI 编程 Agent 技能库",
-        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
-        "featurePoints": [
-          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
-          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
-          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
-        ],
-        "scenarioPoints": [
-          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
-        ]
-      }
-    },
-    {
       "owner": "google-labs-code",
       "repo": "stitch-skills",
       "fullName": "google-labs-code/stitch-skills",
@@ -356,11 +276,11 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
       "language": "TypeScript",
-      "starsGained": 2572,
-      "totalStars": 12535,
-      "forks": 1522,
+      "starsGained": 2626,
+      "totalStars": 12779,
+      "forks": 1530,
       "license": "Apache-2.0",
-      "pushedAt": "11/23/2026 18:42:27",
+      "pushedAt": "11/24/2026 21:51:04",
       "tags": [
         "agent",
         "llm",
@@ -388,6 +308,44 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "topics": [],
+      "homepage": "https://goo.gle/modern-web-guidance",
+      "language": "TypeScript",
+      "starsGained": 2494,
+      "totalStars": 10905,
+      "forks": 826,
+      "license": "Apache-2.0",
+      "pushedAt": "11/24/2026 21:38:47",
+      "tags": [
+        "agent",
+        "coding"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "Modern Web Guidance (Source)",
+        "category": "agent-skills",
+        "zhTitle": "AI 编程 Agent 技能库",
+        "zhIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "projectIntro": "面向 Claude Code、Codex、Cursor 等 AI 编程 Agent 的工程技能集合，把 API 设计、前端工程、测试、评审等工作沉淀成可复用操作规范。",
+        "featurePoints": [
+          "提供按任务触发的 Agent 技能，让模型在写代码、设计接口、构建 UI 等场景调用对应工程流程。",
+          "把工程经验写成可复用技能文件，减少 Agent 生成泛泛代码或漏掉关键检查。",
+          "适配多种 AI 编程环境，重点提升编码 Agent 的项目执行质量，而不是压缩上下文。"
+        ],
+        "scenarioPoints": [
+          "适合经常用 Claude Code、Codex、Cursor 做真实项目开发的人，把常用工程规范变成 Agent 可执行技能。"
+        ]
+      }
+    },
+    {
       "owner": "backnotprop",
       "repo": "plannotator",
       "fullName": "backnotprop/plannotator",
@@ -407,11 +365,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://plannotator.ai",
       "language": "TypeScript",
-      "starsGained": 2395,
-      "totalStars": 14822,
-      "forks": 1430,
+      "starsGained": 1956,
+      "totalStars": 14963,
+      "forks": 1438,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 14:31:09",
+      "pushedAt": "11/25/2026 08:08:36",
       "tags": [
         "agent",
         "llm",
@@ -437,6 +395,48 @@ window.GITHUB_AI_TRENDS = {
       }
     },
     {
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "fullName": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "homepage": "https://ag-ui.com",
+      "language": "TypeScript",
+      "starsGained": 1753,
+      "totalStars": 21636,
+      "forks": 2177,
+      "license": "MIT",
+      "pushedAt": "11/24/2026 22:29:20",
+      "tags": [
+        "agent"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "server.py",
+        "category": "other",
+        "zhTitle": "AI 开源工具",
+        "zhIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "projectIntro": "该项目的 GitHub 简介是：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "featurePoints": [
+          "核心线索：AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+        ],
+        "scenarioPoints": [
+          "适合先打开仓库 README 和示例快速试用，再判断是否值得接入自己的工作流。",
+          "适用线索：Start a new app. The CLI scaffolds a frontend (CopilotKit on Next.js, or a terminal client) wired to the agent framework you pick:"
+        ]
+      }
+    },
+    {
       "owner": "tradermonty",
       "repo": "claude-trading-skills",
       "fullName": "tradermonty/claude-trading-skills",
@@ -446,9 +446,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://tradermonty.github.io/claude-trading-skills/",
       "language": "Python",
-      "starsGained": 1903,
-      "totalStars": 8233,
-      "forks": 1527,
+      "starsGained": 1504,
+      "totalStars": 8362,
+      "forks": 1540,
       "license": "MIT",
       "pushedAt": "11/23/2026 21:39:16",
       "tags": [
@@ -495,11 +495,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "language": "TypeScript",
-      "starsGained": 1581,
-      "totalStars": 59156,
-      "forks": 4899,
+      "starsGained": 1258,
+      "totalStars": 59268,
+      "forks": 4886,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 14:03:51",
+      "pushedAt": "11/25/2026 05:13:39",
       "tags": [
         "agent",
         "coding"
@@ -527,6 +527,56 @@ window.GITHUB_AI_TRENDS = {
   ],
   "monthly": [
     {
+      "owner": "Ebony-Vinyl",
+      "repo": "dsh-our-free-model",
+      "fullName": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/318131693?s=40&v=4",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "homepage": "",
+      "language": "JavaScript",
+      "starsGained": 48193,
+      "totalStars": 86534,
+      "forks": 2453,
+      "license": "NOASSERTION",
+      "pushedAt": "11/24/2026 11:19:33",
+      "tags": [
+        "agent",
+        "llm",
+        "ml"
+      ],
+      "zhSummary": "",
+      "summarySource": "pending",
+      "insight": {
+        "source": "readme",
+        "readmeTitle": "dsh-our-free-model",
+        "category": "context-compression",
+        "zhTitle": "LLM 上下文压缩工具",
+        "zhIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "projectIntro": "在工具输出、日志、文件和 RAG 分块进入大模型前先做压缩，目标是在保留答案质量的同时减少 60% 到 95% 的 token 消耗。",
+        "featurePoints": [
+          "压缩日志、文件内容、RAG 分块和工具调用结果，降低长上下文成本。",
+          "提供库、代理和 MCP Server 等接入方式，方便放进 Claude Code、Codex、Cursor 等 Agent 工作流。",
+          "强调本地优先和可逆压缩，适合对上下文噪音和 token 成本敏感的场景。"
+        ],
+        "scenarioPoints": [
+          "适合长日志分析、RAG 知识库问答、代码仓库阅读和 Agent 工具输出过长的工作流。"
+        ]
+      }
+    },
+    {
       "owner": "pingdotgg",
       "repo": "t3code",
       "fullName": "pingdotgg/t3code",
@@ -545,11 +595,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://t3.codes",
       "language": "TypeScript",
-      "starsGained": 44453,
-      "totalStars": 76725,
-      "forks": 12647,
+      "starsGained": 47147,
+      "totalStars": 78328,
+      "forks": 13594,
       "license": "MIT",
-      "pushedAt": "11/24/2026 14:44:41",
+      "pushedAt": "11/25/2026 08:16:13",
       "tags": [
         "agent",
         "llm"
@@ -583,9 +633,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "JavaScript",
-      "starsGained": 36869,
-      "totalStars": 77777,
-      "forks": 5251,
+      "starsGained": 35068,
+      "totalStars": 78096,
+      "forks": 5275,
       "license": "MIT",
       "pushedAt": "09/14/2026 19:29:02",
       "tags": [
@@ -627,11 +677,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://impeccable.style",
       "language": "Rust",
-      "starsGained": 30675,
-      "totalStars": 116044,
-      "forks": 6915,
+      "starsGained": 30688,
+      "totalStars": 116482,
+      "forks": 6960,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 09:20:08",
+      "pushedAt": "11/25/2026 07:50:46",
       "tags": [
         "agent",
         "coding",
@@ -666,9 +716,9 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "https://www.usehallmark.com/",
       "language": "CSS",
-      "starsGained": 29144,
-      "totalStars": 60383,
-      "forks": 3302,
+      "starsGained": 29170,
+      "totalStars": 60746,
+      "forks": 3322,
       "license": "MIT",
       "pushedAt": "11/11/2026 11:56:16",
       "tags": [
@@ -714,11 +764,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://www.mausbot.com/",
       "language": "TypeScript",
-      "starsGained": 21809,
-      "totalStars": 27406,
-      "forks": 3913,
+      "starsGained": 22073,
+      "totalStars": 27653,
+      "forks": 3950,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 14:47:13",
+      "pushedAt": "11/25/2026 07:49:00",
       "tags": [
         "agent",
         "llm"
@@ -760,11 +810,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://usemagpie.ai",
       "language": "Go",
-      "starsGained": 20747,
-      "totalStars": 40935,
-      "forks": 3742,
+      "starsGained": 20773,
+      "totalStars": 41234,
+      "forks": 3780,
       "license": "MIT",
-      "pushedAt": "11/24/2026 11:32:48",
+      "pushedAt": "11/25/2026 08:06:07",
       "tags": [
         "agent",
         "llm",
@@ -810,9 +860,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "http://arxiv.org/abs/2604.26962",
       "language": "Python",
-      "starsGained": 19919,
-      "totalStars": 62209,
-      "forks": 7485,
+      "starsGained": 20099,
+      "totalStars": 62507,
+      "forks": 7523,
       "license": "Apache-2.0",
       "pushedAt": "11/24/2026 06:57:44",
       "tags": [
@@ -846,17 +896,39 @@ window.GITHUB_AI_TRENDS = {
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
       "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
-      "topics": [],
-      "homepage": "",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "ai-video-editor",
+        "animation",
+        "claude-code",
+        "ffmpeg",
+        "gsap",
+        "html",
+        "html-to-video",
+        "mcp",
+        "motion-graphics",
+        "puppeteer",
+        "remotion-alternative",
+        "rendering",
+        "typescript",
+        "video-editing",
+        "video-editor",
+        "video-generation"
+      ],
+      "homepage": "https://hyperframes.heygen.com",
       "language": "TypeScript",
-      "starsGained": 18679,
-      "totalStars": 0,
-      "forks": 0,
-      "license": "",
-      "pushedAt": "",
+      "starsGained": 18583,
+      "totalStars": 89765,
+      "forks": 8371,
+      "license": "Apache-2.0",
+      "pushedAt": "11/25/2026 08:12:48",
       "tags": [
         "agent",
-        "llm"
+        "llm",
+        "learning"
       ],
       "zhSummary": "",
       "summarySource": "pending",
@@ -908,11 +980,11 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "https://claude-mem.ai",
       "language": "TypeScript",
-      "starsGained": 17492,
-      "totalStars": 119461,
-      "forks": 10381,
+      "starsGained": 17462,
+      "totalStars": 119624,
+      "forks": 10396,
       "license": "Apache-2.0",
-      "pushedAt": "11/24/2026 07:45:22",
+      "pushedAt": "11/25/2026 06:37:55",
       "tags": [
         "agent",
         "llm",
@@ -952,9 +1024,9 @@ window.GITHUB_AI_TRENDS = {
       ],
       "homepage": "",
       "language": "Python",
-      "starsGained": 16727,
-      "totalStars": 199746,
-      "forks": 23374,
+      "starsGained": 16946,
+      "totalStars": 200148,
+      "forks": 23409,
       "license": "",
       "pushedAt": "11/16/2026 14:22:50",
       "tags": [
@@ -992,7 +1064,7 @@ window.GITHUB_AI_TRENDS = {
       "topics": [],
       "homepage": "",
       "language": "Python",
-      "starsGained": 13817,
+      "starsGained": 15607,
       "totalStars": 0,
       "forks": 0,
       "license": "",
@@ -1018,53 +1090,6 @@ window.GITHUB_AI_TRENDS = {
         ],
         "scenarioPoints": [
           "适合在安装第三方 Claude Code、Codex 或其他 Agent 技能前做安全检查。"
-        ]
-      }
-    },
-    {
-      "owner": "AgriciDaniel",
-      "repo": "claude-seo",
-      "fullName": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "topics": [
-        "ai",
-        "ai-seo",
-        "claude-code",
-        "claude-code-skill",
-        "marketing-automation",
-        "open-source",
-        "seo"
-      ],
-      "homepage": "skool.com/ai-marketing-hub-pro",
-      "language": "Python",
-      "starsGained": 12148,
-      "totalStars": 32090,
-      "forks": 3928,
-      "license": "MIT",
-      "pushedAt": "11/16/2026 06:16:01",
-      "tags": [
-        "agent",
-        "llm",
-        "learning"
-      ],
-      "zhSummary": "",
-      "summarySource": "pending",
-      "insight": {
-        "source": "metadata",
-        "readmeTitle": "",
-        "category": "document-markdown",
-        "zhTitle": "文档转 Markdown 工具",
-        "zhIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "projectIntro": "把 Office 文档、PDF、图片和其他文件转换成 Markdown，方便后续交给 LLM、RAG 或知识库处理。",
-        "featurePoints": [
-          "支持多种文件格式转成结构化 Markdown，保留对大模型有用的文档结构。",
-          "可作为 Python 工具或数据预处理步骤接入 RAG、文档问答和内容分析流程。",
-          "重点解决非结构化文件进入 AI 工作流前的格式清洗问题。"
-        ],
-        "scenarioPoints": [
-          "适合企业资料入库、PDF/Office 文档问答、知识库构建和批量文档预处理。"
         ]
       }
     }
